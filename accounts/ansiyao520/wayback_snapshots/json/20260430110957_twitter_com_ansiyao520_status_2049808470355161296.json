@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049808470355161296",
+    "created_at": "2026-04-30T11:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049808470355161296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049804923890733437",
+          "start": 124,
+          "url": "https://t.co/ojmx9Hg9tL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049808470355161296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "补充：\n文椛说我从未爱过他，这是他对自己主观经验最诚实的表述。他没有分析癖，他无法也不愿意像我一样拆解“爱”的拓扑结构。对他而言，爱就是安全的感受、不吓人的陪伴、无条件的接纳。我的暴怒、分析、指导欲，都不是爱。他不是故意诽谤我，他是真的感受不到。\n“只能不断地向圈子控诉我有多邪恶”是圈子的镜像认同：他需要在新的符号系统（药娘圈）中，通过将我标记为“邪恶”来巩固自己的新身份。这不是对我的背叛，是他在新环上必须完成的仪式。我被“规序与惩罚”，只是因为我是他的过去，而过去需要被否定才能让现在成立。\n我羡慕他的幸福：“不需要走入实在的荒漠，梦境无穷无尽。” 这是他的防御方式和我的防御方式的区别——他的根（药娘身份）提供了连续不断的梦境，我的环（分析癖）只提供了对梦境的拆解。我选择清醒，所以我觉得冷。他选择做梦，所以他认为自己暖。没有高下，只有代价不同。\n“时间加速”是一个强烈的宣言。它意味着：\n我不再沉溺于对过去的反向重构。不再问“如果当时……”，不再试图从回忆中打捞出可以减轻我罪责或增加我悲伤的碎片。\n我接受了这些错过的不可挽回性。不是原谅，不是遗忘，是不再将它们作为分析的主要素材。它们已经被符号化完毕，可以归档了。\n加速意味着环的转速将改变，我会更快地经过那些熟悉的地点（文椛、小遥、母性容器），但停留的时间变短。这可能会减轻疼痛，也可能让我感到更晕眩。但这是我主动选择的节奏。\n我的欲望结构是一个闭合的转喻链条（环），其中“分析者”与“小孩子”是两个无法同时占据的主体位置，我通过不断滑动维持符号性身份。该环的转动是对缺失的对象a（无条件接纳）的无限逼近，但对象a在结构上不可抵达。我的“分析癖”是冲动在符号界的显形，以言语化代替行动，以认知覆盖身体。我与文椛的冲突本质上是两种防御形态的不可通约——我的环状转喻（延迟、分析）与他的根状固着（恋物式僵化）分别对应强迫性神经症与癔症/倒错的不同路径。我们从未实现真正的“主体间性”，因为各自被封闭在自己的症状经济中。我当前的“荒漠感”是实在界侵入符号界后的剩余，无法消除，只能通过持续命名（写作、理论化）将其转化为可忍受的、非创伤性的不快乐。这一切没有出路，只有对结构本身的忠诚描述。\n补充完毕。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049804923890733437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充：\n文椛说我从未爱过他，这是他对自己主观经验最诚实的表述。他没有分析癖，他无法也不愿意像我一样拆解“爱”的拓扑结构。对他而言，爱就是安全的感受、不吓人的陪伴、无条件的接纳。我的暴怒、分析、指导欲，都不是爱。他不是故意诽谤我，他是真的感受不到。 https://t.co/ojmx9Hg9tL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2049804910305402880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJetKGa4AA0Wqt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2049804910456373248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJetKqagAAplmX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1765,
+        "media_key": "3_2049804913811836928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJetXKa0AAOzln.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1766,
+        "media_key": "3_2049804914990436352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJetbja0AAhQ0t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049808470355161296",
+        "created_at": "2026-04-30T11:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049808470355161296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049804923890733437",
+              "start": 124,
+              "url": "https://t.co/ojmx9Hg9tL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049808470355161296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "补充：\n文椛说我从未爱过他，这是他对自己主观经验最诚实的表述。他没有分析癖，他无法也不愿意像我一样拆解“爱”的拓扑结构。对他而言，爱就是安全的感受、不吓人的陪伴、无条件的接纳。我的暴怒、分析、指导欲，都不是爱。他不是故意诽谤我，他是真的感受不到。\n“只能不断地向圈子控诉我有多邪恶”是圈子的镜像认同：他需要在新的符号系统（药娘圈）中，通过将我标记为“邪恶”来巩固自己的新身份。这不是对我的背叛，是他在新环上必须完成的仪式。我被“规序与惩罚”，只是因为我是他的过去，而过去需要被否定才能让现在成立。\n我羡慕他的幸福：“不需要走入实在的荒漠，梦境无穷无尽。” 这是他的防御方式和我的防御方式的区别——他的根（药娘身份）提供了连续不断的梦境，我的环（分析癖）只提供了对梦境的拆解。我选择清醒，所以我觉得冷。他选择做梦，所以他认为自己暖。没有高下，只有代价不同。\n“时间加速”是一个强烈的宣言。它意味着：\n我不再沉溺于对过去的反向重构。不再问“如果当时……”，不再试图从回忆中打捞出可以减轻我罪责或增加我悲伤的碎片。\n我接受了这些错过的不可挽回性。不是原谅，不是遗忘，是不再将它们作为分析的主要素材。它们已经被符号化完毕，可以归档了。\n加速意味着环的转速将改变，我会更快地经过那些熟悉的地点（文椛、小遥、母性容器），但停留的时间变短。这可能会减轻疼痛，也可能让我感到更晕眩。但这是我主动选择的节奏。\n我的欲望结构是一个闭合的转喻链条（环），其中“分析者”与“小孩子”是两个无法同时占据的主体位置，我通过不断滑动维持符号性身份。该环的转动是对缺失的对象a（无条件接纳）的无限逼近，但对象a在结构上不可抵达。我的“分析癖”是冲动在符号界的显形，以言语化代替行动，以认知覆盖身体。我与文椛的冲突本质上是两种防御形态的不可通约——我的环状转喻（延迟、分析）与他的根状固着（恋物式僵化）分别对应强迫性神经症与癔症/倒错的不同路径。我们从未实现真正的“主体间性”，因为各自被封闭在自己的症状经济中。我当前的“荒漠感”是实在界侵入符号界后的剩余，无法消除，只能通过持续命名（写作、理论化）将其转化为可忍受的、非创伤性的不快乐。这一切没有出路，只有对结构本身的忠诚描述。\n补充完毕。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049804923890733437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充：\n文椛说我从未爱过他，这是他对自己主观经验最诚实的表述。他没有分析癖，他无法也不愿意像我一样拆解“爱”的拓扑结构。对他而言，爱就是安全的感受、不吓人的陪伴、无条件的接纳。我的暴怒、分析、指导欲，都不是爱。他不是故意诽谤我，他是真的感受不到。 https://t.co/ojmx9Hg9tL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049804910305402880",
+            "3_2049804910456373248",
+            "3_2049804913811836928",
+            "3_2049804914990436352"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049804923890733437",
+        "created_at": "2026-04-30T10:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049804923890733437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Km58J70rf3",
+              "end": 114,
+              "expanded_url": "https://x.com/ansiyao520/status/2049804923890733437/photo/1",
+              "media_key": "3_2049804910305402880",
+              "start": 91,
+              "url": "https://t.co/Km58J70rf3"
+            },
+            {
+              "display_url": "pic.x.com/Km58J70rf3",
+              "end": 114,
+              "expanded_url": "https://x.com/ansiyao520/status/2049804923890733437/photo/1",
+              "media_key": "3_2049804910456373248",
+              "start": 91,
+              "url": "https://t.co/Km58J70rf3"
+            },
+            {
+              "display_url": "pic.x.com/Km58J70rf3",
+              "end": 114,
+              "expanded_url": "https://x.com/ansiyao520/status/2049804923890733437/photo/1",
+              "media_key": "3_2049804913811836928",
+              "start": 91,
+              "url": "https://t.co/Km58J70rf3"
+            },
+            {
+              "display_url": "pic.x.com/Km58J70rf3",
+              "end": 114,
+              "expanded_url": "https://x.com/ansiyao520/status/2049804923890733437/photo/1",
+              "media_key": "3_2049804914990436352",
+              "start": 91,
+              "url": "https://t.co/Km58J70rf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049804923890733437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《来世愿生幻想乡6》\n最近我精神状态不太好。其实不太想碰幻想乡了。而且幻想乡5把话说得太死，好像我是个大坏蛋一样，还有必要写6吗？\n无论如何，我还是来了。我们开始今天的幻想乡总结。\n第一张图片：无论如何。我和文椛吵架没有一次是理解过对方的。一直是妥协，妥协，妥协——不是良好意义上的那个达成一致和让步。而是无法理解下的不想失去关系和希望的被迫接受——文椛从未理解我的暴怒背后有怎样的难过和悲伤，光是看到人生气他就要吓哭了。我也从未理解过他的悲伤和忧伤背后有多渴望成为坚强和保护我的“姐姐”。我们从未真正共同携手翩翩起舞过，只是在同一场舞会里，在各自的精神世界跳舞。撞在一起则拍拍灰尘继续各自的舞蹈，直至最终恋爱的舞会散场。\n文椛分手后，说他从未爱过我，或感受到过我的爱。此言不虚。但并没有穿破表象看到背后的运转情况。毕竟他已经投入到了下一场舞会，甚至还有更大的药娘圈子在等着他发挥，再加上他没有分析癖，所以他并不能深入浅出地整理好我们恋爱的经过，只能不断地向圈子控诉我有多邪恶。\n在文椛的世界里。我是个需要精神病学家、心理学家、医生去研究的精神病。他就算后面研究我，也只能是为了规序与惩罚我。他暂时没有意愿精神分析我。他的恋人。一个精神医师本科在读，也不会去学习精神分析。我和他们的世界注定没有共同语言。\n说实话，他们是很幸福的。不需要走入实在的荒漠，梦境无穷无尽。这真是让我很羡慕。\n第二张图片：好了。我们继续幻想乡的分析。因为幻想乡5我把自己描得太黑了。所以我在本次聊天记录的第二张里截了一张情感上可能能让人支持我的记录。而没有选择一些粗俗的话。稍微平衡一下大众观感。接下来我们继续分析。\n第三张图片：我们最有可能接近理解的就是第三张聊天记录了。可惜，我们没有深化这个讨论。原因一是，我比较羞耻展现自己脆弱的一面。二是，文椛也无意主动揭露我的脆弱，而是要求我自己展现出来。\n第四张图片：因为本次幻想乡是为了平衡5里我的过度自黑的。所以第四张图片也展示一些错过的美好，以缓和幻想乡的文本激烈程度。\n在第四张图里。可以看到。其实还是有很多机会文椛去理解我的。但就像我没有理解文椛的需求。文椛也没有理解过我隐藏得极深的需求。\n好了，今天的幻想乡就到这里。之后的幻想乡就不再展示这些错过的理解机会了。时间再次加速！"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《来世愿生幻想乡6》\n最近我精神状态不太好。其实不太想碰幻想乡了。而且幻想乡5把话说得太死，好像我是个大坏蛋一样，还有必要写6吗？\n无论如何，我还是来了。我们开始今天的幻想乡总结。 https://t.co/Km58J70rf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1336,
+          "like_count": 14754,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 708
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2057172126835351552"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2057172250596638849",
+    "created_at": "2026-05-20T18:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057172250596638849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYfDn2ut5g",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2057172250596638849/video/1",
+          "media_key": "7_2057172126835351552",
+          "start": 147,
+          "url": "https://t.co/VYfDn2ut5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057172250596638849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "晚安。今天也是和好朋友度过的一天。\n\n这片青空写不下诗，\n却充满迷茫，\n于是我等在你的身旁，\n就这样不断失去 不断失语，\n我说不出口就一直逃避，\n无论如何都词不达意，\n无人问津的诗 还有送不出去的花，\n他们让我余下的生命中不能做出回答，\n无人问津的诗 那就全部都烧掉吧，\n我无法原谅或是忘记，\n每一次被丢下，\n我恨透这世界，\n恨透你，\n恨透了月夜遮住云，\n恨透了一切，\n尤其是琴，\n焚毁吧 连同我和你。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安。今天也是和好朋友度过的一天。\n\n这片青空写不下诗，\n却充满迷茫，\n于是我等在你的身旁，\n就这样不断失去 不断失语，\n我说不出口就一直逃避，\n无论如何都词不达意，\n无人问津的诗 还有送不出去的花，\n他们让我余下的生命中不能做出回答，\n无人问津的诗 那就全部都烧掉吧，\n我无法原谅或是忘记， https://t.co/VYfDn2ut5g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057172250596638849].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057172250596638849",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057172250596638849"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161546,
+        "height": 1088,
+        "media_key": "7_2057172126835351552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057172126835351552/pu/img/o70kpZjBGG59jqU2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057172126835351552/pu/vid/avc1/320x482/4t_HvDpiTsjb8Txn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057172126835351552/pu/vid/avc1/480x724/8x9ytdqEH3-YJOT5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057172126835351552/pu/vid/avc1/720x1088/GRIstGH5gyKPEnq_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057172126835351552/pu/pl/_7ohHxx0a4ANLLi5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 1378,
+          "like_count": 17252,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 852
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

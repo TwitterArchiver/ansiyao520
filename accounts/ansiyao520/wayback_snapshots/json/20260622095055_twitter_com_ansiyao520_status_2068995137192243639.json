@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068995134579208192"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2068995137192243639",
+    "created_at": "2026-06-22T09:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068995137192243639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjM5NIFUZ4",
+          "end": 85,
+          "expanded_url": "https://x.com/ansiyao520/status/2068995137192243639/photo/1",
+          "media_key": "3_2068995134579208192",
+          "start": 62,
+          "url": "https://t.co/zjM5NIFUZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068995137192243639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这韩国的利口酒，味道还不错，但是酒精度数高了，喝起来难免烧嘴烧喉咙烧食道。不吃着饭喝根本喝不下去。不如3%的国产果酒好喝。 https://t.co/zjM5NIFUZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068995134579208192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaMHOaa8AAvNYJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068995134579208192"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2068995137192243639",
+        "created_at": "2026-06-22T09:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068995137192243639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjM5NIFUZ4",
+              "end": 85,
+              "expanded_url": "https://x.com/ansiyao520/status/2068995137192243639/photo/1",
+              "media_key": "3_2068995134579208192",
+              "start": 62,
+              "url": "https://t.co/zjM5NIFUZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068995137192243639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这韩国的利口酒，味道还不错，但是酒精度数高了，喝起来难免烧嘴烧喉咙烧食道。不吃着饭喝根本喝不下去。不如3%的国产果酒好喝。 https://t.co/zjM5NIFUZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1665,
+          "like_count": 25413,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1486
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

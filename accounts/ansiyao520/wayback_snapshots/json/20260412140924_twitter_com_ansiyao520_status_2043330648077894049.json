@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043330648077894049",
+    "created_at": "2026-04-12T14:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043330648077894049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2043327343914344804",
+          "start": 33,
+          "url": "https://t.co/yIFHI6ZVj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043330648077894049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043327343914344804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们把这种因为对同一事业的信念而聚集起来的社会现象叫“共同体”。 https://t.co/yIFHI6ZVj6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043330648077894049",
+        "created_at": "2026-04-12T14:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043330648077894049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2043327343914344804",
+              "start": 33,
+              "url": "https://t.co/yIFHI6ZVj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043330648077894049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043327343914344804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们把这种因为对同一事业的信念而聚集起来的社会现象叫“共同体”。 https://t.co/yIFHI6ZVj6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043327343914344804",
+        "created_at": "2026-04-12T13:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043327343914344804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2043324849180070036",
+              "start": 108,
+              "url": "https://t.co/OTBPv4Gmn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043327343914344804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们这个时代为什么流行贴贴抱抱，就是因为痛苦已经焦灼到需要极致的亲密。极度的团结。\n对普通人来说，建立小组，成为“同志”，每人出一点小小的温暖就能变成一个大篝火，甚至因为人多，物质力量大，可以做到更多事，是奢侈的。\n大多数情况是。“朋友”之间相互贴贴抱抱。但因为不是恋人，又只能维持在语言上的贴贴抱抱，导致贴贴抱抱面临语言上的通货膨胀压力。\n正是因为太过聪明。我又很自私。所以我抓住了这个关键矛盾，在和“朋友”交流时不止于贴贴，而是把关系推进到极度的亲密。而不告诉他其实还可以建立小组。\n这样的好处是我可以在海选中找一个自己喜欢的培养成恋人。\n坏处是，实质性的小组永远也不会形成。一个人能维持的亲密关系数量也是有限的，一个人可以有两三个伴侣不起矛盾，但一个人不可能有一百个伴侣还不起矛盾。只有对同一事业的信念和信心，可以维持超过百人的“亲密”关系再生产。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043324849180070036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这个时代为什么流行贴贴抱抱，就是因为痛苦已经焦灼到需要极致的亲密。极度的团结。\n对普通人来说，建立小组，成为“同志”，每人出一点小小的温暖就能变成一个大篝火，甚至因为人多，物质力量大，可以做到更多事，是奢侈的。 https://t.co/OTBPv4Gmn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 901,
+          "like_count": 4755,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 281
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

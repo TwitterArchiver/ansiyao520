@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065036512480350208"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065036576435159510",
+    "created_at": "2026-06-11T11:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065036576435159510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaToW0pukn",
+          "end": 38,
+          "expanded_url": "https://x.com/ansiyao520/status/2065036576435159510/photo/1",
+          "media_key": "3_2065036512480350208",
+          "start": 15,
+          "url": "https://t.co/TaToW0pukn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065036576435159510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青年大学习啊。药娘们学起来。 https://t.co/TaToW0pukn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065036576435159510].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065036576435159510",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065036576435159510"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2065036512480350208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh7xF6aUAA-ypz.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 1546,
+          "like_count": 22340,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1302
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

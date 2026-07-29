@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049404296027099136"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049404300808585585",
+    "created_at": "2026-04-29T08:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049404300808585585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/afUbScxWgM",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2049404300808585585/photo/1",
+          "media_key": "3_2049404296027099136",
+          "start": 72,
+          "url": "https://t.co/afUbScxWgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049404300808585585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草这小孩好聪明啊，竟然把书丢到地上来叫醒这个新朋友。\n话说这个教授就是男同对象吗。感觉有点老啊，不会搞个什么忘年交吧。和老头恋爱也太那个了吧。 https://t.co/afUbScxWgM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049404300808585585].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049404300808585585",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049404300808585585"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049404296027099136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDyWVna0AABwvF.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1306,
+          "like_count": 13957,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 607
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

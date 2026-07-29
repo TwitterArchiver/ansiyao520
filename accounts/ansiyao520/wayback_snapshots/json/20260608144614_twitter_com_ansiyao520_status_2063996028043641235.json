@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063996028043641235",
+    "created_at": "2026-06-08T14:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063996028043641235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2063990991351374136",
+          "start": 14,
+          "url": "https://t.co/SOxJXyPR4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063996028043641235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《来世愿生幻想乡9的补充》\n在拉康的欲望图表中，理解从来不是直接的我理解你、不是因为我接收了你的信息。而是因为我的欲望与你的欲望在某个能指上偶然重叠。我们没有重叠。我的“挑衅”“刷存在感”是在说“看我，我需要你”；他的沉默或不会处理是在说“我也需要你，但你需要先变成我能处理的样子”。两个空洞对视，谁也没有填满谁。\n“如果有一个人说了对不起……”里的对不起并不是指认错，而是指停止镜像战争的符号性投降。它不需要谁真的对谁真的错，而是一个人站出来说：我不再争了（不是不想争了，而是不再争了），我们不分谁赢，我们明明是一个整体。但我们当时似乎都不愿意投降，因为投降意味着承认自己“更想维持关系”——这在小孩子的自尊逻辑里是丢脸的。于是谁也没有让步。用一些庸俗的话来讲，就是所谓的“谁先认真谁就输了”，这其实是很幼稚的结论。恋爱是需要认真的。\n我提到文椛不是会在吵架时享受拌嘴的那种人。这里隐含着一种错位：我挑衅、刷存在感，有时是带有一点游戏性、试探性的——我想看看他会不会接住我，会不会在拌嘴中给我一个“虽然吵架但我也爱你、在这里”的信号。但他不享受拌嘴。他把每一次挑衅都当作真实的攻击，每一次刷存在感都当作情感负债。我们的吵架不是同一个维度。\n我的吵架是享受在矛盾中摆动，挑衅-回击-和解-再挑衅，像一种动态平衡。他的吵架则是在记录伤害，每一次冲突都是一次伤害的记录，刻在身体上，不可逆，积累到一定程度就断裂。我试图用自己的逻辑去套他的逻辑，他则在自己的忍受极限上等我。结局是必然的。\n我最后哀叹可能我们就是不适合。可能不仅是套话，也是经验被理论化后的平静结论。\n不适合不是因为谁更坏、谁更错，而是因为我们携带的欲望拓扑结构在相遇时产生了不可调和的摩擦。我需要他和我共鸣，但他只需要一个人和他共同成长，但我本质是一个吊儿郎当，玩世不恭的人。\n我们短暂地交错，以为可以共享同一个轨道。但根和环的相交只能是切线。我们相碰。各自飞远。\n分析自己的症状、书写过去的断裂、在理论框架里定位每一次痛。安思瑶补充完毕喵。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063990991351374136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《来世愿生幻想乡9的补充》 https://t.co/SOxJXyPR4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1765,
+        "media_key": "3_2063990942265454592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE05VbMAAovFw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1663,
+        "media_key": "3_2063990942626160640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE06rbIAAjh0j.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1756,
+        "media_key": "3_2063990943087529985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE08ZbEAE3INZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2094,
+        "media_key": "3_2063990943519539200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE0-AbAAA_dbk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063996028043641235",
+        "created_at": "2026-06-08T14:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063996028043641235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2063990991351374136",
+              "start": 14,
+              "url": "https://t.co/SOxJXyPR4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063996028043641235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《来世愿生幻想乡9的补充》\n在拉康的欲望图表中，理解从来不是直接的我理解你、不是因为我接收了你的信息。而是因为我的欲望与你的欲望在某个能指上偶然重叠。我们没有重叠。我的“挑衅”“刷存在感”是在说“看我，我需要你”；他的沉默或不会处理是在说“我也需要你，但你需要先变成我能处理的样子”。两个空洞对视，谁也没有填满谁。\n“如果有一个人说了对不起……”里的对不起并不是指认错，而是指停止镜像战争的符号性投降。它不需要谁真的对谁真的错，而是一个人站出来说：我不再争了（不是不想争了，而是不再争了），我们不分谁赢，我们明明是一个整体。但我们当时似乎都不愿意投降，因为投降意味着承认自己“更想维持关系”——这在小孩子的自尊逻辑里是丢脸的。于是谁也没有让步。用一些庸俗的话来讲，就是所谓的“谁先认真谁就输了”，这其实是很幼稚的结论。恋爱是需要认真的。\n我提到文椛不是会在吵架时享受拌嘴的那种人。这里隐含着一种错位：我挑衅、刷存在感，有时是带有一点游戏性、试探性的——我想看看他会不会接住我，会不会在拌嘴中给我一个“虽然吵架但我也爱你、在这里”的信号。但他不享受拌嘴。他把每一次挑衅都当作真实的攻击，每一次刷存在感都当作情感负债。我们的吵架不是同一个维度。\n我的吵架是享受在矛盾中摆动，挑衅-回击-和解-再挑衅，像一种动态平衡。他的吵架则是在记录伤害，每一次冲突都是一次伤害的记录，刻在身体上，不可逆，积累到一定程度就断裂。我试图用自己的逻辑去套他的逻辑，他则在自己的忍受极限上等我。结局是必然的。\n我最后哀叹可能我们就是不适合。可能不仅是套话，也是经验被理论化后的平静结论。\n不适合不是因为谁更坏、谁更错，而是因为我们携带的欲望拓扑结构在相遇时产生了不可调和的摩擦。我需要他和我共鸣，但他只需要一个人和他共同成长，但我本质是一个吊儿郎当，玩世不恭的人。\n我们短暂地交错，以为可以共享同一个轨道。但根和环的相交只能是切线。我们相碰。各自飞远。\n分析自己的症状、书写过去的断裂、在理论框架里定位每一次痛。安思瑶补充完毕喵。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063990991351374136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《来世愿生幻想乡9的补充》 https://t.co/SOxJXyPR4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063990942265454592",
+            "3_2063990942626160640",
+            "3_2063990943087529985",
+            "3_2063990943519539200"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063990991351374136",
+        "created_at": "2026-06-08T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063990991351374136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceYV7OqmlI",
+              "end": 166,
+              "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+              "media_key": "3_2063990942265454592",
+              "start": 143,
+              "url": "https://t.co/ceYV7OqmlI"
+            },
+            {
+              "display_url": "pic.x.com/ceYV7OqmlI",
+              "end": 166,
+              "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+              "media_key": "3_2063990942626160640",
+              "start": 143,
+              "url": "https://t.co/ceYV7OqmlI"
+            },
+            {
+              "display_url": "pic.x.com/ceYV7OqmlI",
+              "end": 166,
+              "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+              "media_key": "3_2063990943087529985",
+              "start": 143,
+              "url": "https://t.co/ceYV7OqmlI"
+            },
+            {
+              "display_url": "pic.x.com/ceYV7OqmlI",
+              "end": 166,
+              "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+              "media_key": "3_2063990943519539200",
+              "start": 143,
+              "url": "https://t.co/ceYV7OqmlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063990991351374136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《来世愿生幻想乡9》\n好了。我们来继续整理。唉。整理起来好累啊。看书也是。经验包吃起来好费劲，就不能像游戏里一样能一键学习吗。还得我自己一步一个脚印。\nok呀，我们来看第一张图片。\nokok，也是可以看到，我比较不懂事，然后文椛也不会处理。如果从旁观者的角度来说，两个人都让人很着急。\n我也觉得自己以前挺“逆天”的。如果是正常人的话，遇见我这样心智发育不成熟的，肯定会以各种理由保护自己，建议文椛远离我。\n不过。总还是有那么几个大发善心，或者不介意、有自信和我这样小朋友聊天的人愿意和我接触。我们姑且继续看下去。\n也是可以看到。文椛没有处理不懂恋爱却恋爱了的我们之间问题的人生经验。我呢也特别不懂事老爱挑衅他。老爱刷存在感。\n其实这些都是小孩子似的想法，挺幼稚傻逼的。不过我也要强调，我说自己是小孩子，有一个重要因素是希望有人理解我，甚至指导我，etc，并不是只想着逃避。这是要注意的。\n然而悲剧的是。我们当时都在希望对方理解自己、对方向自己让步。可能我们就是不适合，或者说，当时我们都太年轻。总之就是现在只能找各种理由去圆当时的不理解说服自己，因为发生过的事已经无法挽回了。哎～～。\n当时，我们都很委屈，谁也不肯让。但其实只要有一个人说了对不起，事情就会完全不一样～\n最后吵累了也没有人道歉～\n文椛又不是一个会在吵架时享受拌嘴的那种人。\n所以，矛盾越积越多，结果是可想而知的。\n今天就聊到这里。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《来世愿生幻想乡9》\n好了。我们来继续整理。唉。整理起来好累啊。看书也是。经验包吃起来好费劲，就不能像游戏里一样能一键学习吗。还得我自己一步一个脚印。\nok呀，我们来看第一张图片。\nokok，也是可以看到，我比较不懂事，然后文椛也不会处理。如果从旁观者的角度来说，两个人都让人很着急。 https://t.co/ceYV7OqmlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1509,
+          "like_count": 21086,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1224
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

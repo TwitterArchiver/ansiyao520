@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042311966455468384",
+    "created_at": "2026-04-11T02:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042795923659743435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945334723628437504",
+          "start": 0,
+          "username": "10xmx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042795923659743435",
+    "in_reply_to_user_id": "1945334723628437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042793526447214947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10xmx01 你缺乏对活人的尊重。因为活人可以被指责对吗?除了私聊里的傻逼话，其他话你长着眼看不到?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042311966455468384",
+        "created_at": "2026-04-11T02:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042795923659743435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945334723628437504",
+              "start": 0,
+              "username": "10xmx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042795923659743435",
+        "in_reply_to_user_id": "1945334723628437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042793526447214947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10xmx01 你缺乏对活人的尊重。因为活人可以被指责对吗?除了私聊里的傻逼话，其他话你长着眼看不到?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945334723628437504",
+        "conversation_id": "2042311966455468384",
+        "created_at": "2026-04-11T02:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042793526447214947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042793526447214947",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042776003588878822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 。你知道我想要什么截图的，你缺乏对逝者的基本尊重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 847,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 222
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T04:09:04.000Z",
+        "description": "ADHD\n大一 \n泥们补药自杀了瓦😯",
+        "id": "1945334723628437504",
+        "name": "鲨比OUO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041221683441532928/KZZbdHDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 81,
+          "like_count": 9171,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 701
+        },
+        "username": "10xmx01",
+        "verified": false
+      }
+    ]
+  }
+}

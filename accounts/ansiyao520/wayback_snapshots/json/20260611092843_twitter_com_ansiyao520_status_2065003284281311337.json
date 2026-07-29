@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064902746852212736",
+        "3_2064902746843832320"
+      ],
+      "media_source_tweet_id": [
+        "2064902758113906887",
+        "2064902758113906887"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065003284281311337",
+    "created_at": "2026-06-11T09:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065003284281311337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907836113739460610",
+          "start": 3,
+          "username": "gudnyxneu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZKQXfMFCA",
+          "end": 93,
+          "expanded_url": "https://x.com/gudnyxneu/status/2064902758113906887/photo/1",
+          "media_key": "3_2064902746852212736",
+          "start": 70,
+          "url": "https://t.co/XZKQXfMFCA"
+        },
+        {
+          "display_url": "pic.x.com/XZKQXfMFCA",
+          "end": 93,
+          "expanded_url": "https://x.com/gudnyxneu/status/2064902758113906887/photo/1",
+          "media_key": "3_2064902746843832320",
+          "start": 70,
+          "url": "https://t.co/XZKQXfMFCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065003284281311337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064902758113906887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gudnyxneu: 被宿舍小群，女生寝室的拉帮结派吓晕惹\n其实群里真正心碎之人是一个刚刚失去她珍贵耳机的无辜少女（我还没释怀🤡） https://t.co/XZKQXfMFCA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064902746852212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgCG6HawAAjf07.jpg",
+        "width": 963
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2064902746843832320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgCG6Fa4AAlSX9.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064902746852212736",
+            "3_2064902746843832320"
+          ],
+          "media_source_tweet_id": [
+            "2064902758113906887",
+            "2064902758113906887"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065003284281311337",
+        "created_at": "2026-06-11T09:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065003284281311337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907836113739460610",
+              "start": 3,
+              "username": "gudnyxneu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZKQXfMFCA",
+              "end": 93,
+              "expanded_url": "https://x.com/gudnyxneu/status/2064902758113906887/photo/1",
+              "media_key": "3_2064902746852212736",
+              "start": 70,
+              "url": "https://t.co/XZKQXfMFCA"
+            },
+            {
+              "display_url": "pic.x.com/XZKQXfMFCA",
+              "end": 93,
+              "expanded_url": "https://x.com/gudnyxneu/status/2064902758113906887/photo/1",
+              "media_key": "3_2064902746843832320",
+              "start": 70,
+              "url": "https://t.co/XZKQXfMFCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065003284281311337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064902758113906887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gudnyxneu: 被宿舍小群，女生寝室的拉帮结派吓晕惹\n其实群里真正心碎之人是一个刚刚失去她珍贵耳机的无辜少女（我还没释怀🤡） https://t.co/XZKQXfMFCA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064902746852212736",
+            "3_2064902746843832320"
+          ]
+        },
+        "author_id": "1907836113739460610",
+        "conversation_id": "2064902758113906887",
+        "created_at": "2026-06-11T02:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064902758113906887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZKQXfMFCA",
+              "end": 78,
+              "expanded_url": "https://x.com/gudnyxneu/status/2064902758113906887/photo/1",
+              "media_key": "3_2064902746852212736",
+              "start": 55,
+              "url": "https://t.co/XZKQXfMFCA"
+            },
+            {
+              "display_url": "pic.x.com/XZKQXfMFCA",
+              "end": 78,
+              "expanded_url": "https://x.com/gudnyxneu/status/2064902758113906887/photo/1",
+              "media_key": "3_2064902746843832320",
+              "start": 55,
+              "url": "https://t.co/XZKQXfMFCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064902758113906887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 647,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被宿舍小群，女生寝室的拉帮结派吓晕惹\n其实群里真正心碎之人是一个刚刚失去她珍贵耳机的无辜少女（我还没释怀🤡） https://t.co/XZKQXfMFCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1540,
+          "like_count": 22192,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1291
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T16:42:52.000Z",
+        "description": "乱七八糟的发",
+        "id": "1907836113739460610",
+        "name": "flee",
+        "pinned_tweet_id": "1986784637386203191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005315684725895168/I_wxdm4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 212,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 958
+        },
+        "username": "gudnyxneu",
+        "verified": true
+      }
+    ]
+  }
+}

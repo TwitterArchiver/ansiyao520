@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2064986324587905097",
+    "created_at": "2026-06-11T08:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064986324587905097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863024822147809280",
+          "start": 3,
+          "username": "Moli_Lanxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064986324587905097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955677366312988782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moli_Lanxi: 兰汐/术后跨女/14岁未成年初中女生（bushi）\n广东深圳\n167cm/56KG\n已治愈所有精神疾病\n高浓度二次元/创批/暖游糕手/爱出cos，爱穿jk，地雷服和Lolita\n喜欢各地乱跑\n现在不爱吃东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2064986324587905097",
+        "created_at": "2026-06-11T08:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064986324587905097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863024822147809280",
+              "start": 3,
+              "username": "Moli_Lanxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064986324587905097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955677366312988782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moli_Lanxi: 兰汐/术后跨女/14岁未成年初中女生（bushi）\n广东深圳\n167cm/56KG\n已治愈所有精神疾病\n高浓度二次元/创批/暖游糕手/爱出cos，爱穿jk，地雷服和Lolita\n喜欢各地乱跑\n现在不爱吃东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863024822147809280",
+        "conversation_id": "1955677366312988782",
+        "created_at": "2025-08-13T17:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T18:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955677366312988782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955677366312988782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 138367,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "兰汐/术后跨女/14岁未成年初中女生（bushi）\n广东深圳\n167cm/56KG\n已治愈所有精神疾病\n高浓度二次元/创批/暖游糕手/爱出cos，爱穿jk，地雷服和Lolita\n喜欢各地乱跑\n现在不爱吃东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1539,
+          "like_count": 22133,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1287
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T00:58:38.000Z",
+        "description": "trans girl| hrt24.08.09 | srs25.07.23 |高浓度二刺猿 | coser | 哈夫克优秀雇员| 手术日记↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoliLanxi",
+                "end": 23,
+                "expanded_url": "https://t.me/MoliLanxi",
+                "start": 0,
+                "url": "https://t.co/ZhqiuPRjx1"
+              }
+            ]
+          }
+        },
+        "id": "1863024822147809280",
+        "name": "兰汐",
+        "pinned_tweet_id": "1955677366312988782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979838644690030592/zHMrYOdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4482,
+          "following_count": 167,
+          "like_count": 1428,
+          "listed_count": 13,
+          "media_count": 217,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/ZhqiuPRjx1",
+        "username": "Moli_Lanxi",
+        "verified": false
+      }
+    ]
+  }
+}

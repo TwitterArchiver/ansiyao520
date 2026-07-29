@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048678013613842596",
+    "created_at": "2026-04-27T08:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048678013613842596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2048676303197651097",
+          "start": 73,
+          "url": "https://t.co/x5AeJddlm9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048678013613842596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048676303197651097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，咋说呢  \n我想起以前看的一段话：  \n任何困难，都压不倒我们，中国人民是战无不胜的！\n我一定要处理好自己的学业问题，精神问题，和社交问题。 https://t.co/x5AeJddlm9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048678013613842596",
+        "created_at": "2026-04-27T08:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048678013613842596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2048676303197651097",
+              "start": 73,
+              "url": "https://t.co/x5AeJddlm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048678013613842596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048676303197651097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，咋说呢  \n我想起以前看的一段话：  \n任何困难，都压不倒我们，中国人民是战无不胜的！\n我一定要处理好自己的学业问题，精神问题，和社交问题。 https://t.co/x5AeJddlm9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048676303197651097",
+        "created_at": "2026-04-27T08:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048676303197651097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048676303197651097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在面临三个问题。\n1.再有两周我将迎来四门理科的结课考试，而我一门都没有学习，学业压力爆炸。\n2.写下四篇自我分析文后，通过引入精神分析视角，我找到了分析问题的工具和自己要前进的方向——即理解自己的欲望结构，建构一个成年智识。但这需要海量的时间去完成，无论是对我小孩子一面的反思还是用大量阅读去喂养我的成年思维，都需要很多时间。而在我完成这些之前，我面对现实时人格是近乎瘫痪的——既无法用以前撒泼打滚的方式生活，又无法立刻成长为一个富有智慧和责任感的成人。人格压力爆炸。\n3.因为人格要重新建构，我的社交关系也要跟着剧变，孤独问题也特别严重，社交和人格问题又是相互影响相互绑定的，人格问题不推进完成，重构社交方式也不可能完成，这导致社交问题又很爆炸。\n可谓是心神憔悴，感觉生活紧张无比。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在面临三个问题。\n1.再有两周我将迎来四门理科的结课考试，而我一门都没有学习，学业压力爆炸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 1290,
+          "like_count": 13352,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 570
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

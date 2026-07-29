@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060897971030679552"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2060897998201336134",
+    "created_at": "2026-05-31T01:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060897998201336134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4nAfxyJmb",
+          "end": 160,
+          "expanded_url": "https://x.com/ansiyao520/status/2060897998201336134/photo/1",
+          "media_key": "3_2060897971030679552",
+          "start": 137,
+          "url": "https://t.co/p4nAfxyJmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060897998201336134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "网上键政的能不能多读点书啊。\n什么都不读不看就键政，那不都是瞎扯淡吗。\n你给我键好的啊。给我键有水平的啊。\n我很烦父辈一不顺心就聊历史，聊什么历史由胜利者书写。你他妈能不能尊重下历史规律，了解下党治国家的基本情况呢。\n能不能键好的啊。\n键政文化能不能高级点真的有文化点啊。\n你给我键好的啊。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "网上键政的能不能多读点书啊。\n什么都不读不看就键政，那不都是瞎扯淡吗。\n你给我键好的啊。给我键有水平的啊。\n我很烦父辈一不顺心就聊历史，聊什么历史由胜利者书写。你他妈能不能尊重下历史规律，了解下党治国家的基本情况呢。\n能不能键好的啊。\n键政文化能不能高级点真的有文化点啊。 https://t.co/p4nAfxyJmb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060897998201336134].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060897998201336134",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060897998201336134"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060897971030679552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnHyRmbYAAw9Mb.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 1439,
+          "like_count": 18895,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 974
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

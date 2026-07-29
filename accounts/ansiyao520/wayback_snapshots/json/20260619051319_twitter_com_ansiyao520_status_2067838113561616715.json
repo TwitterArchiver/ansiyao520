@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067838080980307968"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2067838113561616715",
+    "created_at": "2026-06-19T05:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067838113561616715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4q8YD0Cjvn",
+          "end": 44,
+          "expanded_url": "https://x.com/ansiyao520/status/2067838113561616715/photo/1",
+          "media_key": "3_2067838080980307968",
+          "start": 21,
+          "url": "https://t.co/4q8YD0Cjvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067838113561616715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想当凯恩斯经济政策下的铁公基贵妇🤤。 https://t.co/4q8YD0Cjvn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067838080980307968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJvx13bUAAJ3U7.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067838080980307968"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2067838113561616715",
+        "created_at": "2026-06-19T05:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067838113561616715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4q8YD0Cjvn",
+              "end": 44,
+              "expanded_url": "https://x.com/ansiyao520/status/2067838113561616715/photo/1",
+              "media_key": "3_2067838080980307968",
+              "start": 21,
+              "url": "https://t.co/4q8YD0Cjvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067838113561616715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想当凯恩斯经济政策下的铁公基贵妇🤤。 https://t.co/4q8YD0Cjvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 1648,
+          "like_count": 24790,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1455
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

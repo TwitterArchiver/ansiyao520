@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063704570552087027",
+    "created_at": "2026-06-07T23:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063766707177665004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "AmiyaArk0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063766707177665004",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063704570552087027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiyaArk0106 在乎你😊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063704570552087027",
+        "created_at": "2026-06-07T23:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063766707177665004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "AmiyaArk0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063766707177665004",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063704570552087027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiyaArk0106 在乎你😊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2063704570552087027",
+        "created_at": "2026-06-07T19:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063704570552087027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2063616801523872179",
+              "start": 21,
+              "url": "https://t.co/GQ8MX766xK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063704570552087027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063616801523872179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果现实真的有人能像病娇一样在乎我就好了 https://t.co/GQ8MX766xK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 1503,
+          "like_count": 20905,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1189
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "06‖社恐‖生理男（心理偏无性）\n‖🟪🟨🟦‖INFP-T\n所有友善的私信都会努力回复喵‖\n🏳️‍🌈‖欢迎互fo\n喜欢的：明日方舟，cs，瓦或 cod 等 FPS 游戏，其他游戏也会尝试‖喜欢折腾各种电子垃圾",
+        "id": "1733692753899569152",
+        "name": "社恐猫猫Ark🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053776709883949056/UvRoK5V7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 160,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 598
+        },
+        "username": "AmiyaArk0106",
+        "verified": false
+      }
+    ]
+  }
+}

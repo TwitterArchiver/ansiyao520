@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2077392327765798951",
+    "created_at": "2026-07-15T13:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077392327765798951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077392327765798951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077099169412743376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 只要谈及阻止自杀，总会有人跳出来说“你这样只是延长当事人的痛苦，你要尊重对方自杀的自由”\n\n但是当我真的和这些人讨论“如何减少这些人的痛苦”，真的要他们以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2077392327765798951",
+        "created_at": "2026-07-15T13:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077392327765798951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077392327765798951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077099169412743376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 只要谈及阻止自杀，总会有人跳出来说“你这样只是延长当事人的痛苦，你要尊重对方自杀的自由”\n\n但是当我真的和这些人讨论“如何减少这些人的痛苦”，真的要他们以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2077099169412743376",
+        "created_at": "2026-07-14T18:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:29:54.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077098275983982594",
+          "2077098877300379757",
+          "2077099169412743376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20770…",
+              "end": 151,
+              "expanded_url": "https://x.com/i/status/2077017631757091091",
+              "start": 128,
+              "url": "https://t.co/I9Xb5IVS75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077099169412743376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20770…",
+                "end": 381,
+                "expanded_url": "https://x.com/i/status/2077015888986063038",
+                "start": 358,
+                "url": "https://t.co/sYE4S95j55"
+              },
+              {
+                "display_url": "x.com/i/status/16564…",
+                "end": 405,
+                "expanded_url": "https://x.com/i/status/1656456180913537026",
+                "start": 382,
+                "url": "https://t.co/UNFptKf9F3"
+              },
+              {
+                "display_url": "x.com/i/status/20770…",
+                "end": 429,
+                "expanded_url": "https://x.com/i/status/2077017631757091091",
+                "start": 406,
+                "url": "https://t.co/I9Xb5IVS75"
+              }
+            ]
+          },
+          "text": "只要谈及阻止自杀，总会有人跳出来说“你这样只是延长当事人的痛苦，你要尊重对方自杀的自由”\n\n但是当我真的和这些人讨论“如何减少这些人的痛苦”，真的要他们以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全都故意装死。\n\n为了“减少更多自杀者的痛苦”，十年来我们真金白银的花了近三百万元人民币，给数千个人提供住处，医疗资源，就业岗位，反家暴，反校园霸凌，反诈骗，反扭转……等各种救助\n\n这些声称“要尊重自杀的人自由”的人，好像从来没出过钱，出过力，在有人遇到苦难的时候却从来没见过这些人的踪影。\n\n可能唯独在“未成年跨性别者服用激素类药物”的话题下突然跳出来“未成年人心智还不成熟，要等到成年后才能服用激素类药物”，然后又在阻止自杀的话题下面跳出来说“你要尊重对方自杀的自由”\n\nhttps://t.co/sYE4S95j55\nhttps://t.co/UNFptKf9F3\nhttps://t.co/I9Xb5IVS75"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4038,
+          "like_count": 52,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077017631757091091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要谈及阻止自杀，总会有人跳出来说“你这样只是延长当事人的痛苦，你要尊重对方自杀的自由”\n\n但是当我真的和这些人讨论“如何减少这些人的痛苦”，真的要他们以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全都故意装死。 https://t.co/I9Xb5IVS75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1819,
+          "like_count": 29453,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41973,
+          "following_count": 3943,
+          "like_count": 1906,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 3081
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

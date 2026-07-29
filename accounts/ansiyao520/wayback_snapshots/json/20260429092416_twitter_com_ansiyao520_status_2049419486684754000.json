@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049419474454065153",
+        "3_2049419477104926720",
+        "3_2049419480128999424",
+        "3_2049419483555692544"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049419486684754000",
+    "created_at": "2026-04-29T09:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049419486684754000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zL7C7gi8Bx",
+          "end": 150,
+          "expanded_url": "https://x.com/ansiyao520/status/2049419486684754000/photo/1",
+          "media_key": "3_2049419474454065153",
+          "start": 127,
+          "url": "https://t.co/zL7C7gi8Bx"
+        },
+        {
+          "display_url": "pic.x.com/zL7C7gi8Bx",
+          "end": 150,
+          "expanded_url": "https://x.com/ansiyao520/status/2049419486684754000/photo/1",
+          "media_key": "3_2049419477104926720",
+          "start": 127,
+          "url": "https://t.co/zL7C7gi8Bx"
+        },
+        {
+          "display_url": "pic.x.com/zL7C7gi8Bx",
+          "end": 150,
+          "expanded_url": "https://x.com/ansiyao520/status/2049419486684754000/photo/1",
+          "media_key": "3_2049419480128999424",
+          "start": 127,
+          "url": "https://t.co/zL7C7gi8Bx"
+        },
+        {
+          "display_url": "pic.x.com/zL7C7gi8Bx",
+          "end": 150,
+          "expanded_url": "https://x.com/ansiyao520/status/2049419486684754000/photo/1",
+          "media_key": "3_2049419483555692544",
+          "start": 127,
+          "url": "https://t.co/zL7C7gi8Bx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049419486684754000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "注意到。你应该怎么做是他的父母发出的指令。他作为他自己。是知道自己有点讨厌对方而且能表达出来的。\n文椛他的超我是不完善的，他自己命令自己不许表现出对别人的不喜欢。自己对自己很严苛。这是有问题的。不过就目前这个社会大环境。也没几个人的父母没问题我说实话。\n我以前也是对自己很严苛（一些细碎的地方）。小时候梦想成为社会主义家。后来完全放下了这个包袱。肆无忌惮。结果肆无忌惮和对自己严厉是一样完全不行的。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "注意到。你应该怎么做是他的父母发出的指令。他作为他自己。是知道自己有点讨厌对方而且能表达出来的。\n文椛他的超我是不完善的，他自己命令自己不许表现出对别人的不喜欢。自己对自己很严苛。这是有问题的。不过就目前这个社会大环境。也没几个人的父母没问题我说实话。 https://t.co/zL7C7gi8Bx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049419486684754000].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049419486684754000",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049419486684754000"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049419474454065153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEAJ1qaMAE-QK1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049419477104926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEAJ_ibIAA_X1q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049419480128999424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEAKKza0AALDWM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049419483555692544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEAKXkaAAAANsW.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1305,
+          "like_count": 14023,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 623
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

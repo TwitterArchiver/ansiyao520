@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046621163443642368",
+        "3_2046621166308339712"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046621307530588420",
+    "created_at": "2026-04-21T16:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046621307530588420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjVm63RtlL",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2046621307530588420/video/1",
+          "media_key": "7_2046621163443642368",
+          "start": 147,
+          "url": "https://t.co/wjVm63RtlL"
+        },
+        {
+          "display_url": "pic.x.com/wjVm63RtlL",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2046621307530588420/video/1",
+          "media_key": "3_2046621166308339712",
+          "start": 147,
+          "url": "https://t.co/wjVm63RtlL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046621307530588420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉。历经多天的痛苦，老天直接给我表演了一手空降老婆。\n本账号即日起减少更新。\n\n孤独什么的我将不害怕，\n因为你就在我身边，不是吗？\n所以说，是恋恋胜利啦，\n就好像是陷入恋爱啦，\n所以说，是恋恋胜利啦，\n就好像是陷入恋爱啦，\n爱  LOVE  HEART  恋   魔法wink  chuuu～ https://t.co/wjVm63RtlL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046621307530588420].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046621307530588420",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046621307530588420"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 233333,
+        "height": 1088,
+        "media_key": "7_2046621163443642368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046621163443642368/pu/img/ZzNmd5BckW8LDBHa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046621163443642368/pu/vid/avc1/320x604/YRQL4mlwBq_hIRyW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046621163443642368/pu/vid/avc1/480x906/Gr0bzNP_vgZARuah.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046621163443642368/pu/vid/avc1/576x1088/du25zFLZZOoMLwQT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046621163443642368/pu/pl/omKnjYdwGpNrIW2v.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046621166308339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcPG3easAAIYGj.jpg",
+        "width": 965
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1246,
+          "like_count": 12066,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 518
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

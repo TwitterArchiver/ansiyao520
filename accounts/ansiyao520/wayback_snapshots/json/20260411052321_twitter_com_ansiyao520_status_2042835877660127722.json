@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042835873042173955",
+        "3_2042835873780371459",
+        "3_2042835874619305985",
+        "3_2042835874313097216"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042835877660127722",
+    "created_at": "2026-04-11T05:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042835877660127722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQmotucKku",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+          "media_key": "3_2042835873042173955",
+          "start": 72,
+          "url": "https://t.co/xQmotucKku"
+        },
+        {
+          "display_url": "pic.x.com/xQmotucKku",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+          "media_key": "3_2042835873780371459",
+          "start": 72,
+          "url": "https://t.co/xQmotucKku"
+        },
+        {
+          "display_url": "pic.x.com/xQmotucKku",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+          "media_key": "3_2042835874619305985",
+          "start": 72,
+          "url": "https://t.co/xQmotucKku"
+        },
+        {
+          "display_url": "pic.x.com/xQmotucKku",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+          "media_key": "3_2042835874313097216",
+          "start": 72,
+          "url": "https://t.co/xQmotucKku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042835877660127722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "part10\n→小遥取了亚硝酸钠→争议：小遥说自己更想死，我试图建立更深的亲密让她不失去生活的意义→我建议上大学不o→小遥被家人要求进精神病院 https://t.co/xQmotucKku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2066,
+        "media_key": "3_2042835873042173955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmcZzMakAMN43G.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2054,
+        "media_key": "3_2042835873780371459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmcZ18akAMp_h9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2042835874619305985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmcZ5EbsAEuATA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2057,
+        "media_key": "3_2042835874313097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmcZ37bUAA3tEO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042835873042173955",
+            "3_2042835873780371459",
+            "3_2042835874619305985",
+            "3_2042835874313097216"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042835877660127722",
+        "created_at": "2026-04-11T05:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042835877660127722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQmotucKku",
+              "end": 95,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+              "media_key": "3_2042835873042173955",
+              "start": 72,
+              "url": "https://t.co/xQmotucKku"
+            },
+            {
+              "display_url": "pic.x.com/xQmotucKku",
+              "end": 95,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+              "media_key": "3_2042835873780371459",
+              "start": 72,
+              "url": "https://t.co/xQmotucKku"
+            },
+            {
+              "display_url": "pic.x.com/xQmotucKku",
+              "end": 95,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+              "media_key": "3_2042835874619305985",
+              "start": 72,
+              "url": "https://t.co/xQmotucKku"
+            },
+            {
+              "display_url": "pic.x.com/xQmotucKku",
+              "end": 95,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835877660127722/photo/1",
+              "media_key": "3_2042835874313097216",
+              "start": 72,
+              "url": "https://t.co/xQmotucKku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042835877660127722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "part10\n→小遥取了亚硝酸钠→争议：小遥说自己更想死，我试图建立更深的亲密让她不失去生活的意义→我建议上大学不o→小遥被家人要求进精神病院 https://t.co/xQmotucKku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 856,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 237
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

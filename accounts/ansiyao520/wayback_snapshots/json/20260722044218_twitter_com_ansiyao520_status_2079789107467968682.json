@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2079788731826098176"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2079789107467968682",
+    "created_at": "2026-07-22T04:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079789107467968682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMc02ibAI3",
+          "end": 223,
+          "expanded_url": "https://x.com/ansiyao520/status/2079789107467968682/video/1",
+          "media_key": "7_2079788731826098176",
+          "start": 200,
+          "url": "https://t.co/xMc02ibAI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079789107467968682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "歌曲介绍：如果喜欢能救自己于水火的恋人。这首歌你应该会喜欢。\n\nI know you were stuck in time，\n我知道你被困在了时间里，\nBut I'm here I’m pulling you up，\n但我在这里要把你拉上来，\nSweetie hold my hands，\n亲爱的请握着我的手，\nLet me be your lighthouse I’ll be with you，\n让我做你的灯塔我将与你同在，\nDon’t scare I’m with you，\n别害怕我和你在一起，\nSunrise will come，\n日出就要来了，\nI’ll be there I’m waiting with you，\n我会在那儿和你一起等待，\nSweetie don’t leave behind，\n亲爱的别忘了，\nYou know I’ll be hold you tight Just keep go，\n别忘了我会紧紧抱住你的。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歌曲介绍：如果喜欢能救自己于水火的恋人。这首歌你应该会喜欢。\n\nI know you were stuck in time，\n我知道你被困在了时间里，\nBut I'm here I’m pulling you up，\n但我在这里要把你拉上来，\nSweetie hold my hands，\n亲爱的请握着我的手，\nLet me be your lighthouse I’ll be with you， https://t.co/xMc02ibAI3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 221973,
+        "height": 1088,
+        "media_key": "7_2079788731826098176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079788731826098176/pu/img/kx9qqODcCxNtjf1c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079788731826098176/pu/vid/avc1/320x604/g25VKd5pDYaEaU7a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079788731826098176/pu/vid/avc1/480x906/R9kjv6ojE3GOh-MA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079788731826098176/pu/vid/avc1/576x1088/GhIRvB2GeGjaz3lC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079788731826098176/pu/pl/mrVJKqTkjFKcUjKN.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079788731826098176"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2079789107467968682",
+        "created_at": "2026-07-22T04:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079789107467968682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMc02ibAI3",
+              "end": 223,
+              "expanded_url": "https://x.com/ansiyao520/status/2079789107467968682/video/1",
+              "media_key": "7_2079788731826098176",
+              "start": 200,
+              "url": "https://t.co/xMc02ibAI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079789107467968682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "歌曲介绍：如果喜欢能救自己于水火的恋人。这首歌你应该会喜欢。\n\nI know you were stuck in time，\n我知道你被困在了时间里，\nBut I'm here I’m pulling you up，\n但我在这里要把你拉上来，\nSweetie hold my hands，\n亲爱的请握着我的手，\nLet me be your lighthouse I’ll be with you，\n让我做你的灯塔我将与你同在，\nDon’t scare I’m with you，\n别害怕我和你在一起，\nSunrise will come，\n日出就要来了，\nI’ll be there I’m waiting with you，\n我会在那儿和你一起等待，\nSweetie don’t leave behind，\n亲爱的别忘了，\nYou know I’ll be hold you tight Just keep go，\n别忘了我会紧紧抱住你的。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌曲介绍：如果喜欢能救自己于水火的恋人。这首歌你应该会喜欢。\n\nI know you were stuck in time，\n我知道你被困在了时间里，\nBut I'm here I’m pulling you up，\n但我在这里要把你拉上来，\nSweetie hold my hands，\n亲爱的请握着我的手，\nLet me be your lighthouse I’ll be with you， https://t.co/xMc02ibAI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1856,
+          "like_count": 30174,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 1920
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

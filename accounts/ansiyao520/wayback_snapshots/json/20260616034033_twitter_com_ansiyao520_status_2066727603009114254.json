@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066727594389905408"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2066727603009114254",
+    "created_at": "2026-06-16T03:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066727603009114254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vT4S8dikhj",
+          "end": 77,
+          "expanded_url": "https://x.com/ansiyao520/status/2066727603009114254/photo/1",
+          "media_key": "3_2066727594389905408",
+          "start": 54,
+          "url": "https://t.co/vT4S8dikhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066727603009114254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我笑死了。我真的很那个吗。\n我参加答辩。老师说我的态度有点“玩世不恭”，说下次答辩还是他，让我“小心点”。 https://t.co/vT4S8dikhj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066727603009114254].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066727603009114254",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066727603009114254"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2066727594389905408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK59zA8boAAWmu2.jpg",
+        "width": 1200
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1630,
+          "like_count": 24263,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1419
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

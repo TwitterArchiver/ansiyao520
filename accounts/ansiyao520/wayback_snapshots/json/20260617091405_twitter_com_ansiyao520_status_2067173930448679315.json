@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067173911935242240"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2067173930448679315",
+    "created_at": "2026-06-17T09:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067173930448679315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9Fod72TlI",
+          "end": 30,
+          "expanded_url": "https://x.com/ansiyao520/status/2067173930448679315/photo/1",
+          "media_key": "3_2067173911935242240",
+          "start": 7,
+          "url": "https://t.co/L9Fod72TlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067173930448679315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "磨床好高级！ https://t.co/L9Fod72TlI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067173930448679315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067173930448679315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067173930448679315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2067173911935242240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLATuHXa0AAXUv7.jpg",
+        "width": 3000
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1640,
+          "like_count": 24374,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 1429
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2075909146067755062",
+    "created_at": "2026-07-11T11:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075909146067755062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2075904812844220681",
+          "start": 75,
+          "url": "https://t.co/kYcIIF2i40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075909146067755062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这是我自己走通了的最不坏最理性的生存策略。也是我的很多朋友验证了的。不管他们最后念的是大专，还是一本。\n除此之外的任何方法都一定要牺牲自己的发展的。\n读书学习就是青少年唯一可以很快速往上爬、有成长性的路径。还容易得到社会与家庭的合力支持托举，很容易，至少已经是最容易走高的了。其他任何选择就几乎全是退而求其次。次啊，次就是不好，就是差劲，就是不好用啊。其他的路径真的很次的。\n虽然能活下去，但是我的一些朋友真的就是不成年就去打工，再也无法提高薪资了，他们的眼界和生存境况可能就好几年都难以改动了。这是很糟糕的。虽然无可奈何。\n一定要克服自己文化上和心理上对学习的抵触。克服困难。\n毛泽东最常讲的就是各位同志要克服困难。\n克服困难，把自己动员起来去做题or say学习。这是真的最好走通的路了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075904812844220681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我自己走通了的最不坏最理性的生存策略。也是我的很多朋友验证了的。不管他们最后念的是大专，还是一本。\n除此之外的任何方法都一定要牺牲自己的发展的。 https://t.co/kYcIIF2i40"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075909146067755062",
+        "created_at": "2026-07-11T11:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075909146067755062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2075904812844220681",
+              "start": 75,
+              "url": "https://t.co/kYcIIF2i40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075909146067755062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是我自己走通了的最不坏最理性的生存策略。也是我的很多朋友验证了的。不管他们最后念的是大专，还是一本。\n除此之外的任何方法都一定要牺牲自己的发展的。\n读书学习就是青少年唯一可以很快速往上爬、有成长性的路径。还容易得到社会与家庭的合力支持托举，很容易，至少已经是最容易走高的了。其他任何选择就几乎全是退而求其次。次啊，次就是不好，就是差劲，就是不好用啊。其他的路径真的很次的。\n虽然能活下去，但是我的一些朋友真的就是不成年就去打工，再也无法提高薪资了，他们的眼界和生存境况可能就好几年都难以改动了。这是很糟糕的。虽然无可奈何。\n一定要克服自己文化上和心理上对学习的抵触。克服困难。\n毛泽东最常讲的就是各位同志要克服困难。\n克服困难，把自己动员起来去做题or say学习。这是真的最好走通的路了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075904812844220681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我自己走通了的最不坏最理性的生存策略。也是我的很多朋友验证了的。不管他们最后念的是大专，还是一本。\n除此之外的任何方法都一定要牺牲自己的发展的。 https://t.co/kYcIIF2i40"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075891781586301206",
+        "created_at": "2026-07-11T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075904812844220681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075904812844220681",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得与其说是让他放弃幻想。到最后一定是你放弃了幻想。首先你的沟通方式就不利于阅读，大片大片地复制ai的话给父母，不太成熟，有点撕破脸皮的味道。可是孩子和父母撕破脸皮斗，自己也没有经济独立权。怎么可能有优势呢。到最后无非还是仰仗父母的宽容程度。倘若父母一心一意要倒逼，那孩子不服气肯定就横死明志了。那就会发生让人惋惜的事。\n然而，年少意气，我又能说什么呢。我小时候又何尝不是如此热烈地闹了一场然后侥幸活了下来了呢。哎。真是无可奈何生命运，少年意气总受伤，惋君玉碎望苟活，又愧当年热血沸，我感觉自己现在真是矫揉造作、让人想吐，又感到前路茫茫、谁与我伴之意。我已经老了……\n我深刻地明白结构性问题只能由一个强而有力的集体去推动解决的道理。但正因为如此，十分感到自己的孤独又幸福又痛苦呀。\n说回你的问题。这种情况。一定是只能在有限的空间里，为自己保留一块精神飞地，不对他们开放，保留自己真正的精神所在；承认他们无法理解，承认一座山真的存在，在山的阴影里努力存活；冷峻地、耐心地搭建自己独立生存的支柱，直到有一天，不必再向他们申请宽容。\n用通俗的话来说，左耳朵进右耳朵出，父母说话不用听；别太指望父母会大发慈悲支持自己的性别爱好；好好学习，争取以后考出去，就自由了。\n亲爱的。真的是几乎只能这样的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075891781586301206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 我觉得与其说是让他放弃幻想。到最后一定是你放弃了幻想。首先你的沟通方式就不利于阅读，大片大片地复制ai的话给父母，不太成熟，有点撕破脸皮的味道。可是孩子和父母撕破脸皮斗，自己也没有经济独立权。怎么可能有优势呢。到最后无非还是仰仗父母的宽容程度。倘若父母一心一意要倒逼，那孩子不服气肯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1819,
+          "like_count": 29247,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1846
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

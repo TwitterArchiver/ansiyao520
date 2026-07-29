@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042278539547074560"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042278542487310493",
+    "created_at": "2026-04-09T16:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042278542487310493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OWnKglmNEg",
+          "end": 160,
+          "expanded_url": "https://x.com/ansiyao520/status/2042278542487310493/photo/1",
+          "media_key": "3_2042278539547074560",
+          "start": 137,
+          "url": "https://t.co/OWnKglmNEg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042278542487310493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第二，我骂人，是一个习惯，傻逼不离口。很抱歉我没有建立起良好的批评习惯、体贴的共情能力与合理的表达方式，但我如果不是昏了头，没对着当事人说恶毒话过。更没有把这些话公开发表过。就像我在自家对镜竖了个中指，你却把这事发网上。请问，我习惯性的粗口和你精心设计的恶毒，哪个更不堪？ https://t.co/OWnKglmNEg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2042278539547074560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFehguIbYAASjZ5.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042278539547074560"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042278542487310493",
+        "created_at": "2026-04-09T16:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042278542487310493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWnKglmNEg",
+              "end": 160,
+              "expanded_url": "https://x.com/ansiyao520/status/2042278542487310493/photo/1",
+              "media_key": "3_2042278539547074560",
+              "start": 137,
+              "url": "https://t.co/OWnKglmNEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042278542487310493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二，我骂人，是一个习惯，傻逼不离口。很抱歉我没有建立起良好的批评习惯、体贴的共情能力与合理的表达方式，但我如果不是昏了头，没对着当事人说恶毒话过。更没有把这些话公开发表过。就像我在自家对镜竖了个中指，你却把这事发网上。请问，我习惯性的粗口和你精心设计的恶毒，哪个更不堪？ https://t.co/OWnKglmNEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 791,
+          "like_count": 4221,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 187
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

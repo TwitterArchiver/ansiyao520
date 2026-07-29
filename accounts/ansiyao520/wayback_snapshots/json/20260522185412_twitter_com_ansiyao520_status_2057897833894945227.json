@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2055888279950831823",
+    "created_at": "2026-05-22T18:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057897833894945227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055834950017208320",
+          "start": 0,
+          "username": "xxs0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057897833894945227",
+    "in_reply_to_user_id": "2055834950017208320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055888279950831823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs0721 马斯克就马斯克。写个那个我以为你说啥呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2055888279950831823",
+        "created_at": "2026-05-22T18:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057897833894945227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055834950017208320",
+              "start": 0,
+              "username": "xxs0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057897833894945227",
+        "in_reply_to_user_id": "2055834950017208320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055888279950831823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs0721 马斯克就马斯克。写个那个我以为你说啥呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055834950017208320",
+        "conversation_id": "2055888279950831823",
+        "created_at": "2026-05-17T05:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055888279950831823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055888279950831823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2849,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这里是高性能小学生，上一世被马克思拆解报废了，这一世小学生要夺回这一切，求大家转一下偶内盖(⋟﹏⋞)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 1396,
+          "like_count": 17895,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 892
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T02:17:34.000Z",
+        "description": "小学生2.0!参上!",
+        "id": "2055834950017208320",
+        "name": "高性能小学生2.0",
+        "pinned_tweet_id": "2055888279950831823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055835266812944384/7QydfEUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 131,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "username": "xxs0721",
+        "verified": false
+      }
+    ]
+  }
+}

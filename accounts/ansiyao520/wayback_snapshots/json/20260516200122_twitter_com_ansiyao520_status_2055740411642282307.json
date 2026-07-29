@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2055740411642282307",
+    "created_at": "2026-05-16T20:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055740411642282307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055740411642282307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孑然一身。你恋爱的大梦初醒。但却交到了第一个实实在在的朋友。虽然你对她抱有不该有的情愫，但并不妨碍你们之间建立了牢靠的友谊关系。可能你以后会遇见更多真正的朋友，你也越来越能够交到真正的朋友。甚至遇到喜欢的人。你开心吗。\n安思瑶。\n精神分析五千年，不如现实一跬步。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2055740411642282307",
+        "created_at": "2026-05-16T20:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055740411642282307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055740411642282307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孑然一身。你恋爱的大梦初醒。但却交到了第一个实实在在的朋友。虽然你对她抱有不该有的情愫，但并不妨碍你们之间建立了牢靠的友谊关系。可能你以后会遇见更多真正的朋友，你也越来越能够交到真正的朋友。甚至遇到喜欢的人。你开心吗。\n安思瑶。\n精神分析五千年，不如现实一跬步。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 1360,
+          "like_count": 16616,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 818
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

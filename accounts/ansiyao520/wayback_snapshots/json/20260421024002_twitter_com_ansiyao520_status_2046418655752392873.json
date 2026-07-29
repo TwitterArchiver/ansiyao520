@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046418638027268096",
+        "3_2046418635196096512"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046418655752392873",
+    "created_at": "2026-04-21T02:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046418655752392873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZTl0szP3V",
+          "end": 57,
+          "expanded_url": "https://x.com/ansiyao520/status/2046418655752392873/photo/1",
+          "media_key": "3_2046418638027268096",
+          "start": 34,
+          "url": "https://t.co/jZTl0szP3V"
+        },
+        {
+          "display_url": "pic.x.com/jZTl0szP3V",
+          "end": 57,
+          "expanded_url": "https://x.com/ansiyao520/status/2046418655752392873/photo/1",
+          "media_key": "3_2046418635196096512",
+          "start": 34,
+          "url": "https://t.co/jZTl0szP3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046418655752392873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "考虑了一下。只转帖有些不负责任。我还是匿名转载并附上自己的评论吧。\n我不太认同这种可能引起跨性别群体内部对立的评论。无论是什么样的跨性别姐妹，我们都有共同的社会友善追求，没必要把精力耗在内斗上。就我个人而言，我是无糖跨女，我觉得身体的性别认同方式可以不同，心灵性别对我来说才是最重要的。（参见维持性别的有利点，改变性别的不利点）\n我之前也犯过一些错误——因为对药物的恐惧、执着于自己的道路，盲目地排斥和抵触过含糖跨女。现在回头看，那是不对的，应该尊重每个人的选择。\n我们都是姐妹。互帮互助、共同进步(*´・ｖ・)。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考虑了一下。只转帖有些不负责任。我还是匿名转载并附上自己的评论吧。 https://t.co/jZTl0szP3V"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046418655752392873].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046418655752392873",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046418655752392873"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_2046418638027268096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZW6K1aoAAXHNy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 840,
+        "media_key": "3_2046418635196096512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZW6ASaYAAskLs.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1242,
+          "like_count": 11516,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 492
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

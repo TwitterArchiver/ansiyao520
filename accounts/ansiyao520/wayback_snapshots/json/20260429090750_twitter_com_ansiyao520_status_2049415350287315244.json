@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049415347758104577"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049415350287315244",
+    "created_at": "2026-04-29T09:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049415350287315244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbN4MWeatt",
+          "end": 105,
+          "expanded_url": "https://x.com/ansiyao520/status/2049415350287315244/photo/1",
+          "media_key": "3_2049415347758104577",
+          "start": 82,
+          "url": "https://t.co/zbN4MWeatt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049415350287315244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这男的老没礼貌了。竟然抢别人水喝。\n唉。这片子快给我看应激了。其实我初中时就借着刚运动完的理由去抢了女孩子水杯喝。然后差点被闹到老师那里了。人家小女生都哭了。\n。 https://t.co/zbN4MWeatt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049415350287315244].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049415350287315244",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049415350287315244"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049415347758104577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD8ZohbAAEGwLr.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1305,
+          "like_count": 14014,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 620
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

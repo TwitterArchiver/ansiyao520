@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057469176000962560",
+        "3_2057469187707293696"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057469190823694498",
+    "created_at": "2026-05-21T14:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057469190823694498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mv1ej4NShB",
+          "end": 168,
+          "expanded_url": "https://x.com/ansiyao520/status/2057469190823694498/photo/1",
+          "media_key": "3_2057469176000962560",
+          "start": 145,
+          "url": "https://t.co/mv1ej4NShB"
+        },
+        {
+          "display_url": "pic.x.com/mv1ej4NShB",
+          "end": 168,
+          "expanded_url": "https://x.com/ansiyao520/status/2057469190823694498/photo/1",
+          "media_key": "3_2057469187707293696",
+          "start": 145,
+          "url": "https://t.co/mv1ej4NShB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057469190823694498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“拯救”是一种情感上的隐喻。夏生此前可能处于迷茫、孤独或失去动力的状态，而亚托莉的出现或陪伴，让他重新找到了生活的目标、希望或快乐。正因如此，他才会下定决心“要让亚托莉幸福”，并用买礼物、努力工作等方式回报她。这种“拯救”不一定是物理上的救命之恩，更多是指精神上的救赎——亚托莉让他变成了更好、更愿意为他人付出的人。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“拯救”是一种情感上的隐喻。夏生此前可能处于迷茫、孤独或失去动力的状态，而亚托莉的出现或陪伴，让他重新找到了生活的目标、希望或快乐。正因如此，他才会下定决心“要让亚托莉幸福”，并用买礼物、努力工作等方式回报她。这种“拯救”不一定是物理上的救命之恩，更多是指精神上的救赎——亚托莉让他变成了 https://t.co/mv1ej4NShB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057469190823694498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057469190823694498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057469190823694498"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2057469176000962560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2ZUIvaYAAdK4R.jpg",
+        "width": 1917
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2057469187707293696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2ZU0Wa0AAI6su.jpg",
+        "width": 1891
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 1384,
+          "like_count": 17365,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 858
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

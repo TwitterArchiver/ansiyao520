@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042836523297705984",
+        "3_2042836524249866240",
+        "3_2042836524237254656",
+        "3_2042836525298388992"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042836528947433875",
+    "created_at": "2026-04-11T05:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042836528947433875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaWJHKf8pT",
+          "end": 151,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+          "media_key": "3_2042836523297705984",
+          "start": 128,
+          "url": "https://t.co/xaWJHKf8pT"
+        },
+        {
+          "display_url": "pic.x.com/xaWJHKf8pT",
+          "end": 151,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+          "media_key": "3_2042836524249866240",
+          "start": 128,
+          "url": "https://t.co/xaWJHKf8pT"
+        },
+        {
+          "display_url": "pic.x.com/xaWJHKf8pT",
+          "end": 151,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+          "media_key": "3_2042836524237254656",
+          "start": 128,
+          "url": "https://t.co/xaWJHKf8pT"
+        },
+        {
+          "display_url": "pic.x.com/xaWJHKf8pT",
+          "end": 151,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+          "media_key": "3_2042836525298388992",
+          "start": 128,
+          "url": "https://t.co/xaWJHKf8pT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042836528947433875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "part11\n→争议：我建议小遥接受去精神病院，和她分享以后的美好生活。这里我可能确实过于乐观，当时我还不清楚精神病院会扭转、给人带来的痛苦，也过分乐观地估计了出院的生活→小遥跑网吧→小遥想死→好人介入后，我因为地位不保，做了很有争议的决定，说不管小遥了 https://t.co/xaWJHKf8pT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_2042836523297705984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmc_plakAA5qCQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2042836524249866240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmc_tIbYAACotF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2018,
+        "media_key": "3_2042836524237254656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmc_tFa8AAsBx9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2037,
+        "media_key": "3_2042836525298388992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmc_xCakAAesYL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042836523297705984",
+            "3_2042836524249866240",
+            "3_2042836524237254656",
+            "3_2042836525298388992"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042836528947433875",
+        "created_at": "2026-04-11T05:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042836528947433875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaWJHKf8pT",
+              "end": 151,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+              "media_key": "3_2042836523297705984",
+              "start": 128,
+              "url": "https://t.co/xaWJHKf8pT"
+            },
+            {
+              "display_url": "pic.x.com/xaWJHKf8pT",
+              "end": 151,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+              "media_key": "3_2042836524249866240",
+              "start": 128,
+              "url": "https://t.co/xaWJHKf8pT"
+            },
+            {
+              "display_url": "pic.x.com/xaWJHKf8pT",
+              "end": 151,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+              "media_key": "3_2042836524237254656",
+              "start": 128,
+              "url": "https://t.co/xaWJHKf8pT"
+            },
+            {
+              "display_url": "pic.x.com/xaWJHKf8pT",
+              "end": 151,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836528947433875/photo/1",
+              "media_key": "3_2042836525298388992",
+              "start": 128,
+              "url": "https://t.co/xaWJHKf8pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042836528947433875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "part11\n→争议：我建议小遥接受去精神病院，和她分享以后的美好生活。这里我可能确实过于乐观，当时我还不清楚精神病院会扭转、给人带来的痛苦，也过分乐观地估计了出院的生活→小遥跑网吧→小遥想死→好人介入后，我因为地位不保，做了很有争议的决定，说不管小遥了 https://t.co/xaWJHKf8pT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 856,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 238
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

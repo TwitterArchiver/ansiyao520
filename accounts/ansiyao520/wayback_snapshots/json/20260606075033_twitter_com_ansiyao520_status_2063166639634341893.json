@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063166635352129536",
+        "3_2063166635809406976",
+        "3_2063166635725524992",
+        "3_2063166636409200640"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063166639634341893",
+    "created_at": "2026-06-06T07:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063166639634341893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lMUp5oYoQ8",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2063166639634341893/photo/1",
+          "media_key": "3_2063166635352129536",
+          "start": 147,
+          "url": "https://t.co/lMUp5oYoQ8"
+        },
+        {
+          "display_url": "pic.x.com/lMUp5oYoQ8",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2063166639634341893/photo/1",
+          "media_key": "3_2063166635809406976",
+          "start": 147,
+          "url": "https://t.co/lMUp5oYoQ8"
+        },
+        {
+          "display_url": "pic.x.com/lMUp5oYoQ8",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2063166639634341893/photo/1",
+          "media_key": "3_2063166635725524992",
+          "start": 147,
+          "url": "https://t.co/lMUp5oYoQ8"
+        },
+        {
+          "display_url": "pic.x.com/lMUp5oYoQ8",
+          "end": 170,
+          "expanded_url": "https://x.com/ansiyao520/status/2063166639634341893/photo/1",
+          "media_key": "3_2063166636409200640",
+          "start": 147,
+          "url": "https://t.co/lMUp5oYoQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063166639634341893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "和atri谈心。\n男主认为。虽然atri是那种会把自己全部奉献出去的人。但是我们的男主捕捉到，对一个有意识的人来说，完全做对方的所有物其实是有些痛苦的。这是很有意思的故事情节。\natri听了后表示回绝，说我就是喜欢你。\n交流无果，男主只能继续自己之前的执念，非常幼稚而切实地想要拯救atri。\n欲知后事如何，且听下回分解。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和atri谈心。\n男主认为。虽然atri是那种会把自己全部奉献出去的人。但是我们的男主捕捉到，对一个有意识的人来说，完全做对方的所有物其实是有些痛苦的。这是很有意思的故事情节。\natri听了后表示回绝，说我就是喜欢你。\n交流无果，男主只能继续自己之前的执念，非常幼稚而切实地想要拯救atri。 https://t.co/lMUp5oYoQ8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063166639634341893].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063166639634341893",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063166639634341893"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2063166635352129536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHXH6yaAAA3nIP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2063166635809406976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHXH8fbgAAQhtr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2063166635725524992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHXH8LbkAAU0DI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2063166636409200640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHXH-uboAAT64x.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1480,
+          "like_count": 20258,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 1119
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

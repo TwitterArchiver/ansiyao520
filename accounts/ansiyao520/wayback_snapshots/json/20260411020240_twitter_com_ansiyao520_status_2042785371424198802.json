@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042785371424198802",
+    "created_at": "2026-04-11T02:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042785371424198802"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042785371424198802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "od那篇分析了好多，最后提出的方法其实挺无力的。只是从原则上强调了要减药互助，但现实里不是人人重视讲原则的。\n特别是人们od时往往情绪崩溃，更不可能坚持本文经过隐含推理后得出的一些底线性原则，也就是减药，安全等。至于告知，其实几乎每个人吃之前都在网上发了帖，不知是死亡的宣告，给朋友的念想，还是对朋友隐含的求助。可以说，告知和寻求世界帮助这件事，他们并不是没有做，而是做的太好了，以至于求救的人到处都是，哀鸿遍野。于是，少吃药的人看着都没那么严重了，他们为了寻求更多的救助资源，也被生活持续压迫，只能吃更多。我的意思是，迫于压力和好奇吃了点药的人，往往是容易救助的，反而是吃了很多，求助声音喊得最大的，反而是最容易死的。帮助上稍有不当，悲愤交加，立刻暴毙。\n至于社群问题，根据考察，其实每个人都在建立自己的药娘社群维系情感。以至于群聊琳琅满目，世界分散为一个个小圈子，只有有人死亡时讣告才会飞越整个圈子的界限，上天而去。\n上面的分析是我以前说的还可以对问题进行的“无限细分”，而越细分，你就越觉得上面提出的微小可能性其实真的太微小了。\n这是我新的思考。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od那篇分析了好多，最后提出的方法其实挺无力的。只是从原则上强调了要减药互助，但现实里不是人人重视讲原则的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042785371424198802",
+        "created_at": "2026-04-11T02:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042785371424198802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042785371424198802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "od那篇分析了好多，最后提出的方法其实挺无力的。只是从原则上强调了要减药互助，但现实里不是人人重视讲原则的。\n特别是人们od时往往情绪崩溃，更不可能坚持本文经过隐含推理后得出的一些底线性原则，也就是减药，安全等。至于告知，其实几乎每个人吃之前都在网上发了帖，不知是死亡的宣告，给朋友的念想，还是对朋友隐含的求助。可以说，告知和寻求世界帮助这件事，他们并不是没有做，而是做的太好了，以至于求救的人到处都是，哀鸿遍野。于是，少吃药的人看着都没那么严重了，他们为了寻求更多的救助资源，也被生活持续压迫，只能吃更多。我的意思是，迫于压力和好奇吃了点药的人，往往是容易救助的，反而是吃了很多，求助声音喊得最大的，反而是最容易死的。帮助上稍有不当，悲愤交加，立刻暴毙。\n至于社群问题，根据考察，其实每个人都在建立自己的药娘社群维系情感。以至于群聊琳琅满目，世界分散为一个个小圈子，只有有人死亡时讣告才会飞越整个圈子的界限，上天而去。\n上面的分析是我以前说的还可以对问题进行的“无限细分”，而越细分，你就越觉得上面提出的微小可能性其实真的太微小了。\n这是我新的思考。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od那篇分析了好多，最后提出的方法其实挺无力的。只是从原则上强调了要减药互助，但现实里不是人人重视讲原则的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 835,
+          "like_count": 4375,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 218
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

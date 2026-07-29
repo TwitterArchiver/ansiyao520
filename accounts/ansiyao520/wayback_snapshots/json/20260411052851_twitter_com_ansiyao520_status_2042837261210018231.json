@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042837257930067968",
+        "3_2042837257951023104"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042837261210018231",
+    "created_at": "2026-04-11T05:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042837261210018231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/plF7gvdrQF",
+          "end": 61,
+          "expanded_url": "https://x.com/ansiyao520/status/2042837261210018231/photo/1",
+          "media_key": "3_2042837257930067968",
+          "start": 38,
+          "url": "https://t.co/plF7gvdrQF"
+        },
+        {
+          "display_url": "pic.x.com/plF7gvdrQF",
+          "end": 61,
+          "expanded_url": "https://x.com/ansiyao520/status/2042837261210018231/photo/1",
+          "media_key": "3_2042837257951023104",
+          "start": 38,
+          "url": "https://t.co/plF7gvdrQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042837261210018231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "part14\n→我表达了自己的懦弱和害怕→他去死了，我发了一些最后的消息。 https://t.co/plF7gvdrQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_2042837257930067968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmdqaTa0AAVrmu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2045,
+        "media_key": "3_2042837257951023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmdqaYakAAdgSP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042837257930067968",
+            "3_2042837257951023104"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042837261210018231",
+        "created_at": "2026-04-11T05:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042837261210018231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plF7gvdrQF",
+              "end": 61,
+              "expanded_url": "https://x.com/ansiyao520/status/2042837261210018231/photo/1",
+              "media_key": "3_2042837257930067968",
+              "start": 38,
+              "url": "https://t.co/plF7gvdrQF"
+            },
+            {
+              "display_url": "pic.x.com/plF7gvdrQF",
+              "end": 61,
+              "expanded_url": "https://x.com/ansiyao520/status/2042837261210018231/photo/1",
+              "media_key": "3_2042837257951023104",
+              "start": 38,
+              "url": "https://t.co/plF7gvdrQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042837261210018231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "part14\n→我表达了自己的懦弱和害怕→他去死了，我发了一些最后的消息。 https://t.co/plF7gvdrQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 856,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 241
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

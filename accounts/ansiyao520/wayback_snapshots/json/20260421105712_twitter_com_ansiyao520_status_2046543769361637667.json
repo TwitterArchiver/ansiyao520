@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046543743248158720"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046543769361637667",
+    "created_at": "2026-04-21T10:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046543769361637667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfzobrVweo",
+          "end": 147,
+          "expanded_url": "https://x.com/ansiyao520/status/2046543769361637667/photo/1",
+          "media_key": "3_2046543743248158720",
+          "start": 124,
+          "url": "https://t.co/MfzobrVweo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046543769361637667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《图书评价》\n多年的精神问题让我的思想日趋肆意。经常反对前恋人的各种行善观点。因为前恋人和雷锋同志有点像，分手后痛苦难耐，花了几天时间就把这本雷锋全集看完了。\n雷锋同志是一个很有意思的人。他毫不利己，一心革命的精神值得敬佩，是一名真正的康米战士。\n虽然阅读后我仍有一些关于感恩和自恋的思考。但毫无疑问的是，他的确是伟大和值得学习的。\n我十分欢迎大家学习他和思考他，一名康米战士的生活记录还是不好找的。特别是这么红，这么专的一个。\n总之。这本书。是非常好的书。十分推荐大家阅读。但一定推荐成年后再阅读。\n因为，在社会主义市场化的时代大背景下，小朋友年龄不够，接触这么红的书，再看看现实，可能会觉得现实和书里的差距很大，从而引起思想上的混乱和迷茫。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《图书评价》\n多年的精神问题让我的思想日趋肆意。经常反对前恋人的各种行善观点。因为前恋人和雷锋同志有点像，分手后痛苦难耐，花了几天时间就把这本雷锋全集看完了。\n雷锋同志是一个很有意思的人。他毫不利己，一心革命的精神值得敬佩，是一名真正的康米战士。 https://t.co/MfzobrVweo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046543769361637667].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046543769361637667",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046543769361637667"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046543743248158720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbIsQGa0AAPhSL.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1245,
+          "like_count": 12008,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 516
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

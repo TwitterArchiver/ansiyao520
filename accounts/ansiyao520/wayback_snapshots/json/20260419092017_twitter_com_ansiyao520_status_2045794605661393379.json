@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045794603065131008"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2045794605661393379",
+    "created_at": "2026-04-19T09:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045794605661393379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cCyuiv4RiN",
+          "end": 28,
+          "expanded_url": "https://x.com/ansiyao520/status/2045794605661393379/photo/1",
+          "media_key": "3_2045794603065131008",
+          "start": 5,
+          "url": "https://t.co/cCyuiv4RiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045794605661393379",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/cCyuiv4RiN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045794605661393379].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045794605661393379",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045794605661393379"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2045794603065131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQfWjcbwAAKQYR.jpg",
+        "width": 1672
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1217,
+          "like_count": 10285,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 450
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

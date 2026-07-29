@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063245888068448256"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063246321377857879",
+    "created_at": "2026-06-06T13:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063246321377857879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVnPQPjK1l",
+          "end": 250,
+          "expanded_url": "https://x.com/ansiyao520/status/2063246321377857879/video/1",
+          "media_key": "7_2063245888068448256",
+          "start": 227,
+          "url": "https://t.co/JVnPQPjK1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063246321377857879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我最讨厌的就是事后道歉！\n\nTake you all~\n带你\nTo my new nirvana.\n涅槃重获新生\nYou got you what you wanted~\n汝等如愿以偿\nBlood runs on me, come alive.\n鲜血奔涌，我苏醒\nAnd now I’ll!\n此刻我将\nTear!\n撕碎!\nTear!\n撕碎!\nTear !you\n撕碎!你\nDOWN~!\nYou said I’m crazy, here’s insane\n你说我疯狂 这才叫癫狂\nI swear I’ll put you all to shame\n我要让你们颜面扫地\nIn the end it was just too ****ing good to regret\n到头来一切痛快到毫不后悔\n(regret~)\n(regret~)"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最讨厌的就是事后道歉！\n\nTake you all~\n带你\nTo my new nirvana.\n涅槃重获新生\nYou got you what you wanted~\n汝等如愿以偿\nBlood runs on me, come alive.\n鲜血奔涌，我苏醒\nAnd now I’ll!\n此刻我将\nTear!\n撕碎!\nTear!\n撕碎!\nTear !you\n撕碎!你\nDOWN~!\nYou said I’m crazy, here’s insane https://t.co/JVnPQPjK1l"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063246321377857879].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063246321377857879",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063246321377857879"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 210306,
+        "height": 1280,
+        "media_key": "7_2063245888068448256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063245888068448256/pu/img/hHsVRxQ1puQFcKLl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063245888068448256/pu/vid/avc1/320x710/G3VCBy9T_jlI8Mmz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063245888068448256/pu/vid/avc1/480x1066/RrJa2vkSUIk_Lcs_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063245888068448256/pu/vid/avc1/576x1280/tG08zZTI2tHm9x1R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063245888068448256/pu/pl/LxwZSvCumymjc_wj.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1487,
+          "like_count": 20412,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1144
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

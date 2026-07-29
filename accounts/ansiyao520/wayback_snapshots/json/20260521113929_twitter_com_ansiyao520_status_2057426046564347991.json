@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2057397906790031661",
+    "created_at": "2026-05-21T11:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057426046564347991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057426046564347991",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057397906790031661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2057397868231901184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1YdembwAA0-Af.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2057397906790031661",
+        "created_at": "2026-05-21T11:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057426046564347991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057426046564347991",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057397906790031661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057397868231901184"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2057397906790031661",
+        "created_at": "2026-05-21T09:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057397906790031661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rW0s5UbP9l",
+              "end": 133,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2057397906790031661/photo/1",
+              "media_key": "3_2057397868231901184",
+              "start": 110,
+              "url": "https://t.co/rW0s5UbP9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057397906790031661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "下午在思考一些事，遂发一些碎碎念\n反正长文也没人看（笑\n\n其实医生、医院更多的只是帮你控制生命，不让你死\n能不能好，更多看你自己身体如何\n类似氟马西尼只能让苯二氮卓失去结合的位置，最终还是需要你自己身体把苯二氮卓代谢掉\n很多人抢救不回来，就是属于肝肾都衰竭了，身体没办法救自己了，无力回天了\n医学当然可以代替肝肾心肺，ecmo 血滤，用各种药物维持生命体征使其看起来“还活着”\n但是这属于强吊着命了\n这种情况下，不如放手让他走，但很多家属纠结于此，他们不愿意。或者说难听点，叫自私\n唉，只要脑电不是直线，他们就有意识，他们的精神是痛苦的\n麻醉剂当然可以让他们睡去，让他们无法感知，可这些人，真的愿意吗\n\n临终告别与照护真的是每一个人都应该去学习与感知的事呢.."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 498,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "下午在思考一些事，遂发一些碎碎念\n反正长文也没人看（笑\n\n其实医生、医院更多的只是帮你控制生命，不让你死\n能不能好，更多看你自己身体如何\n类似氟马西尼只能让苯二氮卓失去结合的位置，最终还是需要你自己身体把苯二氮卓代谢掉 https://t.co/rW0s5UbP9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1383,
+          "like_count": 17345,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 856
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 1290,
+          "like_count": 6758,
+          "listed_count": 8,
+          "media_count": 393,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

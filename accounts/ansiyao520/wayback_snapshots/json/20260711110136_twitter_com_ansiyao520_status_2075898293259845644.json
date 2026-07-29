@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075893407403458560"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2075898293259845644",
+    "created_at": "2026-07-11T11:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075898293259845644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3Bg0ky6Mm",
+          "end": 138,
+          "expanded_url": "https://x.com/ansiyao520/status/2075898293259845644/video/1",
+          "media_key": "7_2075893407403458560",
+          "start": 115,
+          "url": "https://t.co/e3Bg0ky6Mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075898293259845644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一直打游戏虽然头脑昏沉微痛但是总感觉兴奋无比。想着下午的六七点相当于我作息的三四点了，就关掉了游戏上床打算睡觉。可是又觉得无比空虚。无所事事。再玩下去肯定要猝死了。“忽然不玩游戏兴奋激素回落有轻微抑郁是正常的。”我如是安慰自己。\n我已经很久不会去想死了。一方面除了我确实生活得不错，到了大学，拿着超额的生活费，想做什么做什么。另一方面就是我的心里建设很重要十分完善。一方面我可以和亲密的人分享各种念头而免于被评判。另一方面就是我能十分清楚地把握住自己情绪的暂时性，知道自己的一些情绪是暂时的。我不会因为自己暂时的情绪损害自己长远的利益。就算再痛苦我也会坚持住，不让暂时的抑郁把我打败或者怎样。这些是我觉得大家需要而且也可以掌握的，一个需要练习或者说主动学习的能力。\n至于家庭权力斗争、个人经济权。我劝大家忍一忍，熬一熬。以后总会有出头的日子的。\n我不擅长具体的安慰。只能写一些如上的抽象的总结——要活着呀。亲爱的们。如果实在难过，可以来我这里听听歌，哭一哭。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直打游戏虽然头脑昏沉微痛但是总感觉兴奋无比。想着下午的六七点相当于我作息的三四点了，就关掉了游戏上床打算睡觉。可是又觉得无比空虚。无所事事。再玩下去肯定要猝死了。“忽然不玩游戏兴奋激素回落有轻微抑郁是正常的。”我如是安慰自己。 https://t.co/e3Bg0ky6Mm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 196872,
+        "height": 1088,
+        "media_key": "7_2075893407403458560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075893407403458560/pu/img/aIjmD9OPimPhjcNv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075893407403458560/pu/vid/avc1/320x604/8jxyqeTA2zwBW-mv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075893407403458560/pu/vid/avc1/480x906/_H45MREbAP3x3At_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075893407403458560/pu/vid/avc1/576x1088/96sw9gc8rPzSwJv6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075893407403458560/pu/pl/LGFUaSC3wT8mJGh9.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075893407403458560"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075898293259845644",
+        "created_at": "2026-07-11T11:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075898293259845644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3Bg0ky6Mm",
+              "end": 138,
+              "expanded_url": "https://x.com/ansiyao520/status/2075898293259845644/video/1",
+              "media_key": "7_2075893407403458560",
+              "start": 115,
+              "url": "https://t.co/e3Bg0ky6Mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075898293259845644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一直打游戏虽然头脑昏沉微痛但是总感觉兴奋无比。想着下午的六七点相当于我作息的三四点了，就关掉了游戏上床打算睡觉。可是又觉得无比空虚。无所事事。再玩下去肯定要猝死了。“忽然不玩游戏兴奋激素回落有轻微抑郁是正常的。”我如是安慰自己。\n我已经很久不会去想死了。一方面除了我确实生活得不错，到了大学，拿着超额的生活费，想做什么做什么。另一方面就是我的心里建设很重要十分完善。一方面我可以和亲密的人分享各种念头而免于被评判。另一方面就是我能十分清楚地把握住自己情绪的暂时性，知道自己的一些情绪是暂时的。我不会因为自己暂时的情绪损害自己长远的利益。就算再痛苦我也会坚持住，不让暂时的抑郁把我打败或者怎样。这些是我觉得大家需要而且也可以掌握的，一个需要练习或者说主动学习的能力。\n至于家庭权力斗争、个人经济权。我劝大家忍一忍，熬一熬。以后总会有出头的日子的。\n我不擅长具体的安慰。只能写一些如上的抽象的总结——要活着呀。亲爱的们。如果实在难过，可以来我这里听听歌，哭一哭。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直打游戏虽然头脑昏沉微痛但是总感觉兴奋无比。想着下午的六七点相当于我作息的三四点了，就关掉了游戏上床打算睡觉。可是又觉得无比空虚。无所事事。再玩下去肯定要猝死了。“忽然不玩游戏兴奋激素回落有轻微抑郁是正常的。”我如是安慰自己。 https://t.co/e3Bg0ky6Mm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1819,
+          "like_count": 29241,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048441385062445057"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2048441388564668716",
+    "created_at": "2026-04-26T16:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048441388564668716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ktt5TEWMZp",
+          "end": 98,
+          "expanded_url": "https://x.com/ansiyao520/status/2048441388564668716/photo/1",
+          "media_key": "3_2048441385062445057",
+          "start": 75,
+          "url": "https://t.co/ktt5TEWMZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048441388564668716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《精神分析从不与心理学为伍》\n\n我的核心取向是精神分析、存在主义与现象学哲学、语言与符号理论。这些工具擅长处理意义、欲望、结构、主体位置、符号秩序。\n\n它们确实不擅长判断某种行为是否符合某种精神障碍的诊断标准；建议是否需要药物治疗；评估某种身体改造的医学风险与收益；提供临床意义上的危机干预。\n\n但精神分析与精神医学是不同的领域。精神医学的操作对象是症状，目标是诊断与治疗。它问的是：“这个人符合哪种障碍的诊断标准？需要什么药物或干预？”；精神分析的操作对象则是欲望的结构与符号秩序，目标是让主体与自己的无意识建立新的关系。\n\n精神分析从一开始就不把自己定位为“异常心理学”或“精神医学”的分支。它不追求对症状的分类、统计或生物学还原。它的研究对象是主体性的结构——欲望、幻想、无意识的逻辑、言说与身体的关系。\n\n精神医学可以开药，认知行为疗法能训练思维模式，但它们都无法回答：为什么我们会重复痛苦、迷恋缺失、抗拒改变？这些问题并非“异常”，而是普通人类欲望的拓扑学。精神分析不治疗疾病。它无需为自己熟知多少诊断标准而辩解，只需要反问一句：你对自己的欲望了解多少？那个领域，是精神分析的地盘——别的学科进不来，也别想进来。\n\n精神分析不是一种科学，而是科学之外的认识论。\n\n不讨论对错。精神分析从来不和心理学为伍。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《精神分析从不与心理学为伍》\n\n我的核心取向是精神分析、存在主义与现象学哲学、语言与符号理论。这些工具擅长处理意义、欲望、结构、主体位置、符号秩序。 https://t.co/ktt5TEWMZp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048441388564668716].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048441388564668716",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048441388564668716"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2048441385062445057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2GlivbMAEPefO.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1270,
+          "like_count": 12988,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 563
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

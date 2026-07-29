@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2074462903621840940",
+    "created_at": "2026-07-08T10:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074796840135102499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882099914886537220",
+          "start": 0,
+          "username": "kkaawaayii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074796840135102499",
+    "in_reply_to_user_id": "1468883359090630657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在跨性别讨论中，天生叙事往往被当作政治盾牌。如果要允许后天的mtf存在，就必须停止使用天生论来证明mtf的合法性。\n更准确地来说，既然mtf觉得自己本身就是女生，何须用一个天生论来为自己辩护？我就在这里，我选择这样活，我如何还需要一个论文来允许我这样做。\n论文本身是在特定历史、政治和经济背景下生产的，它的结论受到太多非理性和权力的影响。我不可能让论文来确认我的生存。\n不吃这套谢谢。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074794927704444950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkaawaayii 在跨性别讨论中，天生叙事往往被当作政治盾牌。如果要允许后天的mtf存在，就必须停止使用天生论来证明mtf的合法性。\n更准确地来说，既然mtf觉得自己本身就是女生，何须用一个天生论来为自己辩护？我就在这里，我选择这样活，我如何还需要一个论文来允许我这样做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2074462903621840940",
+        "created_at": "2026-07-08T10:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074796840135102499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882099914886537220",
+              "start": 0,
+              "username": "kkaawaayii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074796840135102499",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在跨性别讨论中，天生叙事往往被当作政治盾牌。如果要允许后天的mtf存在，就必须停止使用天生论来证明mtf的合法性。\n更准确地来说，既然mtf觉得自己本身就是女生，何须用一个天生论来为自己辩护？我就在这里，我选择这样活，我如何还需要一个论文来允许我这样做。\n论文本身是在特定历史、政治和经济背景下生产的，它的结论受到太多非理性和权力的影响。我不可能让论文来确认我的生存。\n不吃这套谢谢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074794927704444950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkaawaayii 在跨性别讨论中，天生叙事往往被当作政治盾牌。如果要允许后天的mtf存在，就必须停止使用天生论来证明mtf的合法性。\n更准确地来说，既然mtf觉得自己本身就是女生，何须用一个天生论来为自己辩护？我就在这里，我选择这样活，我如何还需要一个论文来允许我这样做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2074462903621840940",
+        "created_at": "2026-07-08T09:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074794927704444950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882099914886537220",
+              "start": 0,
+              "username": "kkaawaayii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074794927704444950",
+        "in_reply_to_user_id": "1882099914886537220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074763560547475480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkaawaayii 666。我为什么要看傻逼写的傻逼论证文。不信就是不信。没有因为有论文就要信的道理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 1802,
+          "like_count": 28933,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 29,
+          "like_count": 8167,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      }
+    ]
+  }
+}

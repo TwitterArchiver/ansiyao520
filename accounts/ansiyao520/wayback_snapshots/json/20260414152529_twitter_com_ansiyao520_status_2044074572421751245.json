@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2044074572421751245",
+    "created_at": "2026-04-14T15:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044074572421751245"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044074572421751245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天洗完脸。往脸上抹润肤乳液是我最幸福的时刻。\n对我来说，追求美貌的路上，不能牺牲健康，朴素美是世界上最大的美。\n我用的润肤乳液，只含很少的油，质地很清爽，适合我的油皮。抹上去感觉特别舒服。这是属于我自己的雌二醇凝胶。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2044074572421751245",
+        "created_at": "2026-04-14T15:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044074572421751245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044074572421751245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天洗完脸。往脸上抹润肤乳液是我最幸福的时刻。\n对我来说，追求美貌的路上，不能牺牲健康，朴素美是世界上最大的美。\n我用的润肤乳液，只含很少的油，质地很清爽，适合我的油皮。抹上去感觉特别舒服。这是属于我自己的雌二醇凝胶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1071,
+          "like_count": 6338,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 390
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

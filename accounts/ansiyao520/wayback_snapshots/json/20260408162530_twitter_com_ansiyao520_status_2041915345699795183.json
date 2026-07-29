@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2041915345699795183",
+    "created_at": "2026-04-08T16:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041915345699795183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041915345699795183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都有幸福的人生。我无论怎么努力也是不懂社交的一条蛆。不想几把活了。死了还要被人唾弃说罪有应得。家人们觉得我还能活下去吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2041915345699795183",
+        "created_at": "2026-04-08T16:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041915345699795183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041915345699795183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都有幸福的人生。我无论怎么努力也是不懂社交的一条蛆。不想几把活了。死了还要被人唾弃说罪有应得。家人们觉得我还能活下去吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 788,
+          "like_count": 4182,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 172
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

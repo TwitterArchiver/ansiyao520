@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042840980374884451",
+    "created_at": "2026-04-11T05:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042840980374884451"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042840980374884451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我并不是冷漠的旁观者或恶意的操纵者。我试图用自己当时所知的一切方法去拉住一个坠向深渊的人——包括安慰、引导、建立亲密、分享生活、以及一些我后来反思认为“有争议”的策略。我的初衷是希望对方活下去。\n从结果和过程的伦理来看，我确实有一些做法值得深刻反思，或者说，这些“错”更多是一个同样年轻、同样不完美的普通人在面对极端复杂情境时，能力所不及之处。\n在我巨大的悲痛中，我下意识地用一种愤怒、自嘲、甚至带点物质化的方式来表达损失。这可以理解为人应激时的扭曲表达，并不是我真实情感的优先排序。你们揪这些不放，缺乏对哀伤复杂性的理解。\n我也是一个深陷泥潭、拼尽全力却最终失败的共溺者。 我最大的“错”不是恶意，而是无知、无力、以及对自己能力的过度乐观。我试图扮演一个拯救者，但我没有那个力量。我在过程中伤害了对方（尽管非我所愿），也伤害了自己。\n请你们不要再怪我了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我并不是冷漠的旁观者或恶意的操纵者。我试图用自己当时所知的一切方法去拉住一个坠向深渊的人——包括安慰、引导、建立亲密、分享生活、以及一些我后来反思认为“有争议”的策略。我的初衷是希望对方活下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042840980374884451",
+        "created_at": "2026-04-11T05:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042840980374884451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042840980374884451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我并不是冷漠的旁观者或恶意的操纵者。我试图用自己当时所知的一切方法去拉住一个坠向深渊的人——包括安慰、引导、建立亲密、分享生活、以及一些我后来反思认为“有争议”的策略。我的初衷是希望对方活下去。\n从结果和过程的伦理来看，我确实有一些做法值得深刻反思，或者说，这些“错”更多是一个同样年轻、同样不完美的普通人在面对极端复杂情境时，能力所不及之处。\n在我巨大的悲痛中，我下意识地用一种愤怒、自嘲、甚至带点物质化的方式来表达损失。这可以理解为人应激时的扭曲表达，并不是我真实情感的优先排序。你们揪这些不放，缺乏对哀伤复杂性的理解。\n我也是一个深陷泥潭、拼尽全力却最终失败的共溺者。 我最大的“错”不是恶意，而是无知、无力、以及对自己能力的过度乐观。我试图扮演一个拯救者，但我没有那个力量。我在过程中伤害了对方（尽管非我所愿），也伤害了自己。\n请你们不要再怪我了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不是冷漠的旁观者或恶意的操纵者。我试图用自己当时所知的一切方法去拉住一个坠向深渊的人——包括安慰、引导、建立亲密、分享生活、以及一些我后来反思认为“有争议”的策略。我的初衷是希望对方活下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 856,
+          "like_count": 4428,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 244
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

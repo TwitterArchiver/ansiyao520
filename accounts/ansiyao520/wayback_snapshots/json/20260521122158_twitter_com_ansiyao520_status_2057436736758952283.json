@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057436734179393536"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057436736758952283",
+    "created_at": "2026-05-21T12:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057436736758952283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OSHVL3yHt1",
+          "end": 105,
+          "expanded_url": "https://x.com/ansiyao520/status/2057436736758952283/photo/1",
+          "media_key": "3_2057436734179393536",
+          "start": 82,
+          "url": "https://t.co/OSHVL3yHt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057436736758952283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "刚开始玩儿这个游戏的时候，感觉挺荒诞的。就是这个地球儿就被水淹了，然后这个主角儿腿也断了。就又瘸腿，然后世界又末日了，真的感觉挺荒诞的。也不知道这游戏要玩儿什么。\n然后就是忽然捞出来一个机器人，开始发生一些有意思的经历——帮了一个学校小朋友建了一个水力发电车。虽然也不是什么大事儿吧，但是也挺有意思的。在这期间还认识了很多新的朋友。\n虽然这个世界如此荒诞，但是认识这么多朋友还是挺开心的。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚开始玩儿这个游戏的时候，感觉挺荒诞的。就是这个地球儿就被水淹了，然后这个主角儿腿也断了。就又瘸腿，然后世界又末日了，真的感觉挺荒诞的。也不知道这游戏要玩儿什么。 https://t.co/OSHVL3yHt1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057436736758952283].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057436736758952283",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057436736758952283"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2057436734179393536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI17zxiaQAAlr5e.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1383,
+          "like_count": 17354,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 857
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

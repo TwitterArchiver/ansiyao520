@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063413712103579648",
+        "3_2063413718285955072",
+        "3_2063413716662775808"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063413736904527962",
+    "created_at": "2026-06-07T00:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063413736904527962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYDSi7VK7N",
+          "end": 31,
+          "expanded_url": "https://x.com/ansiyao520/status/2063413736904527962/photo/1",
+          "media_key": "3_2063413712103579648",
+          "start": 8,
+          "url": "https://t.co/VYDSi7VK7N"
+        },
+        {
+          "display_url": "pic.x.com/VYDSi7VK7N",
+          "end": 31,
+          "expanded_url": "https://x.com/ansiyao520/status/2063413736904527962/photo/1",
+          "media_key": "3_2063413718285955072",
+          "start": 8,
+          "url": "https://t.co/VYDSi7VK7N"
+        },
+        {
+          "display_url": "pic.x.com/VYDSi7VK7N",
+          "end": 31,
+          "expanded_url": "https://x.com/ansiyao520/status/2063413736904527962/photo/1",
+          "media_key": "3_2063413716662775808",
+          "start": 8,
+          "url": "https://t.co/VYDSi7VK7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063413736904527962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家注意身体。 https://t.co/VYDSi7VK7N"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063413736904527962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063413736904527962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063413736904527962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1907,
+        "media_key": "3_2063413712103579648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK31raaoAA_s6d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1836,
+        "media_key": "3_2063413718285955072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK32CcaMAAGzL6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1912,
+        "media_key": "3_2063413716662775808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK318ZacAA1-oQ.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 1490,
+          "like_count": 20471,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1150
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

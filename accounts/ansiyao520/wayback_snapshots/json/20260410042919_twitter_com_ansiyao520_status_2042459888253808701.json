@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042459888253808701",
+    "created_at": "2026-04-10T04:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042459888253808701"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042459888253808701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是想发表一些“特立独行”的观点，留下自己的看法。因为转载容易引起当事人注意，引起不必要的争吵。所以此后我的转载采用匿名化截图的方式对一些已经公开发表的内容进行转载，并附上自己的观点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042459888253808701",
+        "created_at": "2026-04-10T04:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042459888253808701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042459888253808701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是想发表一些“特立独行”的观点，留下自己的看法。因为转载容易引起当事人注意，引起不必要的争吵。所以此后我的转载采用匿名化截图的方式对一些已经公开发表的内容进行转载，并附上自己的观点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4265,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 201
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

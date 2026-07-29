@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049407326499864576",
+        "3_2049407328714457088",
+        "3_2049407330144694272"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049407333558862142",
+    "created_at": "2026-04-29T08:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049407333558862142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jBYnWvSoEi",
+          "end": 89,
+          "expanded_url": "https://x.com/ansiyao520/status/2049407333558862142/photo/1",
+          "media_key": "3_2049407326499864576",
+          "start": 66,
+          "url": "https://t.co/jBYnWvSoEi"
+        },
+        {
+          "display_url": "pic.x.com/jBYnWvSoEi",
+          "end": 89,
+          "expanded_url": "https://x.com/ansiyao520/status/2049407333558862142/photo/1",
+          "media_key": "3_2049407328714457088",
+          "start": 66,
+          "url": "https://t.co/jBYnWvSoEi"
+        },
+        {
+          "display_url": "pic.x.com/jBYnWvSoEi",
+          "end": 89,
+          "expanded_url": "https://x.com/ansiyao520/status/2049407333558862142/photo/1",
+          "media_key": "3_2049407330144694272",
+          "start": 66,
+          "url": "https://t.co/jBYnWvSoEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049407333558862142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这客人开的玩笑也太重了。\n让人讨厌。\n镜头给了小孩好几秒。\n小孩委屈死了。\n你占我房间，还开关于得寸进尺的玩笑。考虑我的感受了吗。 https://t.co/jBYnWvSoEi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049407333558862142].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049407333558862142",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049407333558862142"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049407326499864576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD1GvAbgAAmsIL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049407328714457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD1G3QbgAArbxS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049407330144694272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD1G8lbMAAnMNx.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1306,
+          "like_count": 13961,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 609
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

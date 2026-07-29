@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049430295091515392"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049430297847173499",
+    "created_at": "2026-04-29T10:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049430297847173499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zr070Vrp80",
+          "end": 117,
+          "expanded_url": "https://x.com/ansiyao520/status/2049430297847173499/photo/1",
+          "media_key": "3_2049430295091515392",
+          "start": 94,
+          "url": "https://t.co/zr070Vrp80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049430297847173499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是吧。这小男孩还喜欢上老头乐啊。这是什么心理。我对世界充满善意，换来的只有性欲？\n老头一点作为长辈的责任都没有。竟然利用小男孩的好感，善良和喜欢谈恋爱？\n是这样吗。我继续看。下去看看。 https://t.co/zr070Vrp80"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049430297847173499].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049430297847173499",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049430297847173499"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049430295091515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEJ_rrakAAlp1Z.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1306,
+          "like_count": 14078,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 639
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

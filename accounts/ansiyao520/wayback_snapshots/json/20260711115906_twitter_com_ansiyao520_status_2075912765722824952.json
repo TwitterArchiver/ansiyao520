@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075912763059412992"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2075912765722824952",
+    "created_at": "2026-07-11T11:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075912765722824952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0MACaO9ERm",
+          "end": 131,
+          "expanded_url": "https://x.com/ansiyao520/status/2075912765722824952/photo/1",
+          "media_key": "3_2075912763059412992",
+          "start": 108,
+          "url": "https://t.co/0MACaO9ERm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075912765722824952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你说要是都像这样十几岁和父母闹崩了，被扫地出门，连个家也没有，不说他有多可怜多没未来。就从救助者的角度来说，这么多人救得过来吗。那得要多少钱。大家也不是大富大贵，咋可能养十几号小朋友吃饭的嘴，更不要说送他们上学了。\n就算是从救助者的角度，也要大力引导有条件的人努力去学习，这不仅是扩大知道生活苦、以后会帮助别人的底层出身精英的数量。同时也是让有能力有文化条件自己养活自己不用接受援助的人都滚去自力更生。把资源分配给真的社会化完全失败完全活不下去的那种人。\n做好事必须要讲求效率。不能帮一个算一个。这是绝对错误的。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说要是都像这样十几岁和父母闹崩了，被扫地出门，连个家也没有，不说他有多可怜多没未来。就从救助者的角度来说，这么多人救得过来吗。那得要多少钱。大家也不是大富大贵，咋可能养十几号小朋友吃饭的嘴，更不要说送他们上学了。 https://t.co/0MACaO9ERm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2075912763059412992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8fqMrbIAAzRQq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075912763059412992"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075912765722824952",
+        "created_at": "2026-07-11T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075912765722824952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MACaO9ERm",
+              "end": 131,
+              "expanded_url": "https://x.com/ansiyao520/status/2075912765722824952/photo/1",
+              "media_key": "3_2075912763059412992",
+              "start": 108,
+              "url": "https://t.co/0MACaO9ERm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075912765722824952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说要是都像这样十几岁和父母闹崩了，被扫地出门，连个家也没有，不说他有多可怜多没未来。就从救助者的角度来说，这么多人救得过来吗。那得要多少钱。大家也不是大富大贵，咋可能养十几号小朋友吃饭的嘴，更不要说送他们上学了。\n就算是从救助者的角度，也要大力引导有条件的人努力去学习，这不仅是扩大知道生活苦、以后会帮助别人的底层出身精英的数量。同时也是让有能力有文化条件自己养活自己不用接受援助的人都滚去自力更生。把资源分配给真的社会化完全失败完全活不下去的那种人。\n做好事必须要讲求效率。不能帮一个算一个。这是绝对错误的。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说要是都像这样十几岁和父母闹崩了，被扫地出门，连个家也没有，不说他有多可怜多没未来。就从救助者的角度来说，这么多人救得过来吗。那得要多少钱。大家也不是大富大贵，咋可能养十几号小朋友吃饭的嘴，更不要说送他们上学了。 https://t.co/0MACaO9ERm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1819,
+          "like_count": 29253,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

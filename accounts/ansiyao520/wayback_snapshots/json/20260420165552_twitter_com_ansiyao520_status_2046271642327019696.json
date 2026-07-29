@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046258098139255023",
+    "created_at": "2026-04-20T16:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046271642327019696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1979336068924395520",
+          "start": 0,
+          "username": "ShiroyukiNoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046271642327019696",
+    "in_reply_to_user_id": "1979336068924395520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从弗洛伊德《梦的解析》理论来看，梦是“愿望的满足”与潜意识冲突的伪装表达。你这个梦的核心情绪是困惑、失控与隐秘的焦虑，而非单纯的愿望实现。\n\n1. 怀孕：象征性的“未知结果”\n弗洛伊德认为，怀孕常象征某种正在酝酿但尚未成形的心理内容——比如一段感情、一个创意或一个即将承担的责任。“不知道是谁的”反映了你对当前生活中某件事缺乏掌控感，可能是对感情走向的不确定，或对自己某个决定（甚至潜意识冲动）后果的茫然。\n\n2. 喜欢的人追问，你答不出\n这映射了现实中的沟通与自我认知障碍。你喜欢的人出现在梦里，代表你在意他对你的看法。但梦中的你无法回答——不是隐瞒，而是“自己也不知道”。这揭示了你内心对自己真实感受或处境的模糊感：也许你并未完全确定自己对他的感情，或者害怕自己无法满足他的期待，又或者现实中存在你不敢/不愿直面的秘密。\n\n3. 回家路上昏睡，坐在路边\n“家”在弗洛伊德理论中常象征安全、归宿或自我本源。回家路上昏睡，意味着你在通往内心安定或明确目标的途中遇到了阻碍——疲惫、逃避或意识暂时“断电”。坐在路边睡觉是一种退行行为（退回婴儿般无助状态），暗示现实压力让你渴望放下所有责任，甚至想“停下来，什么都不管”。\n\n4. 醒来喝水，缓缓回家\n水在梦中常代表情感与生命本源。醒来后喝水，可解读为一种自我安抚与整合——你从潜意识的混乱中稍作清醒，试图用最基础的方式（解渴）恢复平静，然后“缓缓”面对现实。这个结尾暗示：尽管梦暴露了你的焦虑，但你仍有温和的调节能力，最终会带着疲惫但清醒的状态回归日常。\n\n综合来看：这个梦并非预言，而是你近期心理状态的浓缩——可能正面临一段让你感到不确定的感情或人生阶段，害怕对喜欢的人暴露自己的“迷茫”，同时潜意识里渴望放下所有疑问，先彻底休息。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046258098139255023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroyukiNoa 从弗洛伊德《梦的解析》理论来看，梦是“愿望的满足”与潜意识冲突的伪装表达。你这个梦的核心情绪是困惑、失控与隐秘的焦虑，而非单纯的愿望实现。\n\n1. 怀孕：象征性的“未知结果”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 104,
+        "media_key": "3_2046258096079806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXE5ZeaoAAZj5o.jpg",
+        "width": 88
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046258098139255023",
+        "created_at": "2026-04-20T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046271642327019696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1979336068924395520",
+              "start": 0,
+              "username": "ShiroyukiNoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046271642327019696",
+        "in_reply_to_user_id": "1979336068924395520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从弗洛伊德《梦的解析》理论来看，梦是“愿望的满足”与潜意识冲突的伪装表达。你这个梦的核心情绪是困惑、失控与隐秘的焦虑，而非单纯的愿望实现。\n\n1. 怀孕：象征性的“未知结果”\n弗洛伊德认为，怀孕常象征某种正在酝酿但尚未成形的心理内容——比如一段感情、一个创意或一个即将承担的责任。“不知道是谁的”反映了你对当前生活中某件事缺乏掌控感，可能是对感情走向的不确定，或对自己某个决定（甚至潜意识冲动）后果的茫然。\n\n2. 喜欢的人追问，你答不出\n这映射了现实中的沟通与自我认知障碍。你喜欢的人出现在梦里，代表你在意他对你的看法。但梦中的你无法回答——不是隐瞒，而是“自己也不知道”。这揭示了你内心对自己真实感受或处境的模糊感：也许你并未完全确定自己对他的感情，或者害怕自己无法满足他的期待，又或者现实中存在你不敢/不愿直面的秘密。\n\n3. 回家路上昏睡，坐在路边\n“家”在弗洛伊德理论中常象征安全、归宿或自我本源。回家路上昏睡，意味着你在通往内心安定或明确目标的途中遇到了阻碍——疲惫、逃避或意识暂时“断电”。坐在路边睡觉是一种退行行为（退回婴儿般无助状态），暗示现实压力让你渴望放下所有责任，甚至想“停下来，什么都不管”。\n\n4. 醒来喝水，缓缓回家\n水在梦中常代表情感与生命本源。醒来后喝水，可解读为一种自我安抚与整合——你从潜意识的混乱中稍作清醒，试图用最基础的方式（解渴）恢复平静，然后“缓缓”面对现实。这个结尾暗示：尽管梦暴露了你的焦虑，但你仍有温和的调节能力，最终会带着疲惫但清醒的状态回归日常。\n\n综合来看：这个梦并非预言，而是你近期心理状态的浓缩——可能正面临一段让你感到不确定的感情或人生阶段，害怕对喜欢的人暴露自己的“迷茫”，同时潜意识里渴望放下所有疑问，先彻底休息。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258098139255023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroyukiNoa 从弗洛伊德《梦的解析》理论来看，梦是“愿望的满足”与潜意识冲突的伪装表达。你这个梦的核心情绪是困惑、失控与隐秘的焦虑，而非单纯的愿望实现。\n\n1. 怀孕：象征性的“未知结果”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046258096079806464"
+          ]
+        },
+        "author_id": "1979336068924395520",
+        "conversation_id": "2046258098139255023",
+        "created_at": "2026-04-20T16:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046258098139255023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oA8U6LkLRr",
+              "end": 115,
+              "expanded_url": "https://x.com/ShiroyukiNoa/status/2046258098139255023/photo/1",
+              "media_key": "3_2046258096079806464",
+              "start": 92,
+              "url": "https://t.co/oA8U6LkLRr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2046258098139255023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好离谱…\n梦到我怀孕了，但是不知道是谁的，喜欢的人怎么问我我也答不上来，我自己也不知道\n然后在回家的路上昏睡了，就坐在路边睡到现在才起来…喝点水缓缓回家了\n话说有没有解梦大师快帮帮我 https://t.co/oA8U6LkLRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1242,
+          "like_count": 11365,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 481
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-17T23:58:00.000Z",
+        "description": "已成年00后infp摩羯座女生。\n心理健康极少玉玉，不想回的私信不会回。\n开始更新日推音乐系列但是纯主观～\n欢迎截屏打卡一起听歌～\n称呼嘛可以叫我noa\n想聊天随时可以私信～",
+        "id": "1979336068924395520",
+        "location": "Hong Kong",
+        "name": "白雪乃爱",
+        "pinned_tweet_id": "2022603083004678337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022601888861163520/JLns_ZHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 37,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 124
+        },
+        "username": "ShiroyukiNoa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2079532650394792130",
+    "created_at": "2026-07-21T13:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079564027152466066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1669681207460925441",
+          "start": 0,
+          "username": "cj251051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079564027152466066",
+    "in_reply_to_user_id": "1669681207460925441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079532650394792130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cj251051 直接表白然后就谈上了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2079532650394792130",
+        "created_at": "2026-07-21T13:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079564027152466066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1669681207460925441",
+              "start": 0,
+              "username": "cj251051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079564027152466066",
+        "in_reply_to_user_id": "1669681207460925441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079532650394792130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cj251051 直接表白然后就谈上了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669681207460925441",
+        "conversation_id": "2079532650394792130",
+        "created_at": "2026-07-21T11:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079532650394792130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079532650394792130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家的对象都是怎么谈上的喵....\n一直在喜欢一个人，但初中毕业后却很少联系了....\n三年了喵..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1856,
+          "like_count": 30147,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T12:20:11.000Z",
+        "description": "人生如逆旅，我亦是行人\n泛性恋mtf｜蒟蒻MOer&BOer｜ACGN｜人间观察者｜摄影｜Nikon FE2｜书法｜音乐｜低浓度二次元｜哲学和法学｜自然科学｜INFJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/register?ref=A…",
+                "end": 23,
+                "expanded_url": "https://accounts.binance.com/register?ref=AB5555",
+                "start": 0,
+                "url": "https://t.co/dK5NJ6eOXh"
+              }
+            ]
+          }
+        },
+        "id": "1669681207460925441",
+        "name": "春江🌸",
+        "pinned_tweet_id": "2078508280918548608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948205042466742272/VtEDi8N-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1223,
+          "like_count": 990,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/dK5NJ6eOXh",
+        "username": "cj251051",
+        "verified": false
+      }
+    ]
+  }
+}

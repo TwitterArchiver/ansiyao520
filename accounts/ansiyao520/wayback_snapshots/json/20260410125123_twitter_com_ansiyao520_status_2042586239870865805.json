@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2040869848641892825",
+    "created_at": "2026-04-10T12:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042586239870865805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421342079398129666",
+          "start": 0,
+          "username": "jrgnBtLX4N2yx88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042586239870865805",
+    "in_reply_to_user_id": "1421342079398129666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042584400387555634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jrgnBtLX4N2yx88 爱你哦♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2040869848641892825",
+        "created_at": "2026-04-10T12:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042586239870865805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421342079398129666",
+              "start": 0,
+              "username": "jrgnBtLX4N2yx88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042586239870865805",
+        "in_reply_to_user_id": "1421342079398129666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042584400387555634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jrgnBtLX4N2yx88 爱你哦♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421342079398129666",
+        "conversation_id": "2040869848641892825",
+        "created_at": "2026-04-10T12:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042584400387555634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042584400387555634",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042576873469940053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 爱你姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042571364171944368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 810,
+          "like_count": 4306,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 212
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-31T05:29:21.000Z",
+        "description": "碎碎念，日记，还有瑟瑟（也许）",
+        "id": "1421342079398129666",
+        "name": "木木(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037177927587291138/SWAWuk1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "jrgnBtLX4N2yx88",
+        "verified": false
+      }
+    ]
+  }
+}

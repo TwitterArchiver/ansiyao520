@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042835087935574024",
+        "3_2042835088682160128",
+        "3_2042835089487466499",
+        "3_2042835090091446276"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042835092708692303",
+    "created_at": "2026-04-11T05:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042835092708692303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ImSe1yD6rX",
+          "end": 140,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+          "media_key": "3_2042835087935574024",
+          "start": 117,
+          "url": "https://t.co/ImSe1yD6rX"
+        },
+        {
+          "display_url": "pic.x.com/ImSe1yD6rX",
+          "end": 140,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+          "media_key": "3_2042835088682160128",
+          "start": 117,
+          "url": "https://t.co/ImSe1yD6rX"
+        },
+        {
+          "display_url": "pic.x.com/ImSe1yD6rX",
+          "end": 140,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+          "media_key": "3_2042835089487466499",
+          "start": 117,
+          "url": "https://t.co/ImSe1yD6rX"
+        },
+        {
+          "display_url": "pic.x.com/ImSe1yD6rX",
+          "end": 140,
+          "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+          "media_key": "3_2042835090091446276",
+          "start": 117,
+          "url": "https://t.co/ImSe1yD6rX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042835092708692303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "part7\n→小遥带我看了她最喜欢的电影→送过年礼物。过年礼物是我用自己的压岁钱买的，他死了我无处哭诉，于是惋惜一下自己的压岁钱没了也不行吗，我用语确实不当，可是你们又能怎么苛责我→争议：我对小遥产生的色欲和情欲→小遥分享自己的感情 https://t.co/ImSe1yD6rX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2038,
+        "media_key": "3_2042835087935574024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmbsGcakAgPq8S.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2017,
+        "media_key": "3_2042835088682160128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmbsJOakAAG-fw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2053,
+        "media_key": "3_2042835089487466499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmbsMOakAM6Um7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2058,
+        "media_key": "3_2042835090091446276",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmbsOeakAQ_6yE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042835087935574024",
+            "3_2042835088682160128",
+            "3_2042835089487466499",
+            "3_2042835090091446276"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042835092708692303",
+        "created_at": "2026-04-11T05:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042835092708692303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ImSe1yD6rX",
+              "end": 140,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+              "media_key": "3_2042835087935574024",
+              "start": 117,
+              "url": "https://t.co/ImSe1yD6rX"
+            },
+            {
+              "display_url": "pic.x.com/ImSe1yD6rX",
+              "end": 140,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+              "media_key": "3_2042835088682160128",
+              "start": 117,
+              "url": "https://t.co/ImSe1yD6rX"
+            },
+            {
+              "display_url": "pic.x.com/ImSe1yD6rX",
+              "end": 140,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+              "media_key": "3_2042835089487466499",
+              "start": 117,
+              "url": "https://t.co/ImSe1yD6rX"
+            },
+            {
+              "display_url": "pic.x.com/ImSe1yD6rX",
+              "end": 140,
+              "expanded_url": "https://x.com/ansiyao520/status/2042835092708692303/photo/1",
+              "media_key": "3_2042835090091446276",
+              "start": 117,
+              "url": "https://t.co/ImSe1yD6rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042835092708692303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "part7\n→小遥带我看了她最喜欢的电影→送过年礼物。过年礼物是我用自己的压岁钱买的，他死了我无处哭诉，于是惋惜一下自己的压岁钱没了也不行吗，我用语确实不当，可是你们又能怎么苛责我→争议：我对小遥产生的色欲和情欲→小遥分享自己的感情 https://t.co/ImSe1yD6rX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 856,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 234
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

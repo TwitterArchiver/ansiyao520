@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2072730101670928490",
+    "created_at": "2026-07-02T17:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072730101670928490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1827053984521318400",
+          "start": 3,
+          "username": "C_baba_66ccff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072730101670928490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072715057579073839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C_baba_66ccff: 我他妈不妥协怎么你了\n非要等我急了再来哄是吗\n死给你看要不要试试\n硝酸甘油+一抽屉安定没输完人先走了\n反正我死法多着呢\n……开始拟遗书吧\n对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2072730101670928490",
+        "created_at": "2026-07-02T17:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072730101670928490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1827053984521318400",
+              "start": 3,
+              "username": "C_baba_66ccff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072730101670928490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072715057579073839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C_baba_66ccff: 我他妈不妥协怎么你了\n非要等我急了再来哄是吗\n死给你看要不要试试\n硝酸甘油+一抽屉安定没输完人先走了\n反正我死法多着呢\n……开始拟遗书吧\n对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827053984521318400",
+        "conversation_id": "2072715057579073839",
+        "created_at": "2026-07-02T16:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072715057579073839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072715057579073839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈不妥协怎么你了\n非要等我急了再来哄是吗\n死给你看要不要试试\n硝酸甘油+一抽屉安定没输完人先走了\n反正我死法多着呢\n……开始拟遗书吧\n对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1759,
+          "like_count": 27834,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 1700
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜持证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜双相情感障碍｜半夜发癫｜ wota藝初心者｜锦依卫｜洛天依｜停电前夜｜小号@C_baba_tianyi｜可爱猫猫@AGeSang2008喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/C_baba_tianyi0…",
+                "end": 23,
+                "expanded_url": "http://t.me/C_baba_tianyi0712",
+                "start": 0,
+                "url": "https://t.co/J8u13x28mK"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2020509877383393497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 929,
+          "like_count": 24891,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/J8u13x28mK",
+        "username": "C_baba_66ccff",
+        "verified": true
+      }
+    ]
+  }
+}

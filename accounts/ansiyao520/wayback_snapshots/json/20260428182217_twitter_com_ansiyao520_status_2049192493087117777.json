@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2049192493087117777",
+    "created_at": "2026-04-28T18:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049192493087117777"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049192493087117777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我看过的第一部印象深刻的电影是《肖申克的救赎》。\n那时因为疫情封校，连续两个月也回不了家，学校就每周给我们放电影看。在那么压抑的好几个月回不去家的学校学习环境里。看到一部“越狱片”。那是多么奢侈的娱乐啊。\n肖申克不断算计和智谋去逃脱监狱的一举一动都让我震颤。当他踏上自由的土地上，我也感到前所未有的释放和释怀。陶冶情绪。\n我也希望自己能做一个像肖申克一样逃脱了资本主义世界的个体，拿着一笔钱在一片世外桃源上过着休闲的人生。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看过的第一部印象深刻的电影是《肖申克的救赎》。\n那时因为疫情封校，连续两个月也回不了家，学校就每周给我们放电影看。在那么压抑的好几个月回不去家的学校学习环境里。看到一部“越狱片”。那是多么奢侈的娱乐啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2049192493087117777",
+        "created_at": "2026-04-28T18:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049192493087117777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049192493087117777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我看过的第一部印象深刻的电影是《肖申克的救赎》。\n那时因为疫情封校，连续两个月也回不了家，学校就每周给我们放电影看。在那么压抑的好几个月回不去家的学校学习环境里。看到一部“越狱片”。那是多么奢侈的娱乐啊。\n肖申克不断算计和智谋去逃脱监狱的一举一动都让我震颤。当他踏上自由的土地上，我也感到前所未有的释放和释怀。陶冶情绪。\n我也希望自己能做一个像肖申克一样逃脱了资本主义世界的个体，拿着一笔钱在一片世外桃源上过着休闲的人生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看过的第一部印象深刻的电影是《肖申克的救赎》。\n那时因为疫情封校，连续两个月也回不了家，学校就每周给我们放电影看。在那么压抑的好几个月回不去家的学校学习环境里。看到一部“越狱片”。那是多么奢侈的娱乐啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1306,
+          "like_count": 13800,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 598
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

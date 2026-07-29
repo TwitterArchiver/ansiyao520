@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048023414934520046",
+    "created_at": "2026-04-25T12:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048023414934520046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2048021930721390975",
+          "start": 102,
+          "url": "https://t.co/FJ1vPlieHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048023414934520046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048021930721390975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好学习。不要挂科。玩游戏要有度。该干什么干什么。\n被傻子为难，不气不怒，明哲保身，该怎么处理怎么处理。\n有不同于主流社会的个人需求、爱好，藏好自己，经济独立后，私底下玩玩，怡情就好。\n混日子，会不会。 https://t.co/FJ1vPlieHy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048023414934520046",
+        "created_at": "2026-04-25T12:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048023414934520046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2048021930721390975",
+              "start": 102,
+              "url": "https://t.co/FJ1vPlieHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048023414934520046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048021930721390975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好学习。不要挂科。玩游戏要有度。该干什么干什么。\n被傻子为难，不气不怒，明哲保身，该怎么处理怎么处理。\n有不同于主流社会的个人需求、爱好，藏好自己，经济独立后，私底下玩玩，怡情就好。\n混日子，会不会。 https://t.co/FJ1vPlieHy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048021930721390975",
+        "created_at": "2026-04-25T12:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048021930721390975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2048020727543353404",
+              "start": 29,
+              "url": "https://t.co/95Mz6Vwn8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048021930721390975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048020727543353404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都要好好过日子喵。\n做一个普通人。无忧无虑的普通人。 https://t.co/95Mz6Vwn8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1267,
+          "like_count": 12862,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 550
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

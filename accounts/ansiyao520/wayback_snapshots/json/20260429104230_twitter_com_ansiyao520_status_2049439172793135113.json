@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049439172793135113",
+    "created_at": "2026-04-29T10:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049439172793135113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049439033709994387",
+          "start": 14,
+          "url": "https://t.co/b3hWymU0TK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049439172793135113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049439033709994387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草这安思瑶怎么这么坏啊。 https://t.co/b3hWymU0TK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049439172793135113",
+        "created_at": "2026-04-29T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049439172793135113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049439033709994387",
+              "start": 14,
+              "url": "https://t.co/b3hWymU0TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049439172793135113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049439033709994387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草这安思瑶怎么这么坏啊。 https://t.co/b3hWymU0TK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049439033709994387",
+        "created_at": "2026-04-29T10:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049439033709994387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049437561450615264",
+              "start": 84,
+              "url": "https://t.co/v5k6PJ5OYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049439033709994387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049437561450615264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也就是说。对于个体而讲。因为一些偶然，和好感，而在一起。其实是幸福的事。只有我让大家不幸福。换个人来，这就是幸福的事了。这说来说去又全成我的错了怎么。我就这么该死吗。 https://t.co/v5k6PJ5OYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1306,
+          "like_count": 14080,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 645
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

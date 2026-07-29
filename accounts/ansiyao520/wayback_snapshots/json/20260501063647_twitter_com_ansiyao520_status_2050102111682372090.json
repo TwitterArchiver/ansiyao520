@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050102108935053312"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2050102111682372090",
+    "created_at": "2026-05-01T06:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050102111682372090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJ4N57oxhJ",
+          "end": 51,
+          "expanded_url": "https://x.com/ansiyao520/status/2050102111682372090/photo/1",
+          "media_key": "3_2050102108935053312",
+          "start": 28,
+          "url": "https://t.co/SJ4N57oxhJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050102111682372090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃不愧是美国人一上来就给别的政体扣了个极权大帽子呀。 https://t.co/SJ4N57oxhJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050102111682372090].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050102111682372090",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050102111682372090"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050102108935053312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNtAZRaYAAWsiV.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1335,
+          "like_count": 15042,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 722
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

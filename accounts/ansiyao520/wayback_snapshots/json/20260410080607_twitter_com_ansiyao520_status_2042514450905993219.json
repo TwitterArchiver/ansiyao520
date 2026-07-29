@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042514440479027200"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042514450905993219",
+    "created_at": "2026-04-10T08:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042514450905993219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8XCe8VcXeh",
+          "end": 88,
+          "expanded_url": "https://x.com/ansiyao520/status/2042514450905993219/photo/1",
+          "media_key": "3_2042514440479027200",
+          "start": 65,
+          "url": "https://t.co/8XCe8VcXeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042514450905993219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怪上面不是出路。上面也不是没有人性。这样的抨击毫无意义，只会被当无所谓的舆论弃之一边。重要的要有合适的理论武器，切实的行动路径。 https://t.co/8XCe8VcXeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2042514440479027200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh4D9lbsAAxhT_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042514440479027200"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042514450905993219",
+        "created_at": "2026-04-10T08:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042514450905993219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XCe8VcXeh",
+              "end": 88,
+              "expanded_url": "https://x.com/ansiyao520/status/2042514450905993219/photo/1",
+              "media_key": "3_2042514440479027200",
+              "start": 65,
+              "url": "https://t.co/8XCe8VcXeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042514450905993219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪上面不是出路。上面也不是没有人性。这样的抨击毫无意义，只会被当无所谓的舆论弃之一边。重要的要有合适的理论武器，切实的行动路径。 https://t.co/8XCe8VcXeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4270,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 204
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

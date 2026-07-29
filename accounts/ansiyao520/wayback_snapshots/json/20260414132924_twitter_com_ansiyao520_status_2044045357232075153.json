@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044044451212079108"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044045357232075153",
+    "created_at": "2026-04-14T13:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:25:48.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044044453971902857",
+      "2044045287774400989",
+      "2044045357232075153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SzogDtcPHQ",
+          "end": 98,
+          "expanded_url": "https://x.com/ansiyao520/status/2044045357232075153/photo/1",
+          "media_key": "3_2044044451212079108",
+          "start": 75,
+          "url": "https://t.co/SzogDtcPHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044045357232075153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。\n由于甜菊苷类是一种非糖甜味剂，吃进嘴里不会在口腔内细菌作用下产生酸，因此采用它制作的糖果食品，不会因产生酸而腐蚀牙齿，可被用来预防儿童龋齿。由于甜菊苷可耐酸碱，并在pH值4-10范围内，100℃下加热，其化学结构不会发生变化，不会产生微生物所需要的葡萄糖，属于非发酵性的物质，常用于食品保鲜和药品防霉。甜菊苷类在人体内几乎不被代谢，食后不会产生过多热量，故常用来制作肥胖症患者的甜食品，儿童食用的甜菊饮料或甜菊糖果等，可避免肥胖者体重再增加，避免儿童肥胖症。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。 https://t.co/SzogDtcPHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044044451212079108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3nmTuasAQFDdr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044044451212079108"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044044453971902857",
+        "created_at": "2026-04-14T13:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:25:48.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044044453971902857",
+          "2044045287774400989",
+          "2044045357232075153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVjWC6NUVY",
+              "end": 98,
+              "expanded_url": "https://x.com/ansiyao520/status/2044044453971902857/photo/1",
+              "media_key": "3_2044044451212079108",
+              "start": 75,
+              "url": "https://t.co/RVjWC6NUVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044044453971902857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。\n由于甜菊苷类是一种非糖甜味剂，吃进嘴里不会在口腔内细菌作用下产生酸，因此采用它制作的糖果食品，不会因产生酸而腐蚀牙齿，可被用来预防儿童龋齿。由于甜菊苷可耐酸碱，并在pH值4-10范围内，100℃下加热，其化学结构不会发生变化，不会产生微生物所需要的葡萄糖，属于非发酵性的物质，常用于食品保鲜和药品防霉。甜菊苷类在人体内几乎不被代谢，食后不会产生过多热量，故常用来制作肥胖症患者的甜食品，儿童食用的甜菊饮料或甜菊糖果等，可避免肥胖者体重再增加，避免儿童肥胖症。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。 https://t.co/RVjWC6NUVY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044044451212079108"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044045287774400989",
+        "created_at": "2026-04-14T13:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:25:48.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044044453971902857",
+          "2044045287774400989",
+          "2044045357232075153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSZgdXwPIi",
+              "end": 98,
+              "expanded_url": "https://x.com/ansiyao520/status/2044045287774400989/photo/1",
+              "media_key": "3_2044044451212079108",
+              "start": 75,
+              "url": "https://t.co/bSZgdXwPIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044045287774400989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。\n由于甜菊苷类是一种非糖甜味剂，吃进嘴里不会在口腔内细菌作用下产生酸，因此采用它制作的糖果食品，不会因产生酸而腐蚀牙齿，可被用来预防儿童龋齿。由于甜菊苷可耐酸碱，并在pH值4-10范围内，100℃下加热，其化学结构不会发生变化，不会产生微生物所需要的葡萄糖，属于非发酵性的物质，常用于食品保鲜和药品防霉。甜菊苷类在人体内几乎不被代谢，食后不会产生过多热量，故常用来制作肥胖症患者的甜食品，儿童食用的甜菊饮料或甜菊糖果等，可避免肥胖者体重再增加，避免儿童肥胖症。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。 https://t.co/bSZgdXwPIi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044044451212079108"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044045357232075153",
+        "created_at": "2026-04-14T13:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:25:48.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044044453971902857",
+          "2044045287774400989",
+          "2044045357232075153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SzogDtcPHQ",
+              "end": 98,
+              "expanded_url": "https://x.com/ansiyao520/status/2044045357232075153/photo/1",
+              "media_key": "3_2044044451212079108",
+              "start": 75,
+              "url": "https://t.co/SzogDtcPHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044045357232075153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。\n由于甜菊苷类是一种非糖甜味剂，吃进嘴里不会在口腔内细菌作用下产生酸，因此采用它制作的糖果食品，不会因产生酸而腐蚀牙齿，可被用来预防儿童龋齿。由于甜菊苷可耐酸碱，并在pH值4-10范围内，100℃下加热，其化学结构不会发生变化，不会产生微生物所需要的葡萄糖，属于非发酵性的物质，常用于食品保鲜和药品防霉。甜菊苷类在人体内几乎不被代谢，食后不会产生过多热量，故常用来制作肥胖症患者的甜食品，儿童食用的甜菊饮料或甜菊糖果等，可避免肥胖者体重再增加，避免儿童肥胖症。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃o入大量甜菊糖苷。\n甜菊糖苷精品为白色粉末状。\n\n甜叶菊叶片含甜菊糖苷6-12%，甜菊糖苷精品为白色粉末状。是一种低热量、高甜度的天然甜味剂。 https://t.co/SzogDtcPHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 1062,
+          "like_count": 6166,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 385
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

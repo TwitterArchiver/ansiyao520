@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2054235052146561222",
+    "created_at": "2026-05-12T16:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054235052146561222"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054235052146561222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天也是和好朋友度过的一天。宣告我的睡眠。\n你们有想过睡觉时为什么世界没有消失吗。睡觉时你就是死了，可是世界没有消失，你的精神还会回归。因为物质。那无数的物质在运动着，世界运转。那无数的神经元在运动着，等待着，等待着一个信号，把你的精神唤起。人的精神是依托在物质上的。即使你睡着了。死掉了。物质仍然可以宣告你的回归。\n我将睡觉。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天也是和好朋友度过的一天。宣告我的睡眠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2054235052146561222",
+        "created_at": "2026-05-12T16:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054235052146561222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054235052146561222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天也是和好朋友度过的一天。宣告我的睡眠。\n你们有想过睡觉时为什么世界没有消失吗。睡觉时你就是死了，可是世界没有消失，你的精神还会回归。因为物质。那无数的物质在运动着，世界运转。那无数的神经元在运动着，等待着，等待着一个信号，把你的精神唤起。人的精神是依托在物质上的。即使你睡着了。死掉了。物质仍然可以宣告你的回归。\n我将睡觉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是和好朋友度过的一天。宣告我的睡眠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1354,
+          "like_count": 16172,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 798
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

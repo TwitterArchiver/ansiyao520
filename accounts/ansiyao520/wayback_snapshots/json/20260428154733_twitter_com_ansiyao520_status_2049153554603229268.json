@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049153554603229268",
+    "created_at": "2026-04-28T15:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049153554603229268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049143933884932297",
+          "start": 141,
+          "url": "https://t.co/u9zbLoBixT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049153554603229268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得这也不难吧。读个文章。有脑子就能看懂。长篇大论只要有耐心的话也可以看看。有恋爱滤镜的话大概都会看的。唯一难的可能就是对恋爱里情绪流动的自觉把握吧。就是能把握自己的情绪状态和对方的。而且适当引导。而且我自己也有在努力。其实和文椛呢算是差点成了吧。主要是那时我还比较年轻。现在虽然经历了这件事后成长了，但是人没了捏。所以我没法释怀呀。\n文椛就是我恋爱对象的理想投射。是我遇到的最有可能做到这些的人。浪费了一个可能性。这是一个时间性问题。唉。痛苦死了吧。不是每一段关系都可以回溯。我已经被很多人永久拉黑了。他们如今还好吗呢。反正我感到异常痛苦。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049143933884932297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这也不难吧。读个文章。有脑子就能看懂。长篇大论只要有耐心的话也可以看看。有恋爱滤镜的话大概都会看的。唯一难的可能就是对恋爱里情绪流动的自觉把握吧。就是能把握自己的情绪状态和对方的。而且适当引导。而且我自己也有在努力。其实和文椛呢算是差点成了吧。主要是那时我还比较年轻。现在虽 https://t.co/u9zbLoBixT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049153554603229268",
+        "created_at": "2026-04-28T15:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049153554603229268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049143933884932297",
+              "start": 141,
+              "url": "https://t.co/u9zbLoBixT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049153554603229268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得这也不难吧。读个文章。有脑子就能看懂。长篇大论只要有耐心的话也可以看看。有恋爱滤镜的话大概都会看的。唯一难的可能就是对恋爱里情绪流动的自觉把握吧。就是能把握自己的情绪状态和对方的。而且适当引导。而且我自己也有在努力。其实和文椛呢算是差点成了吧。主要是那时我还比较年轻。现在虽然经历了这件事后成长了，但是人没了捏。所以我没法释怀呀。\n文椛就是我恋爱对象的理想投射。是我遇到的最有可能做到这些的人。浪费了一个可能性。这是一个时间性问题。唉。痛苦死了吧。不是每一段关系都可以回溯。我已经被很多人永久拉黑了。他们如今还好吗呢。反正我感到异常痛苦。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049143933884932297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这也不难吧。读个文章。有脑子就能看懂。长篇大论只要有耐心的话也可以看看。有恋爱滤镜的话大概都会看的。唯一难的可能就是对恋爱里情绪流动的自觉把握吧。就是能把握自己的情绪状态和对方的。而且适当引导。而且我自己也有在努力。其实和文椛呢算是差点成了吧。主要是那时我还比较年轻。现在虽 https://t.co/u9zbLoBixT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049143933884932297",
+        "created_at": "2026-04-28T15:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049143933884932297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049057339144327425",
+              "start": 140,
+              "url": "https://t.co/adjKeOhNLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049143933884932297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049057339144327425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有人能读懂我对自己的精神分析；不介意我长谈大论；迎合我的喜好和恋爱追求，面对我的骂人和短路时先看到我背后的精神结构和痛苦，温柔地安抚我；有时间及时回复我，又不给我太大的回复压力；完全是一副爱我体贴我的大姐姐模样，只是因为我的成长和倾诉就会感到开心。就好了。忘不掉文椛喵。呜呜 https://t.co/adjKeOhNLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1307,
+          "like_count": 13717,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 585
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

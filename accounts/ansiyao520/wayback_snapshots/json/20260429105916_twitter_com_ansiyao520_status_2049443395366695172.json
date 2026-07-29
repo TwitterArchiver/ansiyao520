@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049443392363569152"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049443395366695172",
+    "created_at": "2026-04-29T10:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049443395366695172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9yKxyHTQ58",
+          "end": 165,
+          "expanded_url": "https://x.com/ansiyao520/status/2049443395366695172/photo/1",
+          "media_key": "3_2049443392363569152",
+          "start": 142,
+          "url": "https://t.co/9yKxyHTQ58"
+        },
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049434377306951700",
+          "start": 166,
+          "url": "https://t.co/06qR0s7pfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049443395366695172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049434377306951700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是说。“其实我也在等待这个被恋爱”。“我不介意自己被恋爱”。“我甚至会看着自己被恋爱而不戳破你”。但是。这一切的前提都是我相信着恋爱后你会爱我。你要爱我。被恋爱也没关系。毕竟你会爱我的，对吗。\n哪怕你的爱是四个卑劣的爱。你不要掀桌子啊。我错的地方，就是没有把“爱在一起”贯彻到底。 https://t.co/9yKxyHTQ58 https://t.co/06qR0s7pfS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049443395366695172].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049443395366695172",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049443395366695172"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2049443392363569152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEV6C0aIAA0AXZ.jpg",
+        "width": 1682
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049432502511828992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEMAK9bgAAIJWO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049432502511828992"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049434377306951700",
+        "created_at": "2026-04-29T10:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049434377306951700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhTawVrMho",
+              "end": 130,
+              "expanded_url": "https://x.com/ansiyao520/status/2049434377306951700/photo/1",
+              "media_key": "3_2049432502511828992",
+              "start": 107,
+              "url": "https://t.co/hhTawVrMho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049434377306951700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻孩子。他讨厌你是因为你没有迎合他呀。你这么想，然后去迎合他，不是着了他的道了吗。\n到时候“被”恋爱。不都是可以预见的。\n也许我的错不是懂很多恋爱技巧。而是没有给爱情一个完美的句号——结婚。反而不断给它增加裂痕。 https://t.co/hhTawVrMho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1306,
+          "like_count": 14096,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 649
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

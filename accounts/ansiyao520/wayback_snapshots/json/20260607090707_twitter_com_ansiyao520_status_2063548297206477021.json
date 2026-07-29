@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063548292823437312"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063548297206477021",
+    "created_at": "2026-06-07T09:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063548297206477021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nVdAs6ixb9",
+          "end": 83,
+          "expanded_url": "https://x.com/ansiyao520/status/2063548297206477021/photo/1",
+          "media_key": "3_2063548292823437312",
+          "start": 60,
+          "url": "https://t.co/nVdAs6ixb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063548297206477021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界的时间箭头，是递进的，递退的，还是循环的？\n有这么一个人，他为黑铁时代的人，带来了光明。他的名字叫。\n普罗米修斯。 https://t.co/nVdAs6ixb9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063548297206477021].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063548297206477021",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063548297206477021"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2063548292823437312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMyPTqa0AAJD-Q.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1495,
+          "like_count": 20655,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1164
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

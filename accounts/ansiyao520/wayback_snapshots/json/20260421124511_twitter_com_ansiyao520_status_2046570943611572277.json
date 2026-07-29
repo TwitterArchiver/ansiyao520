@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046559160586940417",
+        "3_2046559162059145216"
+      ],
+      "media_source_tweet_id": [
+        "2046559164818952313",
+        "2046559164818952313"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046570943611572277",
+    "created_at": "2026-04-21T12:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046570943611572277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046238259919912960",
+          "start": 3,
+          "username": "Type_zhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f4uUHHp4nS",
+          "end": 54,
+          "expanded_url": "https://x.com/Type_zhi/status/2046559164818952313/photo/1",
+          "media_key": "3_2046559160586940417",
+          "start": 31,
+          "url": "https://t.co/f4uUHHp4nS"
+        },
+        {
+          "display_url": "pic.x.com/f4uUHHp4nS",
+          "end": 54,
+          "expanded_url": "https://x.com/Type_zhi/status/2046559164818952313/photo/1",
+          "media_key": "3_2046559162059145216",
+          "start": 31,
+          "url": "https://t.co/f4uUHHp4nS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046570943611572277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046559164818952313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Type_zhi: 我妈大发慈悲给我扎了个小辫子（） https://t.co/f4uUHHp4nS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046559160586940417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbWtqKbMAEEGXu.jpg",
+        "width": 1386
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046559162059145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbWtvpbQAAz3X3.jpg",
+        "width": 1386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046559160586940417",
+            "3_2046559162059145216"
+          ],
+          "media_source_tweet_id": [
+            "2046559164818952313",
+            "2046559164818952313"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046570943611572277",
+        "created_at": "2026-04-21T12:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046570943611572277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046238259919912960",
+              "start": 3,
+              "username": "Type_zhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4uUHHp4nS",
+              "end": 54,
+              "expanded_url": "https://x.com/Type_zhi/status/2046559164818952313/photo/1",
+              "media_key": "3_2046559160586940417",
+              "start": 31,
+              "url": "https://t.co/f4uUHHp4nS"
+            },
+            {
+              "display_url": "pic.x.com/f4uUHHp4nS",
+              "end": 54,
+              "expanded_url": "https://x.com/Type_zhi/status/2046559164818952313/photo/1",
+              "media_key": "3_2046559162059145216",
+              "start": 31,
+              "url": "https://t.co/f4uUHHp4nS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046570943611572277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046559164818952313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Type_zhi: 我妈大发慈悲给我扎了个小辫子（） https://t.co/f4uUHHp4nS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046559160586940417",
+            "3_2046559162059145216"
+          ]
+        },
+        "author_id": "2046238259919912960",
+        "conversation_id": "2046559164818952313",
+        "created_at": "2026-04-21T11:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046559164818952313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4uUHHp4nS",
+              "end": 40,
+              "expanded_url": "https://x.com/Type_zhi/status/2046559164818952313/photo/1",
+              "media_key": "3_2046559160586940417",
+              "start": 17,
+              "url": "https://t.co/f4uUHHp4nS"
+            },
+            {
+              "display_url": "pic.x.com/f4uUHHp4nS",
+              "end": 40,
+              "expanded_url": "https://x.com/Type_zhi/status/2046559164818952313/photo/1",
+              "media_key": "3_2046559162059145216",
+              "start": 17,
+              "url": "https://t.co/f4uUHHp4nS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046559164818952313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈大发慈悲给我扎了个小辫子（） https://t.co/f4uUHHp4nS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1245,
+          "like_count": 12045,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 517
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07/有小证了捏🥺/还在上学喵☺️/想和大家坐朋友喵/现居湖北/还有myl你还我的号😭😭",
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 43,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

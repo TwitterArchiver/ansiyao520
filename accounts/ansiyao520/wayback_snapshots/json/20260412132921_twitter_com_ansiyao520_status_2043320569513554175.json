@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043320566724399104"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043320569513554175",
+    "created_at": "2026-04-12T13:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043320569513554175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5x0JyLiKF2",
+          "end": 152,
+          "expanded_url": "https://x.com/ansiyao520/status/2043320569513554175/photo/1",
+          "media_key": "3_2043320566724399104",
+          "start": 129,
+          "url": "https://t.co/5x0JyLiKF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043320569513554175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "普通人的生活虽然有烦恼，但包含希望、快乐、社会连接与自我调节的可能，并非“被抑郁情绪折磨慢慢死去”。\n普通人也会通过找朋友，找老师，找父母，找网友，找书本的方式倾诉。或者寻求治疗、改变环境，而这段文字把“普通”定义成被动等死，诱导读者放弃任何行动走向绝望。\n抑郁状态下，人容易认同“我该死”“没有希望”等负面信念。这句话正好强化了这种扭曲认知，把“忍受”说成是常态，把“改变”说成是遥不可及，会让分析者陷入更深的思维泥潭。这就是这段文字逻辑上的问题。\n你现在感觉很糟，但这不代表永远如此。很多人在类似痛苦中找到了朋友、治疗或新的生活方式。请坚持下去。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普通人的生活虽然有烦恼，但包含希望、快乐、社会连接与自我调节的可能，并非“被抑郁情绪折磨慢慢死去”。\n普通人也会通过找朋友，找老师，找父母，找网友，找书本的方式倾诉。或者寻求治疗、改变环境，而这段文字把“普通”定义成被动等死，诱导读者放弃任何行动走向绝望。 https://t.co/5x0JyLiKF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2043320566724399104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtVOr3bkAAkTNN.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043320566724399104"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043320569513554175",
+        "created_at": "2026-04-12T13:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043320569513554175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5x0JyLiKF2",
+              "end": 152,
+              "expanded_url": "https://x.com/ansiyao520/status/2043320569513554175/photo/1",
+              "media_key": "3_2043320566724399104",
+              "start": 129,
+              "url": "https://t.co/5x0JyLiKF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043320569513554175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "普通人的生活虽然有烦恼，但包含希望、快乐、社会连接与自我调节的可能，并非“被抑郁情绪折磨慢慢死去”。\n普通人也会通过找朋友，找老师，找父母，找网友，找书本的方式倾诉。或者寻求治疗、改变环境，而这段文字把“普通”定义成被动等死，诱导读者放弃任何行动走向绝望。\n抑郁状态下，人容易认同“我该死”“没有希望”等负面信念。这句话正好强化了这种扭曲认知，把“忍受”说成是常态，把“改变”说成是遥不可及，会让分析者陷入更深的思维泥潭。这就是这段文字逻辑上的问题。\n你现在感觉很糟，但这不代表永远如此。很多人在类似痛苦中找到了朋友、治疗或新的生活方式。请坚持下去。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普通人的生活虽然有烦恼，但包含希望、快乐、社会连接与自我调节的可能，并非“被抑郁情绪折磨慢慢死去”。\n普通人也会通过找朋友，找老师，找父母，找网友，找书本的方式倾诉。或者寻求治疗、改变环境，而这段文字把“普通”定义成被动等死，诱导读者放弃任何行动走向绝望。 https://t.co/5x0JyLiKF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 898,
+          "like_count": 4738,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 278
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

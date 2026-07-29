@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042080154181341566",
+    "created_at": "2026-04-09T03:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042080154181341566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042080154181341566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私下里的抱怨，哪怕话再重，本质也只是限于两人之间的情绪表达。一旦被公开，不仅违背信任，还会被放大、曲解，让本不该被牵扯的人感到被冒犯\n真正扩大影响、把矛盾摆上台面的，难道不是那个公开秘密的你吗？利用我的信任，却又把责任全部推给我\n我就问你，你被骚扰“半年”，这半年你都在干什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042080154181341566",
+        "created_at": "2026-04-09T03:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042080154181341566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042080154181341566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私下里的抱怨，哪怕话再重，本质也只是限于两人之间的情绪表达。一旦被公开，不仅违背信任，还会被放大、曲解，让本不该被牵扯的人感到被冒犯\n真正扩大影响、把矛盾摆上台面的，难道不是那个公开秘密的你吗？利用我的信任，却又把责任全部推给我\n我就问你，你被骚扰“半年”，这半年你都在干什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 789,
+          "like_count": 4200,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 174
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

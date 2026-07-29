@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049457940722225152"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049459083640770804",
+    "created_at": "2026-04-29T12:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049459083640770804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Ign0zNtgC",
+          "end": 176,
+          "expanded_url": "https://x.com/ansiyao520/status/2049459083640770804/video/1",
+          "media_key": "7_2049457940722225152",
+          "start": 153,
+          "url": "https://t.co/5Ign0zNtgC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049459083640770804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我不在乎什么天长地久，\n我只在乎你想不想要拥有，\n一颗真心和温暖的手，\n在身后陪你微笑或泪流，\n我不在乎你下次回来待多久，\n我只在乎这心动前所未有，\n我不会走 cuz i love you so，\n想给你最好的我就算只是朋友，\n信不过别人把你追走，\n也信不过自己暂时把你拥有，\n你低头喝着酒别只顾喝着酒，\n做朋友是保护你最坏也是最好的借口，\n我明白要你爱是荒谬的要求，\n我明白有些默契我必须要遵守，\n只是你眼眸走漏了一种，\nbaby baby 想爱不能爱的哀愁。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不在乎什么天长地久，\n我只在乎你想不想要拥有，\n一颗真心和温暖的手，\n在身后陪你微笑或泪流，\n我不在乎你下次回来待多久，\n我只在乎这心动前所未有，\n我不会走 cuz i love you so，\n想给你最好的我就算只是朋友，\n信不过别人把你追走，\n也信不过自己暂时把你拥有，\n你低头喝着酒别只顾喝着酒， https://t.co/5Ign0zNtgC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049459083640770804].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049459083640770804",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049459083640770804"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78142,
+        "height": 1088,
+        "media_key": "7_2049457940722225152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049457940722225152/pu/img/plLtsDM60UZ978V7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049457940722225152/pu/vid/avc1/320x482/Q5sUKOaVZ4r_gE_k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049457940722225152/pu/vid/avc1/480x724/iofZysgLCbudcm3J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049457940722225152/pu/vid/avc1/720x1088/oMa-xAkMQ0lpfKwW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049457940722225152/pu/pl/FrMHCvSlh-wdnu9P.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1307,
+          "like_count": 14185,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 658
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2061851665419120729",
+    "created_at": "2026-06-02T19:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061886273233756367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061886273233756367",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061851665419120729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnkMtX 人家做调查。是为了拿数据写论文发社会学期刊。你们跟着调查个什么劲。还不如想办法弄出一套模式让离家出走的药娘们都能学个吃饭技术弄到钱。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061851662948655105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0rKc2aYAEaZAb.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2061851665419120729",
+        "created_at": "2026-06-02T19:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061886273233756367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061886273233756367",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061851665419120729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnkMtX 人家做调查。是为了拿数据写论文发社会学期刊。你们跟着调查个什么劲。还不如想办法弄出一套模式让离家出走的药娘们都能学个吃饭技术弄到钱。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061851662948655105"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2061851665419120729",
+        "created_at": "2026-06-02T16:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061851665419120729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7p23SXSrNI",
+              "end": 29,
+              "expanded_url": "https://x.com/UnkMtX/status/2061851665419120729/photo/1",
+              "media_key": "3_2061851662948655105",
+              "start": 6,
+              "url": "https://t.co/7p23SXSrNI"
+            },
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2061822611705974967",
+              "start": 30,
+              "url": "https://t.co/tE6FLnjXpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061851665419120729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822611705974967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做了个调查 https://t.co/7p23SXSrNI https://t.co/tE6FLnjXpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1454,
+          "like_count": 19437,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1040
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "永远怀念@Unkxyn|MtX|Hrt🍥01.28.2026，无证含糖|家长反对党+年龄党|she/her|生产日期11.13.2011|oder💊|对象@Lvmaosamaovo|159cm50kg|INFP-T，重度社恐|初二牲，休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 597,
+          "like_count": 697,
+          "listed_count": 14,
+          "media_count": 25,
+          "tweet_count": 128
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

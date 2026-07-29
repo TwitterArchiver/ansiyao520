@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043517137420169618",
+    "created_at": "2026-04-13T02:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043517137420169618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《You Know Me》，由 Coralmines 演唱，收录于《You know me》专辑中，《You Know Me》下载，《You Know Me》在线试听，更多You Know Me相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/412ycuH",
+          "end": 89,
+          "expanded_url": "https://163cn.tv/412ycuH",
+          "images": [
+            {
+              "height": 500,
+              "url": "https://pbs.twimg.com/news_img/2043517147230654464/RBURi1vw?format=jpg&name=orig",
+              "width": 500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2043517147230654464/RBURi1vw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 66,
+          "status": 200,
+          "title": "You Know Me - Coralmines - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=485347361&uct2=dTv%2BkrJPRzJK5Zkl3YESmA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.85&sc=wm&tn=",
+          "url": "https://t.co/sgvlc9FB0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043517137420169618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "You Know Me～，\nYou Know Me～。\nYunomi～\n分享Coralmines的单曲《You Know Me》: https://t.co/sgvlc9FB0I (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043517137420169618",
+        "created_at": "2026-04-13T02:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043517137420169618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《You Know Me》，由 Coralmines 演唱，收录于《You know me》专辑中，《You Know Me》下载，《You Know Me》在线试听，更多You Know Me相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/412ycuH",
+              "end": 89,
+              "expanded_url": "https://163cn.tv/412ycuH",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2043517147230654464/RBURi1vw?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043517147230654464/RBURi1vw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 66,
+              "status": 200,
+              "title": "You Know Me - Coralmines - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=485347361&uct2=dTv%2BkrJPRzJK5Zkl3YESmA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.85&sc=wm&tn=",
+              "url": "https://t.co/sgvlc9FB0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043517137420169618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "You Know Me～，\nYou Know Me～。\nYunomi～\n分享Coralmines的单曲《You Know Me》: https://t.co/sgvlc9FB0I (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 938,
+          "like_count": 4965,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 301
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

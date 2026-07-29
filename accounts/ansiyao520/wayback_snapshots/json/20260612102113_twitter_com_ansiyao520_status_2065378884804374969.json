@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065378884804374969",
+    "created_at": "2026-06-12T10:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065378884804374969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangeorange/st…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/tangeorange/status/2065160453496643850",
+          "start": 86,
+          "url": "https://t.co/J1q1g2FYiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065378884804374969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065160453496643850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "21年来看黄的。现在也看。要不是被挂了我才不想解除锁推。现在粉丝数家大业大，索性一直开着了，毕竟也交到了一些朋友。\n也非常自恋地写了一些文章。竟然还有人喜欢看。爽死我了。 https://t.co/J1q1g2FYiA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065378884804374969",
+        "created_at": "2026-06-12T10:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065378884804374969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/tangeorange/status/2065160453496643850",
+              "start": 86,
+              "url": "https://t.co/J1q1g2FYiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065378884804374969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065160453496643850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21年来看黄的。现在也看。要不是被挂了我才不想解除锁推。现在粉丝数家大业大，索性一直开着了，毕竟也交到了一些朋友。\n也非常自恋地写了一些文章。竟然还有人喜欢看。爽死我了。 https://t.co/J1q1g2FYiA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2065160453496643850",
+        "created_at": "2026-06-11T19:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065160453496643850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065160453496643850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4520,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 118,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说一个你来推特的理由，什么都可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 1560,
+          "like_count": 22734,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1334
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\nbff @maoxianACT @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "maoxianACT"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "tangeror"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 2825,
+          "like_count": 8883,
+          "listed_count": 4,
+          "media_count": 1285,
+          "tweet_count": 8604
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

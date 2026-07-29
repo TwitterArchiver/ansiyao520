@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047551961357246464",
+        "3_2047551968886018048",
+        "3_2047551962741387264",
+        "3_2047551967111806977"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047551978709094812",
+    "created_at": "2026-04-24T05:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047551978709094812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtYg7l3zx8",
+          "end": 155,
+          "expanded_url": "https://x.com/ansiyao520/status/2047551978709094812/photo/1",
+          "media_key": "3_2047551961357246464",
+          "start": 132,
+          "url": "https://t.co/RtYg7l3zx8"
+        },
+        {
+          "display_url": "pic.x.com/RtYg7l3zx8",
+          "end": 155,
+          "expanded_url": "https://x.com/ansiyao520/status/2047551978709094812/photo/1",
+          "media_key": "3_2047551968886018048",
+          "start": 132,
+          "url": "https://t.co/RtYg7l3zx8"
+        },
+        {
+          "display_url": "pic.x.com/RtYg7l3zx8",
+          "end": 155,
+          "expanded_url": "https://x.com/ansiyao520/status/2047551978709094812/photo/1",
+          "media_key": "3_2047551962741387264",
+          "start": 132,
+          "url": "https://t.co/RtYg7l3zx8"
+        },
+        {
+          "display_url": "pic.x.com/RtYg7l3zx8",
+          "end": 155,
+          "expanded_url": "https://x.com/ansiyao520/status/2047551978709094812/photo/1",
+          "media_key": "3_2047551967111806977",
+          "start": 132,
+          "url": "https://t.co/RtYg7l3zx8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047551978709094812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《来世愿生幻想乡3》\n大道至简。\n通过翻阅以前的聊天记录。我发现。关心是不分形式的。\n形式只是形式，没有特别的意义。无论是打电话，或者打字。都是一样的。\n并不会因为你打了电话，或者其他形式。你们之间就更亲密了。\n一切的一切。出发点是关心别人。而不是要和别人亲昵。\n当然，也不会因为你不打电话，或者不弄其他形式。你们之间就不亲密了。\n所以。恋爱中的人们。不要为你们之间没有发生过什么感到惶恐或遗憾。平平淡淡才是真。平平淡淡也有爱。这句话是真的。\n你爱的。到底是对方？还是你关于恋爱的想象？\n和恋人一起尝试双方关于恋爱的想象是可以的。把想象当做唯一爱的东西是不可以的。要让爱从你们的关系中生长出来。而不能去追求它的出现，不能揠苗助长。如果感觉不到对方的爱。就多爱对方一点吧。对方心情好了也许就会表现得好了。或者你们根本不合适。嘻嘻😊。\n所以。恋爱中的人们。不要去质疑。不要去质疑你们之间的爱。不要担心对方的心情。要相信对方不舒服自己会说。要相信你们之间的交流方式已经是最好的。你都谈恋爱了，还不相信对方。难道你只相信你自己吗。那你不要谈恋爱了。\n我再强调一点是。认清了恋爱中，爱的形式和实质之间的关系。你们千万不要死扣形式。过于控制。这是我失败的一个原因。我很后悔。我会努力改掉。你们也别再犯了。记住这一点。\n今天就这样甜甜地收尾吧。明天我会继续反思我在恋爱中的问题。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《来世愿生幻想乡3》\n大道至简。\n通过翻阅以前的聊天记录。我发现。关心是不分形式的。\n形式只是形式，没有特别的意义。无论是打电话，或者打字。都是一样的。\n并不会因为你打了电话，或者其他形式。你们之间就更亲密了。\n一切的一切。出发点是关心别人。而不是要和别人亲昵。 https://t.co/RtYg7l3zx8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047551978709094812].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047551978709094812",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047551978709094812"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1774,
+        "media_key": "3_2047551961357246464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpdqRPaYAAFeam.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1755,
+        "media_key": "3_2047551968886018048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpdqtSaUAAHUpV.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1784,
+        "media_key": "3_2047551962741387264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpdqWZasAADpBD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2047551967111806977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpdqmraAAEExJ7.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1262,
+          "like_count": 12476,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 537
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2071205546481602613",
+    "created_at": "2026-06-28T20:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071334779723612304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766407744536420352",
+          "start": 0,
+          "username": "ScarsTowel616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071334779723612304",
+    "in_reply_to_user_id": "1766407744536420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "年龄大的亲戚拉你吃饭都是为了借机聊天。这是大人们惯用的伎俩。我今年过年时被亲戚邀请吃饭，我开心去了，结果饭上被说教了一整顿饭，还要我保证以后再也不玩手机专心考研。而且近乎是逼着我保证，“你能不能做到？”然后就是一直等我回复。我总不能和他们撕破脸皮吧，我就尴尬地一直沉默，中式封建亲戚关系真是傻逼死了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071205546481602613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarsTowel616 年龄大的亲戚拉你吃饭都是为了借机聊天。这是大人们惯用的伎俩。我今年过年时被亲戚邀请吃饭，我开心去了，结果饭上被说教了一整顿饭，还要我保证以后再也不玩手机专心考研。而且近乎是逼着我保证，“你能不能做到？”然后就是一直等我回复。我总不能和他们撕破脸皮吧，我就尴尬地一直沉默，中式封建亲戚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2071205546481602613",
+        "created_at": "2026-06-28T20:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071334779723612304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071334779723612304",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "年龄大的亲戚拉你吃饭都是为了借机聊天。这是大人们惯用的伎俩。我今年过年时被亲戚邀请吃饭，我开心去了，结果饭上被说教了一整顿饭，还要我保证以后再也不玩手机专心考研。而且近乎是逼着我保证，“你能不能做到？”然后就是一直等我回复。我总不能和他们撕破脸皮吧，我就尴尬地一直沉默，中式封建亲戚关系真是傻逼死了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071205546481602613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 年龄大的亲戚拉你吃饭都是为了借机聊天。这是大人们惯用的伎俩。我今年过年时被亲戚邀请吃饭，我开心去了，结果饭上被说教了一整顿饭，还要我保证以后再也不玩手机专心考研。而且近乎是逼着我保证，“你能不能做到？”然后就是一直等我回复。我总不能和他们撕破脸皮吧，我就尴尬地一直沉默，中式封建亲戚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766407744536420352",
+        "conversation_id": "2071205546481602613",
+        "created_at": "2026-06-28T12:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071205546481602613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071205546481602613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天被我哥拉出去吃饭了\n我不想去，他就强拉着我去吃自助，我吃不下还要翻我白眼\n吃完之后又叫我去剪头发，我不想就念了我一路，说我未来怎么怎么样多么多么失败无能什么的\n我就说为什么突然把我叫出去吃饭\n上次跟他出去吃饭还是帮我爸妈拖时间翻我房间\n再也不会跟他去吃饭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1730,
+          "like_count": 26656,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1561
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家里反对党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|发一些负能碎碎念…|同类互fo喵|宝宝：@Satori065 主人（不是）:@YuChenawa 姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Satori065"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 540,
+          "like_count": 1299,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

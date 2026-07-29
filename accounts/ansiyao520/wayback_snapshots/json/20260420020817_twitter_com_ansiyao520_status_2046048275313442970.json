@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046045698123288576"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046048275313442970",
+    "created_at": "2026-04-20T02:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046048275313442970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5fISyscrWr",
+          "end": 212,
+          "expanded_url": "https://x.com/ansiyao520/status/2046048275313442970/video/1",
+          "media_key": "7_2046045698123288576",
+          "start": 189,
+          "url": "https://t.co/5fISyscrWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046048275313442970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "死亡不是我的归宿，我绝不向失败投降。终有一天，每个人都将自由地生活在这片大地上。背负无法释怀的过去，我将继续存在。\n\nWhen everything is spinnin' out of control，\n当一切失去控制的时候，\nI can barely sleep with all this weight on my soul，\n我几乎无法入睡，我的灵魂承受着所有的重量，\nI try to let it be，\n我试着让它过去，\nI try to let it be but I can't let it go，\n我试着让它过去，但我不能让它过去，\nNo, I can't let it be，\n我不能让它过去，\nIf there's any hope, even just a glimmer I'll be holding on，\n如果有任何希望哪怕只是一线希望我都会坚持下去，\n'Cause I believe in us，\n因为我相信我们，\nWhen these times get tough，\n当这些日子变得艰难的时候，\nAnd it feels like everything's come undone，\n感觉一切都在走下坡路，\nIt's so hard to change this road we're on，\n靠我们自己去追逐这一切是如此的艰难，\nI'll be keeping faith，\n我会保持信念，\nAnd take it day by day，\n并日复一日的坚持，\nMaybe someday soon we'll find the way，\n也许很快有一天我们会找到一种方法，\nWe can place our hope in a better day，\n我们可以把希望寄托在更美好的日子里，\nI believe in us，\n我相信我们。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死亡不是我的归宿，我绝不向失败投降。终有一天，每个人都将自由地生活在这片大地上。背负无法释怀的过去，我将继续存在。\n\nWhen everything is spinnin' out of control，\n当一切失去控制的时候，\nI can barely sleep with all this weight on my soul，\n我几乎无法入睡，我的灵魂承受着所有的重量， https://t.co/5fISyscrWr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046048275313442970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046048275313442970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046048275313442970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 212946,
+        "height": 1088,
+        "media_key": "7_2046045698123288576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046045698123288576/pu/img/upn10xLWCrH5t22V.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046045698123288576/pu/vid/avc1/320x482/9LODX-0Btm8mZNRo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046045698123288576/pu/vid/avc1/480x724/5crI_BlWv36nyphM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046045698123288576/pu/vid/avc1/720x1088/2-ueo-KgcNA-O6Ng.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046045698123288576/pu/pl/veKyrwziwVfapd0V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1229,
+          "like_count": 10756,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 453
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

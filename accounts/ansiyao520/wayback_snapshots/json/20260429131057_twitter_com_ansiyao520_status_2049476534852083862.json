@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049476534852083862",
+    "created_at": "2026-04-29T13:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049476534852083862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2049012115357229489",
+          "start": 30,
+          "url": "https://t.co/gHUii7oxab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049476534852083862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049012115357229489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给心爱的地雷妹贴上创可贴她会舍不得继续划下去吗。宝宝❤️。 https://t.co/gHUii7oxab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049012075171823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-NoFEaQAAETz7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049476534852083862",
+        "created_at": "2026-04-29T13:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049476534852083862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2049012115357229489",
+              "start": 30,
+              "url": "https://t.co/gHUii7oxab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049476534852083862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049012115357229489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给心爱的地雷妹贴上创可贴她会舍不得继续划下去吗。宝宝❤️。 https://t.co/gHUii7oxab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049012075171823616"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2049012115357229489",
+        "created_at": "2026-04-28T06:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049012115357229489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1YiT2z6rN",
+              "end": 23,
+              "expanded_url": "https://x.com/SalviaSWC/status/2049012115357229489/photo/1",
+              "media_key": "3_2049012075171823616",
+              "start": 0,
+              "url": "https://t.co/A1YiT2z6rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049012115357229489",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 519,
+          "impression_count": 38094,
+          "like_count": 7034,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 875
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A1YiT2z6rN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1308,
+          "like_count": 14315,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 664
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4115,
+          "following_count": 993,
+          "like_count": 22786,
+          "listed_count": 11,
+          "media_count": 473,
+          "tweet_count": 7313
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

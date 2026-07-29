@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049739741592002560"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049739806704308663",
+    "created_at": "2026-04-30T06:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049739806704308663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pjvP2dJWLZ",
+          "end": 121,
+          "expanded_url": "https://x.com/ansiyao520/status/2049739806704308663/photo/1",
+          "media_key": "3_2049739741592002560",
+          "start": 98,
+          "url": "https://t.co/pjvP2dJWLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049739806704308663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还真是。差不多25岁人就走上社会的轨道，不咋有自主性了。\n父母差不多在初中时就已经死掉了，之后只是陌生人。有没有道理。\n\n其实我的第一个恋人就说他打算35岁就去自杀。也不知道现在他活得怎么样捏。 https://t.co/pjvP2dJWLZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049739806704308663].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049739806704308663",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049739806704308663"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049739741592002560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIjb1uXoAAJtet.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1334,
+          "like_count": 14661,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 691
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063638788006728066",
+    "created_at": "2026-06-07T15:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063638788006728066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/etezou_18v/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/etezou_18v/status/2023759268244341195",
+          "start": 7,
+          "url": "https://t.co/ZLycBUm1ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063638788006728066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023759268244341195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美味的小孩。 https://t.co/ZLycBUm1ph"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2641,
+        "media_key": "3_2023759136769667072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXWNmobcAAvyZy.jpg",
+        "width": 3112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063638788006728066",
+        "created_at": "2026-06-07T15:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063638788006728066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/etezou_18v/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/etezou_18v/status/2023759268244341195",
+              "start": 7,
+              "url": "https://t.co/ZLycBUm1ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063638788006728066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023759268244341195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美味的小孩。 https://t.co/ZLycBUm1ph"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023759136769667072"
+          ]
+        },
+        "author_id": "1256684322616045568",
+        "conversation_id": "2023759268244341195",
+        "created_at": "2026-02-17T13:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023759268244341195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYwNMKmEIg",
+              "end": 30,
+              "expanded_url": "https://x.com/etezou_18v/status/2023759268244341195/photo/1",
+              "media_key": "3_2023759136769667072",
+              "start": 7,
+              "url": "https://t.co/HYwNMKmEIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023759268244341195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 4537,
+          "like_count": 228,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "ninちゃん https://t.co/HYwNMKmEIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 1502,
+          "like_count": 20895,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1185
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-02T20:37:59.000Z",
+        "description": "本垢→@No13_saty pixiv→https://t.co/rHamu9uE0I Skeb→https://t.co/LFYys7ShKS FANBOX→https://t.co/DWDD9xdBUi BOOTH→https://t.co/pGliNRiwJv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "No13_saty"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12595396",
+                "end": 43,
+                "expanded_url": "https://pixiv.net/users/12595396",
+                "start": 20,
+                "url": "https://t.co/rHamu9uE0I"
+              },
+              {
+                "display_url": "skeb.jp/@No13_saty",
+                "end": 72,
+                "expanded_url": "http://skeb.jp/@No13_saty",
+                "start": 49,
+                "url": "https://t.co/LFYys7ShKS"
+              },
+              {
+                "display_url": "satezou.fanbox.cc",
+                "end": 103,
+                "expanded_url": "http://satezou.fanbox.cc",
+                "start": 80,
+                "url": "https://t.co/DWDD9xdBUi"
+              },
+              {
+                "display_url": "satysatezou.booth.pm",
+                "end": 133,
+                "expanded_url": "http://satysatezou.booth.pm",
+                "start": 110,
+                "url": "https://t.co/pGliNRiwJv"
+              }
+            ]
+          }
+        },
+        "id": "1256684322616045568",
+        "name": "えちぞうさん3rd",
+        "pinned_tweet_id": "2055699438140870766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053413486341021696/kOzRIzpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 69,
+          "like_count": 3135,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 2457
+        },
+        "username": "etezou_18v",
+        "verified": false
+      }
+    ]
+  }
+}

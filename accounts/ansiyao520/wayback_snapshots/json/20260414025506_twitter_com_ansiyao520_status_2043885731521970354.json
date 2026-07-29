@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043885721480806400"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043885731521970354",
+    "created_at": "2026-04-14T02:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043885731521970354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SoFjlTwBxy",
+          "end": 61,
+          "expanded_url": "https://x.com/ansiyao520/status/2043885731521970354/photo/1",
+          "media_key": "3_2043885721480806400",
+          "start": 38,
+          "url": "https://t.co/SoFjlTwBxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043885731521970354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想看更多电子宠物安思瑶的有趣日常。可以物质支持安思瑶的生活减少死亡概率喵～ https://t.co/SoFjlTwBxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2043885721480806400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1XPBZbQAAY0UA.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043885721480806400"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043885731521970354",
+        "created_at": "2026-04-14T02:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043885731521970354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoFjlTwBxy",
+              "end": 61,
+              "expanded_url": "https://x.com/ansiyao520/status/2043885731521970354/photo/1",
+              "media_key": "3_2043885721480806400",
+              "start": 38,
+              "url": "https://t.co/SoFjlTwBxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043885731521970354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看更多电子宠物安思瑶的有趣日常。可以物质支持安思瑶的生活减少死亡概率喵～ https://t.co/SoFjlTwBxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 1007,
+          "like_count": 5535,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 349
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

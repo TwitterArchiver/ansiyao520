@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2057525908186247445",
+    "created_at": "2026-05-21T18:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057525908186247445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2057516814016598207",
+          "start": 58,
+          "url": "https://t.co/2ihEtmrvnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057525908186247445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《继续得罪人》\n——论药娘们的相互安慰\n药娘们相互安慰在我看来没用。就是因为我接受过这种不带任何责任和亏欠的帮助。\n如果帮助不是从对方内心激起生的欲望和喜悦。而只是用捆绑死亡或者愧疚死亡，或者一些鸡毛蒜皮的、希望镇静对方的安慰组成。在我看来就注定是徒劳无获的。这样的安慰虽然多。一个求死动态下面几十条抱抱你。可是到底有什么用？\n所以我在小遥求死时完全没有采用常规的安慰方式而是用了自己的激进的方式。虽然他最后还是选择了轻生。但我也永远学到了教训——我的生命永远也绕不开他——到底哪里不如你们安慰别人半天，人家还是死了，然后你们又继续拿着这种自我感动式的安慰继续哄着下一个人去死？别人的死亡在你们的生命里究竟占多少比重，而你们在非恋人死亡前只是一直期望一个人可以拯救自己，让你忘记所有的伤痛？\n所谓的“抱抱你”就是一种空洞的能指。它不指涉任何的具体身体接触、任何的真实陪伴、任何的可以改变物质条件行动。它就只是一个符号——在社交网络的象征秩序中流通——标记“我已经完成安慰了”这一道德动作。甚至报警，用更大的动作幅度说服自己，说服世界我已经够努力了。你们也太相信世界了吧？不就是这个世界把你们逼成这样的吗。\n你越是想“拯救”一个人，你越可能把他的脖子勒得更紧。你越是急于用“抱抱你”来填满他的空洞，你越是在告诉他“你的空洞让我不舒服，请快点好起来”。\n真正的安慰从来就不是试图消除死亡，而是与他者的死亡共处，并在死亡的旁边，无意间展示生的一点点趣味。\n你们药娘们相互安慰没用，不是因为你们不善良，而是因为你们的善良太自觉了。你们知道自己是在安慰，因此安慰变成了任务、责任、仪式。而真正的帮助往往发生在你们忘记自己在帮助别人的时刻。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057516814016598207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《继续得罪人》\n——论药娘们的相互安慰\n药娘们相互安慰在我看来没用。就是因为我接受过这种不带任何责任和亏欠的帮助。 https://t.co/2ihEtmrvnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057516809100902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Eov3awAAv3of.jpg",
+        "width": 1497
+      },
+      {
+        "height": 1059,
+        "media_key": "3_2057516809558147072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3EoxkbwAA7z2Z.jpg",
+        "width": 1481
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2057516810334056448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Eo0dbMAAutfm.jpg",
+        "width": 1786
+      },
+      {
+        "height": 1143,
+        "media_key": "3_2057516811521073152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Eo44boAAgiQ5.jpg",
+        "width": 1681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2057525908186247445",
+        "created_at": "2026-05-21T18:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057525908186247445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2057516814016598207",
+              "start": 58,
+              "url": "https://t.co/2ihEtmrvnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057525908186247445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《继续得罪人》\n——论药娘们的相互安慰\n药娘们相互安慰在我看来没用。就是因为我接受过这种不带任何责任和亏欠的帮助。\n如果帮助不是从对方内心激起生的欲望和喜悦。而只是用捆绑死亡或者愧疚死亡，或者一些鸡毛蒜皮的、希望镇静对方的安慰组成。在我看来就注定是徒劳无获的。这样的安慰虽然多。一个求死动态下面几十条抱抱你。可是到底有什么用？\n所以我在小遥求死时完全没有采用常规的安慰方式而是用了自己的激进的方式。虽然他最后还是选择了轻生。但我也永远学到了教训——我的生命永远也绕不开他——到底哪里不如你们安慰别人半天，人家还是死了，然后你们又继续拿着这种自我感动式的安慰继续哄着下一个人去死？别人的死亡在你们的生命里究竟占多少比重，而你们在非恋人死亡前只是一直期望一个人可以拯救自己，让你忘记所有的伤痛？\n所谓的“抱抱你”就是一种空洞的能指。它不指涉任何的具体身体接触、任何的真实陪伴、任何的可以改变物质条件行动。它就只是一个符号——在社交网络的象征秩序中流通——标记“我已经完成安慰了”这一道德动作。甚至报警，用更大的动作幅度说服自己，说服世界我已经够努力了。你们也太相信世界了吧？不就是这个世界把你们逼成这样的吗。\n你越是想“拯救”一个人，你越可能把他的脖子勒得更紧。你越是急于用“抱抱你”来填满他的空洞，你越是在告诉他“你的空洞让我不舒服，请快点好起来”。\n真正的安慰从来就不是试图消除死亡，而是与他者的死亡共处，并在死亡的旁边，无意间展示生的一点点趣味。\n你们药娘们相互安慰没用，不是因为你们不善良，而是因为你们的善良太自觉了。你们知道自己是在安慰，因此安慰变成了任务、责任、仪式。而真正的帮助往往发生在你们忘记自己在帮助别人的时刻。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057516814016598207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《继续得罪人》\n——论药娘们的相互安慰\n药娘们相互安慰在我看来没用。就是因为我接受过这种不带任何责任和亏欠的帮助。 https://t.co/2ihEtmrvnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057516809100902400",
+            "3_2057516809558147072",
+            "3_2057516810334056448",
+            "3_2057516811521073152"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057516814016598207",
+        "created_at": "2026-05-21T17:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057516814016598207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9mfftL8QR",
+              "end": 146,
+              "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+              "media_key": "3_2057516809100902400",
+              "start": 123,
+              "url": "https://t.co/K9mfftL8QR"
+            },
+            {
+              "display_url": "pic.x.com/K9mfftL8QR",
+              "end": 146,
+              "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+              "media_key": "3_2057516809558147072",
+              "start": 123,
+              "url": "https://t.co/K9mfftL8QR"
+            },
+            {
+              "display_url": "pic.x.com/K9mfftL8QR",
+              "end": 146,
+              "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+              "media_key": "3_2057516810334056448",
+              "start": 123,
+              "url": "https://t.co/K9mfftL8QR"
+            },
+            {
+              "display_url": "pic.x.com/K9mfftL8QR",
+              "end": 146,
+              "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+              "media_key": "3_2057516811521073152",
+              "start": 123,
+              "url": "https://t.co/K9mfftL8QR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057516814016598207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没有人知道。我也是这样的……\n在我上高中的时候。想死了想离家出走想骑到自己死去。我骑着电动车在自己熟悉的购物街。因为我知道一旦走向陌生的街道，就无法回头了。我一直犹豫，要不要走向自己的死亡。我万念俱灰地鼓起嘴又松开逗自己玩。可是当我的目光汇聚。\n一个可爱的小女孩。学着我鼓嘴的样子。对着我笑。\n她母亲电动车的速度与我差不多，所以距离我不远不近。兴许是因为无聊，她被我的举动逗乐，模仿了我。她的笑容和动作让我情不自禁地笑起来。于是我就回家了。\n也许区别就是。atri让男主对个人欠下了无法还完的生命债务。而那个小女孩是所有人民的化身。我根本无法再次认出她。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人知道。我也是这样的……\n在我上高中的时候。想死了想离家出走想骑到自己死去。我骑着电动车在自己熟悉的购物街。因为我知道一旦走向陌生的街道，就无法回头了。我一直犹豫，要不要走向自己的死亡。我万念俱灰地鼓起嘴又松开逗自己玩。可是当我的目光汇聚。 https://t.co/K9mfftL8QR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 1383,
+          "like_count": 17377,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 861
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

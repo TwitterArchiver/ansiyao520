@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042276238648369152"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042276241546658058",
+    "created_at": "2026-04-09T16:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042276241546658058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bkTG3C2jcD",
+          "end": 165,
+          "expanded_url": "https://x.com/ansiyao520/status/2042276241546658058/photo/1",
+          "media_key": "3_2042276238648369152",
+          "start": 142,
+          "url": "https://t.co/bkTG3C2jcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042276241546658058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以所谓的半年疯狂骚扰，精神控制，不过是恋爱互动和分合纠葛罢了。\n恋爱里我的不成熟带给你很多痛苦，我很对不起，可这不是你公开写檄文，扩大影响，占用公共资源，滥用审判的理由。你的曝光，有多少出于报复心理？\n我知道你痛苦。但用这样的方式报复我，你又何尝不是需要避雷、极度危险的失恋者呢？ https://t.co/bkTG3C2jcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2042276238648369152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFefaynbYAAYeuW.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042276238648369152"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042276241546658058",
+        "created_at": "2026-04-09T16:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042276241546658058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkTG3C2jcD",
+              "end": 165,
+              "expanded_url": "https://x.com/ansiyao520/status/2042276241546658058/photo/1",
+              "media_key": "3_2042276238648369152",
+              "start": 142,
+              "url": "https://t.co/bkTG3C2jcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042276241546658058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以所谓的半年疯狂骚扰，精神控制，不过是恋爱互动和分合纠葛罢了。\n恋爱里我的不成熟带给你很多痛苦，我很对不起，可这不是你公开写檄文，扩大影响，占用公共资源，滥用审判的理由。你的曝光，有多少出于报复心理？\n我知道你痛苦。但用这样的方式报复我，你又何尝不是需要避雷、极度危险的失恋者呢？ https://t.co/bkTG3C2jcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 791,
+          "like_count": 4221,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 186
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

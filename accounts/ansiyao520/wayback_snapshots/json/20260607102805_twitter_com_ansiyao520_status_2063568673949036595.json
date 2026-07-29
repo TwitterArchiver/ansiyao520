@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062088997615378432"
+      ],
+      "media_source_tweet_id": [
+        "2062089008616996906"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063568673949036595",
+    "created_at": "2026-06-07T10:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063568673949036595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1475465753159630850",
+          "start": 3,
+          "username": "PiperBetleLeaf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxIp303pqV",
+          "end": 64,
+          "expanded_url": "https://x.com/PiperBetleLeaf/status/2062089008616996906/photo/1",
+          "media_key": "3_2062088997615378432",
+          "start": 41,
+          "url": "https://t.co/wxIp303pqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063568673949036595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062089008616996906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PiperBetleLeaf: 不愧是 lo 连我这种郭楠穿起来都好看😭 https://t.co/wxIp303pqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062088997615378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4DBJYbIAAIjIw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062088997615378432"
+          ],
+          "media_source_tweet_id": [
+            "2062089008616996906"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063568673949036595",
+        "created_at": "2026-06-07T10:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063568673949036595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1475465753159630850",
+              "start": 3,
+              "username": "PiperBetleLeaf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxIp303pqV",
+              "end": 64,
+              "expanded_url": "https://x.com/PiperBetleLeaf/status/2062089008616996906/photo/1",
+              "media_key": "3_2062088997615378432",
+              "start": 41,
+              "url": "https://t.co/wxIp303pqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568673949036595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062089008616996906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PiperBetleLeaf: 不愧是 lo 连我这种郭楠穿起来都好看😭 https://t.co/wxIp303pqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062088997615378432"
+          ]
+        },
+        "author_id": "1475465753159630850",
+        "conversation_id": "2062089008616996906",
+        "created_at": "2026-06-03T08:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062089008616996906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxIp303pqV",
+              "end": 44,
+              "expanded_url": "https://x.com/PiperBetleLeaf/status/2062089008616996906/photo/1",
+              "media_key": "3_2062088997615378432",
+              "start": 21,
+              "url": "https://t.co/wxIp303pqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062089008616996906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 15285,
+          "like_count": 483,
+          "quote_count": 1,
+          "reply_count": 108,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是 lo 连我这种郭楠穿起来都好看😭 https://t.co/wxIp303pqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 1498,
+          "like_count": 20682,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1169
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-27T14:00:39.000Z",
+        "description": "鬓怯琼梳，容销金镜，渐懒趁时匀染",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "piperbetle.github.io",
+                "end": 23,
+                "expanded_url": "http://piperbetle.github.io",
+                "start": 0,
+                "url": "https://t.co/LC7XoDiRRx"
+              }
+            ]
+          }
+        },
+        "id": "1475465753159630850",
+        "name": "蒟酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591419749543530497/mwF8Rqk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 117,
+          "like_count": 87,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/LC7XoDiRRx",
+        "username": "PiperBetleLeaf",
+        "verified": false
+      }
+    ]
+  }
+}

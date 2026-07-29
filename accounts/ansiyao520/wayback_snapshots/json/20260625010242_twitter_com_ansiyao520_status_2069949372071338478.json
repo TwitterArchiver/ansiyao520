@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2069686453886751227",
+    "created_at": "2026-06-25T01:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069949372071338478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025449560580259844",
+          "start": 0,
+          "username": "AlimataOue45353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069949372071338478",
+    "in_reply_to_user_id": "2025449560580259844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069686453886751227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlimataOue45353 没事。以后开大证。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2069686453886751227",
+        "created_at": "2026-06-25T01:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069949372071338478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025449560580259844",
+              "start": 0,
+              "username": "AlimataOue45353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069949372071338478",
+        "in_reply_to_user_id": "2025449560580259844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069686453886751227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlimataOue45353 没事。以后开大证。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025449560580259844",
+        "conversation_id": "2069686453886751227",
+        "created_at": "2026-06-24T07:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069686453886751227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069686453886751227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1571,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开小证失败了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1681,
+          "like_count": 25787,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T05:56:52.000Z",
+        "description": "xyn🍥，永遠16歲，162，2009.3.11，2026.1.31，hrt🍥2025.10.29",
+        "id": "2025449560580259844",
+        "name": "離🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066132077096116224/4NGg3VML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 422,
+          "like_count": 3169,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "AlimataOue45353",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046398777163141217",
+    "created_at": "2026-04-21T01:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046398777163141217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2046396979924889979",
+          "start": 49,
+          "url": "https://t.co/BdYlHY3Za2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046398777163141217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046396979924889979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的焦虑很严重，有时让我很想吐。\n我只好不断看书，看书，不断用更宏大的社会的痛苦掩盖自己的痛苦。 https://t.co/BdYlHY3Za2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2046396972660318208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZDNFDaYAAeMXd.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046398777163141217",
+        "created_at": "2026-04-21T01:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046398777163141217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2046396979924889979",
+              "start": 49,
+              "url": "https://t.co/BdYlHY3Za2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046398777163141217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046396979924889979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的焦虑很严重，有时让我很想吐。\n我只好不断看书，看书，不断用更宏大的社会的痛苦掩盖自己的痛苦。 https://t.co/BdYlHY3Za2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046396972660318208"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046396979924889979",
+        "created_at": "2026-04-21T01:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046396979924889979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ooSn2QOOe",
+              "end": 55,
+              "expanded_url": "https://x.com/ansiyao520/status/2046396979924889979/photo/1",
+              "media_key": "3_2046396972660318208",
+              "start": 32,
+              "url": "https://t.co/8ooSn2QOOe"
+            },
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2046379714051534975",
+              "start": 56,
+              "url": "https://t.co/hgnjlqJ2hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046396979924889979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046379714051534975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的。梦醒了就是无穷的焦虑。\n我自由了，但没有办法平静下来。 https://t.co/8ooSn2QOOe https://t.co/hgnjlqJ2hq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1242,
+          "like_count": 11500,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 491
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

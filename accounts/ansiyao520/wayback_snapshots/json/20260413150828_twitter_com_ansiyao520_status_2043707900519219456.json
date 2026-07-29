@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043707900519219456",
+    "created_at": "2026-04-13T15:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043707900519219456"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043707900519219456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "而且随着时间流逝。\n我就是越来越不靠精神分析和哲学过日子。而是靠感觉过日子了你知道吗。\n按理说。这种情况。找了个最棒的恋人，还分手了。在普通人身上是不可能发生的。\n可是偏偏我是一个想过普通人生活的精神病。\n导致我面对了一个普通人根本无法处理的情况。又无法退回到以前玩精神分析和哲学的状态。\n我愤怒啊😡。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而且随着时间流逝。\n我就是越来越不靠精神分析和哲学过日子。而是靠感觉过日子了你知道吗。\n按理说。这种情况。找了个最棒的恋人，还分手了。在普通人身上是不可能发生的。\n可是偏偏我是一个想过普通人生活的精神病。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043707900519219456",
+        "created_at": "2026-04-13T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043707900519219456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043707900519219456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "而且随着时间流逝。\n我就是越来越不靠精神分析和哲学过日子。而是靠感觉过日子了你知道吗。\n按理说。这种情况。找了个最棒的恋人，还分手了。在普通人身上是不可能发生的。\n可是偏偏我是一个想过普通人生活的精神病。\n导致我面对了一个普通人根本无法处理的情况。又无法退回到以前玩精神分析和哲学的状态。\n我愤怒啊😡。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且随着时间流逝。\n我就是越来越不靠精神分析和哲学过日子。而是靠感觉过日子了你知道吗。\n按理说。这种情况。找了个最棒的恋人，还分手了。在普通人身上是不可能发生的。\n可是偏偏我是一个想过普通人生活的精神病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 997,
+          "like_count": 5409,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 336
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

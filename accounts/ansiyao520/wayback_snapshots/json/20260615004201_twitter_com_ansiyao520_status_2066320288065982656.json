@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2066074714980921747",
+    "created_at": "2026-06-15T00:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066320288065982656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829004961627373568",
+          "start": 0,
+          "username": "BiDuoduo99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066320288065982656",
+    "in_reply_to_user_id": "829004961627373568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066216239123628191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiDuoduo99 傻逼滚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2066074714980921747",
+        "created_at": "2026-06-15T00:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066320288065982656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829004961627373568",
+              "start": 0,
+              "username": "BiDuoduo99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066320288065982656",
+        "in_reply_to_user_id": "829004961627373568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066216239123628191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiDuoduo99 傻逼滚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829004961627373568",
+        "conversation_id": "2066074714980921747",
+        "created_at": "2026-06-14T17:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066216239123628191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066216239123628191",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066074714980921747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 蓝V互关，相互交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1615,
+          "like_count": 23862,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1402
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-07T16:32:39.000Z",
+        "description": "合约交易的精髓，在于长期、持续、稳定地盈利，这与“一夜暴富”的赌博心态有天壤之别。",
+        "id": "829004961627373568",
+        "name": "币多多",
+        "pinned_tweet_id": "2056658471739678895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055064615105835008/3cBXmnVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8477,
+          "following_count": 2140,
+          "like_count": 40994,
+          "listed_count": 29,
+          "media_count": 235,
+          "tweet_count": 33679
+        },
+        "username": "BiDuoduo99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042284991502221312"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042284994471809388",
+    "created_at": "2026-04-09T16:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042284994471809388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5LvZjjknE",
+          "end": 161,
+          "expanded_url": "https://x.com/ansiyao520/status/2042284994471809388/photo/1",
+          "media_key": "3_2042284991502221312",
+          "start": 138,
+          "url": "https://t.co/F5LvZjjknE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042284994471809388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第四，吸你情绪价值。私人恩怨要摆上台面说吗？我非常抱歉，恋爱里不成熟，没照顾你情绪，犯贱让你失望。可如果你真的在意这段关系，分手后理应留出观察期，看看我的改变。但你分手后五分钟内就无缝衔接了，早就为自己找好了退路。\n你曾说相信我能成长为一个合格的恋人，我现在成长了，你在哪？ https://t.co/F5LvZjjknE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2042284991502221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFenYRiaAAA5_LL.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042284991502221312"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042284994471809388",
+        "created_at": "2026-04-09T16:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042284994471809388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5LvZjjknE",
+              "end": 161,
+              "expanded_url": "https://x.com/ansiyao520/status/2042284994471809388/photo/1",
+              "media_key": "3_2042284991502221312",
+              "start": 138,
+              "url": "https://t.co/F5LvZjjknE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042284994471809388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第四，吸你情绪价值。私人恩怨要摆上台面说吗？我非常抱歉，恋爱里不成熟，没照顾你情绪，犯贱让你失望。可如果你真的在意这段关系，分手后理应留出观察期，看看我的改变。但你分手后五分钟内就无缝衔接了，早就为自己找好了退路。\n你曾说相信我能成长为一个合格的恋人，我现在成长了，你在哪？ https://t.co/F5LvZjjknE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 791,
+          "like_count": 4227,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 189
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2056040055656108260",
+    "created_at": "2026-05-17T15:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056040055656108260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021505488337416192",
+          "start": 3,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056040055656108260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052056234896076986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuamanX09: 所谓诸如***之类的自杀危机干预者，实际上除了在网络上给予一些言语安慰/报警，根本解决不了一点真正的问题。那些将死之人痛苦的真正原因是什么？是缺钱还是家庭还是学业呢？但这并不是他们的错，他们能做的也仅限于此了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2056040055656108260",
+        "created_at": "2026-05-17T15:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056040055656108260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021505488337416192",
+              "start": 3,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056040055656108260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052056234896076986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuamanX09: 所谓诸如***之类的自杀危机干预者，实际上除了在网络上给予一些言语安慰/报警，根本解决不了一点真正的问题。那些将死之人痛苦的真正原因是什么？是缺钱还是家庭还是学业呢？但这并不是他们的错，他们能做的也仅限于此了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2052056234896076986",
+        "created_at": "2026-05-06T16:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052056234896076986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052056234896076986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1227,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所谓诸如***之类的自杀危机干预者，实际上除了在网络上给予一些言语安慰/报警，根本解决不了一点真正的问题。那些将死之人痛苦的真正原因是什么？是缺钱还是家庭还是学业呢？但这并不是他们的错，他们能做的也仅限于此了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 1363,
+          "like_count": 16717,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 822
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "斩杀线是失业，人生随便玩玩而已",
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "爆仓自杀",
+        "pinned_tweet_id": "2056029088062853179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056029833902370816/JULfdZkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 730,
+          "like_count": 4198,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 678
+        },
+        "username": "HuamanX09",
+        "verified": false
+      }
+    ]
+  }
+}

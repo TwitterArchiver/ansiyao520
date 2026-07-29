@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049450021503037441"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049450023877013848",
+    "created_at": "2026-04-29T11:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049450023877013848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkpjpDqs4c",
+          "end": 100,
+          "expanded_url": "https://x.com/ansiyao520/status/2049450023877013848/photo/1",
+          "media_key": "3_2049450021503037441",
+          "start": 77,
+          "url": "https://t.co/dkpjpDqs4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049450023877013848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这算是温柔？还是残酷呢？\n应该都不是吧。我只是个精于算计的小商人。幽暗地计算着每一段关系的筹码和满意程度。虽然偶尔也会破产。我仍然经营着我的情绪资本。 https://t.co/dkpjpDqs4c"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049450023877013848].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049450023877013848",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049450023877013848"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2049450021503037441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEb76Sa8AEMuHg.jpg",
+        "width": 858
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1307,
+          "like_count": 14110,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 654
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

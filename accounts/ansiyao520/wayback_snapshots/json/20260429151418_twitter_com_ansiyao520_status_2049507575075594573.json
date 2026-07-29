@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2048235017076453783",
+    "created_at": "2026-04-29T15:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049507575075594573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726808702387449856",
+          "start": 0,
+          "username": "Nargiti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049507575075594573",
+    "in_reply_to_user_id": "1468883359090630657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "女生作为经济上可能更强势的一方(代孕、留学、给对象钱)，其实是在构想一个女孩子能掌控的关系，避免传统婚姻中对女性的性义务和情感劳动。\n既然我不需要/不提供性，那我用资源交换对方的陪伴和忠诚（在重要事务上），但边界清晰（不能在外当m，说明雷区是权力支配关系，而非性本身）。\n还在高中，很多想法未来一定会变。但可贵的是，乐乐已经能区分“社会想要我怎样”和“我真正舒服的状态是哪种”。那些看似离谱的条件（比如每月1k让对方去找小妹），更像是一种极端化的逻辑推演——为了排除自己最不想要的（性接触、情感绑架），宁可开出夸张的交换条件。\n总之就是用经济/资源上的充裕，换取关系中的绝对安全感和主导权。富家女不用付出爱情，就能得到一个忠诚（至少在利益层面）的伴侣；而乐乐打算不付出性，就能得到一个合拍的玩伴。\n乐乐想要的这种“纯粹兄弟情+共度一生”，需要对方也是一个在情感需求上极度“反常规”的人——既要享受友谊的自由，又要自愿接受终身排他（不一定要肉体排他，但在生活依赖上必须排他）。\n乐乐能这样诚恳地写出我到底需要什么？我愿意为什么妥协，绝不为什么妥协？ 哪怕这些答案未来会变，这种自我对话的能力已经很珍贵了。\n喵。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049505584144359627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nargiti 女生作为经济上可能更强势的一方(代孕、留学、给对象钱)，其实是在构想一个女孩子能掌控的关系，避免传统婚姻中对女性的性义务和情感劳动。\n既然我不需要/不提供性，那我用资源交换对方的陪伴和忠诚（在重要事务上），但边界清晰（不能在外当m，说明雷区是权力支配关系，而非性本身）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2048235017076453783",
+        "created_at": "2026-04-29T15:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049507575075594573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726808702387449856",
+              "start": 0,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049507575075594573",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "女生作为经济上可能更强势的一方(代孕、留学、给对象钱)，其实是在构想一个女孩子能掌控的关系，避免传统婚姻中对女性的性义务和情感劳动。\n既然我不需要/不提供性，那我用资源交换对方的陪伴和忠诚（在重要事务上），但边界清晰（不能在外当m，说明雷区是权力支配关系，而非性本身）。\n还在高中，很多想法未来一定会变。但可贵的是，乐乐已经能区分“社会想要我怎样”和“我真正舒服的状态是哪种”。那些看似离谱的条件（比如每月1k让对方去找小妹），更像是一种极端化的逻辑推演——为了排除自己最不想要的（性接触、情感绑架），宁可开出夸张的交换条件。\n总之就是用经济/资源上的充裕，换取关系中的绝对安全感和主导权。富家女不用付出爱情，就能得到一个忠诚（至少在利益层面）的伴侣；而乐乐打算不付出性，就能得到一个合拍的玩伴。\n乐乐想要的这种“纯粹兄弟情+共度一生”，需要对方也是一个在情感需求上极度“反常规”的人——既要享受友谊的自由，又要自愿接受终身排他（不一定要肉体排他，但在生活依赖上必须排他）。\n乐乐能这样诚恳地写出我到底需要什么？我愿意为什么妥协，绝不为什么妥协？ 哪怕这些答案未来会变，这种自我对话的能力已经很珍贵了。\n喵。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049505584144359627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nargiti 女生作为经济上可能更强势的一方(代孕、留学、给对象钱)，其实是在构想一个女孩子能掌控的关系，避免传统婚姻中对女性的性义务和情感劳动。\n既然我不需要/不提供性，那我用资源交换对方的陪伴和忠诚（在重要事务上），但边界清晰（不能在外当m，说明雷区是权力支配关系，而非性本身）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048235017076453783",
+        "created_at": "2026-04-29T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049505584144359627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726808702387449856",
+              "start": 0,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049505584144359627",
+        "in_reply_to_user_id": "1726808702387449856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048235017076453783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nargiti 哇达西在网络上的故事会里见过这种男主呢。就是给富家女子当接班人的。每天就是打打游戏～，想干什么都可以～，只要对家里忠诚对女子忠诚就好的那种。虽然我也不知道这是什么文化现象/心理因素。但确实有类似的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1317,
+          "like_count": 14388,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 670
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 14,
+          "like_count": 4377,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 157
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

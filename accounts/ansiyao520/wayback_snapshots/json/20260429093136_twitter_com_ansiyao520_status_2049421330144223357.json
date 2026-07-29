@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049421326742667264",
+        "3_2049421327401209856"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049421330144223357",
+    "created_at": "2026-04-29T09:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049421330144223357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FVrpxUd70A",
+          "end": 151,
+          "expanded_url": "https://x.com/ansiyao520/status/2049421330144223357/photo/1",
+          "media_key": "3_2049421326742667264",
+          "start": 128,
+          "url": "https://t.co/FVrpxUd70A"
+        },
+        {
+          "display_url": "pic.x.com/FVrpxUd70A",
+          "end": 151,
+          "expanded_url": "https://x.com/ansiyao520/status/2049421330144223357/photo/1",
+          "media_key": "3_2049421327401209856",
+          "start": 128,
+          "url": "https://t.co/FVrpxUd70A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049421330144223357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这是在扫大家的兴。你这么做会伤害别人。你这么做不好。没有人会比我们自己对自己要求更严苛。这就是超我太膨胀的后果。因为没有一个良好的外部权威。我们为了寻求正确的东西。自己树立了一个极致的权威。或者是善良要求，或者是共产主义要求。总之，是个过度强大的超我。 https://t.co/FVrpxUd70A"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049421330144223357].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049421330144223357",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049421330144223357"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049421326742667264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEB1p-bQAAAVSm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049421327401209856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEB1sbb0AADaJj.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1305,
+          "like_count": 14025,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 624
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

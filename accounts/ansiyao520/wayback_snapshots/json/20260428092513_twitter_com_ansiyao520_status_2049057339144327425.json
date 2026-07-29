@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049057339144327425",
+    "created_at": "2026-04-28T09:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049057339144327425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049057339144327425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "就是说。现在能和我谈恋爱的群体。又少了不知道多少个百分比。我对恋人的要求又多了。或者说更准确了。导致我遇到恋人的几率越来越小。。这真是让人痛苦万分。\n对普通人来说，他们没谈过，又懂事。和谁谈恋爱只取决于偶然遇到谁对自己好。但对我来说。适合我结构的人本来就极少，现在我画的地图越来越精确，集合也就越来越小了。分析不能消除痛苦，只能将神经症性的痛苦转化为普通的不快乐。\n我没有选择。这是我的命运。😭\n我羡慕楼下快餐店里，那个永远不理解妻子的丈夫。他们总是吵架。女的打男的，男的语言上冷暴力女的。我羡慕你们的恋爱里，只要贴贴抱抱就可以，只要不断记录吃药第某天就能把自己的享乐全部投入其中。\n我羡慕你们的线性时间观。我想过日子。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是说。现在能和我谈恋爱的群体。又少了不知道多少个百分比。我对恋人的要求又多了。或者说更准确了。导致我遇到恋人的几率越来越小。。这真是让人痛苦万分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049057339144327425",
+        "created_at": "2026-04-28T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049057339144327425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049057339144327425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就是说。现在能和我谈恋爱的群体。又少了不知道多少个百分比。我对恋人的要求又多了。或者说更准确了。导致我遇到恋人的几率越来越小。。这真是让人痛苦万分。\n对普通人来说，他们没谈过，又懂事。和谁谈恋爱只取决于偶然遇到谁对自己好。但对我来说。适合我结构的人本来就极少，现在我画的地图越来越精确，集合也就越来越小了。分析不能消除痛苦，只能将神经症性的痛苦转化为普通的不快乐。\n我没有选择。这是我的命运。😭\n我羡慕楼下快餐店里，那个永远不理解妻子的丈夫。他们总是吵架。女的打男的，男的语言上冷暴力女的。我羡慕你们的恋爱里，只要贴贴抱抱就可以，只要不断记录吃药第某天就能把自己的享乐全部投入其中。\n我羡慕你们的线性时间观。我想过日子。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是说。现在能和我谈恋爱的群体。又少了不知道多少个百分比。我对恋人的要求又多了。或者说更准确了。导致我遇到恋人的几率越来越小。。这真是让人痛苦万分。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1310,
+          "like_count": 13641,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 580
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065008919106449548",
+    "created_at": "2026-06-11T09:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065008919106449548"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065008919106449548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《关于口号的建议》\n我不建议频繁使用“我们的存在就是对恶意最大的反抗”这样扁平化的口号。\n你们必须自己明白这个口号的意思，而且讲得出来才行。面对别人的郁闷要讲得出来大道理去开导，而不是“懂得都懂，不懂得我也没有办法”。\n我们发展太快，前现代、现代、后现代问题交织，很多家长自己就是暴力教育的受害者，他们没有习得别的养育方式。而社会也不能及时长出保护孩子的软组织比如社区组织、心理支援服务或者独立的未成年人支持网络。孩子唯一的出路常常是硬扛到经济独立。这是社会基本情况。\n而那句口号的意思则是，你们受的苦，可以成为反抗的种子；你们活着，就是社会的进步力量。活着本身，就是你在用存在，否定这种暴力的彻底胜利。\n未来属于我们。未来属于年轻人。拼尽全力地活着好吗。小同志。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《关于口号的建议》\n我不建议频繁使用“我们的存在就是对恶意最大的反抗”这样扁平化的口号。\n你们必须自己明白这个口号的意思，而且讲得出来才行。面对别人的郁闷要讲得出来大道理去开导，而不是“懂得都懂，不懂得我也没有办法”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065008919106449548",
+        "created_at": "2026-06-11T09:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065008919106449548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065008919106449548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《关于口号的建议》\n我不建议频繁使用“我们的存在就是对恶意最大的反抗”这样扁平化的口号。\n你们必须自己明白这个口号的意思，而且讲得出来才行。面对别人的郁闷要讲得出来大道理去开导，而不是“懂得都懂，不懂得我也没有办法”。\n我们发展太快，前现代、现代、后现代问题交织，很多家长自己就是暴力教育的受害者，他们没有习得别的养育方式。而社会也不能及时长出保护孩子的软组织比如社区组织、心理支援服务或者独立的未成年人支持网络。孩子唯一的出路常常是硬扛到经济独立。这是社会基本情况。\n而那句口号的意思则是，你们受的苦，可以成为反抗的种子；你们活着，就是社会的进步力量。活着本身，就是你在用存在，否定这种暴力的彻底胜利。\n未来属于我们。未来属于年轻人。拼尽全力地活着好吗。小同志。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《关于口号的建议》\n我不建议频繁使用“我们的存在就是对恶意最大的反抗”这样扁平化的口号。\n你们必须自己明白这个口号的意思，而且讲得出来才行。面对别人的郁闷要讲得出来大道理去开导，而不是“懂得都懂，不懂得我也没有办法”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1540,
+          "like_count": 22219,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1293
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

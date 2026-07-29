@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067941914419380224"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2067941922640191575",
+    "created_at": "2026-06-19T12:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067941922640191575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AleighaPiS",
+          "end": 129,
+          "expanded_url": "https://x.com/ansiyao520/status/2067941922640191575/photo/1",
+          "media_key": "3_2067941914419380224",
+          "start": 106,
+          "url": "https://t.co/AleighaPiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067941922640191575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《「蛊真人」点评》\n我看很多朋友都喜欢读《蛊真人》，所以我最近也阅读了一下。我先说结论，从网络文学上讲。它的确是一等一好看的、让人热血沸腾的顶好的小说。但从作者想写的所谓魔道思想上，我认为是庸俗无比，难堪大用。\n凡人的魔性只是从前反思的状态变成复仇主义的前现代觉醒。根本算不上什么值得说道的事。可叹作者还把这当做二分的真理。\n“前反思”是一个无辜的阶段——主体尚未经历冲突，尚未被世界伤害，尚未意识到自己与他者的对立。\n当伤害到来（小说中的“正邪思想碰撞”），主体进入反思，但这反思往往并不会走向自我理解或结构批判，而是直接坍缩为复仇主义，变成一种简单化的归因——我是对的，世界是错的，我要报复。\n但这并不是所谓觉醒，而是觉醒的退化。真正的觉醒应该是，我看到了结构的矛盾，我理解了自己的位置，我选择了（或不选择）改变。而复仇主义的觉醒是，我看到有人伤害了我，我要打回去。这把复杂的社会矛盾简化为了个人恩怨，把历史的曲折压缩为了“你欠我的”。\n作者为这种“觉醒”赋予史诗感，但在我看来，这不过是一种前现代的、幼稚的叙事模式——它满足了读者对“主角从被压迫到翻身”的情感期待，却回避了对权力结构本身的追问。\n很简单的道理。难道阶级革命是无产阶级着魔了吗。\n反思本身不保证觉醒。许多人被伤害后“想通了”，只是找到了一个可以归罪的靶子而已——具体的个人、群体、标签、甚至是制度。但就算把最庞大的制度作为仇恨的对象，也仍然是幼稚的。\n复仇主义把历史压缩为私人情感，不需要理解封建社会、不需要分析权力结构、不需要考虑阶级关系——只需要一个“制度负了我”的叙事，足以支撑全部行动。\n这本质上是把结构性矛盾降级为个人恩怨的消费品。读者可以安全地代入“被压迫者翻身”的情感弧线，而不必面对真正的问题：压迫到底从何而来？压迫如何被再生产？个体反抗如何与集体行动联动？\n大多数所谓“魔道”“黑化”叙事的意识形态功能只是提供了一种伪批判罢了，让读者以为自己看见了黑暗、反抗了秩序，但实际上只是在消费一种被安全化的、个人主义的反叛而已。真正的批判从来不只是“我恨你”，而是“我理解你如何成为你，而我又如何可能不再重复这种结构”。\n无产阶级革命就不是“魔性觉醒”——不是某个或某群被压迫者突然“想通”了、看透了、决定报复了。它是对生产关系的理性认识，是阶级意识从“自在”到“自为”的转变，是对剥削机制的洞察和集体行动的组织化回应。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《「蛊真人」点评》\n我看很多朋友都喜欢读《蛊真人》，所以我最近也阅读了一下。我先说结论，从网络文学上讲。它的确是一等一好看的、让人热血沸腾的顶好的小说。但从作者想写的所谓魔道思想上，我认为是庸俗无比，难堪大用。 https://t.co/AleighaPiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1621,
+        "media_key": "3_2067941914419380224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLONvkbwAAjo3h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067941914419380224"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2067941922640191575",
+        "created_at": "2026-06-19T12:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067941922640191575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AleighaPiS",
+              "end": 129,
+              "expanded_url": "https://x.com/ansiyao520/status/2067941922640191575/photo/1",
+              "media_key": "3_2067941914419380224",
+              "start": 106,
+              "url": "https://t.co/AleighaPiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067941922640191575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《「蛊真人」点评》\n我看很多朋友都喜欢读《蛊真人》，所以我最近也阅读了一下。我先说结论，从网络文学上讲。它的确是一等一好看的、让人热血沸腾的顶好的小说。但从作者想写的所谓魔道思想上，我认为是庸俗无比，难堪大用。\n凡人的魔性只是从前反思的状态变成复仇主义的前现代觉醒。根本算不上什么值得说道的事。可叹作者还把这当做二分的真理。\n“前反思”是一个无辜的阶段——主体尚未经历冲突，尚未被世界伤害，尚未意识到自己与他者的对立。\n当伤害到来（小说中的“正邪思想碰撞”），主体进入反思，但这反思往往并不会走向自我理解或结构批判，而是直接坍缩为复仇主义，变成一种简单化的归因——我是对的，世界是错的，我要报复。\n但这并不是所谓觉醒，而是觉醒的退化。真正的觉醒应该是，我看到了结构的矛盾，我理解了自己的位置，我选择了（或不选择）改变。而复仇主义的觉醒是，我看到有人伤害了我，我要打回去。这把复杂的社会矛盾简化为了个人恩怨，把历史的曲折压缩为了“你欠我的”。\n作者为这种“觉醒”赋予史诗感，但在我看来，这不过是一种前现代的、幼稚的叙事模式——它满足了读者对“主角从被压迫到翻身”的情感期待，却回避了对权力结构本身的追问。\n很简单的道理。难道阶级革命是无产阶级着魔了吗。\n反思本身不保证觉醒。许多人被伤害后“想通了”，只是找到了一个可以归罪的靶子而已——具体的个人、群体、标签、甚至是制度。但就算把最庞大的制度作为仇恨的对象，也仍然是幼稚的。\n复仇主义把历史压缩为私人情感，不需要理解封建社会、不需要分析权力结构、不需要考虑阶级关系——只需要一个“制度负了我”的叙事，足以支撑全部行动。\n这本质上是把结构性矛盾降级为个人恩怨的消费品。读者可以安全地代入“被压迫者翻身”的情感弧线，而不必面对真正的问题：压迫到底从何而来？压迫如何被再生产？个体反抗如何与集体行动联动？\n大多数所谓“魔道”“黑化”叙事的意识形态功能只是提供了一种伪批判罢了，让读者以为自己看见了黑暗、反抗了秩序，但实际上只是在消费一种被安全化的、个人主义的反叛而已。真正的批判从来不只是“我恨你”，而是“我理解你如何成为你，而我又如何可能不再重复这种结构”。\n无产阶级革命就不是“魔性觉醒”——不是某个或某群被压迫者突然“想通”了、看透了、决定报复了。它是对生产关系的理性认识，是阶级意识从“自在”到“自为”的转变，是对剥削机制的洞察和集体行动的组织化回应。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《「蛊真人」点评》\n我看很多朋友都喜欢读《蛊真人》，所以我最近也阅读了一下。我先说结论，从网络文学上讲。它的确是一等一好看的、让人热血沸腾的顶好的小说。但从作者想写的所谓魔道思想上，我认为是庸俗无比，难堪大用。 https://t.co/AleighaPiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1655,
+          "like_count": 24937,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

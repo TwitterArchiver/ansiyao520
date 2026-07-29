@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2064552519251243475",
+    "created_at": "2026-06-10T04:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064572692272218300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064572692272218300",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "被医疗系统定位了就等着被医治为社会认为的正常人吧。“你病了”喵。允许变性从来是医疗系统对已经独立了的易性症人群的妥协。没有经济独立和亲人支持时，易性症只是家长和医生要消灭的疾病而已，就像心脏病什么的。\n我的建议是你要有智慧。学会妥协和伪装。同时也要切实改掉自卑、自残这样对自己发展不利的思维或行为习惯。“早点好起来”。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064552519251243475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 被医疗系统定位了就等着被医治为社会认为的正常人吧。“你病了”喵。允许变性从来是医疗系统对已经独立了的易性症人群的妥协。没有经济独立和亲人支持时，易性症只是家长和医生要消灭的疾病而已，就像心脏病什么的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064550999910674432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbCMipacAAtBEX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2064552519251243475",
+        "created_at": "2026-06-10T04:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064572692272218300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064572692272218300",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "被医疗系统定位了就等着被医治为社会认为的正常人吧。“你病了”喵。允许变性从来是医疗系统对已经独立了的易性症人群的妥协。没有经济独立和亲人支持时，易性症只是家长和医生要消灭的疾病而已，就像心脏病什么的。\n我的建议是你要有智慧。学会妥协和伪装。同时也要切实改掉自卑、自残这样对自己发展不利的思维或行为习惯。“早点好起来”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064552519251243475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 被医疗系统定位了就等着被医治为社会认为的正常人吧。“你病了”喵。允许变性从来是医疗系统对已经独立了的易性症人群的妥协。没有经济独立和亲人支持时，易性症只是家长和医生要消灭的疾病而已，就像心脏病什么的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064550999910674432"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2064552519251243475",
+        "created_at": "2026-06-10T03:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064552519251243475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTKXYLWzAD",
+              "end": 91,
+              "expanded_url": "https://x.com/UnkMtX/status/2064552519251243475/photo/1",
+              "media_key": "3_2064550999910674432",
+              "start": 68,
+              "url": "https://t.co/ZTKXYLWzAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064552519251243475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "偷到了病历😇\n但主诉为什么写的是服用一年余😰，我HRT连半年都没有😅，愈美我总共都只买过3盒😠，距今不足两个月，不知道谁给我说的一年🤬 https://t.co/ZTKXYLWzAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1518,
+          "like_count": 21505,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1252
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫了😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm51kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 924,
+          "like_count": 1513,
+          "listed_count": 14,
+          "media_count": 42,
+          "tweet_count": 293
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

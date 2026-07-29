@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2064931726275801268",
+    "created_at": "2026-06-11T09:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065006639758061613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065006639758061613",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我小时候也被家里打。不过不是因为这种事。只要是观念上爱打孩子的，家里人几乎总是会打的。小时候被爷爷打了。觉得教育孩子也应该通过暴力的方式。这种在古代可能是没问题的。甚至会有孩子上房爬树躲避的事情。但现在的孩子是现代的孩子，是往现代原子化个人培养的，不能这样去损害人的独立性和自尊心。现在的生活场所也是高楼大厦的而非乡村的。孩子根本无处可跑，倒是殴打失去了他的合理性。家现在是孩子唯一的安全场所，而非古代那样整个村子都可以跑。这样打孩子，会使孩子孤立无援，感到极度的不自由和无法调适。因此现代的家长是绝不能暴力殴打打孩子的。\n但可惜。我们发展太快了，一代人和一代人有认知和经验上的断层。目前的情况是前现代，现代和后现代问题交织。面对这样一个庞然大物，我们本土也没有相适应地建立起各种团体或者市民社会来为孩子们提供保障，孩子除了靠家里供给去上学外几乎没有出路。这是很成问题的。\n我无法为一个人的人生负责。只能说说自己见过的情况。\n我见过小遥的死。我逼迫他接受家里规训，但他就是不想回家，并且为我的不理解而感到绝望，他就凭借容易获取的药物自尽了。\n我还见过小月，他被赶出家门后，在公园睡了一晚，第二天找了份早餐店的工作，晚上在网吧包夜凑合，活了下来。有时我很感概，如果小遥没死，大概也是和月月一样的活法。\n我还是希望大家可以活下去的。你们受了这多苦，都是反抗的种子，以后都是社会的进步力量呀。白白死去，岂不是徒增朋友的忧伤和世界的损失。\n活着你只是痛苦些，可能最后完全落入无产，身无分文无房无衣，完全的靠打工为生，可是你的朋友该多么欣慰你还能活着，世界又如何欣喜你的存在。\n我们是一个预备的集体，不要轻易死了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064931726275801268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 我小时候也被家里打。不过不是因为这种事。只要是观念上爱打孩子的，家里人几乎总是会打的。小时候被爷爷打了。觉得教育孩子也应该通过暴力的方式。这种在古代可能是没问题的。甚至会有孩子上房爬树躲避的事情。但现在的孩子是现代的孩子，是往现代原子化个人培养的，不能这样去损害人的独立性和自尊心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2064931726275801268",
+        "created_at": "2026-06-11T09:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065006639758061613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065006639758061613",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我小时候也被家里打。不过不是因为这种事。只要是观念上爱打孩子的，家里人几乎总是会打的。小时候被爷爷打了。觉得教育孩子也应该通过暴力的方式。这种在古代可能是没问题的。甚至会有孩子上房爬树躲避的事情。但现在的孩子是现代的孩子，是往现代原子化个人培养的，不能这样去损害人的独立性和自尊心。现在的生活场所也是高楼大厦的而非乡村的。孩子根本无处可跑，倒是殴打失去了他的合理性。家现在是孩子唯一的安全场所，而非古代那样整个村子都可以跑。这样打孩子，会使孩子孤立无援，感到极度的不自由和无法调适。因此现代的家长是绝不能暴力殴打打孩子的。\n但可惜。我们发展太快了，一代人和一代人有认知和经验上的断层。目前的情况是前现代，现代和后现代问题交织。面对这样一个庞然大物，我们本土也没有相适应地建立起各种团体或者市民社会来为孩子们提供保障，孩子除了靠家里供给去上学外几乎没有出路。这是很成问题的。\n我无法为一个人的人生负责。只能说说自己见过的情况。\n我见过小遥的死。我逼迫他接受家里规训，但他就是不想回家，并且为我的不理解而感到绝望，他就凭借容易获取的药物自尽了。\n我还见过小月，他被赶出家门后，在公园睡了一晚，第二天找了份早餐店的工作，晚上在网吧包夜凑合，活了下来。有时我很感概，如果小遥没死，大概也是和月月一样的活法。\n我还是希望大家可以活下去的。你们受了这多苦，都是反抗的种子，以后都是社会的进步力量呀。白白死去，岂不是徒增朋友的忧伤和世界的损失。\n活着你只是痛苦些，可能最后完全落入无产，身无分文无房无衣，完全的靠打工为生，可是你的朋友该多么欣慰你还能活着，世界又如何欣喜你的存在。\n我们是一个预备的集体，不要轻易死了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064931726275801268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 我小时候也被家里打。不过不是因为这种事。只要是观念上爱打孩子的，家里人几乎总是会打的。小时候被爷爷打了。觉得教育孩子也应该通过暴力的方式。这种在古代可能是没问题的。甚至会有孩子上房爬树躲避的事情。但现在的孩子是现代的孩子，是往现代原子化个人培养的，不能这样去损害人的独立性和自尊心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2064931726275801268",
+        "created_at": "2026-06-11T04:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:44:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064931681333838017",
+          "2064931726275801268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064931726275801268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1300,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "她不停地哭泣着。\n\n但爸爸没有停下来，一边打一边骂：\n「你他妈的变态！你是男的！男的！你知不知道你是个什么东西！」\n\n这天晚上她被打了很多下，多到她数不清了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1540,
+          "like_count": 22218,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1292
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜觉得我傻逼就ban\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n\n对象是小一\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi\n宝宝 @picxis63594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "picxis63594"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064946997547978935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1046,
+          "like_count": 2440,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

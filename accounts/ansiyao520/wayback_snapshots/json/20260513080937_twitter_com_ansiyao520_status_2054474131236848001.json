@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054474106956066816"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2054474131236848001",
+    "created_at": "2026-05-13T08:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054474131236848001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8HD81fCHiZ",
+          "end": 145,
+          "expanded_url": "https://x.com/ansiyao520/status/2054474131236848001/photo/1",
+          "media_key": "3_2054474106956066816",
+          "start": 122,
+          "url": "https://t.co/8HD81fCHiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054474131236848001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想了想。我应该是在追求做一个文化小资。\n因为老子没钱啊。当不了鸡巴物质小资。在学校也是屁大点事做不了，考试就混个及格。保不了研也弄不了科研保研。就只好读那些个书自己玩。写一些傻逼文章。希望有一天可以有物质小资富婆姐姐包养我。\n反正是挺傻逼的。 https://t.co/8HD81fCHiZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054474131236848001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054474131236848001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054474131236848001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054474106956066816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIL1ULFasAAthpE.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1352,
+          "like_count": 16224,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 801
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2057170987385520128"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2057171082386583624",
+    "created_at": "2026-05-20T18:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057171082386583624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50ttUeh4KX",
+          "end": 91,
+          "expanded_url": "https://x.com/ansiyao520/status/2057171082386583624/video/1",
+          "media_key": "7_2057170987385520128",
+          "start": 68,
+          "url": "https://t.co/50ttUeh4KX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057171082386583624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨透这世界，\n恨透你，\n恨透了月夜遮住云，\n恨透了一切，\n尤其是琴，\n焚毁吧连同我和你。\n\n晚安。今天也是和最爱的好朋友度过的一天。 https://t.co/50ttUeh4KX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057171082386583624].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057171082386583624",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057171082386583624"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161546,
+        "height": 1088,
+        "media_key": "7_2057170987385520128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057170987385520128/pu/img/s0XZCOLHzTkp6MSJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057170987385520128/pu/vid/avc1/320x604/ga6yZiRj9SRl2CK7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057170987385520128/pu/vid/avc1/480x906/E3S6BBrQctgsjaxU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057170987385520128/pu/vid/avc1/576x1088/ok7p_u5vUZtPoZa6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057170987385520128/pu/pl/7Uk3-zAvo0-vR4rH.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 1377,
+          "like_count": 17234,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 852
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

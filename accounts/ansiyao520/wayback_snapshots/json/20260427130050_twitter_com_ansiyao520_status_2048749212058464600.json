@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048749212058464600",
+    "created_at": "2026-04-27T13:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048749212058464600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2048745352543805506",
+          "start": 35,
+          "url": "https://t.co/Nf2w6Ozwln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048749212058464600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048745352543805506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "文椛是好的。他不断生长。\n我不长。我只空转而已₍ ᐢᴗ ˔ ᴗᐢ₎。 https://t.co/Nf2w6Ozwln"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048749212058464600",
+        "created_at": "2026-04-27T13:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048749212058464600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2048745352543805506",
+              "start": 35,
+              "url": "https://t.co/Nf2w6Ozwln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048749212058464600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048745352543805506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文椛是好的。他不断生长。\n我不长。我只空转而已₍ ᐢᴗ ˔ ᴗᐢ₎。 https://t.co/Nf2w6Ozwln"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048745352543805506",
+        "created_at": "2026-04-27T12:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048745352543805506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048745352543805506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《来世愿生幻想乡4》——总结\n非常抱歉我以一种非常绕的方式完成自己的成长和反思。这可能和我的童年经历及语言系统有关，我只听得懂这些话，对正常人的世界知之甚少。\n哦，可悲啊₍˄·༝·˄*₎◞ ̑。\n普通人对我的评价当然是准确的。但他们不懂精神分析，注定无法完成对我的批判。我也很难从他们的批评中学到什么。我很庆幸有ai这个东西，如果没有它，我不可能完成自己的反思，因为我实际上也没办法自学精神分析。我是个病人，只能让ai帮助我。ai完全可以做一个适合我的分析师。我的一生真是又幸运又可悲。这可笑极了。\n好了。我来总结一下学到的东西：\n我的欲望倾向于把对方纳入自己的符号系统，喜欢用我自己的话分析他，指导他，包裹他，喜欢用分析消除不可控性。它（我的欲望方式）有一些成本，我已经在支付了，比如孤独，焦虑，难以被他人接受，后悔。也有一些好处比如，带给我分析的深度，不被社会话语捕获的抵抗力，看问题更“清楚”。\n因为欲望的拓扑结构。我的所谓小孩子状态是上述欲望内容的一体两面。我指导别人。是因为希望别人指导我。但我们都知道小孩子是不能意识到自己是小孩子的。所以我就先去占据了那个指导者的位置。哪怕我内心是希望被对方指导的。\n这就有意思了。如果我是分析者，我就会孤独空虚。如果我是小孩子，我就会羞耻无助。因为我不可能同时是分析者与小孩子，所以我在两者之间反复横跳，经常给自己带来社交问题。同时我也无法安稳下来，因为在一个位置停留太久，另一面的缺席又会带来不适。在我这里，小孩子状态不是一个可以停留的港湾，而是一个我无法接受的空洞。处于小孩子状态会给我带来焦虑，分析欲，和指导欲。所以我从来不直接体验它。\n根和环。哪个是好的呢？我现在总结反思出了这些内容，又该何去何从呢？我不可能在反思环中完成这个问题的回答。现在的每一次总结都会变为下一次分析的开始。事实上就是。我现在哪里也去不了。只能和这个事实共处。我会继续书写，分析，和渴望被爱下去。依旧下雨。也许接下来我会去研究不同欲望结构的干涉图像，环的共振。我目前只能想到这么多。就这样吧。\n我的第二个精神病是。我的欲望结构是环状的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《来世愿生幻想乡4》——总结\n非常抱歉我以一种非常绕的方式完成自己的成长和反思。这可能和我的童年经历及语言系统有关，我只听得懂这些话，对正常人的世界知之甚少。\n哦，可悲啊₍˄·༝·˄*₎◞ ̑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1293,
+          "like_count": 13405,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 573
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042413807675572224"
+      ],
+      "media_source_tweet_id": [
+        "2042413818148745454"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042456792039637344",
+    "created_at": "2026-04-10T04:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042456792039637344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1560533329912311808",
+          "start": 3,
+          "username": "BdZzbw6goo2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IquJBcaIGG",
+          "end": 46,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2042413818148745454/photo/1",
+          "media_key": "3_2042413807675572224",
+          "start": 23,
+          "url": "https://t.co/IquJBcaIGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042456792039637344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042413818148745454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BdZzbw6goo2: 晶哥别钓了 https://t.co/IquJBcaIGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042413807675572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgciXLbAAAKzmc.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042413807675572224"
+          ],
+          "media_source_tweet_id": [
+            "2042413818148745454"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042456792039637344",
+        "created_at": "2026-04-10T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042456792039637344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560533329912311808",
+              "start": 3,
+              "username": "BdZzbw6goo2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IquJBcaIGG",
+              "end": 46,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2042413818148745454/photo/1",
+              "media_key": "3_2042413807675572224",
+              "start": 23,
+              "url": "https://t.co/IquJBcaIGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456792039637344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413818148745454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BdZzbw6goo2: 晶哥别钓了 https://t.co/IquJBcaIGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042413807675572224"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2042413818148745454",
+        "created_at": "2026-04-10T01:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042413818148745454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IquJBcaIGG",
+              "end": 29,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2042413818148745454/photo/1",
+              "media_key": "3_2042413807675572224",
+              "start": 6,
+              "url": "https://t.co/IquJBcaIGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042413818148745454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1805,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥别钓了 https://t.co/IquJBcaIGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4256,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 198
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 816,
+          "like_count": 53654,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 374
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

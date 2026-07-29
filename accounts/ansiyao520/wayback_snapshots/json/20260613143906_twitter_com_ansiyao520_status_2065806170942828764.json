@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065806170942828764",
+    "created_at": "2026-06-13T14:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065806170942828764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lightboat111/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lightboat111/status/2065798977996382462",
+          "start": 5,
+          "url": "https://t.co/wq22dVbIjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065806170942828764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065798977996382462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真实了。 https://t.co/wq22dVbIjD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065806170942828764",
+        "created_at": "2026-06-13T14:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065806170942828764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lightboat111/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lightboat111/status/2065798977996382462",
+              "start": 5,
+              "url": "https://t.co/wq22dVbIjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065806170942828764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065798977996382462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真实了。 https://t.co/wq22dVbIjD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2065798977996382462",
+        "created_at": "2026-06-13T14:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065798977996382462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065798977996382462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉爱吗\n喜欢强制爱是因为没有被坚定选择吗\n喜欢救赎别人是因为自己没过而救赎吗\n喜欢无所谓的是因为不想再被伤害吗\n喜欢聊天是因为之前没有人陪你吗\n喜欢忍气吞声是因为没人接住情绪吗\n喜欢嘴硬是因为没有人懂你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 1575,
+          "like_count": 23171,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1363
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/177/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、网文、音乐/王者、洛克王国页游和手游、鸣潮、音游。\n一个尝试@lightship111\n跟风一个匿名信箱https://t.co/4cfDhoA5GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "lightship111"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lightboat111",
+                "end": 112,
+                "expanded_url": "https://ngl.link/lightboat111",
+                "start": 89,
+                "url": "https://t.co/4cfDhoA5GZ"
+              }
+            ]
+          }
+        },
+        "id": "1813188041793761280",
+        "location": "月亮之上",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994693420875493416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1034,
+          "like_count": 1382,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 827
+        },
+        "username": "lightboat111",
+        "verified": true
+      }
+    ]
+  }
+}

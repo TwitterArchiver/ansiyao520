@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043508727014404526",
+    "created_at": "2026-04-13T01:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043508727014404526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2031097520840167424",
+          "start": 3,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043508727014404526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043369503502016705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ciallo_114_514: 我劝有些人你出于好心适当劝劝人可以，但别上纲上线什么都要管，做的事情有一点不合你心意了就要开始说教；若是你有相关经验且言之有理吧那听你的也不是不行，可自己本事没多少又爱指点人的是何意味呢？（乐）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043508727014404526",
+        "created_at": "2026-04-13T01:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043508727014404526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2031097520840167424",
+              "start": 3,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043508727014404526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043369503502016705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ciallo_114_514: 我劝有些人你出于好心适当劝劝人可以，但别上纲上线什么都要管，做的事情有一点不合你心意了就要开始说教；若是你有相关经验且言之有理吧那听你的也不是不行，可自己本事没多少又爱指点人的是何意味呢？（乐）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2043369503502016705",
+        "created_at": "2026-04-12T16:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043369503502016705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043369503502016705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1135,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我劝有些人你出于好心适当劝劝人可以，但别上纲上线什么都要管，做的事情有一点不合你心意了就要开始说教；若是你有相关经验且言之有理吧那听你的也不是不行，可自己本事没多少又爱指点人的是何意味呢？（乐）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 929,
+          "like_count": 4871,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 295
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2041169063330889949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 580,
+          "like_count": 1323,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 2708
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

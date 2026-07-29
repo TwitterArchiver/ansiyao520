@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043331263474598312",
+    "created_at": "2026-04-12T14:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043331263474598312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042902564048355328",
+          "start": 3,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043331263474598312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043315533395947937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTTypezhi: 今天晚上被恶心到了🤮\n就刚才我穿lo骑电瓶车回家，然后电快没了所以开的有点慢(我靠路边开的)\n然后有两个男的骑电动车在我后面说了什么就直接跑我车前面了😓，然后后座那个中年男的就对我吹口哨了🤮\n我气不过骂了句傻逼😓然后后面又来了一辆电动车是一个女生…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043331263474598312",
+        "created_at": "2026-04-12T14:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043331263474598312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042902564048355328",
+              "start": 3,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043331263474598312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043315533395947937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTTypezhi: 今天晚上被恶心到了🤮\n就刚才我穿lo骑电瓶车回家，然后电快没了所以开的有点慢(我靠路边开的)\n然后有两个男的骑电动车在我后面说了什么就直接跑我车前面了😓，然后后座那个中年男的就对我吹口哨了🤮\n我气不过骂了句傻逼😓然后后面又来了一辆电动车是一个女生…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042902564048355328",
+        "conversation_id": "2043315533395947937",
+        "created_at": "2026-04-12T13:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043315533395947937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043315533395947937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上被恶心到了🤮\n就刚才我穿lo骑电瓶车回家，然后电快没了所以开的有点慢(我靠路边开的)\n然后有两个男的骑电动车在我后面说了什么就直接跑我车前面了😓，然后后座那个中年男的就对我吹口哨了🤮\n我气不过骂了句傻逼😓然后后面又来了一辆电动车是一个女生 听见我骂了之后就跟前面的说别人骂你了😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 902,
+          "like_count": 4757,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 282
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "@TTypezhi 三代目也死了😭myl我恨你😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "TTypezhi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "http://typezhi.top",
+                "start": 0,
+                "url": "https://t.co/YJjSCQu1bw"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 112,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/YJjSCQu1bw",
+        "username": "TTTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060583905800175616"
+      ],
+      "media_source_tweet_id": [
+        "2060583908568453213"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2060741423721480486",
+    "created_at": "2026-05-30T15:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060741423721480486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013553953041235968",
+          "start": 3,
+          "username": "lxgy1024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rmbSV5C6MR",
+          "end": 72,
+          "expanded_url": "https://x.com/lxgy1024/status/2060583908568453213/photo/1",
+          "media_key": "3_2060583905800175616",
+          "start": 49,
+          "url": "https://t.co/rmbSV5C6MR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060741423721480486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060583908568453213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxgy1024: 家长党的最高境界是家长需要心理咨询（）\n而我被医生赶出门外等着awa https://t.co/rmbSV5C6MR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060583905800175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiqJRcbQAAt348.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060583905800175616"
+          ],
+          "media_source_tweet_id": [
+            "2060583908568453213"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2060741423721480486",
+        "created_at": "2026-05-30T15:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060741423721480486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013553953041235968",
+              "start": 3,
+              "username": "lxgy1024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmbSV5C6MR",
+              "end": 72,
+              "expanded_url": "https://x.com/lxgy1024/status/2060583908568453213/photo/1",
+              "media_key": "3_2060583905800175616",
+              "start": 49,
+              "url": "https://t.co/rmbSV5C6MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060741423721480486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060583908568453213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxgy1024: 家长党的最高境界是家长需要心理咨询（）\n而我被医生赶出门外等着awa https://t.co/rmbSV5C6MR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060583905800175616"
+          ]
+        },
+        "author_id": "2013553953041235968",
+        "conversation_id": "2060583908568453213",
+        "created_at": "2026-05-30T04:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060583908568453213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmbSV5C6MR",
+              "end": 58,
+              "expanded_url": "https://x.com/lxgy1024/status/2060583908568453213/photo/1",
+              "media_key": "3_2060583905800175616",
+              "start": 35,
+              "url": "https://t.co/rmbSV5C6MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583908568453213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4729,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家长党的最高境界是家长需要心理咨询（）\n而我被医生赶出门外等着awa https://t.co/rmbSV5C6MR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 1434,
+          "like_count": 18820,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 968
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T10:07:46.000Z",
+        "description": "より良い物語、私たちの最高のもの、全世界が出会うのを待っています。\nMTF ( maybe )，持证含糖，欢迎互fo \nOIer ( was )，坐标杭州，欢迎来面",
+        "id": "2013553953041235968",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "赶月めいり🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013554037824856064/8Iz-L7K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 138,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 193
+        },
+        "username": "lxgy1024",
+        "verified": false
+      }
+    ]
+  }
+}

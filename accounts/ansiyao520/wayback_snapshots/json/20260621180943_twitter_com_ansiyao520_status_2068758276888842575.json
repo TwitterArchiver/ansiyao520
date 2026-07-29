@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2068522643968721402",
+    "created_at": "2026-06-21T18:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068758276888842575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1586555703732289536",
+          "start": 0,
+          "username": "lan2984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068758276888842575",
+    "in_reply_to_user_id": "1586555703732289536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068522643968721402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan2984 ai说不同的雌二醇药有不同的食用方式，不能一概而论。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2068522643968721402",
+        "created_at": "2026-06-21T18:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068758276888842575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1586555703732289536",
+              "start": 0,
+              "username": "lan2984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068758276888842575",
+        "in_reply_to_user_id": "1586555703732289536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068522643968721402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan2984 ai说不同的雌二醇药有不同的食用方式，不能一概而论。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586555703732289536",
+        "conversation_id": "2068522643968721402",
+        "created_at": "2026-06-21T02:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068522643968721402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068522643968721402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个小问题……\n含糖的时候不能咽口水\n那含完后嘴里的口水怎么办🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1661,
+          "like_count": 25320,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T03:09:17.000Z",
+        "description": "初三185cm72kg\n 吉林延边 热爱MC、航拍、IT  工蜂一位~\n2026/5/17\n好姐妹 情侣 @DrKiChan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "DrKiChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lan2984.xyz",
+                "end": 23,
+                "expanded_url": "http://lan2984.xyz",
+                "start": 0,
+                "url": "https://t.co/g6OIE75ZLg"
+              }
+            ]
+          }
+        },
+        "id": "1586555703732289536",
+        "name": "lan2984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058908165673295872/jQs1jHG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 110,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/g6OIE75ZLg",
+        "username": "lan2984",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043372288670920797",
+    "created_at": "2026-04-12T16:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043372288670920797"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043372288670920797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草难受死我了。\n刚才因为好奇盯着血图看了一会。\n给我看的浑身难受啊操了。\n比分手了还难受。\n一个口子从胸侧横着划开。\n比我做手术切肺叶的刀疤还大三四倍。\n难受死了难受死了。\n看得难受死了。\n想吐啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043372288670920797",
+        "created_at": "2026-04-12T16:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043372288670920797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043372288670920797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草难受死我了。\n刚才因为好奇盯着血图看了一会。\n给我看的浑身难受啊操了。\n比分手了还难受。\n一个口子从胸侧横着划开。\n比我做手术切肺叶的刀疤还大三四倍。\n难受死了难受死了。\n看得难受死了。\n想吐啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 925,
+          "like_count": 4838,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 288
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

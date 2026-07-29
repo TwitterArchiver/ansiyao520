@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2069322836108542357",
+    "created_at": "2026-06-27T13:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070855397297074530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931692699662315520",
+          "start": 0,
+          "username": "tokisakiNicht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070855397297074530",
+    "in_reply_to_user_id": "1931692699662315520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070823882693496910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokisakiNicht 你也不想想。单独个人都管的话那还得了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2069322836108542357",
+        "created_at": "2026-06-27T13:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070855397297074530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931692699662315520",
+              "start": 0,
+              "username": "tokisakiNicht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070855397297074530",
+        "in_reply_to_user_id": "1931692699662315520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070823882693496910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokisakiNicht 你也不想想。单独个人都管的话那还得了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931692699662315520",
+        "conversation_id": "2069322836108542357",
+        "created_at": "2026-06-27T10:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070823882693496910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 28,
+              "id": "1468883359090630657",
+              "start": 17,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070823882693496910",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069327247497204013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @ansiyao520 墙内对跨的认知主要是欧美群魔乱舞（）\n所以…自然这个东西就有想当严重而且明显不是什么好事的政治色彩，然后就自然会被ban掉\n不过现在好像只单独ban群，单独个人还是不管的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1716,
+          "like_count": 26547,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-08T12:40:39.000Z",
+        "description": "阴暗爬行ing\n沈阳纯理物化生发癫ing，在二十中依旧不知今夕是何年，三无产品出厂日期2010/2/3，不包邮不保退换货，保质期时薛定谔）\n人在弗雷尔卓德半死不活\n暂时停糖在摆烂大区内卷…\n互fo有时间会回的（）没回就是在卷）",
+        "id": "1931692699662315520",
+        "location": "未知",
+        "name": "🏳️‍⚧️时崎樱雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050945031263977472/kVHSiyPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "tokisakiNicht",
+        "verified": false
+      }
+    ]
+  }
+}

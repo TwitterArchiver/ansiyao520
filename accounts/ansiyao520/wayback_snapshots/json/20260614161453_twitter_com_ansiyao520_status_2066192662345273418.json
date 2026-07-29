@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2066122776021537234",
+    "created_at": "2026-06-14T16:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066192662345273418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813188041793761280",
+          "start": 0,
+          "username": "lightboat111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066192662345273418",
+    "in_reply_to_user_id": "1813188041793761280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066175750990925931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightboat111 呃啊。你是文科生啊。理科突击课是好找的。文科都是素养课，确实没有专门为考试准备的课。文科这个东西太散了，只能多听老师讲课和背书吧。呃呃呃呃。宝宝。宝子。文科爱莫能助呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2066122776021537234",
+        "created_at": "2026-06-14T16:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066192662345273418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813188041793761280",
+              "start": 0,
+              "username": "lightboat111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066192662345273418",
+        "in_reply_to_user_id": "1813188041793761280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066175750990925931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightboat111 呃啊。你是文科生啊。理科突击课是好找的。文科都是素养课，确实没有专门为考试准备的课。文科这个东西太散了，只能多听老师讲课和背书吧。呃呃呃呃。宝宝。宝子。文科爱莫能助呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2066122776021537234",
+        "created_at": "2026-06-14T15:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066175750990925931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066175750990925931",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "«戏剧理论»，B站上唯一名字一样的从三一律开始讲（三一律是外国戏剧史）而我们是中国戏曲和西方戏剧的理论都讲的。分开找也只能找到戏曲史或者戏剧史，史只涉及一点理论而且之前上过\n«艺术理论»，B站上名字最接近的讲的是艺术史的内容，就是根本不是理论，而我们是从巴门尼德的本体论开始\n其他像中国电影史世界电影史都能搜到大差不差的，不过是详细程度和侧重点的区别，这两门是内容完全不一样\n还有一个«编剧概论»也找不到，不过这个课是剧本的分数占比更大而且有发PPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066171528509796545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 «戏剧理论»，B站上唯一名字一样的从三一律开始讲（三一律是外国戏剧史）而我们是中国戏曲和西方戏剧的理论都讲的。分开找也只能找到戏曲史或者戏剧史，史只涉及一点理论而且之前上过\n«艺术理论»，B站上名字最接近的讲的是艺术史的内容，就是根本不是理论，而我们是从巴门尼德的本体论开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 1616,
+          "like_count": 23854,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1395
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/177/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、网文、音乐/王者、洛克王国页游和手游、鸣潮、音游。\n一个尝试@lightship111\n跟风一个匿名信箱https://t.co/4cfDhoA5GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "lightship111"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lightboat111",
+                "end": 112,
+                "expanded_url": "https://ngl.link/lightboat111",
+                "start": 89,
+                "url": "https://t.co/4cfDhoA5GZ"
+              }
+            ]
+          }
+        },
+        "id": "1813188041793761280",
+        "location": "月亮之上",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994693420875493416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1032,
+          "like_count": 1386,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 836
+        },
+        "username": "lightboat111",
+        "verified": true
+      }
+    ]
+  }
+}

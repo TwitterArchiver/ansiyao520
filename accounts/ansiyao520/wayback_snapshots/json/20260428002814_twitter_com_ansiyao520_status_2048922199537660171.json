@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048921491925028864"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048922199537660171",
+    "created_at": "2026-04-28T00:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048922199537660171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uRhVHY2Bzo",
+          "end": 149,
+          "expanded_url": "https://x.com/ansiyao520/status/2048922199537660171/video/1",
+          "media_key": "7_2048921491925028864",
+          "start": 126,
+          "url": "https://t.co/uRhVHY2Bzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048922199537660171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "经过多天的反思和精神分析，我并没有列下所谓的自我改善计划，而是廓清了自己的欲望模式，勾勒了症状结构，并与之建立了关系。恢复了主体性。我感到宁静和轻快。\n虽然之后仍有许多工作要做的。但我已经能够驾驭起自己的命运。并为之努力。这对我来说是值得开心的进步。\n并没有唱这样情形的歌，但有一首歌写了主体如何享受自己的症状。唱：\n仍然～、下雨～\n\n够了 爱什么的不知道啦，\n啊啊 干脆跟忧郁过日子，\n就这么做了    明明全是骗自己的，\n如果是今天的话一定会稍稍，\n觉得回不去的昨天更为让人怜惜，\n仍然、下雨，\n孤独一人将眼闭上 然后关机，\n只留下现代的冷漠与，\n无情的按钮    没有去处发出残光，\n如同做了一个漫长的梦一般    像淡甜味要将人溶化那样，\n宛如自己泡入久浸潮湿却依旧温热的红茶一样\n呐   亲爱的，\n曾温热的言语也是，\n一定是那样的的魔法，\n因为撑着纯黑的伞就无法看见彩虹，\n若是爱什么的逃走了的话，\n啊啊要是感动也失去了的话，\n就这么做了    明明自己彻底放弃了，\n如果是今天的话一定会稍稍，\n更让我喜欢上回不去的昨天。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经过多天的反思和精神分析，我并没有列下所谓的自我改善计划，而是廓清了自己的欲望模式，勾勒了症状结构，并与之建立了关系。恢复了主体性。我感到宁静和轻快。\n虽然之后仍有许多工作要做的。但我已经能够驾驭起自己的命运。并为之努力。这对我来说是值得开心的进步。 https://t.co/uRhVHY2Bzo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048922199537660171].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048922199537660171",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048922199537660171"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 259407,
+        "height": 1088,
+        "media_key": "7_2048921491925028864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048921491925028864/pu/img/K4srVFNBcPRQXZyi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048921491925028864/pu/vid/avc1/320x482/0RW0aMn331mr5OsS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048921491925028864/pu/vid/avc1/480x724/gDC40-XbhxpYVsya.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048921491925028864/pu/vid/avc1/720x1088/fEpJWh-57n1sKrPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048921491925028864/pu/pl/efrhxN7zrQ6TJdeE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1307,
+          "like_count": 13549,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 575
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

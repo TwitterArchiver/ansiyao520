@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2079564834451157071",
+    "created_at": "2026-07-22T05:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079800149485011050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079800149485011050",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "所以我给你提前写好了提示词。你直接拿去用就行了。复制文段然后发给我指定的ai就行。没有让你自己从0开始写提示词呀？你不满意也可以修改我的提示词，加上自己的情况。ai就是这么用的，你把自己的问题描述清楚，并且给出你需要的解决路径，ai就会调用自己的知识库放大你的智慧。就算人不能自己为自己进行心理咨询，但只要你知道这个方法，说给ai，ai就会帮你进行这个方法。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079799387329601577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 所以我给你提前写好了提示词。你直接拿去用就行了。复制文段然后发给我指定的ai就行。没有让你自己从0开始写提示词呀？你不满意也可以修改我的提示词，加上自己的情况。ai就是这么用的，你把自己的问题描述清楚，并且给出你需要的解决路径，ai就会调用自己的知识库放大你的智慧。就算人不能自己为自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2079564834451157071",
+        "created_at": "2026-07-22T05:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079800149485011050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079800149485011050",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以我给你提前写好了提示词。你直接拿去用就行了。复制文段然后发给我指定的ai就行。没有让你自己从0开始写提示词呀？你不满意也可以修改我的提示词，加上自己的情况。ai就是这么用的，你把自己的问题描述清楚，并且给出你需要的解决路径，ai就会调用自己的知识库放大你的智慧。就算人不能自己为自己进行心理咨询，但只要你知道这个方法，说给ai，ai就会帮你进行这个方法。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079799387329601577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 所以我给你提前写好了提示词。你直接拿去用就行了。复制文段然后发给我指定的ai就行。没有让你自己从0开始写提示词呀？你不满意也可以修改我的提示词，加上自己的情况。ai就是这么用的，你把自己的问题描述清楚，并且给出你需要的解决路径，ai就会调用自己的知识库放大你的智慧。就算人不能自己为自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2079564834451157071",
+        "created_at": "2026-07-22T05:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079799387329601577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079799387329601577",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079797981189177379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 不会模拟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1862,
+          "like_count": 30308,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1941
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2079574089933725791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 382,
+          "like_count": 444,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

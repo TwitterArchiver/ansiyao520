@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075431899645071360"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2075432243569246351",
+    "created_at": "2026-07-10T04:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075432243569246351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3nh73BjHrc",
+          "end": 168,
+          "expanded_url": "https://x.com/ansiyao520/status/2075432243569246351/video/1",
+          "media_key": "7_2075431899645071360",
+          "start": 145,
+          "url": "https://t.co/3nh73BjHrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075432243569246351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "身边朋友一位一位起身～\n最后就只有我一人剩下～\n但无所谓没有什么悲伤气氛～\n就让我继续等吧～\n五颜六色的雨伞交杂～\n融在街头成了一幅油画～\n雨点在屋檐轻轻敲打～\n像是要把什么乐段留下～\n我想象自己多么潇洒～\n像一位侠客雨中多优雅～\n不必着急慢慢等吧～\n你总会来接我回家～\n还有人记得我吧，\n还有人传递着火把，\n还有人陪着我在雨中唱唱歌说说话，\n时间是一抹流星落下，\n划过转瞬即逝的火花，\n我们都曾在这片夜空肆意作画。\n花朵挂着晶莹雨珠，\n街灯朦胧中晕开光幕，\n凉意攀上我的肌肤，\n我学会与它从容相处，\n或许大家都有要忙的事情，\n最后就只有我一人剩下，\n但无所谓一切我总会适应，\n就让我继续等吧，\n不必着急慢慢等吧，\n你总会来接我回家～"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "身边朋友一位一位起身～\n最后就只有我一人剩下～\n但无所谓没有什么悲伤气氛～\n就让我继续等吧～\n五颜六色的雨伞交杂～\n融在街头成了一幅油画～\n雨点在屋檐轻轻敲打～\n像是要把什么乐段留下～\n我想象自己多么潇洒～\n像一位侠客雨中多优雅～\n不必着急慢慢等吧～\n你总会来接我回家～\n还有人记得我吧， https://t.co/3nh73BjHrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 199772,
+        "height": 1088,
+        "media_key": "7_2075431899645071360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075431899645071360/pu/img/wLSBdx_3A8HfDg_b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075431899645071360/pu/vid/avc1/320x604/iFc_Q_rMxHvJTnF_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075431899645071360/pu/vid/avc1/480x906/_rFpMggfa9Sw-Pma.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075431899645071360/pu/vid/avc1/576x1088/SHnkNF2tRveyHRc_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075431899645071360/pu/pl/IaKN8iVCV32Af3FC.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075431899645071360"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075432243569246351",
+        "created_at": "2026-07-10T04:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075432243569246351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nh73BjHrc",
+              "end": 168,
+              "expanded_url": "https://x.com/ansiyao520/status/2075432243569246351/video/1",
+              "media_key": "7_2075431899645071360",
+              "start": 145,
+              "url": "https://t.co/3nh73BjHrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075432243569246351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "身边朋友一位一位起身～\n最后就只有我一人剩下～\n但无所谓没有什么悲伤气氛～\n就让我继续等吧～\n五颜六色的雨伞交杂～\n融在街头成了一幅油画～\n雨点在屋檐轻轻敲打～\n像是要把什么乐段留下～\n我想象自己多么潇洒～\n像一位侠客雨中多优雅～\n不必着急慢慢等吧～\n你总会来接我回家～\n还有人记得我吧，\n还有人传递着火把，\n还有人陪着我在雨中唱唱歌说说话，\n时间是一抹流星落下，\n划过转瞬即逝的火花，\n我们都曾在这片夜空肆意作画。\n花朵挂着晶莹雨珠，\n街灯朦胧中晕开光幕，\n凉意攀上我的肌肤，\n我学会与它从容相处，\n或许大家都有要忙的事情，\n最后就只有我一人剩下，\n但无所谓一切我总会适应，\n就让我继续等吧，\n不必着急慢慢等吧，\n你总会来接我回家～"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身边朋友一位一位起身～\n最后就只有我一人剩下～\n但无所谓没有什么悲伤气氛～\n就让我继续等吧～\n五颜六色的雨伞交杂～\n融在街头成了一幅油画～\n雨点在屋檐轻轻敲打～\n像是要把什么乐段留下～\n我想象自己多么潇洒～\n像一位侠客雨中多优雅～\n不必着急慢慢等吧～\n你总会来接我回家～\n还有人记得我吧， https://t.co/3nh73BjHrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1813,
+          "like_count": 29000,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 1816
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

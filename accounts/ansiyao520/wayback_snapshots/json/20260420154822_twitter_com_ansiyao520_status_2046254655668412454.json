@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046254550072610816"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046254655668412454",
+    "created_at": "2026-04-20T15:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046254655668412454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhNZy53I5q",
+          "end": 242,
+          "expanded_url": "https://x.com/ansiyao520/status/2046254655668412454/video/1",
+          "media_key": "7_2046254550072610816",
+          "start": 219,
+          "url": "https://t.co/IhNZy53I5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046254655668412454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "失恋了无法释怀！！！！！！！\n\nMemories frozen fossilized，\n记忆凝固成石，\nAfraid of the past so petrified，\n惧怕回忆过往，\nCause I just don’t know how to let go，\n因为我不知道该如何释怀，\nIts forever you’re inside my bones，\n你永久的停留在我记忆中，\nYour DNA I can’t forget，\n忘不掉有关你的点点滴滴，\nWashing away the emptiness，\n冲刷掉失去你的空虚感，\nYeah your voice is just an echo，\n你的声音在我耳旁久久回荡，\nBut it’s the only thing I need to know，\n可我只想要知道，\nThat you’re alive，\n你还好好活着，\nYour light will never die，\n你的明灯永不熄灭，\nSo I follow in the middle of the night，\n深夜里我追踪觅影，\nAnd find my way，\n我会找寻一条出路，\nYou’re my constellation，\n你是与我对应的星宿。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "失恋了无法释怀！！！！！！！\n\nMemories frozen fossilized，\n记忆凝固成石，\nAfraid of the past so petrified，\n惧怕回忆过往，\nCause I just don’t know how to let go，\n因为我不知道该如何释怀，\nIts forever you’re inside my bones，\n你永久的停留在我记忆中，\nYour DNA I can’t forget， https://t.co/IhNZy53I5q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046254655668412454].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046254655668412454",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046254655668412454"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 174871,
+        "height": 1088,
+        "media_key": "7_2046254550072610816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046254550072610816/pu/img/lig_HvzrfG3ADFLC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046254550072610816/pu/vid/avc1/320x604/6TMlQ0xR8PcfERjg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046254550072610816/pu/vid/avc1/480x906/V7NxWSuhRghNnx4r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046254550072610816/pu/vid/avc1/576x1088/Pqno7tp1ml6tfUc3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046254550072610816/pu/pl/L-33KTJVHg-ns1N9.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1240,
+          "like_count": 11319,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 480
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

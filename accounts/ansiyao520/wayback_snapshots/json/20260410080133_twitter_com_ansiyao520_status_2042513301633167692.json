@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042513291080310784"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042513301633167692",
+    "created_at": "2026-04-10T08:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042513301633167692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBarw8Ruqc",
+          "end": 116,
+          "expanded_url": "https://x.com/ansiyao520/status/2042513301633167692/photo/1",
+          "media_key": "3_2042513291080310784",
+          "start": 93,
+          "url": "https://t.co/oBarw8Ruqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042513301633167692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药娘们这群傻逼。\n把焦点矛头指向一个两个官方人员。真是有愧于自己受那么多苦。\n受苦了一辈子，就会对着一个台前的靶子宣泄情绪，毫无对整体对未来的思想建树。\n一群废物。晚上我来发理论指导。 https://t.co/oBarw8Ruqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2042513291080310784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFh3BDvbIAAgInm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042513291080310784"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042513301633167692",
+        "created_at": "2026-04-10T08:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042513301633167692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBarw8Ruqc",
+              "end": 116,
+              "expanded_url": "https://x.com/ansiyao520/status/2042513301633167692/photo/1",
+              "media_key": "3_2042513291080310784",
+              "start": 93,
+              "url": "https://t.co/oBarw8Ruqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042513301633167692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘们这群傻逼。\n把焦点矛头指向一个两个官方人员。真是有愧于自己受那么多苦。\n受苦了一辈子，就会对着一个台前的靶子宣泄情绪，毫无对整体对未来的思想建树。\n一群废物。晚上我来发理论指导。 https://t.co/oBarw8Ruqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4268,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 203
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

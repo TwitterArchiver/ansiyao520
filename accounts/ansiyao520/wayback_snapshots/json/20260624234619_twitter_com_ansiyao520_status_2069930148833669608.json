@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069930146463989760"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2069930148833669608",
+    "created_at": "2026-06-24T23:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069930148833669608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ZMyD1dpIv",
+          "end": 105,
+          "expanded_url": "https://x.com/ansiyao520/status/2069930148833669608/photo/1",
+          "media_key": "3_2069930146463989760",
+          "start": 82,
+          "url": "https://t.co/9ZMyD1dpIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069930148833669608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有精打细算就这样充满遗憾。\n我之前也不知道去省会这么便宜。没出过门呀。我家里那不是穷二代吗。怎么生活全是我自己摸索的。\n原来去省会这么便宜。\n我们去省会嫖娼吧。 https://t.co/9ZMyD1dpIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2069930146463989760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnegFHbwAACcfo.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069930146463989760"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2069930148833669608",
+        "created_at": "2026-06-24T23:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069930148833669608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZMyD1dpIv",
+              "end": 105,
+              "expanded_url": "https://x.com/ansiyao520/status/2069930148833669608/photo/1",
+              "media_key": "3_2069930146463989760",
+              "start": 82,
+              "url": "https://t.co/9ZMyD1dpIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069930148833669608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有精打细算就这样充满遗憾。\n我之前也不知道去省会这么便宜。没出过门呀。我家里那不是穷二代吗。怎么生活全是我自己摸索的。\n原来去省会这么便宜。\n我们去省会嫖娼吧。 https://t.co/9ZMyD1dpIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 1677,
+          "like_count": 25693,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1517
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

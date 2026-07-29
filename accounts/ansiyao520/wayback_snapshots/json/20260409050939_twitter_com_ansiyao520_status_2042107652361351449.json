@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042107637857447936"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042107652361351449",
+    "created_at": "2026-04-09T05:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042107652361351449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FPD60OqkV3",
+          "end": 166,
+          "expanded_url": "https://x.com/ansiyao520/status/2042107652361351449/photo/1",
+          "media_key": "3_2042107637857447936",
+          "start": 143,
+          "url": "https://t.co/FPD60OqkV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042107652361351449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“私人对话反映真实内心”，我同意——但那是在完整语境下。你拿我一句私下戏谑就定性全部，却忽略我照顾她的实际行动和悼念反思。如果私下丧气话就等于“真实修养”，没人经得起这种切片审判。我承认话不该说，但你不能用一个碎片否定我陪她走过的日子。小遥在时，她愿不愿意留在我身边？你替不了她回答。 https://t.co/FPD60OqkV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_2042107637857447936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcGE7ua8AAzB1b.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042107637857447936"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042107652361351449",
+        "created_at": "2026-04-09T05:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042107652361351449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPD60OqkV3",
+              "end": 166,
+              "expanded_url": "https://x.com/ansiyao520/status/2042107652361351449/photo/1",
+              "media_key": "3_2042107637857447936",
+              "start": 143,
+              "url": "https://t.co/FPD60OqkV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042107652361351449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“私人对话反映真实内心”，我同意——但那是在完整语境下。你拿我一句私下戏谑就定性全部，却忽略我照顾她的实际行动和悼念反思。如果私下丧气话就等于“真实修养”，没人经得起这种切片审判。我承认话不该说，但你不能用一个碎片否定我陪她走过的日子。小遥在时，她愿不愿意留在我身边？你替不了她回答。 https://t.co/FPD60OqkV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 788,
+          "like_count": 4202,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 184
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2067562904271138915",
+    "created_at": "2026-06-18T16:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067640908443766968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926506432276348928",
+          "start": 0,
+          "username": "linwei130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067640908443766968",
+    "in_reply_to_user_id": "1926506432276348928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你爸爸说的对啊精神病都是假的医院骗钱的，真相就是你偏离了正常人生活的一切都是该死的父母和社会的漠不关心造成的，怎么能简单的到医院归纳为“心理”精病呢。相比生物爹想到了这一层一定痛心疾首对你教育失责，肯定已经为你准备好休学程序和三万元旅游经费打算让你把自己重新养一遍恢复自己的心理健康了吧。\n他肯定不会变本加厉维护自己的控制欲，更加一厢情愿地按照自己脑袋里的教育方式继续折磨你对不对？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067562904271138915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linwei130 你爸爸说的对啊精神病都是假的医院骗钱的，真相就是你偏离了正常人生活的一切都是该死的父母和社会的漠不关心造成的，怎么能简单的到医院归纳为“心理”精病呢。相比生物爹想到了这一层一定痛心疾首对你教育失责，肯定已经为你准备好休学程序和三万元旅游经费打算让你把自己重新养一遍恢复自己的心理健康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2067562904271138915",
+        "created_at": "2026-06-18T16:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067640908443766968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926506432276348928",
+              "start": 0,
+              "username": "linwei130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640908443766968",
+        "in_reply_to_user_id": "1926506432276348928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你爸爸说的对啊精神病都是假的医院骗钱的，真相就是你偏离了正常人生活的一切都是该死的父母和社会的漠不关心造成的，怎么能简单的到医院归纳为“心理”精病呢。相比生物爹想到了这一层一定痛心疾首对你教育失责，肯定已经为你准备好休学程序和三万元旅游经费打算让你把自己重新养一遍恢复自己的心理健康了吧。\n他肯定不会变本加厉维护自己的控制欲，更加一厢情愿地按照自己脑袋里的教育方式继续折磨你对不对？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067562904271138915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linwei130 你爸爸说的对啊精神病都是假的医院骗钱的，真相就是你偏离了正常人生活的一切都是该死的父母和社会的漠不关心造成的，怎么能简单的到医院归纳为“心理”精病呢。相比生物爹想到了这一层一定痛心疾首对你教育失责，肯定已经为你准备好休学程序和三万元旅游经费打算让你把自己重新养一遍恢复自己的心理健康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926506432276348928",
+        "conversation_id": "2067562904271138915",
+        "created_at": "2026-06-18T10:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067562904271138915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067562904271138915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok啊我生物爹说精神病都是假的不存在的东西，医院报告全是骗人骗钱的666原来这种事真的会发生在我身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1649,
+          "like_count": 24511,
+          "listed_count": 1,
+          "media_count": 278,
+          "tweet_count": 1439
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救「天使夺舍」",
+        "pinned_tweet_id": "2065462564105150741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 653,
+          "like_count": 7216,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 998
+        },
+        "username": "linwei130",
+        "verified": true
+      }
+    ]
+  }
+}

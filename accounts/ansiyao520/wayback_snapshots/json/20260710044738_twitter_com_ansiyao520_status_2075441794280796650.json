@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2075375395759866221",
+    "created_at": "2026-07-10T04:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075441794280796650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822170840231776256",
+          "start": 0,
+          "username": "mofa_ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075441794280796650",
+    "in_reply_to_user_id": "1822170840231776256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075375395759866221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofa_ee 可爱捏。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075375383512494081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM026l3aMAEpqW2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075375395759866221",
+        "created_at": "2026-07-10T04:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075441794280796650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822170840231776256",
+              "start": 0,
+              "username": "mofa_ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075441794280796650",
+        "in_reply_to_user_id": "1822170840231776256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075375395759866221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofa_ee 可爱捏。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075375383512494081"
+          ]
+        },
+        "author_id": "1822170840231776256",
+        "conversation_id": "2075375395759866221",
+        "created_at": "2026-07-10T00:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075375395759866221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UT0ziyLmmW",
+              "end": 46,
+              "expanded_url": "https://x.com/mofa_ee/status/2075375395759866221/photo/1",
+              "media_key": "3_2075375383512494081",
+              "start": 23,
+              "url": "https://t.co/UT0ziyLmmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075375395759866221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看我的跨旗充电器保护套咕～😺\n超赞的咕ww https://t.co/UT0ziyLmmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1815,
+          "like_count": 29026,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T07:19:38.000Z",
+        "description": "mtf | 无证含糖🍥 | 断糖中 | 不确定家长管不管党 | hrt💊2026.5.10 | 誕生日🍰2006.9 | 168cm 53kg | infp | 是只鸽子~ | 好孤独，想要得到关注 | 爱好是画画，术曲，有时会唱点歌 | 现在在山东省精卫里咕… | 闺蜜：@mizukishi316",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 137,
+                "username": "mizukishi316"
+              }
+            ]
+          }
+        },
+        "id": "1822170840231776256",
+        "location": "山东省精神卫生中心",
+        "name": "已成汤的魔法鸽🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064207287808557056/uV314pUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 201,
+          "like_count": 761,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "mofa_ee",
+        "verified": false
+      }
+    ]
+  }
+}

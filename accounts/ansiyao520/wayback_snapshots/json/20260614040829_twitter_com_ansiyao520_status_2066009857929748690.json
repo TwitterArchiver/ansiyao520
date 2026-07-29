@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960068880551837696"
+      ],
+      "media_source_tweet_id": [
+        "1960068901573992779"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2066009857929748690",
+    "created_at": "2026-06-14T04:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066009857929748690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1859219215062028288",
+          "start": 3,
+          "username": "jiang_chua28655"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UmI28WIPy",
+          "end": 77,
+          "expanded_url": "https://x.com/jiang_chua28655/status/1960068901573992779/photo/1",
+          "media_key": "3_1960068880551837696",
+          "start": 54,
+          "url": "https://t.co/6UmI28WIPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066009857929748690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960068901573992779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiang_chua28655: 晚上妹妹强迫我穿上丝袜，然后把我压在身下玩我乳头，还说我脸红可爱 https://t.co/6UmI28WIPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1960068880551837696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzOQQxCXAAA03r9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960068880551837696"
+          ],
+          "media_source_tweet_id": [
+            "1960068901573992779"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2066009857929748690",
+        "created_at": "2026-06-14T04:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066009857929748690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1859219215062028288",
+              "start": 3,
+              "username": "jiang_chua28655"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UmI28WIPy",
+              "end": 77,
+              "expanded_url": "https://x.com/jiang_chua28655/status/1960068901573992779/photo/1",
+              "media_key": "3_1960068880551837696",
+              "start": 54,
+              "url": "https://t.co/6UmI28WIPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066009857929748690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960068901573992779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiang_chua28655: 晚上妹妹强迫我穿上丝袜，然后把我压在身下玩我乳头，还说我脸红可爱 https://t.co/6UmI28WIPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960068880551837696"
+          ]
+        },
+        "author_id": "1859219215062028288",
+        "conversation_id": "1960068901573992779",
+        "created_at": "2025-08-25T19:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960068901573992779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UmI28WIPy",
+              "end": 56,
+              "expanded_url": "https://x.com/jiang_chua28655/status/1960068901573992779/photo/1",
+              "media_key": "3_1960068880551837696",
+              "start": 33,
+              "url": "https://t.co/6UmI28WIPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960068901573992779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3352,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚上妹妹强迫我穿上丝袜，然后把我压在身下玩我乳头，还说我脸红可爱 https://t.co/6UmI28WIPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 1605,
+          "like_count": 23580,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1374
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T12:56:33.000Z",
+        "description": "喵喵喵妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹\n天天导管的杂鱼@WinkCat1234\n涩涩的同类@kukudejiaxibei\n喵呜~老婆老婆@NorthLingkongRd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          }
+        },
+        "id": "1859219215062028288",
+        "location": "山东济宁",
+        "name": "涩涩の喵🍥",
+        "pinned_tweet_id": "1911406933405204650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879070661320073216/nSTgIxRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 52,
+          "like_count": 132,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1012
+        },
+        "username": "jiang_chua28655",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049402685649305600"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049402688778187169",
+    "created_at": "2026-04-29T08:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049402688778187169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WI1XytsDcR",
+          "end": 163,
+          "expanded_url": "https://x.com/ansiyao520/status/2049402688778187169/photo/1",
+          "media_key": "3_2049402685649305600",
+          "start": 140,
+          "url": "https://t.co/WI1XytsDcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049402688778187169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在和文椛恋爱时，我一直在看的就是这样苗条的身体。因为打一开始就没觉得文椛会吃药。所以我一直在看男孩子的身体以适应对这种身体的审美。\n在和文椛恋爱前我并不喜欢观看男孩子的身体或下体。觉得十分怪异，或者丑陋，或者不习惯。审美是可以训练的。我一直是以恋人的身体为标准修改自己的审美的。\n以前我的主人是大胸，我就改掉了对贫乳的喜好，找了几百张胸照建立了对各型号胸部的审美。后来和文椛谈，我就去看男孩子的身体和性器。这导致只要有需要，我对各种身体都能产生性欲，也导致我对各种身体都没什么特殊的喜好。\n全部都喜欢，意味着全部都不喜欢。你懂得。但是全部都喜欢和全部都不喜欢毕竟还是有区别。尽管表现上一样。但我内在的感受还是不一样的。\n这导致我对这种男同片子也没什么抵触。\n裸就裸了。看就看了。看看你身体咋了？"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在和文椛恋爱时，我一直在看的就是这样苗条的身体。因为打一开始就没觉得文椛会吃药。所以我一直在看男孩子的身体以适应对这种身体的审美。\n在和文椛恋爱前我并不喜欢观看男孩子的身体或下体。觉得十分怪异，或者丑陋，或者不习惯。审美是可以训练的。我一直是以恋人的身体为标准修改自己的审美的。 https://t.co/WI1XytsDcR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049402688778187169].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049402688778187169",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049402688778187169"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049402685649305600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDw4mfbwAABA3f.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1306,
+          "like_count": 13956,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 606
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

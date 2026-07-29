@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063616801523872179",
+    "created_at": "2026-06-08T03:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063831005769970036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061837591792758784",
+          "start": 0,
+          "username": "Secretifyouknow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063831005769970036",
+    "in_reply_to_user_id": "2061837591792758784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063819822560145415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Secretifyouknow 因为大部分人都是普通人，他们的现实生活不允许他们按照心中所想生活。而我不一样。我是个精神病人。（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063616801523872179",
+        "created_at": "2026-06-08T03:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063831005769970036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061837591792758784",
+              "start": 0,
+              "username": "Secretifyouknow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063831005769970036",
+        "in_reply_to_user_id": "2061837591792758784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063819822560145415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Secretifyouknow 因为大部分人都是普通人，他们的现实生活不允许他们按照心中所想生活。而我不一样。我是个精神病人。（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061837591792758784",
+        "conversation_id": "2063616801523872179",
+        "created_at": "2026-06-08T03:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063819822560145415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063819822560145415",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063616801523872179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 最讓我生氣的就是 網絡上喜歡病嬌的人一抓一大把 現實真碰到了沒有人能接受！😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1504,
+          "like_count": 20933,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1195
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T15:50:42.000Z",
+        "description": "轉生新號互fo中 你可以叫我小咪\n10｜164 92｜jiraikei｜overdose｜非自殺性自傷 ｜順（或許有些4i｜ADHD｜焦｜重力系\n互fo大歡迎。我很友好 尊重每一種性向以及正只立場 說不定哪天沒了早看早珍惜\n最喜歡在互聯網上裝可愛。",
+        "id": "2061837591792758784",
+        "name": "貓咪已經死了",
+        "pinned_tweet_id": "2062255887549600139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061838534189969408/s9TNdIdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 121,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 157
+        },
+        "username": "Secretifyouknow",
+        "verified": false
+      }
+    ]
+  }
+}

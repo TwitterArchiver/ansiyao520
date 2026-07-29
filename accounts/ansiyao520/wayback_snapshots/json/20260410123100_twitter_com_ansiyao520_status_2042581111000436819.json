@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042581096450478080"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042581111000436819",
+    "created_at": "2026-04-10T12:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042581111000436819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AbfdAMC9qP",
+          "end": 184,
+          "expanded_url": "https://x.com/ansiyao520/status/2042581111000436819/photo/1",
+          "media_key": "3_2042581096450478080",
+          "start": 161,
+          "url": "https://t.co/AbfdAMC9qP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042581111000436819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "诗歌补档：\n                   《哭亡妹》\n                       安思瑶\n前日寻死语未稠，我犹迟计在心头。\n与君论策方寸乱，隔夜惊闻玉已休。\n去岁反目始八月，半载光阴竟成讴。\n初逢七日成永诀，从此人间怕回眸。\n\n最怜纯善招天妒，愈是娇颜命难留。\n守得音容唯一帧，忍看遗墨字字秋。\n生前寂寂唯我伴，殁后纷纷尽来诌。\n此痛锥心无解药，苍生大病在根由。\n\n哭汝不闻泉下骨，立尽中宵雪满头。\n天地为棺终有隙，独抱深悲作楚囚。\n愿化星斗常照汝，夜夜清辉满坟丘。\n若有轮回重见日，还续来生未了俦。\n\n肝肠寸断剜心肉，痛彻西风万古楼。\n从此人间添恨事，苍天无眼水倒流。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诗歌补档：\n                   《哭亡妹》\n                       安思瑶\n前日寻死语未稠，我犹迟计在心头。\n与君论策方寸乱，隔夜惊闻玉已休。\n去岁反目始八月，半载光阴竟成讴。\n初逢七日成永诀，从此人间怕回眸。\n\n最怜纯善招天妒，愈是娇颜命难留。\n守得音容唯一帧，忍看遗墨字字秋。 https://t.co/AbfdAMC9qP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2042581096450478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi0r2bb0AAC-As.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042581096450478080"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042581111000436819",
+        "created_at": "2026-04-10T12:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042581111000436819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbfdAMC9qP",
+              "end": 184,
+              "expanded_url": "https://x.com/ansiyao520/status/2042581111000436819/photo/1",
+              "media_key": "3_2042581096450478080",
+              "start": 161,
+              "url": "https://t.co/AbfdAMC9qP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042581111000436819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "诗歌补档：\n                   《哭亡妹》\n                       安思瑶\n前日寻死语未稠，我犹迟计在心头。\n与君论策方寸乱，隔夜惊闻玉已休。\n去岁反目始八月，半载光阴竟成讴。\n初逢七日成永诀，从此人间怕回眸。\n\n最怜纯善招天妒，愈是娇颜命难留。\n守得音容唯一帧，忍看遗墨字字秋。\n生前寂寂唯我伴，殁后纷纷尽来诌。\n此痛锥心无解药，苍生大病在根由。\n\n哭汝不闻泉下骨，立尽中宵雪满头。\n天地为棺终有隙，独抱深悲作楚囚。\n愿化星斗常照汝，夜夜清辉满坟丘。\n若有轮回重见日，还续来生未了俦。\n\n肝肠寸断剜心肉，痛彻西风万古楼。\n从此人间添恨事，苍天无眼水倒流。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诗歌补档：\n                   《哭亡妹》\n                       安思瑶\n前日寻死语未稠，我犹迟计在心头。\n与君论策方寸乱，隔夜惊闻玉已休。\n去岁反目始八月，半载光阴竟成讴。\n初逢七日成永诀，从此人间怕回眸。\n\n最怜纯善招天妒，愈是娇颜命难留。\n守得音容唯一帧，忍看遗墨字字秋。 https://t.co/AbfdAMC9qP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042571364171944368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 805,
+          "like_count": 4302,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 211
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

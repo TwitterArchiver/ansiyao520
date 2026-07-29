@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063980138916954112"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063980141655851100",
+    "created_at": "2026-06-08T13:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063980141655851100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Ly0jzNftp",
+          "end": 138,
+          "expanded_url": "https://x.com/ansiyao520/status/2063980141655851100/photo/1",
+          "media_key": "3_2063980138916954112",
+          "start": 115,
+          "url": "https://t.co/8Ly0jzNftp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063980141655851100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也许你的故事并不是从快乐开始的，但这并不能决定你的一生。你想要变成什么样子，全看你自己的选择。只要你能读懂这段话，能理解这段文字，你就有能力进行这样的选择，因为你有理解文字、听取他人意见、学习人生经验的能力。my friend。 https://t.co/8Ly0jzNftp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063980141655851100].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063980141655851100",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063980141655851100"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2063980138916954112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS7ADubQAAJAtA.png",
+        "width": 615
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1510,
+          "like_count": 21077,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1217
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

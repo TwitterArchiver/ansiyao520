@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043705609175106046",
+    "created_at": "2026-04-13T14:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043705609175106046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043705609175106046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我现在全靠自我安慰。\n然后给自己挂个鱼板搞搞身份认同。\n假装自己很可爱很有上进心。\n其实我几把地嫉妒死文椛了我好想草死ta。\n就是没法说你知道吗。毕竟所有事都是有目共睹。\n我讲话好像就不占理。我又没法去和人家对垒。\n一种不可否定不可言说的存在把我的存在堵死了。像一尊庞然大物或者说大佛挡在了我这个普通人面前。\n佛说。你不可通过此处。\n我草。我就真的过不去了。\n能急死啊cnmd。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在全靠自我安慰。\n然后给自己挂个鱼板搞搞身份认同。\n假装自己很可爱很有上进心。\n其实我几把地嫉妒死文椛了我好想草死ta。\n就是没法说你知道吗。毕竟所有事都是有目共睹。\n我讲话好像就不占理。我又没法去和人家对垒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043705609175106046",
+        "created_at": "2026-04-13T14:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043705609175106046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043705609175106046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在全靠自我安慰。\n然后给自己挂个鱼板搞搞身份认同。\n假装自己很可爱很有上进心。\n其实我几把地嫉妒死文椛了我好想草死ta。\n就是没法说你知道吗。毕竟所有事都是有目共睹。\n我讲话好像就不占理。我又没法去和人家对垒。\n一种不可否定不可言说的存在把我的存在堵死了。像一尊庞然大物或者说大佛挡在了我这个普通人面前。\n佛说。你不可通过此处。\n我草。我就真的过不去了。\n能急死啊cnmd。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在全靠自我安慰。\n然后给自己挂个鱼板搞搞身份认同。\n假装自己很可爱很有上进心。\n其实我几把地嫉妒死文椛了我好想草死ta。\n就是没法说你知道吗。毕竟所有事都是有目共睹。\n我讲话好像就不占理。我又没法去和人家对垒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 996,
+          "like_count": 5399,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 334
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

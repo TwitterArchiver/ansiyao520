@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2049409481789087817",
+    "created_at": "2026-04-29T08:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049409481789087817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049409060672581714",
+          "start": 62,
+          "url": "https://t.co/EQQJOPvBF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049409481789087817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049409060672581714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的心理医生就是这么说我的。她说我很细腻。对生活的感知比普通人多。比如洗脸后抹润肤霜的感受，还有那个行为的意义感，etc. https://t.co/EQQJOPvBF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049409056948080641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD2rdbb0AE37l_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2049409481789087817",
+        "created_at": "2026-04-29T08:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049409481789087817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049409060672581714",
+              "start": 62,
+              "url": "https://t.co/EQQJOPvBF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049409481789087817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049409060672581714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的心理医生就是这么说我的。她说我很细腻。对生活的感知比普通人多。比如洗脸后抹润肤霜的感受，还有那个行为的意义感，etc. https://t.co/EQQJOPvBF7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049409056948080641"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2049409060672581714",
+        "created_at": "2026-04-29T08:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049409060672581714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlXCI7SBM9",
+              "end": 164,
+              "expanded_url": "https://x.com/ansiyao520/status/2049409060672581714/photo/1",
+              "media_key": "3_2049409056948080641",
+              "start": 141,
+              "url": "https://t.co/JlXCI7SBM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049409060672581714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "电影的镜头一闪而过，会让人更注重故事情节。就没法给你展示骑车时的感觉。一个画面带过了。但其实每次骑车我都特别注意自己皮肤和风接触的感受。有时舒服，有时不舒服，但总有感觉。这导致我对骑自行车这个行为有复杂的感受。面对电影里这样一个画面带过。我感到特别不适应。因为在我的大脑里骑车是一个有感觉的行为。但是这个场景里没有这种感觉。我感觉贼别扭。\n其实我是一个很细腻的人，只是我的语言系统迟迟无法加载出来我脑海里的无意识想法。只好靠精神分析分析自己。的焦虑什么的。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电影的镜头一闪而过，会让人更注重故事情节。就没法给你展示骑车时的感觉。一个画面带过了。但其实每次骑车我都特别注意自己皮肤和风接触的感受。有时舒服，有时不舒服，但总有感觉。这导致我对骑自行车这个行为有复杂的感受。面对电影里这样一个画面带过。我感到特别不适应。因为在我的大脑里骑车是一 https://t.co/JlXCI7SBM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1307,
+          "like_count": 13974,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 612
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

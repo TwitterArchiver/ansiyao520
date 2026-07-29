@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041882444576763904"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2041882448016109960",
+    "created_at": "2026-04-08T14:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041882448016109960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 108,
+          "id": "1936075265752641536",
+          "start": 92,
+          "username": "maxC47884317783"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qf8iWt98MF",
+          "end": 132,
+          "expanded_url": "https://x.com/ansiyao520/status/2041882448016109960/photo/1",
+          "media_key": "3_2041882444576763904",
+          "start": 109,
+          "url": "https://t.co/Qf8iWt98MF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041882448016109960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界。不是相互哄哄，抱紧紧，就是个大好人，你们什么时候能明白这个道理。也不是私下里说过难听话，就是个坏人。公共道德审判最常见的问题就是以圣人的标准去审判个人。没人经得起这么审判的。@maxC47884317783 https://t.co/Qf8iWt98MF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2030,
+        "media_key": "3_2041882444576763904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY5Q9YasAA42pk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041882444576763904"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2041882448016109960",
+        "created_at": "2026-04-08T14:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041882448016109960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 108,
+              "id": "1936075265752641536",
+              "start": 92,
+              "username": "maxC47884317783"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qf8iWt98MF",
+              "end": 132,
+              "expanded_url": "https://x.com/ansiyao520/status/2041882448016109960/photo/1",
+              "media_key": "3_2041882444576763904",
+              "start": 109,
+              "url": "https://t.co/Qf8iWt98MF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041882448016109960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界。不是相互哄哄，抱紧紧，就是个大好人，你们什么时候能明白这个道理。也不是私下里说过难听话，就是个坏人。公共道德审判最常见的问题就是以圣人的标准去审判个人。没人经得起这么审判的。@maxC47884317783 https://t.co/Qf8iWt98MF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 789,
+          "like_count": 4169,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 167
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T14:54:57.000Z",
+        "description": "医学牲｜持证含🍥｜最可爱的妹妹@phenol_haruka｜对象❤️@dorothy1614926\n想以温柔待人喵，梦想是成为最友跨的医生。（努力中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "phenol_haruka"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "dorothy1614926"
+              }
+            ]
+          }
+        },
+        "id": "1936075265752641536",
+        "location": "喵星医科大学",
+        "name": "古明地　こいし🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041477980258717697/rCjeZcXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 278,
+          "like_count": 5629,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 438
+        },
+        "username": "maxC47884317783",
+        "verified": false
+      }
+    ]
+  }
+}

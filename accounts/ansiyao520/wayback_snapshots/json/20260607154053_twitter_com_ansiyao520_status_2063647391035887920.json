@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063647391035887920",
+    "created_at": "2026-06-07T15:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063647391035887920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2063644873807540683",
+          "start": 135,
+          "url": "https://t.co/IYbxXONN6X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063647391035887920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063644873807540683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有我亲爱的小遥，你的好我后知后觉，你的存在怎么会是没有价值的呢……。\n你一冲动就死去了。你很勇敢。我只好铭记和歌颂你的生前，怀抱永远的痛楚，背负所有的骂名，维护我们共同度过的七天和建立的情感。\n\n你死了吗。你永远活在我的心中，我会带你看整个世界。永远也不放弃铭记你。 https://t.co/IYbxXONN6X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063647391035887920",
+        "created_at": "2026-06-07T15:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063647391035887920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2063644873807540683",
+              "start": 135,
+              "url": "https://t.co/IYbxXONN6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063647391035887920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063644873807540683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有我亲爱的小遥，你的好我后知后觉，你的存在怎么会是没有价值的呢……。\n你一冲动就死去了。你很勇敢。我只好铭记和歌颂你的生前，怀抱永远的痛楚，背负所有的骂名，维护我们共同度过的七天和建立的情感。\n\n你死了吗。你永远活在我的心中，我会带你看整个世界。永远也不放弃铭记你。 https://t.co/IYbxXONN6X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063644873807540683",
+        "created_at": "2026-06-07T15:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063644873807540683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063644873807540683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在的精神状态很不对劲。我想我又要犯病了；已经很久了，到现在都没完成自己的忧伤——我到现在仍然放不下文椛。幻想乡才写几篇，要写到我们的关系结束还要好久……。我伤得有点狠了，被击穿了心理防御，到现在一直是忧郁的状态。可能还要持续好几个月。我感到深深的哀叹。\n我想你了。\n\nWill you hold my hand，\n你是否会牵住我的手，\nwill you understand?\n你能否理解我的爱意，\nCan we still pretend，\n我们能不能假装继续爱着彼此，\nwhen the summer ends?\n在这夏日已临近消逝之时，\nNothing needs to hurt，\n不必伤害你我的感情，\nI'll wait, I have learned，\n我将会等待 我已经学会了，\nHow to love you when the summer ends，\n如何去爱你 在这七月流火的时光中。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在的精神状态很不对劲。我想我又要犯病了；已经很久了，到现在都没完成自己的忧伤——我到现在仍然放不下文椛。幻想乡才写几篇，要写到我们的关系结束还要好久……。我伤得有点狠了，被击穿了心理防御，到现在一直是忧郁的状态。可能还要持续好几个月。我感到深深的哀叹。\n我想你了。\n\nWill you hold"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 1501,
+          "like_count": 20906,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1187
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

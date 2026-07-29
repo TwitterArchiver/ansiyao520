@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075120271930040320"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2075120565556564267",
+    "created_at": "2026-07-09T07:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075120565556564267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/27BOVtAf9R",
+          "end": 161,
+          "expanded_url": "https://x.com/ansiyao520/status/2075120565556564267/video/1",
+          "media_key": "7_2075120271930040320",
+          "start": 138,
+          "url": "https://t.co/27BOVtAf9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075120565556564267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "求求你别问我，\n求求你别问家在哪，\n别问我梦想何方，\n为何放弃了眺望 为何不再歌唱，\n背对着荒唐的世界，\n我们曾竭力追逐过永远，\n可最后不能飞翔的我却，\n只能如陌生人一般说声再见，\n你在名为弱小的深渊，\n究竟看见过什么，\n向着他们摇尾乞怜，\n想要死得安静一些，\n仅剩下尊严，\n有没有人曾对你说过，\n不要期待这世界，\n你的眼神越是纯洁，\n就越容易被现实撕裂，\n直到鲜血枯竭，\n原谅我，\n原谅我落荒而逃，\n原谅我如此仓皇，\n没能继续坚强，\n我也想，\n也曾想过和你远航，\n只是终究喑哑，\n唯有转身退场。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求求你别问我，\n求求你别问家在哪，\n别问我梦想何方，\n为何放弃了眺望 为何不再歌唱，\n背对着荒唐的世界，\n我们曾竭力追逐过永远，\n可最后不能飞翔的我却，\n只能如陌生人一般说声再见，\n你在名为弱小的深渊，\n究竟看见过什么，\n向着他们摇尾乞怜，\n想要死得安静一些，\n仅剩下尊严， https://t.co/27BOVtAf9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 321482,
+        "height": 1088,
+        "media_key": "7_2075120271930040320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075120271930040320/pu/img/kyp2qohZnEkMJI7r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075120271930040320/pu/vid/avc1/320x482/cuNuiu7qpOUav6XT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075120271930040320/pu/vid/avc1/480x724/3m_lD6o17lKvlaUh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075120271930040320/pu/vid/avc1/720x1088/4UlHtSIknCZi4n69.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075120271930040320/pu/pl/XQAG210pZ6p5Nbey.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075120271930040320"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075120565556564267",
+        "created_at": "2026-07-09T07:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075120565556564267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/27BOVtAf9R",
+              "end": 161,
+              "expanded_url": "https://x.com/ansiyao520/status/2075120565556564267/video/1",
+              "media_key": "7_2075120271930040320",
+              "start": 138,
+              "url": "https://t.co/27BOVtAf9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075120565556564267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "求求你别问我，\n求求你别问家在哪，\n别问我梦想何方，\n为何放弃了眺望 为何不再歌唱，\n背对着荒唐的世界，\n我们曾竭力追逐过永远，\n可最后不能飞翔的我却，\n只能如陌生人一般说声再见，\n你在名为弱小的深渊，\n究竟看见过什么，\n向着他们摇尾乞怜，\n想要死得安静一些，\n仅剩下尊严，\n有没有人曾对你说过，\n不要期待这世界，\n你的眼神越是纯洁，\n就越容易被现实撕裂，\n直到鲜血枯竭，\n原谅我，\n原谅我落荒而逃，\n原谅我如此仓皇，\n没能继续坚强，\n我也想，\n也曾想过和你远航，\n只是终究喑哑，\n唯有转身退场。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求你别问我，\n求求你别问家在哪，\n别问我梦想何方，\n为何放弃了眺望 为何不再歌唱，\n背对着荒唐的世界，\n我们曾竭力追逐过永远，\n可最后不能飞翔的我却，\n只能如陌生人一般说声再见，\n你在名为弱小的深渊，\n究竟看见过什么，\n向着他们摇尾乞怜，\n想要死得安静一些，\n仅剩下尊严， https://t.co/27BOVtAf9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 1810,
+          "like_count": 28965,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

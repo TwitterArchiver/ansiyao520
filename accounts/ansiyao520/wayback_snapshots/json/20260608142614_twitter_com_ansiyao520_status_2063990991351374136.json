@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063990942265454592",
+        "3_2063990942626160640",
+        "3_2063990943087529985",
+        "3_2063990943519539200"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063990991351374136",
+    "created_at": "2026-06-08T14:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063990991351374136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ceYV7OqmlI",
+          "end": 166,
+          "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+          "media_key": "3_2063990942265454592",
+          "start": 143,
+          "url": "https://t.co/ceYV7OqmlI"
+        },
+        {
+          "display_url": "pic.x.com/ceYV7OqmlI",
+          "end": 166,
+          "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+          "media_key": "3_2063990942626160640",
+          "start": 143,
+          "url": "https://t.co/ceYV7OqmlI"
+        },
+        {
+          "display_url": "pic.x.com/ceYV7OqmlI",
+          "end": 166,
+          "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+          "media_key": "3_2063990943087529985",
+          "start": 143,
+          "url": "https://t.co/ceYV7OqmlI"
+        },
+        {
+          "display_url": "pic.x.com/ceYV7OqmlI",
+          "end": 166,
+          "expanded_url": "https://x.com/ansiyao520/status/2063990991351374136/photo/1",
+          "media_key": "3_2063990943519539200",
+          "start": 143,
+          "url": "https://t.co/ceYV7OqmlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063990991351374136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《来世愿生幻想乡9》\n好了。我们来继续整理。唉。整理起来好累啊。看书也是。经验包吃起来好费劲，就不能像游戏里一样能一键学习吗。还得我自己一步一个脚印。\nok呀，我们来看第一张图片。\nokok，也是可以看到，我比较不懂事，然后文椛也不会处理。如果从旁观者的角度来说，两个人都让人很着急。\n我也觉得自己以前挺“逆天”的。如果是正常人的话，遇见我这样心智发育不成熟的，肯定会以各种理由保护自己，建议文椛远离我。\n不过。总还是有那么几个大发善心，或者不介意、有自信和我这样小朋友聊天的人愿意和我接触。我们姑且继续看下去。\n也是可以看到。文椛没有处理不懂恋爱却恋爱了的我们之间问题的人生经验。我呢也特别不懂事老爱挑衅他。老爱刷存在感。\n其实这些都是小孩子似的想法，挺幼稚傻逼的。不过我也要强调，我说自己是小孩子，有一个重要因素是希望有人理解我，甚至指导我，etc，并不是只想着逃避。这是要注意的。\n然而悲剧的是。我们当时都在希望对方理解自己、对方向自己让步。可能我们就是不适合，或者说，当时我们都太年轻。总之就是现在只能找各种理由去圆当时的不理解说服自己，因为发生过的事已经无法挽回了。哎～～。\n当时，我们都很委屈，谁也不肯让。但其实只要有一个人说了对不起，事情就会完全不一样～\n最后吵累了也没有人道歉～\n文椛又不是一个会在吵架时享受拌嘴的那种人。\n所以，矛盾越积越多，结果是可想而知的。\n今天就聊到这里。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《来世愿生幻想乡9》\n好了。我们来继续整理。唉。整理起来好累啊。看书也是。经验包吃起来好费劲，就不能像游戏里一样能一键学习吗。还得我自己一步一个脚印。\nok呀，我们来看第一张图片。\nokok，也是可以看到，我比较不懂事，然后文椛也不会处理。如果从旁观者的角度来说，两个人都让人很着急。 https://t.co/ceYV7OqmlI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063990991351374136].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063990991351374136",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063990991351374136"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1765,
+        "media_key": "3_2063990942265454592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE05VbMAAovFw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1663,
+        "media_key": "3_2063990942626160640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE06rbIAAjh0j.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1756,
+        "media_key": "3_2063990943087529985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE08ZbEAE3INZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2094,
+        "media_key": "3_2063990943519539200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTE0-AbAAA_dbk.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1509,
+          "like_count": 21084,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1221
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046423262834598091",
+    "created_at": "2026-04-21T02:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046423262834598091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xioa_SuLi/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Xioa_SuLi/status/2046412452389388477",
+          "start": 12,
+          "url": "https://t.co/Zkf3Qwjf0p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046423262834598091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046412452389388477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了。雌天下神了。 https://t.co/Zkf3Qwjf0p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2046412445590360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZRRuNaEAAbmfg.jpg",
+        "width": 1280
+      },
+      {
+        "height": 700,
+        "media_key": "3_2046412445959565312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZRRvlbsAA5b2f.jpg",
+        "width": 700
+      },
+      {
+        "height": 1088,
+        "media_key": "3_2046412445951098880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZRRvjagAAezCn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046423262834598091",
+        "created_at": "2026-04-21T02:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046423262834598091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xioa_SuLi/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Xioa_SuLi/status/2046412452389388477",
+              "start": 12,
+              "url": "https://t.co/Zkf3Qwjf0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046423262834598091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046412452389388477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了。雌天下神了。 https://t.co/Zkf3Qwjf0p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046412445590360064",
+            "3_2046412445959565312",
+            "3_2046412445951098880"
+          ]
+        },
+        "author_id": "1759955681593917440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046412452389388477",
+        "created_at": "2026-04-21T02:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046412452389388477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IPobdIgt4",
+              "end": 63,
+              "expanded_url": "https://x.com/Xioa_SuLi/status/2046412452389388477/photo/1",
+              "media_key": "3_2046412445590360064",
+              "start": 40,
+              "url": "https://t.co/9IPobdIgt4"
+            },
+            {
+              "display_url": "pic.x.com/9IPobdIgt4",
+              "end": 63,
+              "expanded_url": "https://x.com/Xioa_SuLi/status/2046412452389388477/photo/1",
+              "media_key": "3_2046412445959565312",
+              "start": 40,
+              "url": "https://t.co/9IPobdIgt4"
+            },
+            {
+              "display_url": "pic.x.com/9IPobdIgt4",
+              "end": 63,
+              "expanded_url": "https://x.com/Xioa_SuLi/status/2046412452389388477/photo/1",
+              "media_key": "3_2046412445951098880",
+              "start": 40,
+              "url": "https://t.co/9IPobdIgt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046412452389388477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现吃这款槟榔的鸡鸡都好小\n为什么啊\n吃了会变杂鱼？\nΣ(ŎдŎ|||)ﾉﾉ https://t.co/9IPobdIgt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1243,
+          "like_count": 11540,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 495
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T14:58:41.000Z",
+        "description": "hrt2024.5.8 身高170体重60kg ˃ʍ˂小证嘿嘿 \n08年            \n17岁哎 (-^〇^-)(家长不管党，天残党)\n现在在惠州惠城区喜欢和同类贴贴ww\n门槛疯狂星期四？加好友  可线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "https://t.me",
+                "start": 0,
+                "url": "https://t.co/92fY79QjRQ"
+              }
+            ]
+          }
+        },
+        "id": "1759955681593917440",
+        "location": "地球",
+        "name": "薪薪🍥",
+        "pinned_tweet_id": "1916962863601881373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 383,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/92fY79QjRQ",
+        "username": "Xioa_SuLi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042591219277070830",
+    "created_at": "2026-04-11T05:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042840024404926529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798684142722281473",
+          "start": 0,
+          "username": "shiguangji2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042840024404926529",
+    "in_reply_to_user_id": "1798684142722281473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042838610123329815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiguangji2019 我的手机是父母初中时他们淘汰下来给我用的，一直到现在都没钱换。电脑也是上了大学父母才给买的。每月就靠生活费过活。实在无力物质援助。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_2042838593715175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFme4KfaAAAzZds.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042591219277070830",
+        "created_at": "2026-04-11T05:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042840024404926529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798684142722281473",
+              "start": 0,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042840024404926529",
+        "in_reply_to_user_id": "1798684142722281473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042838610123329815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiguangji2019 我的手机是父母初中时他们淘汰下来给我用的，一直到现在都没钱换。电脑也是上了大学父母才给买的。每月就靠生活费过活。实在无力物质援助。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042838593715175424"
+          ]
+        },
+        "author_id": "1798684142722281473",
+        "conversation_id": "2042591219277070830",
+        "created_at": "2026-04-11T05:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042838610123329815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tHixHQjfR",
+              "end": 75,
+              "expanded_url": "https://x.com/shiguangji2019/status/2042838610123329815/photo/1",
+              "media_key": "3_2042838593715175424",
+              "start": 52,
+              "url": "https://t.co/4tHixHQjfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042838610123329815",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042837790594077150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 有什么不用的，电子产品也行啊，比如淘汰的电脑，还有路由器，不用的手机什么的也行 https://t.co/4tHixHQjfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 856,
+          "like_count": 4428,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 243
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年，mtf，在\n。。。犯病中，脑子好乱。。不知道活下去了",
+        "id": "1798684142722281473",
+        "location": "香港。。",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 2080,
+          "like_count": 106568,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 5382
+        },
+        "username": "shiguangji2019",
+        "verified": false
+      }
+    ]
+  }
+}

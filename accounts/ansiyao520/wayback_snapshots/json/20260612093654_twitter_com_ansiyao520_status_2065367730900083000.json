@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065367574230233088"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065367730900083000",
+    "created_at": "2026-06-12T09:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065367730900083000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lB6uUZQxKC",
+          "end": 162,
+          "expanded_url": "https://x.com/ansiyao520/status/2065367730900083000/video/1",
+          "media_key": "7_2065367574230233088",
+          "start": 139,
+          "url": "https://t.co/lB6uUZQxKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065367730900083000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日心情。就像这首歌一样有气无力，郁闷，百无聊赖。\n好想找一个人发发癫，555，主人。\n\n明天你会在哪 下一个远处吗，\n呼喊着应答 听不到 触不到 彼此想法，\n前往同一座高塔，\n你留下我的身影，\n留给某夜的梦境，\n能够载着你飞行，\n途经过嘈杂的灯火，\n有你的一颗 仰望着闪烁。 https://t.co/lB6uUZQxKC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065367730900083000].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065367730900083000",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065367730900083000"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 238070,
+        "height": 1088,
+        "media_key": "7_2065367574230233088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065367574230233088/pu/img/zaLTbJAhY_jE5yhD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065367574230233088/pu/vid/avc1/320x604/jQhMP6KwRfsN77jv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065367574230233088/pu/vid/avc1/480x906/XoJ6ulJWLdOg2XnO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065367574230233088/pu/vid/avc1/576x1088/K3LLPu-5-YqGY34h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065367574230233088/pu/pl/ZoZqly76PwCsrELJ.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1557,
+          "like_count": 22688,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1329
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

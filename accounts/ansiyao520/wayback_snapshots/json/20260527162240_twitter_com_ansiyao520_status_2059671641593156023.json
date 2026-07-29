@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2059671641593156023",
+    "created_at": "2026-05-27T16:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059671641593156023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059671641593156023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《做梦与实在》\n我最近不是一直在做钳工吗（学校的金工实习）。从早到下午。累得要死。手臂，腿脚，胸部，肌肉都被略微撕裂了。到处都是伤痛。然后差不多晚上7点我困得不行。做不了事情了。我就上床，最安逸地导了管入睡。然后我就开始做梦，那个酣畅淋漓啊。轻微劳动带来的疲惫让我睡得又舒服又不深沉，导向一种特别的奇妙感觉，就是做梦时。我完成体验了实在界的剩余在梦里消化的痛快感。能感觉到作为一团神经递质的实在界剩余在大脑里不断流动（因为我在一直翻身）又作为石头一样坚硬的东西。很巧合的。因为我的床小然后又有一些杂物。就是我睡觉时就是没法完全躺下。往下躺脑袋就会被扎背硌。所以它就不作为让人难受的石头，而是不断在脑袋里流动。而且梦境会不断给出各种场景去xx这个剩余我不知道该用什么词。消化？解决？处理？消磨？取消？反正就是各种手段和场景。在具现和容纳这个剩余的一小部分然后灰飞烟灭，而我就像在宏观上观看巨噬细胞吞噬细菌一样。这里包裹一点吞一点，那里包裹一点吞一点。我的意识几乎完全清醒的看着这些流动和发生。真的特别特别难以形容的感觉。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《做梦与实在》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2059671641593156023",
+        "created_at": "2026-05-27T16:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059671641593156023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059671641593156023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《做梦与实在》\n我最近不是一直在做钳工吗（学校的金工实习）。从早到下午。累得要死。手臂，腿脚，胸部，肌肉都被略微撕裂了。到处都是伤痛。然后差不多晚上7点我困得不行。做不了事情了。我就上床，最安逸地导了管入睡。然后我就开始做梦，那个酣畅淋漓啊。轻微劳动带来的疲惫让我睡得又舒服又不深沉，导向一种特别的奇妙感觉，就是做梦时。我完成体验了实在界的剩余在梦里消化的痛快感。能感觉到作为一团神经递质的实在界剩余在大脑里不断流动（因为我在一直翻身）又作为石头一样坚硬的东西。很巧合的。因为我的床小然后又有一些杂物。就是我睡觉时就是没法完全躺下。往下躺脑袋就会被扎背硌。所以它就不作为让人难受的石头，而是不断在脑袋里流动。而且梦境会不断给出各种场景去xx这个剩余我不知道该用什么词。消化？解决？处理？消磨？取消？反正就是各种手段和场景。在具现和容纳这个剩余的一小部分然后灰飞烟灭，而我就像在宏观上观看巨噬细胞吞噬细菌一样。这里包裹一点吞一点，那里包裹一点吞一点。我的意识几乎完全清醒的看着这些流动和发生。真的特别特别难以形容的感觉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《做梦与实在》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1427,
+          "like_count": 18575,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 947
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

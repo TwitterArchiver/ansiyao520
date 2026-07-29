@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043655419479097344"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043655443516662190",
+    "created_at": "2026-04-13T11:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043655443516662190"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXrvMCo7jF",
+          "end": 28,
+          "expanded_url": "https://x.com/ansiyao520/status/2043655443516662190/photo/1",
+          "media_key": "3_2043655419479097344",
+          "start": 5,
+          "url": "https://t.co/CXrvMCo7jF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043655443516662190",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/CXrvMCo7jF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2043655419479097344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyFxrlagAAhajd.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043655419479097344"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043655443516662190",
+        "created_at": "2026-04-13T11:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043655443516662190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXrvMCo7jF",
+              "end": 28,
+              "expanded_url": "https://x.com/ansiyao520/status/2043655443516662190/photo/1",
+              "media_key": "3_2043655419479097344",
+              "start": 5,
+              "url": "https://t.co/CXrvMCo7jF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043655443516662190",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/CXrvMCo7jF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 983,
+          "like_count": 5304,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 317
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

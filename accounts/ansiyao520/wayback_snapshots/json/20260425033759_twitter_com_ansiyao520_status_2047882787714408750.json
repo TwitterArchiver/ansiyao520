@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047882784967102464"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2047882787714408750",
+    "created_at": "2026-04-25T03:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047882787714408750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p8VnUw5lhm",
+          "end": 34,
+          "expanded_url": "https://x.com/ansiyao520/status/2047882787714408750/photo/1",
+          "media_key": "3_2047882784967102464",
+          "start": 11,
+          "url": "https://t.co/p8VnUw5lhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047882787714408750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨考是什么考试呢？🤔 https://t.co/p8VnUw5lhm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047882787714408750].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047882787714408750",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047882787714408750"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047882784967102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuKivOaEAASWDD.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 1263,
+          "like_count": 12688,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 544
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2054226629317234718",
+    "created_at": "2026-05-12T15:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054226629317234718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2054224472635535782",
+          "start": 11,
+          "url": "https://t.co/s0MI5wPYNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054226629317234718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054224472635535782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一会给大家录这个歌。 https://t.co/s0MI5wPYNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2054224468776730624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIISRUZaQAAX0_L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2054226629317234718",
+        "created_at": "2026-05-12T15:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054226629317234718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2054224472635535782",
+              "start": 11,
+              "url": "https://t.co/s0MI5wPYNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054226629317234718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054224472635535782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一会给大家录这个歌。 https://t.co/s0MI5wPYNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054224468776730624"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2054224472635535782",
+        "created_at": "2026-05-12T15:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054224472635535782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BX8mmu97Mb",
+              "end": 71,
+              "expanded_url": "https://x.com/ansiyao520/status/2054224472635535782/photo/1",
+              "media_key": "3_2054224468776730624",
+              "start": 48,
+              "url": "https://t.co/BX8mmu97Mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054224472635535782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男人的浪漫大概就是一起抽烟吧，帮你捂着点火……，火很危险，但它在我手里温馨又温暖，我为你点火。\n我的第一任男友小数点从来没有为了我戒掉烟，就像我的最后一任男友没有为我放弃雌二醇，我想小数点一定也很想和我一起抽烟吧，他最爱听的歌就是我们一起在车上抽烟。但我从来不敢尝试自己害怕的新奇事物。\n\nI'll ride my bike up to the road，\n骑着单车的我 欲将这世界环游，\nDown the streets right through the city，\n横穿这城市 在转角的街头直走，\nI'll go everywhere you go，\n无论你到哪 我都跟着你走，\nFrom Chicago to the coast，\n哪怕是从芝加哥到西海岸的尽头，\nYou tell me, \"Hit this and let's go，\n想起你对我说过 决定了就即刻行动，\nBlow the smoke right through the window\"，\n想起在车窗前吞云吐雾那般自在的时候，\nCause this is all we know，\n这就是我们共同的拥有。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人的浪漫大概就是一起抽烟吧，帮你捂着点火……，火很危险，但它在我手里温馨又温暖，我为你点火。 https://t.co/BX8mmu97Mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1353,
+          "like_count": 16150,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 796
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

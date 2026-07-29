@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042836787220172800",
+        "3_2042836788650348544",
+        "3_2042836788939743232",
+        "3_2042836789443072001"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042836792345579591",
+    "created_at": "2026-04-11T05:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042836792345579591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/053Yp2aRJX",
+          "end": 30,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+          "media_key": "3_2042836787220172800",
+          "start": 7,
+          "url": "https://t.co/053Yp2aRJX"
+        },
+        {
+          "display_url": "pic.x.com/053Yp2aRJX",
+          "end": 30,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+          "media_key": "3_2042836788650348544",
+          "start": 7,
+          "url": "https://t.co/053Yp2aRJX"
+        },
+        {
+          "display_url": "pic.x.com/053Yp2aRJX",
+          "end": 30,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+          "media_key": "3_2042836788939743232",
+          "start": 7,
+          "url": "https://t.co/053Yp2aRJX"
+        },
+        {
+          "display_url": "pic.x.com/053Yp2aRJX",
+          "end": 30,
+          "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+          "media_key": "3_2042836789443072001",
+          "start": 7,
+          "url": "https://t.co/053Yp2aRJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042836792345579591",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "part12\n→我和小遥分享关于坚强的例子→争议：我真的不知道该怎么办了，因为她不肯回家，去别的城市在我看来也是不可行的，其他方法我也想不到，然后我做了一个犯了错误的决定：我利用小遥害怕失去姐姐的心理，想让她难过然后对冲她想死的想法→小遥崩溃，坚定求死的决心→我看劝不住，请求小遥死之前把我的消息删一下"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "part12 https://t.co/053Yp2aRJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_2042836787220172800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmdPAxb0AA6zbe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042836788650348544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmdPGGakAAZ3uu.jpg",
+        "width": 922
+      },
+      {
+        "height": 2041,
+        "media_key": "3_2042836788939743232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmdPHLaYAAaJ8m.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2042836789443072001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmdPJDakAEAyJQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042836787220172800",
+            "3_2042836788650348544",
+            "3_2042836788939743232",
+            "3_2042836789443072001"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042836792345579591",
+        "created_at": "2026-04-11T05:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042836792345579591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/053Yp2aRJX",
+              "end": 30,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+              "media_key": "3_2042836787220172800",
+              "start": 7,
+              "url": "https://t.co/053Yp2aRJX"
+            },
+            {
+              "display_url": "pic.x.com/053Yp2aRJX",
+              "end": 30,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+              "media_key": "3_2042836788650348544",
+              "start": 7,
+              "url": "https://t.co/053Yp2aRJX"
+            },
+            {
+              "display_url": "pic.x.com/053Yp2aRJX",
+              "end": 30,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+              "media_key": "3_2042836788939743232",
+              "start": 7,
+              "url": "https://t.co/053Yp2aRJX"
+            },
+            {
+              "display_url": "pic.x.com/053Yp2aRJX",
+              "end": 30,
+              "expanded_url": "https://x.com/ansiyao520/status/2042836792345579591/photo/1",
+              "media_key": "3_2042836789443072001",
+              "start": 7,
+              "url": "https://t.co/053Yp2aRJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042836792345579591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "part12\n→我和小遥分享关于坚强的例子→争议：我真的不知道该怎么办了，因为她不肯回家，去别的城市在我看来也是不可行的，其他方法我也想不到，然后我做了一个犯了错误的决定：我利用小遥害怕失去姐姐的心理，想让她难过然后对冲她想死的想法→小遥崩溃，坚定求死的决心→我看劝不住，请求小遥死之前把我的消息删一下"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "part12 https://t.co/053Yp2aRJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 856,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 239
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

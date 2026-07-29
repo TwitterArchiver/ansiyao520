@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2074800083103801472",
+    "created_at": "2026-07-10T04:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075439962888229338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1941556922848825344",
+          "start": 0,
+          "username": "zheng_wen46250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075439962888229338",
+    "in_reply_to_user_id": "1941556922848825344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "🤣🤣傻逼玩意急了。三百条帖子全是骂人的吧。你这条野狗不叫两声心里就是不痛快。滚回你娘肚子里再好好操操你妈吧🤣。狗杂种在别人评论区评论还以为自己是大爷起来了，我给你拉黑你不炸了。还有啊，你个小鸡吧哪来的胆量碰瓷我啊，我他妈一几把草死你这个口无遮拦的黄口小儿，你这种人只配舔我的几把毛🤣。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075434608078836034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheng_wen46250 🤣🤣傻逼玩意急了。三百条帖子全是骂人的吧。你这条野狗不叫两声心里就是不痛快。滚回你娘肚子里再好好操操你妈吧🤣。狗杂种在别人评论区评论还以为自己是大爷起来了，我给你拉黑你不炸了。还有啊，你个小鸡吧哪来的胆量碰瓷我啊，我他妈一几把草死你这个口无遮拦的黄口小儿，你这种人只配舔我的几把毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2074800083103801472",
+        "created_at": "2026-07-10T04:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075439962888229338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1941556922848825344",
+              "start": 0,
+              "username": "zheng_wen46250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075439962888229338",
+        "in_reply_to_user_id": "1941556922848825344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🤣🤣傻逼玩意急了。三百条帖子全是骂人的吧。你这条野狗不叫两声心里就是不痛快。滚回你娘肚子里再好好操操你妈吧🤣。狗杂种在别人评论区评论还以为自己是大爷起来了，我给你拉黑你不炸了。还有啊，你个小鸡吧哪来的胆量碰瓷我啊，我他妈一几把草死你这个口无遮拦的黄口小儿，你这种人只配舔我的几把毛🤣。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075434608078836034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheng_wen46250 🤣🤣傻逼玩意急了。三百条帖子全是骂人的吧。你这条野狗不叫两声心里就是不痛快。滚回你娘肚子里再好好操操你妈吧🤣。狗杂种在别人评论区评论还以为自己是大爷起来了，我给你拉黑你不炸了。还有啊，你个小鸡吧哪来的胆量碰瓷我啊，我他妈一几把草死你这个口无遮拦的黄口小儿，你这种人只配舔我的几把毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941556922848825344",
+        "conversation_id": "2074800083103801472",
+        "created_at": "2026-07-10T04:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075434608078836034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075434608078836034",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075332748747903318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 操你妈了个b的傻逼娘炮死变态!你这种变态活着就是浪费空汽，你睁开你那双狗眼看看自己写的逼玩意叫他妈文章？连他妈幼儿园的小孩写的都比你强，变态贱逼!\n当面不知道你玛和路边哪条野狗交配生出你这么一条孽畜!真后悔当年给你妈接生的时候没把你直接溺死在公厕里，傻b死变态!\n寺全家的东西!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1813,
+          "like_count": 29007,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-05T17:57:06.000Z",
+        "description": "",
+        "id": "1941556922848825344",
+        "name": "zheng wen",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 126,
+          "like_count": 5618,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "zheng_wen46250",
+        "verified": true
+      }
+    ]
+  }
+}

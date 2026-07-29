@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042662524253016574",
+    "created_at": "2026-04-11T01:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042776678389428369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877473083063201792",
+          "start": 0,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042776678389428369",
+    "in_reply_to_user_id": "1877473083063201792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042662524253016574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorothy1614926 你别太得意。这篇高度仿制，本就出于“看看玩玩”的目的而写。无意再引起谁是受害者的讨论。我已经厌倦了私人恩怨里无谓的争吵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042662524253016574",
+        "created_at": "2026-04-11T01:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042776678389428369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042776678389428369",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042662524253016574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 你别太得意。这篇高度仿制，本就出于“看看玩玩”的目的而写。无意再引起谁是受害者的讨论。我已经厌倦了私人恩怨里无谓的争吵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2042662524253016574",
+        "created_at": "2026-04-10T17:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042662524253016574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2042311966455468384",
+              "start": 108,
+              "url": "https://t.co/ZshVfywTU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042662524253016574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042311966455468384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇，好可爱的挂条喵，为了掩饰自己的苍白无力都开始反向抹黑了嘛喵～\n椛椛第一次被别人挂呢，有点小激动的说♪\n大家看看玩玩哦，建议先看看人家顶置的挂条呢嘻嘻♡\n底下还有与某人的聊天记录呢喵，谁是真正的受害者一看便知哦～ https://t.co/ZshVfywTU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 826,
+          "like_count": 4354,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 216
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛いこいこい、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "wenhuamengyue"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041785097251385681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 382,
+          "like_count": 4262,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 852
+        },
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

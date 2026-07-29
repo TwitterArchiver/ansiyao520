@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067643559831023617"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2067643562754453590",
+    "created_at": "2026-06-18T16:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067643562754453590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iEDnggCVFU",
+          "end": 121,
+          "expanded_url": "https://x.com/ansiyao520/status/2067643562754453590/photo/1",
+          "media_key": "3_2067643559831023617",
+          "start": 98,
+          "url": "https://t.co/iEDnggCVFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067643562754453590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果第二天我可以睡够，那么前一天我喝了酒就会睡得超级香。\n我酒量小，一瓶380ml3%的果酒就会昏昏欲睡。喝完就美滋滋地在桌子上趴着睡着了。不过果酒很贵，要十块钱一瓶。而且酒喝多了对身体也不好。\n不过到底也是一个量的问题，正如精神病药少吃可以固神，多吃则伤身。偶尔饮酒可以睡得很舒服，天天喝酒乃至酗酒肯定就不好了。\n我已经爱上偶尔喝点自己喜欢的甜酒了。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果第二天我可以睡够，那么前一天我喝了酒就会睡得超级香。\n我酒量小，一瓶380ml3%的果酒就会昏昏欲睡。喝完就美滋滋地在桌子上趴着睡着了。不过果酒很贵，要十块钱一瓶。而且酒喝多了对身体也不好。 https://t.co/iEDnggCVFU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2067643559831023617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG-3OHaMAEhU43.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067643559831023617"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2067643562754453590",
+        "created_at": "2026-06-18T16:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067643562754453590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEDnggCVFU",
+              "end": 121,
+              "expanded_url": "https://x.com/ansiyao520/status/2067643562754453590/photo/1",
+              "media_key": "3_2067643559831023617",
+              "start": 98,
+              "url": "https://t.co/iEDnggCVFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067643562754453590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果第二天我可以睡够，那么前一天我喝了酒就会睡得超级香。\n我酒量小，一瓶380ml3%的果酒就会昏昏欲睡。喝完就美滋滋地在桌子上趴着睡着了。不过果酒很贵，要十块钱一瓶。而且酒喝多了对身体也不好。\n不过到底也是一个量的问题，正如精神病药少吃可以固神，多吃则伤身。偶尔饮酒可以睡得很舒服，天天喝酒乃至酗酒肯定就不好了。\n我已经爱上偶尔喝点自己喜欢的甜酒了。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果第二天我可以睡够，那么前一天我喝了酒就会睡得超级香。\n我酒量小，一瓶380ml3%的果酒就会昏昏欲睡。喝完就美滋滋地在桌子上趴着睡着了。不过果酒很贵，要十块钱一瓶。而且酒喝多了对身体也不好。 https://t.co/iEDnggCVFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1649,
+          "like_count": 24542,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

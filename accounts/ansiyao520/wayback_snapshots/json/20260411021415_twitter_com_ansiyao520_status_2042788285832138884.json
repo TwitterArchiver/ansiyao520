@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042788285832138884",
+    "created_at": "2026-04-11T02:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042788285832138884"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042788285832138884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "当一个人已经处在情绪崩溃、生活压迫、社群攀比用药量的漩涡里时，任何底线性原则都显得像隔岸观火的风凉话。\n有效的干预必须绕过讲道理，直接作用于情绪和身体感受。也就是说，我们可能需要一批不说话、不评判，只是陪伴和倾听，在对方需要时才给出自己深思熟虑后的建议。\n除此之外，因为药物滥用往往是孤立的症状，而非病根。社群内其实也有可能建立起一种不以用药量论英雄、不传播讣告作为悲剧美学的新社交模式。而不只是现在的只能靠讣告、紧急求救出圈。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当一个人已经处在情绪崩溃、生活压迫、社群攀比用药量的漩涡里时，任何底线性原则都显得像隔岸观火的风凉话。\n有效的干预必须绕过讲道理，直接作用于情绪和身体感受。也就是说，我们可能需要一批不说话、不评判，只是陪伴和倾听，在对方需要时才给出自己深思熟虑后的建议。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042788285832138884",
+        "created_at": "2026-04-11T02:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042788285832138884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042788285832138884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当一个人已经处在情绪崩溃、生活压迫、社群攀比用药量的漩涡里时，任何底线性原则都显得像隔岸观火的风凉话。\n有效的干预必须绕过讲道理，直接作用于情绪和身体感受。也就是说，我们可能需要一批不说话、不评判，只是陪伴和倾听，在对方需要时才给出自己深思熟虑后的建议。\n除此之外，因为药物滥用往往是孤立的症状，而非病根。社群内其实也有可能建立起一种不以用药量论英雄、不传播讣告作为悲剧美学的新社交模式。而不只是现在的只能靠讣告、紧急求救出圈。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当一个人已经处在情绪崩溃、生活压迫、社群攀比用药量的漩涡里时，任何底线性原则都显得像隔岸观火的风凉话。\n有效的干预必须绕过讲道理，直接作用于情绪和身体感受。也就是说，我们可能需要一批不说话、不评判，只是陪伴和倾听，在对方需要时才给出自己深思熟虑后的建议。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 835,
+          "like_count": 4376,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 219
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

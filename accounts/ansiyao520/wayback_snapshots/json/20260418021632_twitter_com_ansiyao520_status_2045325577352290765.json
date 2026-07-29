@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045325574739210240"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2045325577352290765",
+    "created_at": "2026-04-18T02:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045325577352290765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9VMmNmtI3",
+          "end": 141,
+          "expanded_url": "https://x.com/ansiyao520/status/2045325577352290765/photo/1",
+          "media_key": "3_2045325574739210240",
+          "start": 118,
+          "url": "https://t.co/w9VMmNmtI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045325577352290765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我其实不太建议自我意识强烈觉醒的学生去挑战传统的权威式管理方式。\n在你上学时学校只是待三年的学历工具，就算你能把学校的人思想全扭转或者全杀了也不会有什么大的改变。何况人都是有思想的，学校里的老师不可能都接受你的观点。那么“处分就处分” 这样的情绪宣泄最后承受后果的还是自己。处分记录、公开批评、与老师长期对立，并不会真正赢得尊重，反而可能错过一些资源和机会。如果因为一个头发问题，就遭到这些处罚，如果还因此心情不好没考到学校，这是完全不值的。当我在家被父母要求剪短头发时，尽管我也十分不满，我还是去理发店把头发剪掉了。\n用牺牲自己利益（学业记录、升学机会、心理健康）的方式情绪化地反抗规则是最初始，最本能，最无效，最不成熟的反抗方式，必须得到引导而不是放任。\n类似的情况还有不爽了绝望了就去拿头撞墙发泄（我的意思是自残）等。这些都是青少年自己需要格外注意的情绪化冲动。要克制住这些冲动呀。\n叠甲如下：当然，完全放弃对规则的任何质疑，认为任何挑战都是不值得的肯定是不好的。我的顺从更接近一种策略性顺从 + 私下沟通，不承担处分风险，但可能推动微小改变。此外也可以集体协商，修订规则，发挥集体力量。还可以规则内的不合作，遵守底线标准，但在其他方面表达个性，通过学业成绩、社团活动赢得话语权，用实力让规则对你网开一面等。\n青年们，真正的牛逼不是“我敢毁掉自己”呀，而是“我能保护自己不受无意义的伤害”、“我知道什么时候该忍，什么时候该争，以及用什么方式争才能赢”。\n在系统规则里人存活了下来并且得到了发展，才有可能谈改变。\n学校输得起一次处分，但人不能输掉任何一次升学机会、心理健康、甚至一整年的人生节奏呀。这就是家长反对的包括药娘在内的青少年们所要面对的“叛逆”。\n当然我也不排除因为价值观不同可能家长会认为追求自己的心理性别取向也是叛逆，我没有为家长说话啊。我就不叠甲了你们懂我意思。我已经写的很明白了，还看不懂需要我叠甲的话，那你……，那你私信问我吧。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实不太建议自我意识强烈觉醒的学生去挑战传统的权威式管理方式。\n在你上学时学校只是待三年的学历工具，就算你能把学校的人思想全扭转或者全杀了也不会有什么大的改变。何况人都是有思想的，学校里的老师不可能都接受你的观点。那么“处分就处分” https://t.co/w9VMmNmtI3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045325577352290765].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045325577352290765",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045325577352290765"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2045325574739210240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ0xgxaMAA0gnL.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 1190,
+          "like_count": 9595,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 442
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

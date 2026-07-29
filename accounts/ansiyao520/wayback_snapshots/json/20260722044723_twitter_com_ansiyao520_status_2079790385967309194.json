@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079790383480115201"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2079747861231858090",
+    "created_at": "2026-07-22T04:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079790385967309194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541103667486437376",
+          "start": 0,
+          "username": "Zonneeeeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0mEQx2K8az",
+          "end": 49,
+          "expanded_url": "https://x.com/ansiyao520/status/2079790385967309194/photo/1",
+          "media_key": "3_2079790383480115201",
+          "start": 26,
+          "url": "https://t.co/0mEQx2K8az"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079790385967309194",
+    "in_reply_to_user_id": "1541103667486437376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079747861231858090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zonneeeeee 你这很明显是一种男娘思维。 https://t.co/0mEQx2K8az"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079790383480115201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzmVaabEAE2rtm.jpg",
+        "width": 597
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2079747855498334208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy_p9Vb0AAr0pO.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079790383480115201"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2079747861231858090",
+        "created_at": "2026-07-22T04:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079790385967309194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541103667486437376",
+              "start": 0,
+              "username": "Zonneeeeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mEQx2K8az",
+              "end": 49,
+              "expanded_url": "https://x.com/ansiyao520/status/2079790385967309194/photo/1",
+              "media_key": "3_2079790383480115201",
+              "start": 26,
+              "url": "https://t.co/0mEQx2K8az"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079790385967309194",
+        "in_reply_to_user_id": "1541103667486437376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079747861231858090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zonneeeeee 你这很明显是一种男娘思维。 https://t.co/0mEQx2K8az"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079747855498334208"
+          ]
+        },
+        "author_id": "1541103667486437376",
+        "conversation_id": "2079747861231858090",
+        "created_at": "2026-07-22T01:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079747861231858090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkqqy7KG4f",
+              "end": 139,
+              "expanded_url": "https://x.com/Zonneeeeee/status/2079747861231858090/photo/1",
+              "media_key": "3_2079747855498334208",
+              "start": 116,
+              "url": "https://t.co/fkqqy7KG4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079747861231858090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "尽管每次这样说，朋友都会感慨我的主体性太弱，但这确实是我对人生的理解：\n世界没有意义，人生也没有意义，生活的本质就是创造和体验乐趣，尝试用各种意义装点人生。如果有一天，我再也无法忍受这个世界带给我的痛苦，我就会毫不犹豫地选择自杀。\n我讨厌活着，只能不断尝试各种方法来抵消厌世感的侵袭；但那些东西对我而言终究都是短暂的。\n而我唯一能想到的，即使生活常常苦涩无趣，也足以让我愿意继续留在这个世界上的理由，就是遇到一个足够爱我、而我也足够爱TA的人；那么我会愿意为了TA而试着期待走向寿终正寝。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尽管每次这样说，朋友都会感慨我的主体性太弱，但这确实是我对人生的理解：\n世界没有意义，人生也没有意义，生活的本质就是创造和体验乐趣，尝试用各种意义装点人生。如果有一天，我再也无法忍受这个世界带给我的痛苦，我就会毫不犹豫地选择自杀。 https://t.co/fkqqy7KG4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1856,
+          "like_count": 30184,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-26T16:58:52.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1541103667486437376",
+        "location": "迷路了…",
+        "name": "Lior",
+        "pinned_tweet_id": "2070529464149356940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078084780789542912/ev833wLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 170,
+          "like_count": 3808,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "Zonneeeeee",
+        "verified": true
+      }
+    ]
+  }
+}

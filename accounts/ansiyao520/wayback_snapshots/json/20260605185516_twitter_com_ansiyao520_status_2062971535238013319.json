@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062971532406923264"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2062903458798452994",
+    "created_at": "2026-06-05T18:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062971535238013319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64AWPQaasz",
+          "end": 133,
+          "expanded_url": "https://x.com/ansiyao520/status/2062971535238013319/photo/1",
+          "media_key": "3_2062971532406923264",
+          "start": 110,
+          "url": "https://t.co/64AWPQaasz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062971535238013319",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "资本主义没有提供普世免费的情绪再生产服务。所以人们花钱购买这些。或者苛求家校实现这些。事实上只有中产家庭才有足够的剩余给孩子做好情感工作让他们有足够的精神能力继承和积累家庭的物质和文化优势。\n中产家庭的优势不仅在于物质继承，更在于父母有能力进行情感投资，给孩子以耐心的情绪对话、挫折后的心理托底、对学校教育的补位与质疑。这种投资塑造的孩子，会具备更强的自我调节、人际理解和机会捕捉能力。而底层家庭的孩子很早就被（压）迫变得痛苦和麻木，他们消耗巨大心理能量应对生存，很难有余裕发展那种从容的文化资本。\n资本主义把最重要的情感再生产过程，当成了一种无需社会成本的自然馈赠，或者价格高昂的心理咨询服务。而实际上，它在通过谁能获得、谁又被迫必须支付高昂代价才能买到情感的安稳，来制造一种隐性的阶层筛选。\n所以我特别不建议小朋友们寄希望于医疗体系，而要把希望寄于发展自己的心智。特别不建议把希望寄于心理医生或者精神科医生。而要把希望寄于自己。\n好好读书，好好吃饭。发展自己。我们中流击水，浪遏飞舟。\n你们别老是个不了解家庭实际情况就跟父母自爆。跟别人自爆。你自爆自己是个trans有什么用。我初中时也特别想吃药，但是老子没钱啊。我就硬忍着自己的冲动直到完成对自己的心理教育。坚强点亲爱的们。历史是无情的大浪淘沙。你们别被刷下去了吧。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062965156163002520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 资本主义没有提供普世免费的情绪再生产服务。所以人们花钱购买这些。或者苛求家校实现这些。事实上只有中产家庭才有足够的剩余给孩子做好情感工作让他们有足够的精神能力继承和积累家庭的物质和文化优势。 https://t.co/64AWPQaasz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062971535238013319].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062971535238013319",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062971535238013319"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062971532406923264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKElrbrboAAc8OC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2062903458798452994",
+        "created_at": "2026-06-05T18:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062965156163002520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758135091312926720",
+              "start": 0,
+              "username": "xunng186257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062965156163002520",
+        "in_reply_to_user_id": "1758135091312926720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903458798452994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunng186257 情绪应该是从身体里自然生长的，这无异于用价格的标尺生生从身体里挖走一块肉，想想就痛苦🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 1473,
+          "like_count": 20180,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1105
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲和木柜子动画塑造的。最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔 欢迎让我荐书哦。新对政治思想史 英美道德学 德国法学感兴趣。凝聚态物理研究生。想做一个功利主义的幸福者。一元论爱欲观。我来推特就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2062599294486729145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 146,
+          "like_count": 11914,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

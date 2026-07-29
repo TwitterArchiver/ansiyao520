@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2064955768944689256",
+    "created_at": "2026-06-11T10:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065018582774460507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942905765976748032",
+          "start": 0,
+          "username": "zishu2696544661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065018582774460507",
+    "in_reply_to_user_id": "1942905765976748032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064955768944689256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zishu2696544661 遵医嘱。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064955737734791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgyTYiWQAAVsnv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2064955768944689256",
+        "created_at": "2026-06-11T10:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065018582774460507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942905765976748032",
+              "start": 0,
+              "username": "zishu2696544661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065018582774460507",
+        "in_reply_to_user_id": "1942905765976748032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064955768944689256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zishu2696544661 遵医嘱。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064955737734791168"
+          ]
+        },
+        "author_id": "1942905765976748032",
+        "conversation_id": "2064955768944689256",
+        "created_at": "2026-06-11T06:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064955768944689256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASR9S0eyrQ",
+              "end": 35,
+              "expanded_url": "https://x.com/zishu2696544661/status/2064955768944689256/photo/1",
+              "media_key": "3_2064955737734791168",
+              "start": 12,
+              "url": "https://t.co/ASR9S0eyrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064955768944689256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃有什么要注意的 https://t.co/ASR9S0eyrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1546,
+          "like_count": 22310,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1300
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T11:17:00.000Z",
+        "description": "19岁/无证含糖/有对象咯/会od自残/有抑郁症/躁狂症/天天想着怎么死/受虐狂/喜欢有人找我玩",
+        "id": "1942905765976748032",
+        "name": "崽崽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1959450145067802944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053851745839722496/cmRIn3wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 265,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 106
+        },
+        "username": "zishu2696544661",
+        "verified": false
+      }
+    ]
+  }
+}

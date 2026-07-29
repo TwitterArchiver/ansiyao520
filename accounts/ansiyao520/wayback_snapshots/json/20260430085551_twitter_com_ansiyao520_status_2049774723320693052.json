@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049774721059987456"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049774723320693052",
+    "created_at": "2026-04-30T08:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049774723320693052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/drjHzj87uL",
+          "end": 36,
+          "expanded_url": "https://x.com/ansiyao520/status/2049774723320693052/photo/1",
+          "media_key": "3_2049774721059987456",
+          "start": 13,
+          "url": "https://t.co/drjHzj87uL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049774723320693052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎来到实在界的大荒漠。 https://t.co/drjHzj87uL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049774723320693052].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049774723320693052",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049774723320693052"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2049774721059987456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJDP6ZbIAAFTiI.jpg",
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1335,
+          "like_count": 14723,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 706
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

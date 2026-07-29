@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2062843776847208946",
+    "created_at": "2026-06-05T17:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062946741385875665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943197408386813953",
+          "start": 0,
+          "username": "QingMeimm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062946741385875665",
+    "in_reply_to_user_id": "1943197408386813953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062843776847208946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingMeimm 神了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2062843774297092097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCxe7oasAEyRfp.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2062843776847208946",
+        "created_at": "2026-06-05T17:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062946741385875665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943197408386813953",
+              "start": 0,
+              "username": "QingMeimm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062946741385875665",
+        "in_reply_to_user_id": "1943197408386813953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062843776847208946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingMeimm 神了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062843774297092097"
+          ]
+        },
+        "author_id": "1943197408386813953",
+        "conversation_id": "2062843776847208946",
+        "created_at": "2026-06-05T10:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062843776847208946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcwN0WDAmB",
+              "end": 152,
+              "expanded_url": "https://x.com/QingMeimm/status/2062843776847208946/photo/1",
+              "media_key": "3_2062843774297092097",
+              "start": 129,
+              "url": "https://t.co/vcwN0WDAmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062843776847208946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2396,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "药娘生活小妙招:如果大家电脑上有一些顽固污渍，可以用酒精擦拭，如果说手边没有酒精的话，可以用自己的雌二醇凝胶应急，大部分买的自制凝胶的溶剂都是酒精，但是不推荐经常这么做，不仅价格比较昂贵，还会导致电脑短时间内摄入大量雌二醇，可能会让电脑患上抑郁症自己割自己 https://t.co/vcwN0WDAmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1468,
+          "like_count": 20074,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 1077
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-10T06:36:11.000Z",
+        "description": "06年的小药药🍥🏳️‍⚧️  ▏HRT25. 11.3   ▏不键政不od不割手不瑟瑟   ▏可能是双向   ▏情绪不算太稳定会有负能   ▏同类欢迎来互fo   ▏音游这块只会4k    ▏喵～～总之就是最爱的露露喵～～@Yayoi_Ciallo  ▏逃生舱@qingmei620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "Yayoi_Ciallo"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "qingmei620"
+              }
+            ]
+          }
+        },
+        "id": "1943197408386813953",
+        "location": "被窝",
+        "name": "青梅🍥",
+        "pinned_tweet_id": "2041406212978479466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009554100581724160/85mR_s1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 380,
+          "like_count": 3083,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 545
+        },
+        "username": "QingMeimm",
+        "verified": false
+      }
+    ]
+  }
+}

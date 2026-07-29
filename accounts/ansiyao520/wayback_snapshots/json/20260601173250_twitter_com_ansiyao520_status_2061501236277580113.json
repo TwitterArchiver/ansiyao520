@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2061501236277580113",
+    "created_at": "2026-06-01T17:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061501236277580113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061501236277580113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《不要too young，不要too simple。》\n不要宣传跨女权利。不要参与敏感讨论。不要向家里坦白非传统价值观。不要和年级主任作对。\n\n要努力发展自己。要考上大学。要坚持希望。要顺应时代潮流。\n\n建议多读点书。建议不要沉沦于庸俗的生活（存在主义讲常人生活）。\n\n我写的实在太少。诸位还有什么要补充的。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《不要too young，不要too simple。》\n不要宣传跨女权利。不要参与敏感讨论。不要向家里坦白非传统价值观。不要和年级主任作对。\n\n要努力发展自己。要考上大学。要坚持希望。要顺应时代潮流。\n\n建议多读点书。建议不要沉沦于庸俗的生活（存在主义讲常人生活）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2061501236277580113",
+        "created_at": "2026-06-01T17:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061501236277580113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061501236277580113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《不要too young，不要too simple。》\n不要宣传跨女权利。不要参与敏感讨论。不要向家里坦白非传统价值观。不要和年级主任作对。\n\n要努力发展自己。要考上大学。要坚持希望。要顺应时代潮流。\n\n建议多读点书。建议不要沉沦于庸俗的生活（存在主义讲常人生活）。\n\n我写的实在太少。诸位还有什么要补充的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《不要too young，不要too simple。》\n不要宣传跨女权利。不要参与敏感讨论。不要向家里坦白非传统价值观。不要和年级主任作对。\n\n要努力发展自己。要考上大学。要坚持希望。要顺应时代潮流。\n\n建议多读点书。建议不要沉沦于庸俗的生活（存在主义讲常人生活）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1448,
+          "like_count": 19202,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1014
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

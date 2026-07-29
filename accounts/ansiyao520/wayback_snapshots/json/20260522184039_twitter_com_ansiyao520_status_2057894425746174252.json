@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2057830790894063861",
+    "created_at": "2026-05-22T18:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057894425746174252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963286420145020928",
+          "start": 0,
+          "username": "yoasohanasys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057894425746174252",
+    "in_reply_to_user_id": "1963286420145020928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057830790894063861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoasohanasys 呃。一个巧合而已。说换就换了。不必追悼一个不会再回来的时代。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057830787958075392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7iMuQacAAZJiW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2057830790894063861",
+        "created_at": "2026-05-22T18:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057894425746174252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963286420145020928",
+              "start": 0,
+              "username": "yoasohanasys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057894425746174252",
+        "in_reply_to_user_id": "1963286420145020928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057830790894063861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoasohanasys 呃。一个巧合而已。说换就换了。不必追悼一个不会再回来的时代。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057830787958075392"
+          ]
+        },
+        "author_id": "1963286420145020928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057830790894063861",
+        "created_at": "2026-05-22T14:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057830790894063861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cnQaE9q2A",
+              "end": 85,
+              "expanded_url": "https://x.com/yoasohanasys/status/2057830790894063861/photo/1",
+              "media_key": "3_2057830787958075392",
+              "start": 62,
+              "url": "https://t.co/0cnQaE9q2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057830790894063861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次来这家超市，都感觉回到了千禧年，经济上行时期，现代性的浪潮澎湃，物质需求充盈的那个振奋人心的时代…只存在于回忆中了吧。 https://t.co/0cnQaE9q2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 1396,
+          "like_count": 17821,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 888
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T17:02:41.000Z",
+        "description": "夜は花の色、僕は知っていた                                        \n无证含糖 🏳️‍⚧️｜HRT2024.11｜DID｜重度社交障碍｜夜遊花Channel｜抑郁症｜保护性约束｜致幻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "RLE.wiki",
+                "end": 23,
+                "expanded_url": "http://RLE.wiki",
+                "start": 0,
+                "url": "https://t.co/YAVb7nvzys"
+              }
+            ]
+          }
+        },
+        "id": "1963286420145020928",
+        "location": "1km内",
+        "name": "雨夜复眼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019561746521055232/fh5b1Loc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 171,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/YAVb7nvzys",
+        "username": "yoasohanasys",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065683613195399439",
+    "created_at": "2026-06-13T10:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065744615836377421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449853213974528",
+          "start": 0,
+          "username": "xiaojiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065744615836377421",
+    "in_reply_to_user_id": "2041449853213974528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065683613195399439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojiangnie 宝宝……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065683597466673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrISZVaIAAT032.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065683613195399439",
+        "created_at": "2026-06-13T10:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065744615836377421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449853213974528",
+              "start": 0,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065744615836377421",
+        "in_reply_to_user_id": "2041449853213974528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065683613195399439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiangnie 宝宝……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065683597466673152"
+          ]
+        },
+        "author_id": "2041449853213974528",
+        "conversation_id": "2065683613195399439",
+        "created_at": "2026-06-13T06:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065683613195399439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UMFdGean8",
+              "end": 78,
+              "expanded_url": "https://x.com/xiaojiangnie/status/2065683613195399439/photo/1",
+              "media_key": "3_2065683597466673152",
+              "start": 55,
+              "url": "https://t.co/2UMFdGean8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065683613195399439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1528,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我™跟个傻子似的，喝了一壶电蚊香液，被™救护车拉去洗胃，我真可笑，洗胃的护士都™认识我了，哈哈哈哈哈哈 https://t.co/2UMFdGean8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 1570,
+          "like_count": 23077,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1355
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵 hrt🍥2026.3.28 已炸柜（第三天炸柜极速版）出厂日期2009.12.17 偏天赋一点天生雌高喵～ 蓄发中喵，闲的没事就爱吃点小糖呀喵🍥咱是心理委员喵，有不开心的阔以找咱呀喵～",
+        "id": "2041449853213974528",
+        "location": "青岛市",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 285,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 117
+        },
+        "username": "xiaojiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

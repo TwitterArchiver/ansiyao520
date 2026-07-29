@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072223273627361280",
+        "3_2072223273627357184"
+      ],
+      "media_source_tweet_id": [
+        "2072223282242462184",
+        "2072223282242462184"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2073979606491963580",
+    "created_at": "2026-07-06T03:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073979606491963580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sUjL9cSVcG",
+          "end": 50,
+          "expanded_url": "https://x.com/DrilL019/status/2072223282242462184/photo/1",
+          "media_key": "3_2072223273627361280",
+          "start": 27,
+          "url": "https://t.co/sUjL9cSVcG"
+        },
+        {
+          "display_url": "pic.x.com/sUjL9cSVcG",
+          "end": 50,
+          "expanded_url": "https://x.com/DrilL019/status/2072223282242462184/photo/1",
+          "media_key": "3_2072223273627357184",
+          "start": 27,
+          "url": "https://t.co/sUjL9cSVcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073979606491963580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072223282242462184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @DrilL019: ...像神一样呐\n（😭） https://t.co/sUjL9cSVcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072223273627361280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIEFpfbIAAnNif.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072223273627357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIEFpfbEAAanxI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072223273627361280",
+            "3_2072223273627357184"
+          ],
+          "media_source_tweet_id": [
+            "2072223282242462184",
+            "2072223282242462184"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2073979606491963580",
+        "created_at": "2026-07-06T03:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073979606491963580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUjL9cSVcG",
+              "end": 50,
+              "expanded_url": "https://x.com/DrilL019/status/2072223282242462184/photo/1",
+              "media_key": "3_2072223273627361280",
+              "start": 27,
+              "url": "https://t.co/sUjL9cSVcG"
+            },
+            {
+              "display_url": "pic.x.com/sUjL9cSVcG",
+              "end": 50,
+              "expanded_url": "https://x.com/DrilL019/status/2072223282242462184/photo/1",
+              "media_key": "3_2072223273627357184",
+              "start": 27,
+              "url": "https://t.co/sUjL9cSVcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073979606491963580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072223282242462184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @DrilL019: ...像神一样呐\n（😭） https://t.co/sUjL9cSVcG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072223273627361280",
+            "3_2072223273627357184"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2072223282242462184",
+        "created_at": "2026-07-01T07:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072223282242462184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUjL9cSVcG",
+              "end": 36,
+              "expanded_url": "https://x.com/DrilL019/status/2072223282242462184/photo/1",
+              "media_key": "3_2072223273627361280",
+              "start": 13,
+              "url": "https://t.co/sUjL9cSVcG"
+            },
+            {
+              "display_url": "pic.x.com/sUjL9cSVcG",
+              "end": 36,
+              "expanded_url": "https://x.com/DrilL019/status/2072223282242462184/photo/1",
+              "media_key": "3_2072223273627357184",
+              "start": 13,
+              "url": "https://t.co/sUjL9cSVcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072223282242462184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "...像神一样呐\n（😭） https://t.co/sUjL9cSVcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 1802,
+          "like_count": 28855,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1268,
+          "like_count": 19923,
+          "listed_count": 1,
+          "media_count": 930,
+          "tweet_count": 6396
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

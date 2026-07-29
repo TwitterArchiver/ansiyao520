@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055262445195943936"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2055262581754118462",
+    "created_at": "2026-05-15T12:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055262581754118462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXXFdIEPwY",
+          "end": 106,
+          "expanded_url": "https://x.com/ansiyao520/status/2055262581754118462/video/1",
+          "media_key": "7_2055262445195943936",
+          "start": 83,
+          "url": "https://t.co/AXXFdIEPwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055262581754118462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我的成长往往在关系终结时，不得不改正一些无法回避的错误。这导致一生里我清醒的时刻只在一切关系的终末之时。当关系处于前中期，我往往沉浸在与人交往的幻梦中把一切都遗忘。\n于是，当我能够清醒地回头望去时，往往只有终末的孤独。这让我很痛苦。我还能找到？遇到？撞到？求到？见到？听到？你的消息吗，老婆你在哪里呢？当我学会如何和你恋爱时，往往你已经离去。\n\nWill you hold my hand，\n你是否会牵住我的手，\nwill you understand?\n你能否理解我的爱意，\nCan we still pretend，\n我们能不能继续爱着彼此，\nwhen the summer ends?\n在这夏日已临近消逝之时，\nNothing needs to hurt，\n不必伤害你我的感情，\nI'll wait, I have learned，\n我将会等待 我已经学会了，\nHow to love you when the summer ends，\n如何去爱你 在这七月流火的时光中，\nWill you love me when the summer ends?\n你会与我相爱吗 在这夏日已临近消逝之时。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的成长往往在关系终结时，不得不改正一些无法回避的错误。这导致一生里我清醒的时刻只在一切关系的终末之时。当关系处于前中期，我往往沉浸在与人交往的幻梦中把一切都遗忘。 https://t.co/AXXFdIEPwY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055262581754118462].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055262581754118462",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055262581754118462"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 212254,
+        "height": 1088,
+        "media_key": "7_2055262445195943936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055262445195943936/pu/img/DMIyI0urOwMI3ajn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055262445195943936/pu/vid/avc1/320x604/0lol9fX5WSEoaN5h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055262445195943936/pu/vid/avc1/480x906/N-AOxCRsnlYD0K4b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055262445195943936/pu/vid/avc1/576x1088/2Ml3Ze0oyjukEa0k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055262445195943936/pu/pl/TxYkUVSsVwzeWAUv.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 1359,
+          "like_count": 16511,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 814
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046219391155777536"
+      ],
+      "media_source_tweet_id": [
+        "2046222314992460260"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2046245452862116251",
+    "created_at": "2026-04-20T15:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046245452862116251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719316213443207168",
+          "start": 3,
+          "username": "kakkynoima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7hWzRazDe",
+          "end": 61,
+          "expanded_url": "https://x.com/kakkynoima/status/2046222314992460260/photo/1",
+          "media_key": "3_2046219391155777536",
+          "start": 38,
+          "url": "https://t.co/S7hWzRazDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046245452862116251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046222314992460260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakkynoima: 闇病み古明地姉妹イラスト本表紙！！！！！！ https://t.co/S7hWzRazDe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4092,
+        "media_key": "3_2046219391155777536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWhseZbMAAgCfz.jpg",
+        "width": 2893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046219391155777536"
+          ],
+          "media_source_tweet_id": [
+            "2046222314992460260"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2046245452862116251",
+        "created_at": "2026-04-20T15:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046245452862116251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719316213443207168",
+              "start": 3,
+              "username": "kakkynoima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7hWzRazDe",
+              "end": 61,
+              "expanded_url": "https://x.com/kakkynoima/status/2046222314992460260/photo/1",
+              "media_key": "3_2046219391155777536",
+              "start": 38,
+              "url": "https://t.co/S7hWzRazDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046245452862116251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046222314992460260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakkynoima: 闇病み古明地姉妹イラスト本表紙！！！！！！ https://t.co/S7hWzRazDe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046219391155777536"
+          ]
+        },
+        "author_id": "1719316213443207168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2046222314992460260",
+        "created_at": "2026-04-20T13:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046222314992460260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7hWzRazDe",
+              "end": 45,
+              "expanded_url": "https://x.com/kakkynoima/status/2046222314992460260/photo/1",
+              "media_key": "3_2046219391155777536",
+              "start": 22,
+              "url": "https://t.co/S7hWzRazDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046222314992460260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 504,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "闇病み古明地姉妹イラスト本表紙！！！！！！ https://t.co/S7hWzRazDe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1242,
+          "like_count": 11257,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 474
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-31T11:32:08.000Z",
+        "description": "絵を描く！ フォローありがとうございます！",
+        "id": "1719316213443207168",
+        "location": "SAIで描く！",
+        "name": "カッキィ@春例【な09a】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893662334243278848/RbXjRQV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 199,
+          "like_count": 18864,
+          "listed_count": 23,
+          "media_count": 284,
+          "tweet_count": 1889
+        },
+        "username": "kakkynoima",
+        "verified": false
+      }
+    ]
+  }
+}

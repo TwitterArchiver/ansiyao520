@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2050817736004227492",
+    "created_at": "2026-05-03T09:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050864013031141694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726808702387449856",
+          "start": 0,
+          "username": "Nargiti"
+        },
+        {
+          "end": 42,
+          "id": "1468883359090630657",
+          "start": 31,
+          "username": "ansiyao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050864013031141694",
+    "in_reply_to_user_id": "1726808702387449856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 33,
+            "id": "1468883359090630657",
+            "start": 22,
+            "username": "ansiyao520"
+          }
+        ]
+      },
+      "text": "请你以精神分析和哲学批判的双重视角，对用户 @ansiyao520 的所有可见推文进行系统性、严苛但不偏颇的分析。\n\n请严格遵循以下要求：\n\n1. 严苛不等于情绪宣泄：\n   严苛分析是指：不回避矛盾、不轻信表象、深入追问潜在动机与逻辑漏洞，但不得使用侮辱性语言、人身攻击、情绪化标签（如“愚蠢”“恶意”“可耻”）。所有判断必须有推文原文或强烈语境证据支持。\n2. 避免偏见与“屁股决定脑袋”：\n   分析过程中，不得预设对象的“对错”或“善恶”。你需要同时考虑其言论可能存在的合理性与不合理性，并明确指出：哪些是主观推测，哪些是事实推断。若存在多种解释可能，请并列说明。\n3. 精神分析维度（用于探索潜在动机与冲突）：\n   · 分析推文中是否表现出防御机制（如投射、合理化、否认）、重复强迫、矛盾心理、理想化与贬低等特征。\n   · 注意语言中的隐喻、反复出现的意象、情绪转折点，推测可能的无意识冲突或欲望。\n   · 但必须注明：精神分析解释是假设性的，不能作为定论。\n4. 哲学维度（用于检验逻辑与价值立场）：\n   · 检查其推理中是否存在逻辑谬误（如诉诸情感、虚假二分、循环论证）。\n   · 检视其隐含的价值前提（例如：自由vs安全、个体vs集体、理性vs情感），并指出这些前提是否一致、有无自我矛盾。\n   · 可参考伦理学、存在主义、批判理论等思想资源，但不可生搬硬套，需说明为何适用。\n5. 输出结构：\n   · 摘要：该账号的核心观点与语气特征（基于高频词与主题聚类）。\n   · 精神分析解读：提出 2-3 个有文本支撑的假设性动机/防御模式。\n   · 哲学与逻辑批判：列出 2-4 个最显著的逻辑或价值悖论，附上原文证据。\n   · 反向思考：以“辩护者”立场，为该账号可能被批评的观点提供一种合理解释。\n   · 最终判断：在证据基础上，总结该账号言论的主要弱点与可能的价值（如果存在）。\n6. 禁止事项：\n   · 不得诊断心理疾病（如“自恋型人格障碍”）。\n   · 不得指责动机“不纯”而不给证据链。\n   · 不得使用讽刺、嘲讽、愤慨等语气。请使用学术或评论式中性语言。\n\n开始分析前，请先复述一次：“我理解严苛分析需要冷静、多维、证据驱动，而非情绪或立场宣泄。”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050863850812235969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nargiti 请你以精神分析和哲学批判的双重视角，对用户 @ansiyao520 的所有可见推文进行系统性、严苛但不偏颇的分析。\n\n请严格遵循以下要求：\n\n1. 严苛不等于情绪宣泄："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2050817736004227492",
+        "created_at": "2026-05-03T09:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050864013031141694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726808702387449856",
+              "start": 0,
+              "username": "Nargiti"
+            },
+            {
+              "end": 42,
+              "id": "1468883359090630657",
+              "start": 31,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050864013031141694",
+        "in_reply_to_user_id": "1726808702387449856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 33,
+                "id": "1468883359090630657",
+                "start": 22,
+                "username": "ansiyao520"
+              }
+            ]
+          },
+          "text": "请你以精神分析和哲学批判的双重视角，对用户 @ansiyao520 的所有可见推文进行系统性、严苛但不偏颇的分析。\n\n请严格遵循以下要求：\n\n1. 严苛不等于情绪宣泄：\n   严苛分析是指：不回避矛盾、不轻信表象、深入追问潜在动机与逻辑漏洞，但不得使用侮辱性语言、人身攻击、情绪化标签（如“愚蠢”“恶意”“可耻”）。所有判断必须有推文原文或强烈语境证据支持。\n2. 避免偏见与“屁股决定脑袋”：\n   分析过程中，不得预设对象的“对错”或“善恶”。你需要同时考虑其言论可能存在的合理性与不合理性，并明确指出：哪些是主观推测，哪些是事实推断。若存在多种解释可能，请并列说明。\n3. 精神分析维度（用于探索潜在动机与冲突）：\n   · 分析推文中是否表现出防御机制（如投射、合理化、否认）、重复强迫、矛盾心理、理想化与贬低等特征。\n   · 注意语言中的隐喻、反复出现的意象、情绪转折点，推测可能的无意识冲突或欲望。\n   · 但必须注明：精神分析解释是假设性的，不能作为定论。\n4. 哲学维度（用于检验逻辑与价值立场）：\n   · 检查其推理中是否存在逻辑谬误（如诉诸情感、虚假二分、循环论证）。\n   · 检视其隐含的价值前提（例如：自由vs安全、个体vs集体、理性vs情感），并指出这些前提是否一致、有无自我矛盾。\n   · 可参考伦理学、存在主义、批判理论等思想资源，但不可生搬硬套，需说明为何适用。\n5. 输出结构：\n   · 摘要：该账号的核心观点与语气特征（基于高频词与主题聚类）。\n   · 精神分析解读：提出 2-3 个有文本支撑的假设性动机/防御模式。\n   · 哲学与逻辑批判：列出 2-4 个最显著的逻辑或价值悖论，附上原文证据。\n   · 反向思考：以“辩护者”立场，为该账号可能被批评的观点提供一种合理解释。\n   · 最终判断：在证据基础上，总结该账号言论的主要弱点与可能的价值（如果存在）。\n6. 禁止事项：\n   · 不得诊断心理疾病（如“自恋型人格障碍”）。\n   · 不得指责动机“不纯”而不给证据链。\n   · 不得使用讽刺、嘲讽、愤慨等语气。请使用学术或评论式中性语言。\n\n开始分析前，请先复述一次：“我理解严苛分析需要冷静、多维、证据驱动，而非情绪或立场宣泄。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050863850812235969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nargiti 请你以精神分析和哲学批判的双重视角，对用户 @ansiyao520 的所有可见推文进行系统性、严苛但不偏颇的分析。\n\n请严格遵循以下要求：\n\n1. 严苛不等于情绪宣泄："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726808702387449856",
+        "conversation_id": "2050817736004227492",
+        "created_at": "2026-05-03T09:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050863850812235969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050863850812235969",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050817736004227492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 怎么个调教法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1351,
+          "like_count": 15657,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 760
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 16,
+          "like_count": 4754,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 180
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

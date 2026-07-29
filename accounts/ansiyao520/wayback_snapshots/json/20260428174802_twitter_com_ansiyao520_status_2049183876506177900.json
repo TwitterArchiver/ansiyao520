@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049183603817598976"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049183876506177900",
+    "created_at": "2026-04-28T17:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049183876506177900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gM8UR1w3qf",
+          "end": 221,
+          "expanded_url": "https://x.com/ansiyao520/status/2049183876506177900/video/1",
+          "media_key": "7_2049183603817598976",
+          "start": 198,
+          "url": "https://t.co/gM8UR1w3qf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049183876506177900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "恋恋。我的恋恋。你在哪里呢？我一直在找你🤤。\n\nAmong the blinding lights，\n于耀眼的光芒中，\nI saw you from the crowd，\n我从人群中看见了你，\nyour smile caught my eye，\n我的目光被你的笑容吸引，\nand you are all I see now，\n而我现在只想看到你，\nyou're not anybody new，\n你并不是某个刚刚认识的人，\nbut I have been thinking of you，\n但我一直有在想你，\ncome along with me now，\n现在，跟我来吧，\ntake my hand and spin me around，\n握住我的手，与我一同旋转起舞，\nAmong the blurring lights，\n于模糊的光芒中，\nI feel you hold me close，\n我感觉到你将我抱紧，\nI hope that it's alright，\n我希望这会没事，\noh when I want you to know，\n我想让你知道，\nyou're not anybody new，\n你并不是什么刚刚认识的人，\nand I have been thinking of you，\n而且我一直都有在想你，\ncome along with me，\n跟我过来吧，\nshow me you want me now，\n让我知道你现在就想得到我吧，\nI can't hold it anymore~，\n我已经难以把持住自己了，\nI can't take a second more~，\n一秒也嫌太多了，\nI have been waiting for you baby，\n我一直都在等你啊亲爱的，\ncome on now，\n现在跟我来吧，\nlet's get down into the dancefloor，\n我们一同沉入舞池当中吧。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恋恋。我的恋恋。你在哪里呢？我一直在找你🤤。\n\nAmong the blinding lights，\n于耀眼的光芒中，\nI saw you from the crowd，\n我从人群中看见了你，\nyour smile caught my eye，\n我的目光被你的笑容吸引，\nand you are all I see now，\n而我现在只想看到你，\nyou're not anybody new， https://t.co/gM8UR1w3qf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049183876506177900].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049183876506177900",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049183876506177900"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 253604,
+        "height": 1088,
+        "media_key": "7_2049183603817598976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049183603817598976/pu/img/74SqCjd13PnPHHt3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049183603817598976/pu/vid/avc1/320x604/CvievqQ7Mi4S5Bg_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049183603817598976/pu/vid/avc1/480x906/1nToVofj1f5mUVTG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049183603817598976/pu/vid/avc1/576x1088/1cOjh9G-nyaaOYHw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049183603817598976/pu/pl/V4DA1uy6Zm9DCt2K.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1307,
+          "like_count": 13769,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 596
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

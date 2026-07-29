@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2079204458626736274",
+    "created_at": "2026-07-21T02:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079389184268304782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859514443362861056",
+          "start": 0,
+          "username": "nami16386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079389184268304782",
+    "in_reply_to_user_id": "1859514443362861056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079210522545897819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nami16386 unk他们不是都在医院吗。也许进医院也没那么糟糕。好吧。其实我也不知道。但是离家出走会让你的生存和发展受到很大的经济压力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2079204458626736274",
+        "created_at": "2026-07-21T02:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079389184268304782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859514443362861056",
+              "start": 0,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079389184268304782",
+        "in_reply_to_user_id": "1859514443362861056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079210522545897819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nami16386 unk他们不是都在医院吗。也许进医院也没那么糟糕。好吧。其实我也不知道。但是离家出走会让你的生存和发展受到很大的经济压力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859514443362861056",
+        "conversation_id": "2079204458626736274",
+        "created_at": "2026-07-20T14:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079210522545897819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079210522545897819",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079204688797536257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 但是我真要离家出走了，不然要被送进医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1853,
+          "like_count": 30042,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1898
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁🍥 | MTF \n身高168cm / 50kg  已炸柜  不割手不od  重度焦虑 有时候笨笨的 \nHRT 2026.5.3\n梦想吃好吃的+玩电脑  喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nami16386",
+                "end": 23,
+                "expanded_url": "http://t.me/nami16386",
+                "start": 0,
+                "url": "https://t.co/QNHz2KyDXD"
+              }
+            ]
+          }
+        },
+        "id": "1859514443362861056",
+        "location": "湖北省黄冈市",
+        "name": "nami🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 547,
+          "like_count": 3415,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/QNHz2KyDXD",
+        "username": "nami16386",
+        "verified": false
+      }
+    ]
+  }
+}

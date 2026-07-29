@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2059881712214327558",
+    "created_at": "2026-05-28T16:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060037533728440422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "chnghob658339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060037533728440422",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059881712214327558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghob658339 可惜你不是药娘，我只能说这是个有趣的鹌鹑蛋。不然我可以问这是不是你的高丸。（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7473,
+        "height": 1280,
+        "media_key": "13_2059881622187782144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059881622187782144/img/TOjiCLVZUIT2ehJq.jpg",
+        "public_metrics": {
+          "view_count": 51
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059881622187782144/vid/avc1/320x568/XJML1sxfkofAWce4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059881622187782144/vid/avc1/480x852/fGmSwbwaGL617cOW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059881622187782144/vid/avc1/720x1280/jItNj3YmkaxRcn3G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059881622187782144/pl/jF56YGmIAwNAs6Ae.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2059881712214327558",
+        "created_at": "2026-05-28T16:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060037533728440422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "chnghob658339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037533728440422",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059881712214327558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghob658339 可惜你不是药娘，我只能说这是个有趣的鹌鹑蛋。不然我可以问这是不是你的高丸。（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059881622187782144"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "conversation_id": "2059881712214327558",
+        "created_at": "2026-05-28T06:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059881712214327558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3r6fKIyDi",
+              "end": 42,
+              "expanded_url": "https://x.com/chnghob658339/status/2059881712214327558/video/1",
+              "media_key": "13_2059881622187782144",
+              "start": 19,
+              "url": "https://t.co/D3r6fKIyDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059881712214327558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来漂得特别丝滑来着。。。懂我意思吗 https://t.co/D3r6fKIyDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1428,
+          "like_count": 18639,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 954
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画 中国古典文学和西方近现代哲学 最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。新对政治思想史 英美道德学 德国法学感兴趣。物理学研究生 想学代数拓扑。想做一个功利主义的幸福者。",
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 88,
+          "like_count": 5831,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 950
+        },
+        "username": "chnghob658339",
+        "verified": false
+      }
+    ]
+  }
+}

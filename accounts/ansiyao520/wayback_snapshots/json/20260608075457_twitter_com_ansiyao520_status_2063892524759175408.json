@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063892524759175408",
+    "created_at": "2026-06-08T07:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063892524759175408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "b23.tv/ktn6PML",
+          "end": 56,
+          "expanded_url": "https://b23.tv/ktn6PML",
+          "start": 33,
+          "unwound_url": "https://www.bilibili.com/video/BV1XvVp69Eam/?buvid=XXE5C3BE9998F067A5237ACD537C443D9FD96&from_spmid=main.my-history.0.0&is_story_h5=false&mid=mUi%2BWMLURdBL6aEx7mE2cw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5558c757-4388-4e7e-b099-71267984b659&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1780905291&unique_k=ktn6PML&up_id=3546781006694901",
+          "url": "https://t.co/DV0umEKnoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063892524759175408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前半段大体说的还不错。\n【解析沙哥之怒背后的教育缺失-哔哩哔哩】 https://t.co/DV0umEKnoy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063892524759175408",
+        "created_at": "2026-06-08T07:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063892524759175408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b23.tv/ktn6PML",
+              "end": 56,
+              "expanded_url": "https://b23.tv/ktn6PML",
+              "start": 33,
+              "unwound_url": "https://www.bilibili.com/video/BV1XvVp69Eam/?buvid=XXE5C3BE9998F067A5237ACD537C443D9FD96&from_spmid=main.my-history.0.0&is_story_h5=false&mid=mUi%2BWMLURdBL6aEx7mE2cw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5558c757-4388-4e7e-b099-71267984b659&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1780905291&unique_k=ktn6PML&up_id=3546781006694901",
+              "url": "https://t.co/DV0umEKnoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063892524759175408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前半段大体说的还不错。\n【解析沙哥之怒背后的教育缺失-哔哩哔哩】 https://t.co/DV0umEKnoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1504,
+          "like_count": 20958,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1204
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

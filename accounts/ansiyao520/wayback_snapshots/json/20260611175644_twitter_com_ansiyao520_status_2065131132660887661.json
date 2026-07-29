@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2064918702391218520",
+    "created_at": "2026-06-11T17:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065131132660887661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1779201342537396224",
+          "start": 0,
+          "username": "xianqve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065131132660887661",
+    "in_reply_to_user_id": "1779201342537396224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065128110509690992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianqve “当代”？父权制存在的那一天这个怨气就是存在的。我上面已经做过“深入”的理论指导。你喜欢“保持距离”，随你。\n只看到她们发泄、我躲，永远停留在现象表面，就只会强化性别对立的幻觉，也把女性群体扁平化看待了。你开心就好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2064918702391218520",
+        "created_at": "2026-06-11T17:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065131132660887661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1779201342537396224",
+              "start": 0,
+              "username": "xianqve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065131132660887661",
+        "in_reply_to_user_id": "1779201342537396224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065128110509690992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianqve “当代”？父权制存在的那一天这个怨气就是存在的。我上面已经做过“深入”的理论指导。你喜欢“保持距离”，随你。\n只看到她们发泄、我躲，永远停留在现象表面，就只会强化性别对立的幻觉，也把女性群体扁平化看待了。你开心就好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779201342537396224",
+        "conversation_id": "2064918702391218520",
+        "created_at": "2026-06-11T17:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065128110509690992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065128110509690992",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065124921177772464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 我的观点是，当代国内女性不管是因为自身经历还是收到舆论影响，多少对男性带有或多或少的怨气。而她们之中大部分人并不会在意你是跨还是什么，她们只会认为你是男的从而把怨气朝你身上发泄。这个问题的根源是什么我暂且不做讨论，在这里只是陈述我观察到的现象。在这种情况下我觉得还是保持距离比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 1550,
+          "like_count": 22473,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1318
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T17:33:59.000Z",
+        "description": "mtx/猫猫 色胚主人@Qingzi10086",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Qingzi10086"
+              }
+            ]
+          }
+        },
+        "id": "1779201342537396224",
+        "location": "青岛",
+        "name": "却…却宝？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779201599446863872/WjBeIPvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 140,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 154
+        },
+        "username": "xianqve",
+        "verified": false
+      }
+    ]
+  }
+}

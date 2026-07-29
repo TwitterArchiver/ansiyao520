@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046180083329888473",
+    "created_at": "2026-04-20T10:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046180083329888473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/care1337_/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/care1337_/status/2045938532112642155",
+          "start": 33,
+          "url": "https://t.co/krW4UKiHm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046180083329888473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045938532112642155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候因为担心割手很疼所以把刀放到皮肤上就害怕地放下去了。（笑） https://t.co/krW4UKiHm3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046180083329888473",
+        "created_at": "2026-04-20T10:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046180083329888473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/care1337_/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/care1337_/status/2045938532112642155",
+              "start": 33,
+              "url": "https://t.co/krW4UKiHm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046180083329888473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045938532112642155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候因为担心割手很疼所以把刀放到皮肤上就害怕地放下去了。（笑） https://t.co/krW4UKiHm3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2045938532112642155",
+        "created_at": "2026-04-19T18:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:48:06.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045937500905144674",
+          "2045937715083182335",
+          "2045937837233823753",
+          "2045938532112642155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045938532112642155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五年前有一个只有十二岁的mtf推友，聊过几次天\n\n后来他和另一个小孩，一起吃亚硝酸钠自杀了\n\n如果没有亚硝酸钠这个东西，我认为那些自杀者起码有一半不会死掉，因为人类用它自杀太容易了，你吞药吞胀了都很有可能死不了，跳楼上吊又不敢，什么氮气操作难度又高\n\n但亚硝酸钠真的是几克就能带走一条生命\n\n我在想，那些秋叶，如果没有翻墙接触这些东西，是不是不会死掉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2398,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "五年前有一个只有十二岁的mtf推友，聊过几次天\n\n后来他和另一个小孩，一起吃亚硝酸钠自杀了\n\n如果没有亚硝酸钠这个东西，我认为那些自杀者起码有一半不会死掉，因为人类用它自杀太容易了，你吞药吞胀了都很有可能死不了，跳楼上吊又不敢，什么氮气操作难度又高\n\n但亚硝酸钠真的是几克就能带走一条生命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1239,
+          "like_count": 11007,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 459
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，喜欢普瑞巴林💊。\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，蓝v互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2046122012100473321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 122,
+          "like_count": 2984,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1078
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

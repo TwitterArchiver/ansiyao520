@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2060698624317870491",
+    "created_at": "2026-05-31T02:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060907890219917487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060907890219917487",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060698624317870491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 哈哈。在前半辈子就需要稳定经济天天吃糖，不得不向家校公开自己的观念、寻求支持但大多走向对抗，耽误了所有的发展机会喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2060698624317870491",
+        "created_at": "2026-05-31T02:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060907890219917487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060907890219917487",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060698624317870491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 哈哈。在前半辈子就需要稳定经济天天吃糖，不得不向家校公开自己的观念、寻求支持但大多走向对抗，耽误了所有的发展机会喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2060698624317870491",
+        "created_at": "2026-05-30T12:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060698624317870491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/borborboragh/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/borborboragh/status/2060386679563620559",
+              "start": 143,
+              "url": "https://t.co/PBbABXfmUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060698624317870491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1987,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060386679563620559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真希望我不是跨性别者。真希望我能身为顺性别者，能够被社会视为普通人，被家庭视为正常人。真希望人不会出现性别不一致。这样我就不会经历这么多排斥和轻视。无论是顺男或是顺女，只希望我不要经历这该死的性别焦虑了。\n\n没有性别焦虑或许我也可以是一个优秀的孩子…\n\n真希望…，但可惜事实并非如此。 https://t.co/PBbABXfmUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 1438,
+          "like_count": 18908,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 976
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑有证含糖，喜欢@StarryNocts。猫猫叶@DontLeaveMao一定要好好的呀。看不惯我的就滚😅30岁之前会死。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 371,
+          "like_count": 6838,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 2512
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

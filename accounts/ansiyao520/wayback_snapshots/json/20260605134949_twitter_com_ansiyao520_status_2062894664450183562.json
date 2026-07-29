@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2062797008222802431",
+    "created_at": "2026-06-05T13:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062894664450183562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001229411434340352",
+          "start": 0,
+          "username": "yux_zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062894664450183562",
+    "in_reply_to_user_id": "2001229411434340352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062889157631095124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yux_zi 我之前一直是锁推的。顺带开了敏感图片保护。直接点“显示”就好了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2062888977355653120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDamGJaQAA1xdo.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2062797008222802431",
+        "created_at": "2026-06-05T13:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062894664450183562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001229411434340352",
+              "start": 0,
+              "username": "yux_zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062894664450183562",
+        "in_reply_to_user_id": "2001229411434340352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062889157631095124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yux_zi 我之前一直是锁推的。顺带开了敏感图片保护。直接点“显示”就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062888977355653120"
+          ]
+        },
+        "author_id": "2001229411434340352",
+        "conversation_id": "2062797008222802431",
+        "created_at": "2026-06-05T13:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062889157631095124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPedXXQRob",
+              "end": 37,
+              "expanded_url": "https://x.com/yux_zi/status/2062889157631095124/photo/1",
+              "media_key": "3_2062888977355653120",
+              "start": 14,
+              "url": "https://t.co/oPedXXQRob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062889157631095124",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062797008222802431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 🤔 https://t.co/oPedXXQRob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 1470,
+          "like_count": 20055,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 1072
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-17T09:54:24.000Z",
+        "description": "",
+        "id": "2001229411434340352",
+        "name": "ZiYux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046099062303477760/BYUA3dSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 225
+        },
+        "username": "yux_zi",
+        "verified": false
+      }
+    ]
+  }
+}

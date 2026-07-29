@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050423139289710592"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050423142607425750",
+    "created_at": "2026-05-02T03:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050423142607425750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "2031959480448294912",
+          "start": 22,
+          "username": "MorisaSeko"
+        },
+        {
+          "end": 50,
+          "id": "2042276998668525573",
+          "start": 34,
+          "username": "Yozakurasaya514"
+        },
+        {
+          "end": 65,
+          "id": "1726808702387449856",
+          "start": 57,
+          "username": "Nargiti"
+        },
+        {
+          "end": 85,
+          "id": "1899705473882030080",
+          "start": 72,
+          "username": "xiaomajiaXMJ"
+        },
+        {
+          "end": 96,
+          "id": "897749985361444866",
+          "start": 86,
+          "username": "woaishuji"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 124,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/RCVq0js4bJ"
+        },
+        {
+          "display_url": "pic.x.com/wj5GoSbtFf",
+          "end": 148,
+          "expanded_url": "https://x.com/ansiyao520/status/2050423142607425750/photo/1",
+          "media_key": "3_2050423139289710592",
+          "start": 125,
+          "url": "https://t.co/wj5GoSbtFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050423142607425750",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @MorisaSeko @Yozakurasaya514\n👰 配偶: @Nargiti\n👶 孩子: @xiaomajiaXMJ @woaishuji\n\n➡️ https://t.co/RCVq0js4bJ https://t.co/wj5GoSbtFf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050423142607425750].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050423142607425750",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050423142607425750"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050423139289710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSQ-0iawAAHtfM.png",
+        "width": 640
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1344,
+          "like_count": 15167,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 730
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T05:04:52.000Z",
+        "description": "INFP-T｜168cm 75kg ( Losing 24kg+ )｜Enby TransFem 🏳️‍⚧️｜E Day 2025 Dec 20｜Ⓐ Zone｜见习交易员｜学习设计中｜@MorisaStudio @LumidexNZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "MorisaStudio"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "LumidexNZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/morisasa",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/morisasa",
+                "start": 0,
+                "url": "https://t.co/5ADJckixfV"
+              }
+            ]
+          }
+        },
+        "id": "2031959480448294912",
+        "name": "Morisa🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032008726505537539/htm2DLm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 465,
+          "like_count": 3772,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/5ADJckixfV",
+        "username": "MorisaSeko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自中国大陆/东方project/古明地こいし激推/Arcaea/舞萌DX/中二节奏/键政/运动嘉豪/可互fo/LGBTQ+🏳️‍🌈友好",
+        "id": "2042276998668525573",
+        "name": "夜桜サヤ",
+        "pinned_tweet_id": "2048799852885414239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048790115145932800/tmetP_8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 137,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 382
+        },
+        "username": "Yozakurasaya514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 4586,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 171
+        },
+        "username": "Nargiti",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T06:16:17.000Z",
+        "description": "Mtf，可爱的女孩子。历史政治经济投资爱好者，也喜欢唱歌、做饭~ 军团战争玩家    精神障碍，找对象",
+        "id": "1899705473882030080",
+        "location": "常州",
+        "name": "中暑之小马甲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047924901156376576/nEXBVKHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 34,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 180
+        },
+        "username": "xiaomajiaXMJ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1885,
+          "like_count": 471655,
+          "listed_count": 10,
+          "media_count": 2911,
+          "tweet_count": 16893
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

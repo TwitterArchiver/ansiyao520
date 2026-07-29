@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043500114791264257"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043505377535488346",
+    "created_at": "2026-04-13T01:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:22:51.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043500126740893721",
+      "2043505377535488346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ODzXjMS58B",
+          "end": 160,
+          "expanded_url": "https://x.com/ansiyao520/status/2043505377535488346/photo/1",
+          "media_key": "3_2043500114791264257",
+          "start": 137,
+          "url": "https://t.co/ODzXjMS58B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043505377535488346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "跟父母沟通也是门艺术。我也是教育了父母很久，父母才对我说“麻麻我爱你”、发二次元小人表情包、说话带“喵”不反感的。你们很多人公开的聊天记录，那说的话就让人火大，说的内容父母也不可能接受，那当然反对你吃药啥的了。\n我说白了。就算不是吃药这事，其他事你也跟父母不太会沟通可能。\n当然叠个甲，也不排除父母确实老封建。也不排除确实采用了合适的方式沟通多次但父母还是不接受的情况。不排除确实父母不接受需要自力更生的情况。\n不过我相信。这样的还是少的，大部分父母是真爱孩子的，只是那个沟通方式需要孩子软磨硬泡，徐徐图之，而不可以一个核弹下去我要做男娘～\n那是行不通的。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟父母沟通也是门艺术。我也是教育了父母很久，父母才对我说“麻麻我爱你”、发二次元小人表情包、说话带“喵”不反感的。你们很多人公开的聊天记录，那说的话就让人火大，说的内容父母也不可能接受，那当然反对你吃药啥的了。\n我说白了。就算不是吃药这事，其他事你也跟父母不太会沟通可能。 https://t.co/ODzXjMS58B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2186,
+        "media_key": "3_2043500114791264257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv4hwiacAEJ8a6.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043500114791264257"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043500126740893721",
+        "created_at": "2026-04-13T01:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:22:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043500126740893721",
+          "2043505377535488346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28d2k7UllN",
+              "end": 160,
+              "expanded_url": "https://x.com/ansiyao520/status/2043500126740893721/photo/1",
+              "media_key": "3_2043500114791264257",
+              "start": 137,
+              "url": "https://t.co/28d2k7UllN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043500126740893721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跟父母沟通也是门艺术。我也是教育了父母很久，父母才对我说“麻麻我爱你”、发二次元小人表情包、说话带“喵”不反感的。你们很多人公开的聊天记录，那说的话就让人火大，说的内容父母也不可能接受，那当然反对你吃药啥的了。\n我说白了。就算不是吃药这事，其他事你也跟父母不太会沟通可能。\n当然叠个甲，也不排除父母确实老封建。不过我相信这样的还是少的，大部分父母是真爱孩子的，只是那个沟通方式需要孩子软磨硬泡，徐徐图之，而不可以一个核弹下去我要做男娘～"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟父母沟通也是门艺术。我也是教育了父母很久，父母才对我说“麻麻我爱你”、发二次元小人表情包、说话带“喵”不反感的。你们很多人公开的聊天记录，那说的话就让人火大，说的内容父母也不可能接受，那当然反对你吃药啥的了。\n我说白了。就算不是吃药这事，其他事你也跟父母不太会沟通可能。 https://t.co/28d2k7UllN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043500114791264257"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043505377535488346",
+        "created_at": "2026-04-13T01:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:22:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043500126740893721",
+          "2043505377535488346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODzXjMS58B",
+              "end": 160,
+              "expanded_url": "https://x.com/ansiyao520/status/2043505377535488346/photo/1",
+              "media_key": "3_2043500114791264257",
+              "start": 137,
+              "url": "https://t.co/ODzXjMS58B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043505377535488346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跟父母沟通也是门艺术。我也是教育了父母很久，父母才对我说“麻麻我爱你”、发二次元小人表情包、说话带“喵”不反感的。你们很多人公开的聊天记录，那说的话就让人火大，说的内容父母也不可能接受，那当然反对你吃药啥的了。\n我说白了。就算不是吃药这事，其他事你也跟父母不太会沟通可能。\n当然叠个甲，也不排除父母确实老封建。也不排除确实采用了合适的方式沟通多次但父母还是不接受的情况。不排除确实父母不接受需要自力更生的情况。\n不过我相信。这样的还是少的，大部分父母是真爱孩子的，只是那个沟通方式需要孩子软磨硬泡，徐徐图之，而不可以一个核弹下去我要做男娘～\n那是行不通的。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟父母沟通也是门艺术。我也是教育了父母很久，父母才对我说“麻麻我爱你”、发二次元小人表情包、说话带“喵”不反感的。你们很多人公开的聊天记录，那说的话就让人火大，说的内容父母也不可能接受，那当然反对你吃药啥的了。\n我说白了。就算不是吃药这事，其他事你也跟父母不太会沟通可能。 https://t.co/ODzXjMS58B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 926,
+          "like_count": 4846,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 293
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

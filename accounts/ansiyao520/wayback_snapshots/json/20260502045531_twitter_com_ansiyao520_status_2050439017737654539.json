@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050439015481118720"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2050439017737654539",
+    "created_at": "2026-05-02T04:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050439017737654539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8YkIY1BlU",
+          "end": 42,
+          "expanded_url": "https://x.com/ansiyao520/status/2050439017737654539/photo/1",
+          "media_key": "3_2050439015481118720",
+          "start": 19,
+          "url": "https://t.co/c8YkIY1BlU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050439017737654539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这让我想到小药娘和家里人的紧张关系。 https://t.co/c8YkIY1BlU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050439017737654539].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050439017737654539",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050439017737654539"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2050439015481118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSfa79akAAQbGA.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 1344,
+          "like_count": 15200,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 732
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

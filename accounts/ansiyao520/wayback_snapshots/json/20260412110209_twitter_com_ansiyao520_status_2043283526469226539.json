@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043283526469226539",
+    "created_at": "2026-04-12T11:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043283526469226539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seitenkanna/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/seitenkanna/status/2043238579976257662",
+          "start": 62,
+          "url": "https://t.co/jBrgt8ezdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043283526469226539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043238579976257662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无忧无虑听起来就像容易有坑的选项。如果没钱还无忧无虑。真得考虑是自己脑子坏了还是怎么了。\n因为钱不够，恐怕我只能选3，1。 https://t.co/jBrgt8ezdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_2043238536011472896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsKn3paYAAmzkf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043283526469226539",
+        "created_at": "2026-04-12T11:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043283526469226539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seitenkanna/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/seitenkanna/status/2043238579976257662",
+              "start": 62,
+              "url": "https://t.co/jBrgt8ezdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043283526469226539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043238579976257662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无忧无虑听起来就像容易有坑的选项。如果没钱还无忧无虑。真得考虑是自己脑子坏了还是怎么了。\n因为钱不够，恐怕我只能选3，1。 https://t.co/jBrgt8ezdc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043238536011472896"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2043238579976257662",
+        "created_at": "2026-04-12T08:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043238579976257662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgJVnCSR80",
+              "end": 30,
+              "expanded_url": "https://x.com/seitenkanna/status/2043238579976257662/photo/1",
+              "media_key": "3_2043238536011472896",
+              "start": 7,
+              "url": "https://t.co/jgJVnCSR80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238579976257662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3927,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你會怎麼買? https://t.co/jgJVnCSR80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号。非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 892,
+          "like_count": 4697,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 266
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az \nDC群:https://t.co/5dcpXrExHx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 74,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 51,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 101,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 78,
+                "url": "https://t.co/YkKOU5z2az"
+              },
+              {
+                "display_url": "discord.gg/EbKZJbrYtJ",
+                "end": 130,
+                "expanded_url": "https://discord.gg/EbKZJbrYtJ",
+                "start": 107,
+                "url": "https://t.co/5dcpXrExHx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@兩聲類Vtuber",
+        "pinned_tweet_id": "1713829179014426931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8622,
+          "following_count": 936,
+          "like_count": 21802,
+          "listed_count": 42,
+          "media_count": 3311,
+          "tweet_count": 14235
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "seitenkanna",
+        "verified": true
+      }
+    ]
+  }
+}

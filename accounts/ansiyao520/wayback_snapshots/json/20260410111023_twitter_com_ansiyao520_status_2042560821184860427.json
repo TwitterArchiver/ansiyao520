@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042560821184860427",
+    "created_at": "2026-04-10T11:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042560821184860427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042560821184860427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042445421939998820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 当男娘这辈子都有了，哪个性别都想草你,异性恋男把你当女的草,男同把你当受草,四爱姐把你当男的草,甚至还有伪女同把你当女的草,更不要说男娘还想互相草,男娘,横竖都是埃及拔草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042560821184860427",
+        "created_at": "2026-04-10T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042560821184860427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042560821184860427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042445421939998820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 当男娘这辈子都有了，哪个性别都想草你,异性恋男把你当女的草,男同把你当受草,四爱姐把你当男的草,甚至还有伪女同把你当女的草,更不要说男娘还想互相草,男娘,横竖都是埃及拔草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2042445421939998820",
+        "created_at": "2026-04-10T03:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042445421939998820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042445421939998820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 15485,
+          "like_count": 293,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "当男娘这辈子都有了，哪个性别都想草你,异性恋男把你当女的草,男同把你当受草,四爱姐把你当男的草,甚至还有伪女同把你当女的草,更不要说男娘还想互相草,男娘,横竖都是埃及拔草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4277,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 204
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16565,
+          "following_count": 493,
+          "like_count": 35144,
+          "listed_count": 33,
+          "media_count": 3664,
+          "tweet_count": 11382
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

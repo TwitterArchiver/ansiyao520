@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1228032306784305152",
+          "name": "Interior design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2043286905698271737",
+    "created_at": "2026-04-12T11:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043286905698271737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KKaWSB/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/KKaWSB/status/2042935706595790955",
+          "start": 16,
+          "url": "https://t.co/5SGUdwjmXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043286905698271737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042935706595790955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过好自己的日子比什么都强喵～。 https://t.co/5SGUdwjmXn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2043286905698271737",
+        "created_at": "2026-04-12T11:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043286905698271737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KKaWSB/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KKaWSB/status/2042935706595790955",
+              "start": 16,
+              "url": "https://t.co/5SGUdwjmXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043286905698271737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042935706595790955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过好自己的日子比什么都强喵～。 https://t.co/5SGUdwjmXn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2042935706595790955",
+        "created_at": "2026-04-11T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042935706595790955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042935706595790955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1839年，查尔斯·固特异在费城的实验室里已经快破产了。\n\n他痴迷于让橡胶变得实用——天然橡胶夏天发粘，冬天发脆，根本没法用。\n\n五年了，所有实验都失败了。债主堵在门口，妻子在家典当家具。\n\n有一天，他不小心把一块混了硫磺的橡胶掉在了滚烫的炉子上。\n\n他骂了一句，把它铲起来准备扔掉。\n\n手感不对。\n\n那块橡胶没有融化。边缘烧焦了，但中间变成了一种全新的质地——结实、有弹性、不粘手。\n\n硫化橡胶。\n\n后来轮胎、密封圈、防水靴、工业皮带——整个现代橡胶工业都建立在这一炉子上。\n\n但固特异没等到那一天。他死于1860年，欠了二十万美元的债。\n\n固特异轮胎公司用了他的名字，但跟他没有任何关系。是别人在他死后几十年注册的。\n\n他发明了一个价值万亿的产业。\n\n产业记住了他的名字，但一分钱都没给过他。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 148453,
+          "like_count": 654,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "1839年，查尔斯·固特异在费城的实验室里已经快破产了。\n\n他痴迷于让橡胶变得实用——天然橡胶夏天发粘，冬天发脆，根本没法用。\n\n五年了，所有实验都失败了。债主堵在门口，妻子在家典当家具。\n\n有一天，他不小心把一块混了硫磺的橡胶掉在了滚烫的炉子上。\n\n他骂了一句，把它铲起来准备扔掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 893,
+          "like_count": 4717,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 271
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0jBT"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75523,
+          "following_count": 2871,
+          "like_count": 9146,
+          "listed_count": 641,
+          "media_count": 5838,
+          "tweet_count": 11836
+        },
+        "url": "https://t.co/TpeTVm0jBT",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

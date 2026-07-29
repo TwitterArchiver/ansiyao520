@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043631280416542896",
+    "created_at": "2026-04-13T10:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043631280416542896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043631280416542896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大哥哥你天天吃个雌二醇片好厉害呀。我也要学你天天吃药片和药娘贴贴喵。只要吃了神奇小药片整个社群都是友好同类了呢对吧？其实这是一句讽刺话。但很无奈的是，这同时也确实是真的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043631280416542896",
+        "created_at": "2026-04-13T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043631280416542896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043631280416542896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥你天天吃个雌二醇片好厉害呀。我也要学你天天吃药片和药娘贴贴喵。只要吃了神奇小药片整个社群都是友好同类了呢对吧？其实这是一句讽刺话。但很无奈的是，这同时也确实是真的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 969,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 308
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

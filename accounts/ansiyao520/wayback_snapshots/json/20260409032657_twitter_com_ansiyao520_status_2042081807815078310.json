@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042081807815078310",
+    "created_at": "2026-04-09T03:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042081807815078310"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042081807815078310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不做事。不会犯错。做了事，就有可能犯错。遥死前没人关心，让我一个精神不健全的照顾，人一死，全部来追责我。好意思吗。也许你们更有能力照顾，但遥在网上活跃了一年多，你们在哪里。恰恰是我这样虽然犯了错但也照顾了她一阵子的人有资格免罪和悼念她。你们才是在打扰死者的人。懂不懂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042081807815078310",
+        "created_at": "2026-04-09T03:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042081807815078310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042081807815078310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不做事。不会犯错。做了事，就有可能犯错。遥死前没人关心，让我一个精神不健全的照顾，人一死，全部来追责我。好意思吗。也许你们更有能力照顾，但遥在网上活跃了一年多，你们在哪里。恰恰是我这样虽然犯了错但也照顾了她一阵子的人有资格免罪和悼念她。你们才是在打扰死者的人。懂不懂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 789,
+          "like_count": 4200,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

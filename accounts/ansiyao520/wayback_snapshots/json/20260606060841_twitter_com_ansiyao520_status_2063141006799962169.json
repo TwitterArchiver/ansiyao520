@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2062949499283407275",
+    "created_at": "2026-06-06T06:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063141006799962169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001229411434340352",
+          "start": 0,
+          "username": "yux_zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063141006799962169",
+    "in_reply_to_user_id": "2001229411434340352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063135756303135066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yux_zi 我喜欢你哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2062949499283407275",
+        "created_at": "2026-06-06T06:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063141006799962169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001229411434340352",
+              "start": 0,
+              "username": "yux_zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063141006799962169",
+        "in_reply_to_user_id": "2001229411434340352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063135756303135066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yux_zi 我喜欢你哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001229411434340352",
+        "conversation_id": "2062949499283407275",
+        "created_at": "2026-06-06T05:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063135756303135066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063135756303135066",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062949499283407275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 喜欢你喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1479,
+          "like_count": 20250,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1115
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-17T09:54:24.000Z",
+        "description": "",
+        "id": "2001229411434340352",
+        "name": "ZiYux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046099062303477760/BYUA3dSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 226
+        },
+        "username": "yux_zi",
+        "verified": false
+      }
+    ]
+  }
+}

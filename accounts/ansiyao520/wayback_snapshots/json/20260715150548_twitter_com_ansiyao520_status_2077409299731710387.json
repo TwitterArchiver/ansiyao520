@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2077409299731710387",
+    "created_at": "2026-07-15T15:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077409299731710387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044796233508605952",
+          "start": 3,
+          "username": "yue_li0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077409299731710387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077402350990626992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yue_li0712: 我母亲今天领着我的一大堆亲戚闯入我的房间发起轰炸，一群相信迷信的中年妇女开始了诅咒，说什么阎王之后不收我，我将在阴间受尽折磨，我将死之时会孤苦伶仃…还说就是因为我到了南京才这样，开始疯狂对南京输出😇😇😇，我不明白，一堆封建余孽是怎么说出我是被资本…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2077409299731710387",
+        "created_at": "2026-07-15T15:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077409299731710387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044796233508605952",
+              "start": 3,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077409299731710387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077402350990626992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yue_li0712: 我母亲今天领着我的一大堆亲戚闯入我的房间发起轰炸，一群相信迷信的中年妇女开始了诅咒，说什么阎王之后不收我，我将在阴间受尽折磨，我将死之时会孤苦伶仃…还说就是因为我到了南京才这样，开始疯狂对南京输出😇😇😇，我不明白，一堆封建余孽是怎么说出我是被资本…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796233508605952",
+        "conversation_id": "2077402350990626992",
+        "created_at": "2026-07-15T14:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077402350990626992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077402350990626992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我母亲今天领着我的一大堆亲戚闯入我的房间发起轰炸，一群相信迷信的中年妇女开始了诅咒，说什么阎王之后不收我，我将在阴间受尽折磨，我将死之时会孤苦伶仃…还说就是因为我到了南京才这样，开始疯狂对南京输出😇😇😇，我不明白，一堆封建余孽是怎么说出我是被资本洗脑了…为什么一定要结婚生子，为什么要求我一定要当个男生，我真的受够了 人家暑假回家都是去享受假期 我回家就是一种折磨，天天内耗，还撑得到开学吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 336,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我母亲今天领着我的一大堆亲戚闯入我的房间发起轰炸，一群相信迷信的中年妇女开始了诅咒，说什么阎王之后不收我，我将在阴间受尽折磨，我将死之时会孤苦伶仃…还说就是因为我到了南京才这样，开始疯狂对南京输出😇😇😇，我不明白，一堆封建余孽是怎么说出我是被资本洗脑了…为什么一定要结婚生子，为什"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1819,
+          "like_count": 29467,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1858
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜中术｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜不定期会发一些COS照｜同类互fo喵｜精神支柱：@hn_luotianyi712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 128,
+                "username": "hn_luotianyi712"
+              }
+            ]
+          }
+        },
+        "id": "2044796233508605952",
+        "location": "瓦纳海姆",
+        "name": "曦玥玥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 116,
+          "like_count": 2735,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": true
+      }
+    ]
+  }
+}

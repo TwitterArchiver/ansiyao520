@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042274915160879104"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042274918377967623",
+    "created_at": "2026-04-09T16:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042274918377967623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ijK2HSlX6U",
+          "end": 164,
+          "expanded_url": "https://x.com/ansiyao520/status/2042274918377967623/photo/1",
+          "media_key": "3_2042274915160879104",
+          "start": 141,
+          "url": "https://t.co/ijK2HSlX6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042274918377967623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近，恢复了一下，心情平复了。我来针对对我的檄文逐条回应。\n篇幅有限，我一点一点发。\n第一，和别人高强度说话、产生依赖是我的爱好和情感方式。你不喜欢，拒绝我，甚至把我拉黑就是了，如何能被骚扰半年之久？至于恋爱，如果你拒绝我的恋爱请求，我如何能在不尊重你的意愿下，和你恋爱半年之久？ https://t.co/ijK2HSlX6U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2042274915160879104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeeNwPa8AAZGu6.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042274915160879104"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042274918377967623",
+        "created_at": "2026-04-09T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042274918377967623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijK2HSlX6U",
+              "end": 164,
+              "expanded_url": "https://x.com/ansiyao520/status/2042274918377967623/photo/1",
+              "media_key": "3_2042274915160879104",
+              "start": 141,
+              "url": "https://t.co/ijK2HSlX6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042274918377967623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近，恢复了一下，心情平复了。我来针对对我的檄文逐条回应。\n篇幅有限，我一点一点发。\n第一，和别人高强度说话、产生依赖是我的爱好和情感方式。你不喜欢，拒绝我，甚至把我拉黑就是了，如何能被骚扰半年之久？至于恋爱，如果你拒绝我的恋爱请求，我如何能在不尊重你的意愿下，和你恋爱半年之久？ https://t.co/ijK2HSlX6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 791,
+          "like_count": 4221,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 185
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

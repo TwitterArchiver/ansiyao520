@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2060880288620900737",
+    "created_at": "2026-05-31T00:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T01:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060880288620900737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2058597219654340625",
+          "start": 38,
+          "url": "https://t.co/vlYa60k1d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060880288620900737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058597219654340625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "翻车了。买到了比较差的版本。看商品页面，还要加十元左右才能买到看得过去的。 https://t.co/vlYa60k1d0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058596917987377152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGa_XBaAAA8oJl.jpg",
+        "width": 526
+      },
+      {
+        "height": 864,
+        "media_key": "3_2058596918104838144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGa_XdaUAAMiLY.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2060880288620900737",
+        "created_at": "2026-05-31T00:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060880288620900737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2058597219654340625",
+              "start": 38,
+              "url": "https://t.co/vlYa60k1d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060880288620900737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058597219654340625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻车了。买到了比较差的版本。看商品页面，还要加十元左右才能买到看得过去的。 https://t.co/vlYa60k1d0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058596917987377152",
+            "3_2058596918104838144"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058597219654340625",
+        "created_at": "2026-05-24T17:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:12:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058596920717980016",
+          "2058597219654340625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyJ48HtjoQ",
+              "end": 60,
+              "expanded_url": "https://x.com/ansiyao520/status/2058597219654340625/photo/1",
+              "media_key": "3_2058596917987377152",
+              "start": 37,
+              "url": "https://t.co/SyJ48HtjoQ"
+            },
+            {
+              "display_url": "pic.x.com/SyJ48HtjoQ",
+              "end": 60,
+              "expanded_url": "https://x.com/ansiyao520/status/2058597219654340625/photo/1",
+              "media_key": "3_2058596918104838144",
+              "start": 37,
+              "url": "https://t.co/SyJ48HtjoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058597219654340625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你给我挑好的呀。\n给我拿好的啊。\n我Chovy！你们拿东西给我拿好了啊！ https://t.co/SyJ48HtjoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 1437,
+          "like_count": 18878,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 972
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

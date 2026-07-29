@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2054233420021256192"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2054233518738420158",
+    "created_at": "2026-05-12T16:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054233518738420158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fenT6BwJF7",
+          "end": 115,
+          "expanded_url": "https://x.com/ansiyao520/status/2054233518738420158/video/1",
+          "media_key": "7_2054233420021256192",
+          "start": 92,
+          "url": "https://t.co/fenT6BwJF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054233518738420158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "当我爱一个人时。从出生到结尾，从身体到灵魂，从现在到永远。我都是爱着的。可是我患有精神病。有时候话说出去并不是为了宣告关系的结束，而是宣告我症状的结束。但不是每个人都能容忍我的发病。\n我从未在爱上撒谎，当我爱你时，当我爱你前，当我爱你后，就算我讨厌你我也是爱你的。从现在直到永远，从出生直到死亡，从肉体到达灵魂。就算我讨厌你我也是爱你的。因为我决定爱你。我决定把你纳入我的节点，我从来没有要骗你。但你不可弃我而去。气我而去。因为生气离去。否则我会崩溃。\n\nAre we fading lovers?\n我们是否已经走到尽头，\nWe keep wasting colors，\n再多挣扎也只是徒增苦愁，\nMaybe we should let this go，\n也许是时候该放手。\n\nNever face each other，\n不再见面的你我，\none bed, different covers，\n心还连着 但眼前风景却早已不同，\nWe don't care anymore，\n也不能再像从前那般关怀问候，\nTwo hearts still beating，\n两颗心依旧为彼此跳动，\nOn with different rhythms，\n却渐渐不再是相同的频率和节奏，\nMaybe we should let this go，\n也许真的是时候该放手。\n\nWhat memories did we once hold together？"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我爱一个人时。从出生到结尾，从身体到灵魂，从现在到永远。我都是爱着的。可是我患有精神病。有时候话说出去并不是为了宣告关系的结束，而是宣告我症状的结束。但不是每个人都能容忍我的发病。 https://t.co/fenT6BwJF7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054233518738420158].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054233518738420158",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054233518738420158"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198708,
+        "height": 1088,
+        "media_key": "7_2054233420021256192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054233420021256192/pu/img/qFRMmJzpnqWrmoPd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054233420021256192/pu/vid/avc1/320x604/nqHeT4S2cSGAJkkS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054233420021256192/pu/vid/avc1/480x906/GdDhRHlB_h9zb628.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054233420021256192/pu/vid/avc1/576x1088/kNncQgE9AZOMak1v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054233420021256192/pu/pl/UK5eSF_cwWQp4z1i.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1354,
+          "like_count": 16171,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 797
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069091925945442304"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2069091928919158893",
+    "created_at": "2026-06-22T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069091928919158893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nS2tB0DBoQ",
+          "end": 60,
+          "expanded_url": "https://x.com/ansiyao520/status/2069091928919158893/photo/1",
+          "media_key": "3_2069091925945442304",
+          "start": 37,
+          "url": "https://t.co/nS2tB0DBoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069091928919158893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是啊……吃什么？\n我的前半生，都在吃什么呢？要多读书，好读书，读好书喵。 https://t.co/nS2tB0DBoQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069091925945442304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbkJOWbYAADZiV.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069091925945442304"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2069091928919158893",
+        "created_at": "2026-06-22T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069091928919158893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nS2tB0DBoQ",
+              "end": 60,
+              "expanded_url": "https://x.com/ansiyao520/status/2069091928919158893/photo/1",
+              "media_key": "3_2069091925945442304",
+              "start": 37,
+              "url": "https://t.co/nS2tB0DBoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069091928919158893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是啊……吃什么？\n我的前半生，都在吃什么呢？要多读书，好读书，读好书喵。 https://t.co/nS2tB0DBoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1663,
+          "like_count": 25426,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1492
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

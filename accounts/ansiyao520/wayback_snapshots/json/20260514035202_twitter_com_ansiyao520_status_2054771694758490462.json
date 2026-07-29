@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054771691784740864"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054771694758490462",
+    "created_at": "2026-05-14T03:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054771694758490462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGUbtNmQ1Q",
+          "end": 110,
+          "expanded_url": "https://x.com/ansiyao520/status/2054771694758490462/photo/1",
+          "media_key": "3_2054771691784740864",
+          "start": 87,
+          "url": "https://t.co/QGUbtNmQ1Q"
+        },
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2054766861779431801",
+          "start": 111,
+          "url": "https://t.co/Y8V2neXwUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054771694758490462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "他给出的越多，他就越匮乏；他越匮乏，就越需要通过给出更多来证明自己不是匮乏的。\n我不想让自己的存在成为他持续透支自己的借口。\n我不屑于用善良来装饰自己，我不否认自己的自私。\n在资本社会，善良这种美德的行使成本，是由善良者自己承担的；而善良者如果本就处于被剥削的位置，善良就只会成为加速自身剥削的催化剂。\n善良不是天然正义的。当善良以自毁为代价时，拒绝它才是真正的正义。\n在不善良的世界里我诚实地活着。\n以上。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054766861779431801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他给出的越多，他就越匮乏；他越匮乏，就越需要通过给出更多来证明自己不是匮乏的。\n我不想让自己的存在成为他持续透支自己的借口。\n我不屑于用善良来装饰自己，我不否认自己的自私。 https://t.co/QGUbtNmQ1Q https://t.co/Y8V2neXwUT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054771694758490462].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054771694758490462",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054771694758490462"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2054771691784740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQD949boAAj36-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 481,
+        "media_key": "3_2054766847569108993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIP_j62bIAEHEIJ.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054766847569108993"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2054766861779431801",
+        "created_at": "2026-05-14T03:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054766861779431801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6P1nyDHLqz",
+              "end": 163,
+              "expanded_url": "https://x.com/ansiyao520/status/2054766861779431801/photo/1",
+              "media_key": "3_2054766847569108993",
+              "start": 140,
+              "url": "https://t.co/6P1nyDHLqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054766861779431801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《我所见过的善良》\n——论善良\n善良通常被赞美为一种无需条件的美德。我们被教导：善良就是给予，就是共情，就是在他人需要时伸出手。但有没有人追问过，这双手伸出时，是从富余中伸出，还是从生存中扣出，善良需不需要物质基础，善良是否可能成为自我毁灭的固着？\n我所见过的善良是文椛的善良。\n文椛的善良是一种无法停止的善良。他熬夜陪伴别人，安慰每一个向他暴露创伤的人，用“抱紧紧”去回应世界的痛苦。这是他生产自我价值的方式。从精神分析看，这是一种固着，他的力比多被锁定在“善良者”这个身份上——之所以这么说，是因为我判断他并不真的有多到可以随手帮助别人的精力和资源。\n善良固然有其光辉——它给主体确定性。在文椛被孤立、被误解、不被家人支持的成长经历中，“成为一个善良的人”是他从废墟中搭建起的唯一身份。每一次安慰别人，他都在像是在对自己说：“我不是无用的，我不是被抛弃的，我可以让别人感到温暖。”这个固着让他从精神危机中活了下去。\n但如此固着的善良有其阴影——它不计成本。当善良不是从剩余中给出，而是从生存必须中扣出，它就开始消耗主体本身。文椛没有这种余裕——他不像房思琪里那个中产一样可以给穷人施粥满足自己的虚荣心。他帮助别人从来都是从自己本就匮乏的生存条件里扣出东西给别人。陪伴需要时间，时间可以用来学习、休息、赚钱；安慰需要情绪能量，能量可以用来照顾自己。如果把这些都给别人，留给自己的，就只有越来越深的疲倦和越来越脆弱的生存基础。\n这样的善良，短期看是美德，长期看是自毁。我认为文椛的善良终有一天会把他拖累死。\n他的善良是美丽的，但也是危险的。我不是不珍惜他的善良，而是无法承受珍惜带来的愧疚——他给我的礼物是用他的生命支付的，我如何安心收下……\n我爱他时，无法接受他那种会伤害给予者的给予。所以在恋爱里我选择了排斥。我排斥他的善良，以保护自己——也保护他。我不愿成为他消耗自己的加速器或稳定器，我希望他意识到自己的善良模式是有问题的。但文椛不理解。他把我的排斥解读为冷漠、不爱、自私。他问我——为什么我不去拯救他？\n为什么我不去拯救他？\n“拯救”是文椛话语中的关键词。在他的思维里，爱就等于拯救，陪他去吃药，接纳他的善良——我不做这些，我就是不爱他。但我不是不愿，是不能。我没有钱给他，无法改变他的阶级地位，也无法让他停止这个固着的善良模式——如果文椛有足够的钱，如果他的善良不需要从生存条件里扣出，我也许就接受这些，甚至安心享受被他安慰了。\n善良是否可接受，不取决于善良本身，而取决于它的物质条件。无产阶级的善良是危险的，中产阶级的善良是可以享受的。这句话很残酷，但被道德话语所掩盖的“善良”背后就是有这样酷烈的阶级真相。\n善良不是天然正义的。善良需要追问：谁在善良？从什么位置善良？用什么资源善良？善良的代价由谁承担？当善良的主体是文椛这样的无产者时，善良就是一场缓慢的殉道；当善良的主体是有余裕的人时，善良才可能是真正的礼物。\n我无法接受文椛的善良，我也无法拯救你，我没有那个能力。我只是看着你的根扎进贫瘠的土壤，然后转开。\n文椛永远不会理解。他会继续认为我冷漠。但也没什么关系。我是真小人。从不是伪君子。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《我所见过的善良》\n——论善良\n善良通常被赞美为一种无需条件的美德。我们被教导：善良就是给予，就是共情，就是在他人需要时伸出手。但有没有人追问过，这双手伸出时，是从富余中伸出，还是从生存中扣出，善良需不需要物质基础，善良是否可能成为自我毁灭的固着？\n我所见过的善良是文椛的善良。 https://t.co/6P1nyDHLqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 1352,
+          "like_count": 16336,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 809
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

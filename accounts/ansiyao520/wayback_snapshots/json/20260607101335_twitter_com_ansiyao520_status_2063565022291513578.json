@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063564807429816320"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063565022291513578",
+    "created_at": "2026-06-07T10:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063565022291513578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UuFOpAQSf7",
+          "end": 52,
+          "expanded_url": "https://x.com/ansiyao520/status/2063565022291513578/video/1",
+          "media_key": "7_2063564807429816320",
+          "start": 29,
+          "url": "https://t.co/UuFOpAQSf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063565022291513578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你安思瑶叔叔/阿姨好忧伤啊。\n那一天的忧郁，忧郁起来😢。 https://t.co/UuFOpAQSf7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063565022291513578].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063565022291513578",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063565022291513578"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 269676,
+        "height": 1088,
+        "media_key": "7_2063564807429816320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063564807429816320/pu/img/dITvaoHJGIGxKFZ5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063564807429816320/pu/vid/avc1/320x604/G7Udiwrq-M_4mUCY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063564807429816320/pu/vid/avc1/480x906/tH3hUTpQwvgtQCkN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063564807429816320/pu/vid/avc1/576x1088/sDnXHrSPMaangho1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063564807429816320/pu/pl/hS4NaIMJAlWVqPwn.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 1496,
+          "like_count": 20671,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1168
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

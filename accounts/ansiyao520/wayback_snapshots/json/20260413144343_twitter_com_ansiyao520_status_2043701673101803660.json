@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043701673101803660",
+    "created_at": "2026-04-13T14:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043701673101803660"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043701673101803660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我是特别看重精神世界的人。然后在我不走极端的情况下。\n文椛就是我能遇见的最好的人了。\n就是一个在我精神里不可否定的存在。\n你没法去否定文椛做的事。\n那就很痛苦了。就相当于你不被你父亲认可。\n然后你还被逐出家门了。\n我现在精神是个流浪的状态你知道吗。之前我自己有家。然后我把家拆了和文椛凑一起了。然后文椛把我弄出去了。\n文椛也不是什么善茬。恋爱后他当然也有自己的私密性。是不可能谈着恋爱还宽容我的。\n我只是个学生。平时屁大个社团都没参加过。全靠自己跟自己玩去取悦自己。\n反正我受不了。了。\n感觉难受死了。一个不可否定的存在把我否定了。\n我还怎么几把活啊家人们。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是特别看重精神世界的人。然后在我不走极端的情况下。\n文椛就是我能遇见的最好的人了。\n就是一个在我精神里不可否定的存在。\n你没法去否定文椛做的事。\n那就很痛苦了。就相当于你不被你父亲认可。\n然后你还被逐出家门了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043701673101803660",
+        "created_at": "2026-04-13T14:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043701673101803660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043701673101803660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是特别看重精神世界的人。然后在我不走极端的情况下。\n文椛就是我能遇见的最好的人了。\n就是一个在我精神里不可否定的存在。\n你没法去否定文椛做的事。\n那就很痛苦了。就相当于你不被你父亲认可。\n然后你还被逐出家门了。\n我现在精神是个流浪的状态你知道吗。之前我自己有家。然后我把家拆了和文椛凑一起了。然后文椛把我弄出去了。\n文椛也不是什么善茬。恋爱后他当然也有自己的私密性。是不可能谈着恋爱还宽容我的。\n我只是个学生。平时屁大个社团都没参加过。全靠自己跟自己玩去取悦自己。\n反正我受不了。了。\n感觉难受死了。一个不可否定的存在把我否定了。\n我还怎么几把活啊家人们。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是特别看重精神世界的人。然后在我不走极端的情况下。\n文椛就是我能遇见的最好的人了。\n就是一个在我精神里不可否定的存在。\n你没法去否定文椛做的事。\n那就很痛苦了。就相当于你不被你父亲认可。\n然后你还被逐出家门了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 996,
+          "like_count": 5396,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 331
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

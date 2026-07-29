@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2064918702391218520",
+    "created_at": "2026-06-11T17:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065124921177772464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1779201342537396224",
+          "start": 0,
+          "username": "xianqve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065124921177772464",
+    "in_reply_to_user_id": "1779201342537396224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "身边人的观念问题，我上面已经讲过。你们有觉得这样做会被孤立的风险意识，是好事，说明你们社会化很成功啊。由此自然诞生出的对身边人观念的思考，正是文章里说的需要引导和深化的东西。\n我的建议肯定只能依情况而变，具体问题具体分析。而若要说我的经验和建议太个人，要回到对总体社会的批判。我上文实在已经说过了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065114082697724372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianqve 身边人的观念问题，我上面已经讲过。你们有觉得这样做会被孤立的风险意识，是好事，说明你们社会化很成功啊。由此自然诞生出的对身边人观念的思考，正是文章里说的需要引导和深化的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2064918702391218520",
+        "created_at": "2026-06-11T17:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065124921177772464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1779201342537396224",
+              "start": 0,
+              "username": "xianqve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065124921177772464",
+        "in_reply_to_user_id": "1779201342537396224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "身边人的观念问题，我上面已经讲过。你们有觉得这样做会被孤立的风险意识，是好事，说明你们社会化很成功啊。由此自然诞生出的对身边人观念的思考，正是文章里说的需要引导和深化的东西。\n我的建议肯定只能依情况而变，具体问题具体分析。而若要说我的经验和建议太个人，要回到对总体社会的批判。我上文实在已经说过了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065114082697724372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianqve 身边人的观念问题，我上面已经讲过。你们有觉得这样做会被孤立的风险意识，是好事，说明你们社会化很成功啊。由此自然诞生出的对身边人观念的思考，正是文章里说的需要引导和深化的东西。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779201342537396224",
+        "conversation_id": "2064918702391218520",
+        "created_at": "2026-06-11T16:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065114082697724372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065114082697724372",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065112020563956006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 这和个人智慧没关系吧，感觉还是身边人的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 1550,
+          "like_count": 22458,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1316
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T17:33:59.000Z",
+        "description": "mtx/猫猫 色胚主人@Qingzi10086",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Qingzi10086"
+              }
+            ]
+          }
+        },
+        "id": "1779201342537396224",
+        "location": "青岛",
+        "name": "却…却宝？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779201599446863872/WjBeIPvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 140,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 153
+        },
+        "username": "xianqve",
+        "verified": false
+      }
+    ]
+  }
+}

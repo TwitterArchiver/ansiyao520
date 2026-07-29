@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042803289188896793",
+    "created_at": "2026-04-11T03:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042803289188896793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042803289188896793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "谈上一个“好人”，分手了就是无尽的扯皮。这群幸运的大爷们是一生没犯过错。可就算一直不犯错，人该死还是会死，你们还是要走向一些冒险或有风险的行动。在做好事上一生没犯过错，只能说明自己做的都是一些无关紧要的事罢了。你们不敢指染复杂的现实，只愿做善良的皇帝。\n药娘圈这么善良的氛围，已经死多少人了?亲爱的你告诉我，难道是因为他们的网友里都有一个我这样的人吗。我何德何能在每个死人的关系里身兼要位。你们作为知情者，不维护、不客观梳理事情真相，理解事情里每个人的选择和局限，反而分手后毅然决然把所有责任都推到我头上，何其险恶。\n你们的善良，不过是把不完美的行动一块一块全部割舍出去罢了。西方佛国，地上天庭，不食人间烟火。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谈上一个“好人”，分手了就是无尽的扯皮。这群幸运的大爷们是一生没犯过错。可就算一直不犯错，人该死还是会死，你们还是要走向一些冒险或有风险的行动。在做好事上一生没犯过错，只能说明自己做的都是一些无关紧要的事罢了。你们不敢指染复杂的现实，只愿做善良的皇帝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042803289188896793",
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042803289188896793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042803289188896793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谈上一个“好人”，分手了就是无尽的扯皮。这群幸运的大爷们是一生没犯过错。可就算一直不犯错，人该死还是会死，你们还是要走向一些冒险或有风险的行动。在做好事上一生没犯过错，只能说明自己做的都是一些无关紧要的事罢了。你们不敢指染复杂的现实，只愿做善良的皇帝。\n药娘圈这么善良的氛围，已经死多少人了?亲爱的你告诉我，难道是因为他们的网友里都有一个我这样的人吗。我何德何能在每个死人的关系里身兼要位。你们作为知情者，不维护、不客观梳理事情真相，理解事情里每个人的选择和局限，反而分手后毅然决然把所有责任都推到我头上，何其险恶。\n你们的善良，不过是把不完美的行动一块一块全部割舍出去罢了。西方佛国，地上天庭，不食人间烟火。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈上一个“好人”，分手了就是无尽的扯皮。这群幸运的大爷们是一生没犯过错。可就算一直不犯错，人该死还是会死，你们还是要走向一些冒险或有风险的行动。在做好事上一生没犯过错，只能说明自己做的都是一些无关紧要的事罢了。你们不敢指染复杂的现实，只愿做善良的皇帝。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 849,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 223
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

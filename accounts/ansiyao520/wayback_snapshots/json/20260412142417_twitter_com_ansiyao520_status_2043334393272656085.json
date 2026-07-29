@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043334389598412801"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043334393272656085",
+    "created_at": "2026-04-12T14:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043334393272656085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lgV2NgniYN",
+          "end": 47,
+          "expanded_url": "https://x.com/ansiyao520/status/2043334393272656085/photo/1",
+          "media_key": "3_2043334389598412801",
+          "start": 24,
+          "url": "https://t.co/lgV2NgniYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043334393272656085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我说这是好的。我说这是坏的。\n哇，还有两面派。\n好吧，不装了。我说实话吧。国家治理大多数时候是落后于社会现象的，现在虽然有在搞春秋假，积极营造良好的未成年人生活氛围，但是这些都是未来几十年才能见效的东西，对亚文化嗑药的人来说，这辈子除了靠自己建立强大的心理防线，其他任何事都是虚的、遥不可及的。无论是骂制度也好，继续嗑药也好，都不能真正救自己。\n制度不可能剧变，也不可能顶着父母辈的压力完全转向去利好青年生活。难道青年就不生活，不成长了么?\n诸位，亚文化中的挣扎者往往最先感知到时代裂缝的冷风，却最后等到政策的温度。\n不可能仰仗被制度拯救，也不应被虚无吞噬。在缓慢的变革与尖锐的痛苦之间，我们要慢慢往前走。这才是对这个时代的回应。\n死人不会回应，骂人不算回应。\n好好生活，是一种回应。\n共产主义一定会实现。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说这是好的。我说这是坏的。\n哇，还有两面派。 https://t.co/lgV2NgniYN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_2043334389598412801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFthzSFaYAE3eph.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043334389598412801"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043334393272656085",
+        "created_at": "2026-04-12T14:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043334393272656085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgV2NgniYN",
+              "end": 47,
+              "expanded_url": "https://x.com/ansiyao520/status/2043334393272656085/photo/1",
+              "media_key": "3_2043334389598412801",
+              "start": 24,
+              "url": "https://t.co/lgV2NgniYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043334393272656085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我说这是好的。我说这是坏的。\n哇，还有两面派。\n好吧，不装了。我说实话吧。国家治理大多数时候是落后于社会现象的，现在虽然有在搞春秋假，积极营造良好的未成年人生活氛围，但是这些都是未来几十年才能见效的东西，对亚文化嗑药的人来说，这辈子除了靠自己建立强大的心理防线，其他任何事都是虚的、遥不可及的。无论是骂制度也好，继续嗑药也好，都不能真正救自己。\n制度不可能剧变，也不可能顶着父母辈的压力完全转向去利好青年生活。难道青年就不生活，不成长了么?\n诸位，亚文化中的挣扎者往往最先感知到时代裂缝的冷风，却最后等到政策的温度。\n不可能仰仗被制度拯救，也不应被虚无吞噬。在缓慢的变革与尖锐的痛苦之间，我们要慢慢往前走。这才是对这个时代的回应。\n死人不会回应，骂人不算回应。\n好好生活，是一种回应。\n共产主义一定会实现。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说这是好的。我说这是坏的。\n哇，还有两面派。 https://t.co/lgV2NgniYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 903,
+          "like_count": 4763,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 283
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

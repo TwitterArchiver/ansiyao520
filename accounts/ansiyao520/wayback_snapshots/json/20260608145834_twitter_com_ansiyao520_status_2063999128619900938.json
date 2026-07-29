@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063935107103428609"
+      ],
+      "media_source_tweet_id": [
+        "2063939098910614003"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063999128619900938",
+    "created_at": "2026-06-08T14:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063999128619900938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931305740398211072",
+          "start": 3,
+          "username": "mitsume310i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZTGeGdlzwd",
+          "end": 69,
+          "expanded_url": "https://x.com/mitsume310i/status/2063939098910614003/photo/1",
+          "media_key": "3_2063935107103428609",
+          "start": 46,
+          "url": "https://t.co/ZTGeGdlzwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063999128619900938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063939098910614003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsume310i: 「急がなくていいわ」\n「待ってるから、この手を取るまで」 https://t.co/ZTGeGdlzwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2063935107103428609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSSC3JbkAE8ZJP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063935107103428609"
+          ],
+          "media_source_tweet_id": [
+            "2063939098910614003"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2063999128619900938",
+        "created_at": "2026-06-08T14:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063999128619900938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931305740398211072",
+              "start": 3,
+              "username": "mitsume310i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTGeGdlzwd",
+              "end": 69,
+              "expanded_url": "https://x.com/mitsume310i/status/2063939098910614003/photo/1",
+              "media_key": "3_2063935107103428609",
+              "start": 46,
+              "url": "https://t.co/ZTGeGdlzwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063999128619900938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063939098910614003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsume310i: 「急がなくていいわ」\n「待ってるから、この手を取るまで」 https://t.co/ZTGeGdlzwd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063935107103428609"
+          ]
+        },
+        "author_id": "1931305740398211072",
+        "conversation_id": "2063939098910614003",
+        "created_at": "2026-06-08T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063939098910614003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZTGeGdlzwd",
+              "end": 52,
+              "expanded_url": "https://x.com/mitsume310i/status/2063939098910614003/photo/1",
+              "media_key": "3_2063935107103428609",
+              "start": 29,
+              "url": "https://t.co/ZTGeGdlzwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063939098910614003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 14491,
+          "like_count": 2049,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "「急がなくていいわ」\n「待ってるから、この手を取るまで」 https://t.co/ZTGeGdlzwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1509,
+          "like_count": 21090,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1225
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-07T11:03:56.000Z",
+        "description": "みつめと申します。趣味で描いたイラストを投稿しています。\npixiv: https://t.co/2yJLi4yctZ\nfanbox(原寸・制作データなど): https://t.co/ChTN2MgQZb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84275711",
+                "end": 59,
+                "expanded_url": "https://www.pixiv.net/users/84275711",
+                "start": 36,
+                "url": "https://t.co/2yJLi4yctZ"
+              },
+              {
+                "display_url": "fanbox.cc/@sanbanme310i",
+                "end": 103,
+                "expanded_url": "https://www.fanbox.cc/@sanbanme310i",
+                "start": 80,
+                "url": "https://t.co/ChTN2MgQZb"
+              }
+            ]
+          }
+        },
+        "id": "1931305740398211072",
+        "location": "無断転載禁止",
+        "name": "みつめ／三番目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989945104451473408/4yrNBBOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 299,
+          "like_count": 10851,
+          "listed_count": 15,
+          "media_count": 42,
+          "tweet_count": 162
+        },
+        "username": "mitsume310i",
+        "verified": true
+      }
+    ]
+  }
+}

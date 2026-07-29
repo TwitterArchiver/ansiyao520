@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073402817596047360"
+      ],
+      "media_source_tweet_id": [
+        "2073402900353806347"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2073787067562398060",
+    "created_at": "2026-07-05T15:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073787067562398060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VMCOhMaGcb",
+          "end": 45,
+          "expanded_url": "https://x.com/ax09s84751/status/2073402900353806347/video/1",
+          "media_key": "13_2073402817596047360",
+          "start": 22,
+          "url": "https://t.co/VMCOhMaGcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073787067562398060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073402900353806347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: 分享视频。 https://t.co/VMCOhMaGcb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14753,
+        "height": 1024,
+        "media_key": "13_2073402817596047360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073402817596047360/img/hnKOCG98toprDQFu.jpg",
+        "public_metrics": {
+          "view_count": 179
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073402817596047360/vid/avc1/320x568/YzYYmiWFifOHreAD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073402817596047360/vid/avc1/480x852/fyLJ3xcSBvVByeoV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073402817596047360/vid/avc1/576x1024/yTfaRZvv_qd79wVl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073402817596047360/pl/1ueDUbFn_eSo_U7l.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073402817596047360"
+          ],
+          "media_source_tweet_id": [
+            "2073402900353806347"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2073787067562398060",
+        "created_at": "2026-07-05T15:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073787067562398060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMCOhMaGcb",
+              "end": 45,
+              "expanded_url": "https://x.com/ax09s84751/status/2073402900353806347/video/1",
+              "media_key": "13_2073402817596047360",
+              "start": 22,
+              "url": "https://t.co/VMCOhMaGcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073787067562398060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073402900353806347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: 分享视频。 https://t.co/VMCOhMaGcb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073402817596047360"
+          ]
+        },
+        "author_id": "2022153081031733252",
+        "conversation_id": "2073402900353806347",
+        "created_at": "2026-07-04T13:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073402900353806347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMCOhMaGcb",
+              "end": 29,
+              "expanded_url": "https://x.com/ax09s84751/status/2073402900353806347/video/1",
+              "media_key": "13_2073402817596047360",
+              "start": 6,
+              "url": "https://t.co/VMCOhMaGcb"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2073402900353806347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享视频。 https://t.co/VMCOhMaGcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1785,
+          "like_count": 28487,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2072703005670224128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1809,
+          "like_count": 3082,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

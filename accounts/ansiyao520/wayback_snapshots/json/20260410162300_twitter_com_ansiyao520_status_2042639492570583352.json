@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042095839833944486",
+    "created_at": "2026-04-10T16:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042639492570583352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885657404563697664",
+          "start": 0,
+          "username": "Jolunedio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042639492570583352",
+    "in_reply_to_user_id": "1885657404563697664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042634065992650988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jolunedio 可爱滴捏～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042095839833944486",
+        "created_at": "2026-04-10T16:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042639492570583352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885657404563697664",
+              "start": 0,
+              "username": "Jolunedio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042639492570583352",
+        "in_reply_to_user_id": "1885657404563697664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042634065992650988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jolunedio 可爱滴捏～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885657404563697664",
+        "conversation_id": "2042095839833944486",
+        "created_at": "2026-04-10T16:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042634065992650988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            },
+            {
+              "end": 27,
+              "id": "1468883359090630657",
+              "start": 16,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042634065992650988",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042097141410406775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 @ansiyao520 帽子先生头像框可爱，我也用的这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042572406322270586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 817,
+          "like_count": 4318,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 213
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T11:52:30.000Z",
+        "description": "",
+        "id": "1885657404563697664",
+        "name": "Jolune Heaven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034544871219023872/_eTyvvJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Jolunedio",
+        "verified": false
+      }
+    ]
+  }
+}

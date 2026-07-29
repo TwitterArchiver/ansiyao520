@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2070387812608958665",
+    "created_at": "2026-06-26T06:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070387812608958665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2070380460606378005",
+          "start": 83,
+          "url": "https://t.co/kNnxasO4Jc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070387812608958665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我们只能求助于外部。\nor say。跨性别就是一个无法自发组织起来的群体，没有未来。不值得革命的争取。\n跨性别首先要背叛自己的跨性别，才可能实现自己的解放和跨性别。\n跨性别就是没有未来和前景的。偶然获得了未来和前景的人大多自身就不是底层人。跨性别不反跨是不可能实现自己的跨性别的。当然这里的反跨绝不是唐敏文那种自我表演性质地纯傻逼。\n更简洁地来说：\n不要做跨性别者。要做拒绝被任何标签驯服的、拥有强大生存力的劳动者。\n不要乞求主流社会的理解和优待，要攥紧经济独立的技术、结盟同样被剥削的劳工阶层、用生存的韧性碾碎审美的囚笼，跨越“跨性别”这个命题本身。\n承受外界的辱骂，消化同类的懦弱，像勾践那样咽下屈辱去积攒物质基础，这是唯一可能的出路。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070380460606378005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们只能求助于外部。\nor say。跨性别就是一个无法自发组织起来的群体，没有未来。不值得革命的争取。\n跨性别首先要背叛自己的跨性别，才可能实现自己的解放和跨性别。 https://t.co/kNnxasO4Jc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2070387812608958665",
+        "created_at": "2026-06-26T06:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070387812608958665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2070380460606378005",
+              "start": 83,
+              "url": "https://t.co/kNnxasO4Jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070387812608958665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们只能求助于外部。\nor say。跨性别就是一个无法自发组织起来的群体，没有未来。不值得革命的争取。\n跨性别首先要背叛自己的跨性别，才可能实现自己的解放和跨性别。\n跨性别就是没有未来和前景的。偶然获得了未来和前景的人大多自身就不是底层人。跨性别不反跨是不可能实现自己的跨性别的。当然这里的反跨绝不是唐敏文那种自我表演性质地纯傻逼。\n更简洁地来说：\n不要做跨性别者。要做拒绝被任何标签驯服的、拥有强大生存力的劳动者。\n不要乞求主流社会的理解和优待，要攥紧经济独立的技术、结盟同样被剥削的劳工阶层、用生存的韧性碾碎审美的囚笼，跨越“跨性别”这个命题本身。\n承受外界的辱骂，消化同类的懦弱，像勾践那样咽下屈辱去积攒物质基础，这是唯一可能的出路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070380460606378005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们只能求助于外部。\nor say。跨性别就是一个无法自发组织起来的群体，没有未来。不值得革命的争取。\n跨性别首先要背叛自己的跨性别，才可能实现自己的解放和跨性别。 https://t.co/kNnxasO4Jc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2070380460606378005",
+        "created_at": "2026-06-26T05:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070380460606378005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070380460606378005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《对跨性别未来的结论》\n跨性别们承受了最多的落后思想的眼色，本应该是最具进步性，愿意长大后有能力时为改变社会而努力的群体。\n可惜的是，承受痛苦时的年龄太小，往往不愿意坚持自己的生命，只想用最轻快的死亡对抗无边的痛苦；即使侥幸长大，也可能会沉溺或者代偿性地享受自己的美好生活。忘记痛苦、背叛历史；而对于那些很小就能srs的人，我在之前的文章早有分析，他们和药娘根本不是一个世界的人。\n这是一个无奈的现实。\n一味要求个人努力确实不太好，但是说救救孩子也不可能管用。必须以一个阶级的成熟和运动带动和赋予这个无力自救的一潭死水以未来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《对跨性别未来的结论》\n跨性别们承受了最多的落后思想的眼色，本应该是最具进步性，愿意长大后有能力时为改变社会而努力的群体。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1703,
+          "like_count": 26277,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1547
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

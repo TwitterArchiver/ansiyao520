@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067450959769563136"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2067451444270362770",
+    "created_at": "2026-06-18T03:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067451444270362770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrzWvs0DgS",
+          "end": 121,
+          "expanded_url": "https://x.com/ansiyao520/status/2067451444270362770/video/1",
+          "media_key": "13_2067450959769563136",
+          "start": 98,
+          "url": "https://t.co/PrzWvs0DgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067451444270362770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我现在有可以随意聊天的朋友。有一起玩游戏的朋友。有每天陪伴的朋友。\n普通的朋友也一大堆众星拱月，随时可以填补亲密朋友的位置，不惧社交动荡。\n但唯独缺少可以一起色色的朋友。\n朋友好交，色心难觅呀。\n色色毕竟是很亲密的事，不把色色神圣化私密化、外包给恋人的率性洒脱者本来就少。能因为偶然因素只和我建立色情关系的则更是大海捞针，极难寻觅。我到现在人生二十年也只遇见过昙花一现的如此朋友四五个罢了。没有长久的。\n我谈恋爱是无奈之举，我必须坦诚的说我并没有照顾人的能力，所以我恋爱总是失败。但是不恋爱又没人和我色色。这就很纠结了。\n\nAngel, don't fly so close to me，\n 天使 别飞往我身边来，\nI'm what you want, not what you need，\n 你深爱我 而非你所需，\nYou don't want to lose those wings，\n 我不希望你痛失羽翼，\nPeople like me break beautiful things，\n 而我这种人 注定无法与美好共存，\nAnother day, another week，\n 度过多少周 多少天，\nAnother night I didn't sleep，\n 深夜时的我仍无法入眠，\nI thought together we'd be better，\n 本以为我们的关系会更好，\nGuess I should've known better，\n 但看来我没早认清现实，\nSeeing things I can't unsee，\n 不该如此糊涂，\nI said things I can't repeat，\n 那些话我不想再重复，\nForget whatever you remember，\n 将你记忆中的全部忘掉，\nNo, I don't need no conversation，\n 就别再找我谈，\nOne more moment wasted，\n 那样也是浪费时间，\nWe're moving on，\n 还是得学会放下，\nDon't make this harder than it has to be，\n 别再让事情恶化下去，\nIf you really my，\n 若你是我命中注定的人，\nAngel, don't fly so close to me，\n 天使 别飞往我身边来，\nI'll pull you down eventually，\n 我终会令你身处万劫不复的境地，\nYou don't want to lose those wings，\n 我不希望你痛失羽翼，\nPeople like me break beautiful things，\n 而我这种人 注定无法与美好共存。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在有可以随意聊天的朋友。有一起玩游戏的朋友。有每天陪伴的朋友。\n普通的朋友也一大堆众星拱月，随时可以填补亲密朋友的位置，不惧社交动荡。\n但唯独缺少可以一起色色的朋友。\n朋友好交，色心难觅呀。 https://t.co/PrzWvs0DgS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 180346,
+        "height": 1600,
+        "media_key": "13_2067450959769563136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067450959769563136/img/NPPSEk2flc02Hmio.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067450959769563136/vid/avc1/320x710/gGnDoMeW39bsANyy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067450959769563136/vid/avc1/480x1066/xMtasdwzPCMysPnJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067450959769563136/vid/avc1/720x1600/y1V_ZhmivQDKJORc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067450959769563136/pl/iMLG126yUbjnc14H.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067450959769563136"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2067451444270362770",
+        "created_at": "2026-06-18T03:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067451444270362770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrzWvs0DgS",
+              "end": 121,
+              "expanded_url": "https://x.com/ansiyao520/status/2067451444270362770/video/1",
+              "media_key": "13_2067450959769563136",
+              "start": 98,
+              "url": "https://t.co/PrzWvs0DgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067451444270362770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在有可以随意聊天的朋友。有一起玩游戏的朋友。有每天陪伴的朋友。\n普通的朋友也一大堆众星拱月，随时可以填补亲密朋友的位置，不惧社交动荡。\n但唯独缺少可以一起色色的朋友。\n朋友好交，色心难觅呀。\n色色毕竟是很亲密的事，不把色色神圣化私密化、外包给恋人的率性洒脱者本来就少。能因为偶然因素只和我建立色情关系的则更是大海捞针，极难寻觅。我到现在人生二十年也只遇见过昙花一现的如此朋友四五个罢了。没有长久的。\n我谈恋爱是无奈之举，我必须坦诚的说我并没有照顾人的能力，所以我恋爱总是失败。但是不恋爱又没人和我色色。这就很纠结了。\n\nAngel, don't fly so close to me，\n 天使 别飞往我身边来，\nI'm what you want, not what you need，\n 你深爱我 而非你所需，\nYou don't want to lose those wings，\n 我不希望你痛失羽翼，\nPeople like me break beautiful things，\n 而我这种人 注定无法与美好共存，\nAnother day, another week，\n 度过多少周 多少天，\nAnother night I didn't sleep，\n 深夜时的我仍无法入眠，\nI thought together we'd be better，\n 本以为我们的关系会更好，\nGuess I should've known better，\n 但看来我没早认清现实，\nSeeing things I can't unsee，\n 不该如此糊涂，\nI said things I can't repeat，\n 那些话我不想再重复，\nForget whatever you remember，\n 将你记忆中的全部忘掉，\nNo, I don't need no conversation，\n 就别再找我谈，\nOne more moment wasted，\n 那样也是浪费时间，\nWe're moving on，\n 还是得学会放下，\nDon't make this harder than it has to be，\n 别再让事情恶化下去，\nIf you really my，\n 若你是我命中注定的人，\nAngel, don't fly so close to me，\n 天使 别飞往我身边来，\nI'll pull you down eventually，\n 我终会令你身处万劫不复的境地，\nYou don't want to lose those wings，\n 我不希望你痛失羽翼，\nPeople like me break beautiful things，\n 而我这种人 注定无法与美好共存。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在有可以随意聊天的朋友。有一起玩游戏的朋友。有每天陪伴的朋友。\n普通的朋友也一大堆众星拱月，随时可以填补亲密朋友的位置，不惧社交动荡。\n但唯独缺少可以一起色色的朋友。\n朋友好交，色心难觅呀。 https://t.co/PrzWvs0DgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 1649,
+          "like_count": 24508,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1435
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

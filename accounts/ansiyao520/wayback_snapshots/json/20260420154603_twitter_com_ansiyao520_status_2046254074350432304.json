@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046013184600076677",
+    "created_at": "2026-04-20T15:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046254074350432304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045017079665844224",
+          "start": 0,
+          "username": "Fellow383356"
+        },
+        {
+          "end": 22,
+          "id": "1962302660541079552",
+          "start": 14,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046254074350432304",
+    "in_reply_to_user_id": "2045017079665844224",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046252841141215577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fellow383356 @yuerQwQ Of course not. But without dreams, there's no life. Whether fumo matters or not depends entirely on what you pursue."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046013184600076677",
+        "created_at": "2026-04-20T15:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046254074350432304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045017079665844224",
+              "start": 0,
+              "username": "Fellow383356"
+            },
+            {
+              "end": 22,
+              "id": "1962302660541079552",
+              "start": 14,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046254074350432304",
+        "in_reply_to_user_id": "2045017079665844224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046252841141215577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fellow383356 @yuerQwQ Of course not. But without dreams, there's no life. Whether fumo matters or not depends entirely on what you pursue."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045017079665844224",
+        "conversation_id": "2046013184600076677",
+        "created_at": "2026-04-20T15:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046252841141215577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            },
+            {
+              "end": 20,
+              "id": "1962302660541079552",
+              "start": 12,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046252841141215577",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046117739291713744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 @yuerQwQ Is life doomed without fumo?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1240,
+          "like_count": 11319,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 479
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T06:04:26.000Z",
+        "description": "MainlandChinese|19|She/Her|Transgender Lesbian Queer🏳️‍⚧️🏳️‍🌈|Existentialist Marxism🚩–Libertarian Syndicalism🏴|Anti-Soviet elements|Agnostics|DM open|🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/hood438371",
+                "end": 23,
+                "expanded_url": "https://x.com/hood438371",
+                "start": 0,
+                "url": "https://t.co/K8lvFGCGwj"
+              }
+            ]
+          }
+        },
+        "id": "2045017079665844224",
+        "location": "Gensokyo",
+        "name": "FellowⒶshley红🏳️‍⚧️",
+        "pinned_tweet_id": "2046190726325866937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045034001854038016/uObC1Pbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 82,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/K8lvFGCGwj",
+        "username": "Fellow383356",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo           喵喵喵喵                                                小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2043331942033350990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 643,
+          "like_count": 3979,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 545
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

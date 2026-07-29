@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042288884130988034"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042288887012475113",
+    "created_at": "2026-04-09T17:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042288887012475113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCYVoZyIxw",
+          "end": 166,
+          "expanded_url": "https://x.com/ansiyao520/status/2042288887012475113/photo/1",
+          "media_key": "3_2042288884130988034",
+          "start": 143,
+          "url": "https://t.co/rCYVoZyIxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042288887012475113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这么快和新恋人在一起、抨击我，不过是想装可怜洗白自己，证明你的选择是对的。可竟还打上“忍半年杀恶人”的旗号，真是子虚乌有，指鹿为马。\n你无非想证明吃🍥是对的，施与别人小恩小惠是对的。新恋人允许你这么做，你就和他在一起。可你想过究竟什么是对的吗。\n每次讨论这些，你都说自己不想思考这些 https://t.co/rCYVoZyIxw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2042288884130988034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeq62tbQAIpi9w.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042288884130988034"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042288887012475113",
+        "created_at": "2026-04-09T17:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042288887012475113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCYVoZyIxw",
+              "end": 166,
+              "expanded_url": "https://x.com/ansiyao520/status/2042288887012475113/photo/1",
+              "media_key": "3_2042288884130988034",
+              "start": 143,
+              "url": "https://t.co/rCYVoZyIxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042288887012475113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这么快和新恋人在一起、抨击我，不过是想装可怜洗白自己，证明你的选择是对的。可竟还打上“忍半年杀恶人”的旗号，真是子虚乌有，指鹿为马。\n你无非想证明吃🍥是对的，施与别人小恩小惠是对的。新恋人允许你这么做，你就和他在一起。可你想过究竟什么是对的吗。\n每次讨论这些，你都说自己不想思考这些 https://t.co/rCYVoZyIxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 791,
+          "like_count": 4227,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 190
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2061095123984003502",
+    "created_at": "2026-06-01T17:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061503690314563914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054727871977893888",
+          "start": 0,
+          "username": "HomaRei111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061503690314563914",
+    "in_reply_to_user_id": "2054727871977893888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061095213477855514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HomaRei111 well，それは本当にひどい心理的経験で、あなたのことが本当に心配です。親愛なるあなた、抱きしめてあげる。とても気にかけているよ。この困難を乗り越えられますように🥺。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2061095123984003502",
+        "created_at": "2026-06-01T17:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061503690314563914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054727871977893888",
+              "start": 0,
+              "username": "HomaRei111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061503690314563914",
+        "in_reply_to_user_id": "2054727871977893888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061095213477855514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HomaRei111 well，それは本当にひどい心理的経験で、あなたのことが本当に心配です。親愛なるあなた、抱きしめてあげる。とても気にかけているよ。この困難を乗り越えられますように🥺。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054727871977893888",
+        "conversation_id": "2061095123984003502",
+        "created_at": "2026-05-31T14:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061095213477855514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061095213477855514",
+        "in_reply_to_user_id": "2054727871977893888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061095123984003502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希死念慮が湧いてくる。他人の幸せを目にするだけで自分の幸せが奪われたような気がして勝手に落ち込んじゃう。自分なりの幸せを見つけろとか他人と比較するなって言われても薄っぺらい綺麗事にしか聞こえなくてうんざりするだけ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1451,
+          "like_count": 19221,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1016
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T00:58:44.000Z",
+        "description": "05/ 病み垢/躁鬱/ADHD/障害性パーソナリティ障害/顔面学歴青春コンプ/OD/地雷系/ボカロ好き/アイコンはポケユニ/DM◎/地雷系と繋がりたい🫶🏻🩷🥹",
+        "id": "2054727871977893888",
+        "location": "東京 杉並区",
+        "name": "れい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061039610097229824/LuyOwo2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 175,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "HomaRei111",
+        "verified": false
+      }
+    ]
+  }
+}

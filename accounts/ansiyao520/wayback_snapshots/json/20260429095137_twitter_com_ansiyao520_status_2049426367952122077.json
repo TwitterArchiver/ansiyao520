@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049425910374490112",
+        "3_2049425910374465536",
+        "3_2049425943723466752"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049426367952122077",
+    "created_at": "2026-04-29T09:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:49:56.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049425946508513498",
+      "2049426367952122077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m67QtWmepk",
+          "end": 86,
+          "expanded_url": "https://x.com/ansiyao520/status/2049426367952122077/photo/1",
+          "media_key": "3_2049425910374490112",
+          "start": 63,
+          "url": "https://t.co/m67QtWmepk"
+        },
+        {
+          "display_url": "pic.x.com/m67QtWmepk",
+          "end": 86,
+          "expanded_url": "https://x.com/ansiyao520/status/2049426367952122077/photo/1",
+          "media_key": "3_2049425910374465536",
+          "start": 63,
+          "url": "https://t.co/m67QtWmepk"
+        },
+        {
+          "display_url": "pic.x.com/m67QtWmepk",
+          "end": 86,
+          "expanded_url": "https://x.com/ansiyao520/status/2049426367952122077/photo/1",
+          "media_key": "3_2049425943723466752",
+          "start": 63,
+          "url": "https://t.co/m67QtWmepk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049426367952122077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你看这老男人恶不恶心。小男孩和妈妈都不放过。谁鼓吹的男同片啊。到目前为止除了看到我自己的影子和失败经验。完全没看到爱情在哪。 https://t.co/m67QtWmepk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049425946508513498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049425946508513498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049425946508513498"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049426367952122077].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049426367952122077",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049426367952122077"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049425910374490112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEGAdVaYAAgCV-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049425910374465536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEGAdVaAAArPgr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049425943723466752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEGCZkbYAAGYnH.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1306,
+          "like_count": 14071,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 634
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

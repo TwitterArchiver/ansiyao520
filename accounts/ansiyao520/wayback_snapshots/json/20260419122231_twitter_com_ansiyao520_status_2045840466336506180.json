@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045484149361053696"
+      ],
+      "media_source_tweet_id": [
+        "2045484155862233578"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2045840466336506180",
+    "created_at": "2026-04-19T12:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045840466336506180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1546162160111321088",
+          "start": 3,
+          "username": "17748_777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wyh8IvTkUS",
+          "end": 66,
+          "expanded_url": "https://x.com/17748_777/status/2045484155862233578/photo/1",
+          "media_key": "3_2045484149361053696",
+          "start": 43,
+          "url": "https://t.co/Wyh8IvTkUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045840466336506180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045484155862233578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17748_777: 想要自残的人你可以考虑一下，你未来的手可能会变成这样。 https://t.co/Wyh8IvTkUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045484149361053696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGME_xRbkAARBr2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045484149361053696"
+          ],
+          "media_source_tweet_id": [
+            "2045484155862233578"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2045840466336506180",
+        "created_at": "2026-04-19T12:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045840466336506180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1546162160111321088",
+              "start": 3,
+              "username": "17748_777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wyh8IvTkUS",
+              "end": 66,
+              "expanded_url": "https://x.com/17748_777/status/2045484155862233578/photo/1",
+              "media_key": "3_2045484149361053696",
+              "start": 43,
+              "url": "https://t.co/Wyh8IvTkUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045840466336506180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045484155862233578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17748_777: 想要自残的人你可以考虑一下，你未来的手可能会变成这样。 https://t.co/Wyh8IvTkUS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045484149361053696"
+          ]
+        },
+        "author_id": "1546162160111321088",
+        "conversation_id": "2045484155862233578",
+        "created_at": "2026-04-18T12:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045484155862233578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wyh8IvTkUS",
+              "end": 51,
+              "expanded_url": "https://x.com/17748_777/status/2045484155862233578/photo/1",
+              "media_key": "3_2045484149361053696",
+              "start": 28,
+              "url": "https://t.co/Wyh8IvTkUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045484155862233578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 87478,
+          "like_count": 2087,
+          "quote_count": 86,
+          "reply_count": 79,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "想要自残的人你可以考虑一下，你未来的手可能会变成这样。 https://t.co/Wyh8IvTkUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1226,
+          "like_count": 10483,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 451
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-10T15:59:30.000Z",
+        "description": "我不再自残了。主页往期推文不会删，现在大概发的都是些恢复。女孩子互fo大欢迎",
+        "id": "1546162160111321088",
+        "name": "182",
+        "pinned_tweet_id": "1772350061399138646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679811687053152256/kgGNSBTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 497,
+          "like_count": 13017,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 1064
+        },
+        "username": "17748_777",
+        "verified": false
+      }
+    ]
+  }
+}

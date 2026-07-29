@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044767073033986432",
+    "created_at": "2026-04-16T13:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044767073033986432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/asy98243",
+          "end": 31,
+          "expanded_url": "https://ngl.link/asy98243",
+          "start": 8,
+          "status": 200,
+          "title": "@asy: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/asy98243",
+          "url": "https://t.co/RK7vy8miXG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044767073033986432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "匿名问答开放：\nhttps://t.co/RK7vy8miXG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044767073033986432",
+        "created_at": "2026-04-16T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044767073033986432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/asy98243",
+              "end": 31,
+              "expanded_url": "https://ngl.link/asy98243",
+              "start": 8,
+              "status": 200,
+              "title": "@asy: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/asy98243",
+              "url": "https://t.co/RK7vy8miXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044767073033986432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "匿名问答开放：\nhttps://t.co/RK7vy8miXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1147,
+          "like_count": 8740,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 419
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

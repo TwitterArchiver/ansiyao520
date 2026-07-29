@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2072615705330200581",
+    "created_at": "2026-07-02T10:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072622539097231614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072622539097231614",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072615705330200581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 抽血是为了体验濒死感吗。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10938,
+        "height": 3840,
+        "media_key": "13_2072615312588263424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072615312588263424/img/VysuKR--IXeBGCM0.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072615312588263424/vid/avc1/1080x1920/rmMzUzY1LivTkAbc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072615312588263424/vid/avc1/320x568/fI5Oek4Y-cTbC-ta.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072615312588263424/vid/avc1/480x852/-_qtEGrLD3W3uAaU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072615312588263424/vid/avc1/720x1280/QpczPet9ZKB7h52D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072615312588263424/pl/AhBxSHq8oZuo8VQq.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072615312588263424/vid/avc1/2160x3840/BdNnocnjGlzf45Dv.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072615312944762880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNopVwbkAANJ-x.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072615312567246848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNopUWbIAAKu-Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072615312571375616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNopUXaIAA0z2s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2072615705330200581",
+        "created_at": "2026-07-02T10:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072622539097231614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072622539097231614",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072615705330200581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 抽血是为了体验濒死感吗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072615312588263424",
+            "3_2072615312944762880",
+            "3_2072615312567246848",
+            "3_2072615312571375616"
+          ]
+        },
+        "author_id": "1430052755352166401",
+        "conversation_id": "2072615705330200581",
+        "created_at": "2026-07-02T09:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072615705330200581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sVFNFeuU7",
+              "end": 49,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2072615705330200581/video/1",
+              "media_key": "13_2072615312588263424",
+              "start": 26,
+              "url": "https://t.co/9sVFNFeuU7"
+            },
+            {
+              "display_url": "pic.x.com/9sVFNFeuU7",
+              "end": 49,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2072615705330200581/video/1",
+              "media_key": "3_2072615312944762880",
+              "start": 26,
+              "url": "https://t.co/9sVFNFeuU7"
+            },
+            {
+              "display_url": "pic.x.com/9sVFNFeuU7",
+              "end": 49,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2072615705330200581/video/1",
+              "media_key": "3_2072615312567246848",
+              "start": 26,
+              "url": "https://t.co/9sVFNFeuU7"
+            },
+            {
+              "display_url": "pic.x.com/9sVFNFeuU7",
+              "end": 49,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2072615705330200581/video/1",
+              "media_key": "3_2072615312571375616",
+              "start": 26,
+              "url": "https://t.co/9sVFNFeuU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072615705330200581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很伤心，很难过😭😭😭\n想死了真的，抽个血🩸缓缓🔪🔪 https://t.co/9sVFNFeuU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 1760,
+          "like_count": 27771,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 1691
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05年184天空树🎄65kg/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2053055248185597964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 828,
+          "like_count": 3737,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 1538
+        },
+        "url": "",
+        "username": "Wendy_Ai2005",
+        "verified": true
+      }
+    ]
+  }
+}

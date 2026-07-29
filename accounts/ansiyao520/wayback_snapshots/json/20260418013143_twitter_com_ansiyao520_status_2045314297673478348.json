@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2045314297673478348",
+    "created_at": "2026-04-18T01:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045314297673478348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1966745903055990786",
+          "start": 3,
+          "username": "eggtartqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045314297673478348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990399139369325013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eggtartqwq: 在小红书上“赛博确诊 ADHD”似乎已经成了某种新的时尚标签。但 ADHD 必须在儿童期就出现明显特征，不可能在成年后某一天突然“患上”。有人认为，即使把 ADHD 当作一种潮流或是通过赛博自我诊断也无伤大雅，甚至能提高大众认知，我却不这么认为。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2045314297673478348",
+        "created_at": "2026-04-18T01:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045314297673478348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1966745903055990786",
+              "start": 3,
+              "username": "eggtartqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045314297673478348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990399139369325013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eggtartqwq: 在小红书上“赛博确诊 ADHD”似乎已经成了某种新的时尚标签。但 ADHD 必须在儿童期就出现明显特征，不可能在成年后某一天突然“患上”。有人认为，即使把 ADHD 当作一种潮流或是通过赛博自我诊断也无伤大雅，甚至能提高大众认知，我却不这么认为。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966745903055990786",
+        "conversation_id": "1990399139369325013",
+        "created_at": "2025-11-17T12:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990399139369325013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990399139369325013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在小红书上“赛博确诊 ADHD”似乎已经成了某种新的时尚标签。但 ADHD 必须在儿童期就出现明显特征，不可能在成年后某一天突然“患上”。有人认为，即使把 ADHD 当作一种潮流或是通过赛博自我诊断也无伤大雅，甚至能提高大众认知，我却不这么认为。事实上，许多在小红书上声称自己有 ADHD 的人，更像是在炫耀所谓的“智商代偿”，而不是真正理解或尊重这一神经发展障碍。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 204698,
+          "like_count": 406,
+          "quote_count": 11,
+          "reply_count": 52,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "在小红书上“赛博确诊 ADHD”似乎已经成了某种新的时尚标签。但 ADHD 必须在儿童期就出现明显特征，不可能在成年后某一天突然“患上”。有人认为，即使把 ADHD 当作一种潮流或是通过赛博自我诊断也无伤大雅，甚至能提高大众认知，我却不这么认为。事实上，许多在小红书上声称自己有 ADHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 1190,
+          "like_count": 9588,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 441
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T06:09:08.000Z",
+        "description": "老广未开智家里蹲，爱好音乐摄影。",
+        "id": "1966745903055990786",
+        "location": "茶楼",
+        "name": "樱川九十九",
+        "pinned_tweet_id": "2035818956876026057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045054851294638080/Gu0wbHMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 685,
+          "like_count": 8196,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 777
+        },
+        "username": "eggtartqwq",
+        "verified": true
+      }
+    ]
+  }
+}

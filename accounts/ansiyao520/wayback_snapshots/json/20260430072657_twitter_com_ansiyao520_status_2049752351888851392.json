@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049752332519571456"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049752351888851392",
+    "created_at": "2026-04-30T07:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049752351888851392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZr6PE6zr1",
+          "end": 55,
+          "expanded_url": "https://x.com/ansiyao520/status/2049752351888851392/photo/1",
+          "media_key": "3_2049752332519571456",
+          "start": 32,
+          "url": "https://t.co/mZr6PE6zr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049752351888851392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么样的人，会和我很般配呢？\n我期待着。并怀着这样的期待生活。 https://t.co/mZr6PE6zr1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049752351888851392].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049752351888851392",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049752351888851392"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049752332519571456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIu4ulbgAA4WxN.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1335,
+          "like_count": 14682,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 698
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

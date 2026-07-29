@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044439149130964993"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044439491516211708",
+    "created_at": "2026-04-15T15:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044439491516211708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GYLpFCErc",
+          "end": 130,
+          "expanded_url": "https://x.com/ansiyao520/status/2044439491516211708/video/1",
+          "media_key": "7_2044439149130964993",
+          "start": 107,
+          "url": "https://t.co/9GYLpFCErc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044439491516211708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "各位药娘朋友们一定有过这样的瞬间吧——拼命拉住好朋友的手说，“别死”，可对方只是不言，在下一条推文里继续自残说，“真的想死了啊”。你试了所有能说的话，可他还是那样。你开始怀疑自己是不是不够有力，是不是说错了什么。\n我想为大家点播一首《无月之街》。歌里唱着一对彼此支撑的人：一个把“好想死”挂在嘴边，另一个用尽力气重复“死了就全完了啊”。在最糟糕的日子里，他们一起看雪，一起走路，哪怕脚步沉重。\n希望大家在劝到无话可说的时候，不只剩下“你怎么还这样”的失望。替对方也替自己喊出，“可是死了就全完了啊”。这是最后也最真的希望。\n\n但是我知道。\n我明白，\n你知道这个道理，\n所以我非常讨厌，\n只能说这些话的自己，\n在脚边堆叠的雪下，\n我舍弃的东西是什么呢？\n你想要把我丢掉，\n舍弃的东西是什么呢？\n能救到你的话语是什么呢？\n对你说什么才是正确的呢？\n把烦恼的我抛在一边，\n你边吐着白气边说，\n“真的想死了啊”，\n这是沉默寡言的你的一句口头禅，\n但是得走下去啊，\n因为，\n死了就全完了\n死了就全完了，\n死了就全完了啊。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位药娘朋友们一定有过这样的瞬间吧——拼命拉住好朋友的手说，“别死”，可对方只是不言，在下一条推文里继续自残说，“真的想死了啊”。你试了所有能说的话，可他还是那样。你开始怀疑自己是不是不够有力，是不是说错了什么。 https://t.co/9GYLpFCErc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 232966,
+        "height": 1088,
+        "media_key": "7_2044439149130964993",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044439149130964993/pu/img/sN4xv1BTcqgUVli8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044439149130964993/pu/vid/avc1/320x604/UQhLXcNoTMXmmn2y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044439149130964993/pu/vid/avc1/480x906/eigFe2d4D7sHPldE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044439149130964993/pu/vid/avc1/576x1088/vg2YnUVGZGxj8fbV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044439149130964993/pu/pl/fREvQ2maHVLxNjoU.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044439149130964993"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044439491516211708",
+        "created_at": "2026-04-15T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044439491516211708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GYLpFCErc",
+              "end": 130,
+              "expanded_url": "https://x.com/ansiyao520/status/2044439491516211708/video/1",
+              "media_key": "7_2044439149130964993",
+              "start": 107,
+              "url": "https://t.co/9GYLpFCErc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044439491516211708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "各位药娘朋友们一定有过这样的瞬间吧——拼命拉住好朋友的手说，“别死”，可对方只是不言，在下一条推文里继续自残说，“真的想死了啊”。你试了所有能说的话，可他还是那样。你开始怀疑自己是不是不够有力，是不是说错了什么。\n我想为大家点播一首《无月之街》。歌里唱着一对彼此支撑的人：一个把“好想死”挂在嘴边，另一个用尽力气重复“死了就全完了啊”。在最糟糕的日子里，他们一起看雪，一起走路，哪怕脚步沉重。\n希望大家在劝到无话可说的时候，不只剩下“你怎么还这样”的失望。替对方也替自己喊出，“可是死了就全完了啊”。这是最后也最真的希望。\n\n但是我知道。\n我明白，\n你知道这个道理，\n所以我非常讨厌，\n只能说这些话的自己，\n在脚边堆叠的雪下，\n我舍弃的东西是什么呢？\n你想要把我丢掉，\n舍弃的东西是什么呢？\n能救到你的话语是什么呢？\n对你说什么才是正确的呢？\n把烦恼的我抛在一边，\n你边吐着白气边说，\n“真的想死了啊”，\n这是沉默寡言的你的一句口头禅，\n但是得走下去啊，\n因为，\n死了就全完了\n死了就全完了，\n死了就全完了啊。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位药娘朋友们一定有过这样的瞬间吧——拼命拉住好朋友的手说，“别死”，可对方只是不言，在下一条推文里继续自残说，“真的想死了啊”。你试了所有能说的话，可他还是那样。你开始怀疑自己是不是不够有力，是不是说错了什么。 https://t.co/9GYLpFCErc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1141,
+          "like_count": 7740,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 403
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

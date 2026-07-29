@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065359962965238030",
+    "created_at": "2026-06-12T09:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065359962965238030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065359962965238030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在床上睡了两个小时。不知天地所在。\n在床上躺着舒展一下，已经累得半死。给喜欢的人发消息也没被回复，心情郁闷。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065359962965238030",
+        "created_at": "2026-06-12T09:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065359962965238030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065359962965238030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在床上睡了两个小时。不知天地所在。\n在床上躺着舒展一下，已经累得半死。给喜欢的人发消息也没被回复，心情郁闷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 1552,
+          "like_count": 22619,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1328
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

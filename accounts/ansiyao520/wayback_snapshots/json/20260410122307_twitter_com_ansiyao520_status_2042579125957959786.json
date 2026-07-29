@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042579125957959786",
+    "created_at": "2026-04-10T12:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042579125957959786"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042579125957959786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "补档：\n《纪念一个药娘朋友》\n我在某平台上认识了他。加了他的qq群，并且凭借着自己友好的态度和说话的技术迅速取得了他的信任。我和他约定了做姐妹。\n和他一起看了电视。在他难过时稍微安慰了他。给他讲过一些趣事。\n重点是，他处理情绪的方式很不好，是以损害身体为代价的，我不太会引导，于是采用了谈判的姿态，让他少做一点。我以为这样会起效。\n可是我只是他的姐姐，我不能同时是他的监护人、心理咨询师和生命保护者。在他面对生与死的痛苦与抉择时，我的话术不够用。我逐渐败于下风。遏制不住他日常积累的和面对问题时心里萌生的抑郁情绪和自我毁灭倾向。\n今天是我认识他的第七天（2026/2/21）。刚好满一周。据他所说，这是他第四次活不下去，我已经说了所有能说的了……\n这场对生命的守望里，我输掉了。我大概率永远失去了我的妹妹。我很想你。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补档：\n《纪念一个药娘朋友》\n我在某平台上认识了他。加了他的qq群，并且凭借着自己友好的态度和说话的技术迅速取得了他的信任。我和他约定了做姐妹。\n和他一起看了电视。在他难过时稍微安慰了他。给他讲过一些趣事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042579125957959786",
+        "created_at": "2026-04-10T12:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042579125957959786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042579125957959786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "补档：\n《纪念一个药娘朋友》\n我在某平台上认识了他。加了他的qq群，并且凭借着自己友好的态度和说话的技术迅速取得了他的信任。我和他约定了做姐妹。\n和他一起看了电视。在他难过时稍微安慰了他。给他讲过一些趣事。\n重点是，他处理情绪的方式很不好，是以损害身体为代价的，我不太会引导，于是采用了谈判的姿态，让他少做一点。我以为这样会起效。\n可是我只是他的姐姐，我不能同时是他的监护人、心理咨询师和生命保护者。在他面对生与死的痛苦与抉择时，我的话术不够用。我逐渐败于下风。遏制不住他日常积累的和面对问题时心里萌生的抑郁情绪和自我毁灭倾向。\n今天是我认识他的第七天（2026/2/21）。刚好满一周。据他所说，这是他第四次活不下去，我已经说了所有能说的了……\n这场对生命的守望里，我输掉了。我大概率永远失去了我的妹妹。我很想你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补档：\n《纪念一个药娘朋友》\n我在某平台上认识了他。加了他的qq群，并且凭借着自己友好的态度和说话的技术迅速取得了他的信任。我和他约定了做姐妹。\n和他一起看了电视。在他难过时稍微安慰了他。给他讲过一些趣事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "友跨🍥/擅长分析/喜欢粉色/喜欢二次元/欢迎xyn、xnn互fo贴贴～",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2042571364171944368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 797,
+          "like_count": 4290,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 210
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

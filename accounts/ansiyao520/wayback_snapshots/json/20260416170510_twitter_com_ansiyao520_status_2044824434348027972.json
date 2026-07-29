@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044824250763423744"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044824434348027972",
+    "created_at": "2026-04-16T17:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044824434348027972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6TSP3VXgVy",
+          "end": 193,
+          "expanded_url": "https://x.com/ansiyao520/status/2044824434348027972/video/1",
+          "media_key": "7_2044824250763423744",
+          "start": 170,
+          "url": "https://t.co/6TSP3VXgVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044824434348027972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "亲爱的，你告诉我，我们还要多久才能停下这悲剧的循环。\n每一次个体的离去，都可能短暂地激起浪花，但浪潮退去后，水面下的暗流依然在裹挟着相似痛苦的人。\n\nHow long，\n还需多久，\nHow long till I’m out of this place，\n还需多久 我才能离开这令我痛苦不堪的地方，\nHow low，\n我又还需要承受多少，\nHow low can I bend till I break，\n直至我的精神世界分崩离析，\nAll I know is I can’t carry this no more so，\n但我现在唯一知道的是 我已不堪重负了，\nHow long, how low，\n因此还需多久 我又还需要忍受多长时间，\nI’ve been thinking about just up and leaving，\n我也曾考虑过 干脆放弃一切就此离开，\nCan’t seem to open the door ‘cause my nerve is fleeting，\n却还是犹豫不决 因心中那份恐惧而难以打开那扇通往未来的门，\nCan barely carry my hollow state，\n我那残缺的身体 几乎无法承受这空洞的状态，\nGrasping at memories from when I was younger，\n紧握那来自年少时的回忆，\nFeels like I’m someone else and it makes me wonder，\n却早已感觉自己变了模样 这让我不禁思索，\nHave I been like this all my life，\n难道此生就该如此度过？\nHow long，\n还需多久，\nHow long till I’m out of this place，\n还需多久 我才能离开这令我痛苦不堪的地方，\nHow low，\n我又还需要承受多少，\nHow low can I bend till I break，\n直至我的精神世界分崩离析，\nAll I know is I can’t carry this no more so，\n但我现在唯一知道的是 我已不堪重负了，\nHow long, how low.\n因此还需多久 我又还需要忍受多长时间。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的，你告诉我，我们还要多久才能停下这悲剧的循环。\n每一次个体的离去，都可能短暂地激起浪花，但浪潮退去后，水面下的暗流依然在裹挟着相似痛苦的人。\n\nHow long，\n还需多久，\nHow long till I’m out of this place，\n还需多久 我才能离开这令我痛苦不堪的地方，\nHow low，\n我又还需要承受多少， https://t.co/6TSP3VXgVy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2044824434348027972].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2044824434348027972",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2044824434348027972"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 247350,
+        "height": 1088,
+        "media_key": "7_2044824250763423744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044824250763423744/pu/img/AS9LH7ephv9wjYRl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044824250763423744/pu/vid/avc1/320x604/I7G6UaAnTRwJXMm8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044824250763423744/pu/vid/avc1/480x906/BZhv36xSulcZMagB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044824250763423744/pu/vid/avc1/576x1088/HlH8YYzaJMqqm3HX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044824250763423744/pu/pl/yLDtMu342mexlHGW.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 1176,
+          "like_count": 9080,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 431
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

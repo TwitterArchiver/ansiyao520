@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2079407078654013775",
+    "created_at": "2026-07-21T03:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:22:40.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079406680593629521",
+      "2079407078654013775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "-, 视频播放量 59168、弹幕量 22、点赞数 11630、投硬币枚数 2284、收藏人数 14881、转发人数 1185, 视频作者 Chiquitaaaa, 作者简介 There is more than I can say.，相关视频：30岁男相亲失败，2个月花10w，do完鼻子眼睛额头眉弓，普通人千万不要随便整容呀！真的是无底洞，长得丑比死亡更糟糕。，过度思考患者是什么样子的？，有哪些技能只需要花2到4周就能学会，却能真正改变你的人生，【中字】这是我做心理医生以来见过的最危险的心态，今天体验的一生副本是：讨好型人格的一生，转发给你天天熬夜的朋友，人太焦虑，成功地吸引了朋友的抚慰犬，什么叫我的智商得不了自闭症，《TP人嘛...不是互助会》",
+          "display_url": "b23.tv/Jb5NoKh",
+          "end": 57,
+          "expanded_url": "https://b23.tv/Jb5NoKh",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2079406684376842240/dARZleWI?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2079406684376842240/dARZleWI?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1J2N46sEar/?-Arouter=story&buvid=XXE5C3BE9998F067A5237ACD537C443D9FD96&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=mUi%2BWMLURdBL6aEx7mE2cw%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b8337e7d-bb16-477d-a10c-345fedb17367&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1784603994&unique_k=Jb5NoKh&up_id=318541495",
+          "url": "https://t.co/Xe6IejISSo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079407078654013775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "b23.tv/Jb5NoKh",
+            "end": 57,
+            "expanded_url": "https://b23.tv/Jb5NoKh",
+            "start": 34,
+            "url": "https://t.co/EVKpGTrWXC"
+          }
+        ]
+      },
+      "text": "【几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤-哔哩哔哩】 https://t.co/EVKpGTrWXC\n最好自己去听。不要看内容文本。听别人说话和看文本调用的思考是不同的。看文字要思考，很痛苦。但是听别人说话很简单，只是照着做和听听哥哥姐姐说话。\n如果你实在没时间↓\n内容文本：\n“三年心理咨询，浓缩成60秒。\n你的情绪并不是毫无来由，它们都是在给你传递信息。\n焦虑，说明你把注意力放在了一个自己无法控制的未来。\n抑郁，说明你困在了一段无法改变的过去。\n愤怒，说明你的边界被侵犯了。\n愧疚，说明你的行为和自己的价值观不一致。\n不要把情绪当成需要消灭的问题，试着把它们当成一种信息，因为它们只是想告诉你一些事情。\n关于动力，有一件事你需要知道，动力本质上只是一种感觉，而感觉都是暂时的，你不能依赖感觉。真正有用的，是习惯。\n你每天所做的大约40%的事情其实都是靠自动化的习惯完成的。\n所以，与其等待灵感，不如建立一套属于自己的系统。\n别再让过去决定你的未来，试着建立新的行为模式，试着建立新的有益于你生活的行为模式。15岁的你不应该决定30岁的你是谁，当时的你没有现在的阅历，也没有现在拥有的信息。\n如果一个人轻易就能触发你的情绪，很多时候，问题并不在对方，那是一面镜子，它们只是碰到了你内心还没愈合的伤口，你无法控制别人，也无法控制结果，甚至很多事情的发展都不由你决定，但你可以控制自己的输入，你可以决定每天看什么，听什么，想什么，以及坚持练习什么。\n所以，别总想着压抑或消除自己的情绪，试着去读懂它，它想告诉你什么。\n别再苦苦等待「有动力了再开始」，把行动变成习惯，让它自动发生。也别一直活在过去，要成为那个不断学习、不断成长后的自己。\n这，大概就是心理疗愈最核心的意义。”"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤-哔哩哔哩】 https://t.co/Xe6IejISSo\n最好自己去听。不要看内容文本。听别人说话和看文本调用的思考是不同的。看文字要思考，很痛苦。但是听别人说话很简单，只是照着做和听听哥哥姐姐说话。\n如果你实在没时间↓\n内容文本："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2079406680593629521",
+        "created_at": "2026-07-21T03:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:22:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079406680593629521",
+          "2079407078654013775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 59168、弹幕量 22、点赞数 11630、投硬币枚数 2284、收藏人数 14881、转发人数 1185, 视频作者 Chiquitaaaa, 作者简介 There is more than I can say.，相关视频：30岁男相亲失败，2个月花10w，do完鼻子眼睛额头眉弓，普通人千万不要随便整容呀！真的是无底洞，长得丑比死亡更糟糕。，过度思考患者是什么样子的？，有哪些技能只需要花2到4周就能学会，却能真正改变你的人生，【中字】这是我做心理医生以来见过的最危险的心态，今天体验的一生副本是：讨好型人格的一生，转发给你天天熬夜的朋友，人太焦虑，成功地吸引了朋友的抚慰犬，什么叫我的智商得不了自闭症，《TP人嘛...不是互助会》",
+              "display_url": "b23.tv/Jb5NoKh",
+              "end": 57,
+              "expanded_url": "https://b23.tv/Jb5NoKh",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079406684376842240/dARZleWI?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079406684376842240/dARZleWI?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1J2N46sEar/?-Arouter=story&buvid=XXE5C3BE9998F067A5237ACD537C443D9FD96&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=mUi%2BWMLURdBL6aEx7mE2cw%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b8337e7d-bb16-477d-a10c-345fedb17367&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1784603994&unique_k=Jb5NoKh&up_id=318541495",
+              "url": "https://t.co/Xe6IejISSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079406680593629521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Jb5NoKh",
+                "end": 57,
+                "expanded_url": "https://b23.tv/Jb5NoKh",
+                "start": 34,
+                "url": "https://t.co/EVKpGTrWXC"
+              }
+            ]
+          },
+          "text": "【几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤-哔哩哔哩】 https://t.co/EVKpGTrWXC\n内容文本：\n“三年心理咨询，浓缩成60秒。\n你的情绪并不是毫无来由，它们都是在给你传递信息。\n焦虑，说明你把注意力放在了一个自己无法控制的未来。\n抑郁，说明你困在了一段无法改变的过去。\n愤怒，说明你的边界被侵犯了。\n愧疚，说明你的行为和自己的价值观不一致。\n不要把情绪当成需要消灭的问题，试着把它们当成一种信息，因为它们只是想告诉你一些事情。\n关于动力，有一件事你需要知道，动力本质上只是一种感觉，而感觉都是暂时的，你不能依赖感觉。真正有用的，是习惯。\n你每天所做的大约40%的事情其实都是靠自动化的习惯完成的。\n所以，与其等待灵感，不如建立一套属于自己的系统。\n别再让过去决定你的未来，试着建立新的行为模式，试着建立新的有益于你生活的行为模式。15岁的你不应该决定30岁的你是谁，当时的你没有现在的阅历，也没有现在拥有的信息。\n如果一个人轻易就能触发你的情绪，很多时候，问题并不在对方，那是一面镜子，它们只是碰到了你内心还没愈合的伤口，你无法控制别人，也无法控制结果，甚至很多事情的发展都不由你决定，但你可以控制自己的输入，你可以决定每天看什么，听什么，想什么，以及坚持练习什么。\n所以，别总想着压抑或消除自己的情绪，试着去读懂它，它想告诉你什么。\n别再苦苦等待「有动力了再开始」，把行动变成习惯，让它自动发生。也别一直活在过去，要成为那个不断学习、不断成长后的自己。\n这，大概就是心理疗愈最核心的意义。”"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤-哔哩哔哩】 https://t.co/Xe6IejISSo\n内容文本：\n“三年心理咨询，浓缩成60秒。\n你的情绪并不是毫无来由，它们都是在给你传递信息。\n焦虑，说明你把注意力放在了一个自己无法控制的未来。\n抑郁，说明你困在了一段无法改变的过去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2079407078654013775",
+        "created_at": "2026-07-21T03:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:22:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079406680593629521",
+          "2079407078654013775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 59168、弹幕量 22、点赞数 11630、投硬币枚数 2284、收藏人数 14881、转发人数 1185, 视频作者 Chiquitaaaa, 作者简介 There is more than I can say.，相关视频：30岁男相亲失败，2个月花10w，do完鼻子眼睛额头眉弓，普通人千万不要随便整容呀！真的是无底洞，长得丑比死亡更糟糕。，过度思考患者是什么样子的？，有哪些技能只需要花2到4周就能学会，却能真正改变你的人生，【中字】这是我做心理医生以来见过的最危险的心态，今天体验的一生副本是：讨好型人格的一生，转发给你天天熬夜的朋友，人太焦虑，成功地吸引了朋友的抚慰犬，什么叫我的智商得不了自闭症，《TP人嘛...不是互助会》",
+              "display_url": "b23.tv/Jb5NoKh",
+              "end": 57,
+              "expanded_url": "https://b23.tv/Jb5NoKh",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079406684376842240/dARZleWI?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079406684376842240/dARZleWI?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1J2N46sEar/?-Arouter=story&buvid=XXE5C3BE9998F067A5237ACD537C443D9FD96&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=mUi%2BWMLURdBL6aEx7mE2cw%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b8337e7d-bb16-477d-a10c-345fedb17367&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1784603994&unique_k=Jb5NoKh&up_id=318541495",
+              "url": "https://t.co/Xe6IejISSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079407078654013775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Jb5NoKh",
+                "end": 57,
+                "expanded_url": "https://b23.tv/Jb5NoKh",
+                "start": 34,
+                "url": "https://t.co/EVKpGTrWXC"
+              }
+            ]
+          },
+          "text": "【几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤-哔哩哔哩】 https://t.co/EVKpGTrWXC\n最好自己去听。不要看内容文本。听别人说话和看文本调用的思考是不同的。看文字要思考，很痛苦。但是听别人说话很简单，只是照着做和听听哥哥姐姐说话。\n如果你实在没时间↓\n内容文本：\n“三年心理咨询，浓缩成60秒。\n你的情绪并不是毫无来由，它们都是在给你传递信息。\n焦虑，说明你把注意力放在了一个自己无法控制的未来。\n抑郁，说明你困在了一段无法改变的过去。\n愤怒，说明你的边界被侵犯了。\n愧疚，说明你的行为和自己的价值观不一致。\n不要把情绪当成需要消灭的问题，试着把它们当成一种信息，因为它们只是想告诉你一些事情。\n关于动力，有一件事你需要知道，动力本质上只是一种感觉，而感觉都是暂时的，你不能依赖感觉。真正有用的，是习惯。\n你每天所做的大约40%的事情其实都是靠自动化的习惯完成的。\n所以，与其等待灵感，不如建立一套属于自己的系统。\n别再让过去决定你的未来，试着建立新的行为模式，试着建立新的有益于你生活的行为模式。15岁的你不应该决定30岁的你是谁，当时的你没有现在的阅历，也没有现在拥有的信息。\n如果一个人轻易就能触发你的情绪，很多时候，问题并不在对方，那是一面镜子，它们只是碰到了你内心还没愈合的伤口，你无法控制别人，也无法控制结果，甚至很多事情的发展都不由你决定，但你可以控制自己的输入，你可以决定每天看什么，听什么，想什么，以及坚持练习什么。\n所以，别总想着压抑或消除自己的情绪，试着去读懂它，它想告诉你什么。\n别再苦苦等待「有动力了再开始」，把行动变成习惯，让它自动发生。也别一直活在过去，要成为那个不断学习、不断成长后的自己。\n这，大概就是心理疗愈最核心的意义。”"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【几年的心理学咨询，浓缩起来就60秒。核心意义，非鸡汤-哔哩哔哩】 https://t.co/Xe6IejISSo\n最好自己去听。不要看内容文本。听别人说话和看文本调用的思考是不同的。看文字要思考，很痛苦。但是听别人说话很简单，只是照着做和听听哥哥姐姐说话。\n如果你实在没时间↓\n内容文本："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1852,
+          "like_count": 30042,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1900
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

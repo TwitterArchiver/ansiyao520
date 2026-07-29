@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049445331553882112"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049445334338945093",
+    "created_at": "2026-04-29T11:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049445334338945093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yNuqzxMFn6",
+          "end": 48,
+          "expanded_url": "https://x.com/ansiyao520/status/2049445334338945093/photo/1",
+          "media_key": "3_2049445331553882112",
+          "start": 25,
+          "url": "https://t.co/yNuqzxMFn6"
+        },
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049443765958693151",
+          "start": 49,
+          "url": "https://t.co/ZCMcBcRcGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049445334338945093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049443765958693151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样吗。\n我的视野模糊了。\n（安思瑶又装深沉） https://t.co/yNuqzxMFn6 https://t.co/ZCMcBcRcGm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049445334338945093].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049445334338945093",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049445334338945093"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049445331553882112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEXq63aEAAZEPS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049443765958693151",
+        "created_at": "2026-04-29T11:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049443765958693151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049443395366695172",
+              "start": 70,
+              "url": "https://t.co/ZF9KPUkRmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049443765958693151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049443395366695172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们常说。你骗我。就骗我一辈子。你欺负我。就欺负我一辈子。大概就是这个道理。\n你怎么“爱”我我都不介意。但你不要伤害我。没有人喜欢被伤害。 https://t.co/ZF9KPUkRmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1306,
+          "like_count": 14104,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 651
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049416206768304128"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049416209716936705",
+    "created_at": "2026-04-29T09:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049416209716936705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZtnqsDYd3",
+          "end": 82,
+          "expanded_url": "https://x.com/ansiyao520/status/2049416209716936705/photo/1",
+          "media_key": "3_2049416206768304128",
+          "start": 59,
+          "url": "https://t.co/SZtnqsDYd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049416209716936705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这男的手不老实啊。这死老头。\n我初中时被男的捏脸过。因为他觉得我可爱。加上我被他当女生有点开心，竟然就甘愿给他捏了。\n高中时有个男同。路上他也搂我。我问他你是不是借着搂我占我便宜，他说不是，因为真的占便宜的话他会把手指垂到我乳头那里，而不是仅仅搭在我的肩上。然后他还演示了如何把手指垂在乳头那里。到宿舍我越想越不对。他是不是摸我柰子了？"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这男的手不老实啊。这死老头。\n我初中时被男的捏脸过。因为他觉得我可爱。加上我被他当女生有点开心，竟然就甘愿给他捏了。 https://t.co/SZtnqsDYd3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049416209716936705].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049416209716936705",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049416209716936705"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049416206768304128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD9LolacAAfqy5.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1305,
+          "like_count": 14014,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 621
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

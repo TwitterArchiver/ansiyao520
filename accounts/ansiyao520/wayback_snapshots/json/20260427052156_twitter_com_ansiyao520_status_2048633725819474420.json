@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048633571229958144"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048633725819474420",
+    "created_at": "2026-04-27T05:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048633725819474420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DLrvNEaOdy",
+          "end": 173,
+          "expanded_url": "https://x.com/ansiyao520/status/2048633725819474420/video/1",
+          "media_key": "7_2048633571229958144",
+          "start": 150,
+          "url": "https://t.co/DLrvNEaOdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048633725819474420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近天下雨。肚子不舒服。好难受。\n还做噩梦。\n难受死了。\n\n隔岸是灯火通明，\n此端是黯然失色，\n就连海面上的漾波，\n都发出寂寞的音色，\n我在隐隐 约约的灰苇草间，\n望向历历 可辨的人间烟火，\n带我去彼岸 好吗，\n我向神明祈祷，\n回应是你的微笑，\n等日出日落月望，\n沉寂星泛起微光，\n找自己星的海洋，\n那份温柔只是臆想，\n黑夜里总有一束光，\n是为我而亮，\n回忆像繁星璀璨，\n点亮余生的微光，\n吹着旷野的风，\n哼着自由的歌唱，\n尘埃缺少翅膀，\n也渴望着飞翔，\n不会枯萎的花，\n美丽的绽放，\n你若隐若现，\n如雾中的弦月，\n放不下是眷恋，\n换不回她留连，\n我的孤独骗月 亮 犯 下这些错，\n不愿你在黑暗中低落，\n喜欢你，\n从窗台的花到宇宙爆炸"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近天下雨。肚子不舒服。好难受。\n还做噩梦。\n难受死了。\n\n隔岸是灯火通明，\n此端是黯然失色，\n就连海面上的漾波，\n都发出寂寞的音色，\n我在隐隐 约约的灰苇草间，\n望向历历 可辨的人间烟火，\n带我去彼岸 好吗，\n我向神明祈祷，\n回应是你的微笑，\n等日出日落月望，\n沉寂星泛起微光，\n找自己星的海洋， https://t.co/DLrvNEaOdy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048633725819474420].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048633725819474420",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048633725819474420"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 223868,
+        "height": 1088,
+        "media_key": "7_2048633571229958144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048633571229958144/pu/img/pz9aAgM1J83-yL7o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048633571229958144/pu/vid/avc1/320x604/UnS2FewSIYDPpOiB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048633571229958144/pu/vid/avc1/480x906/9EokwbJmcZ0sIIk7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048633571229958144/pu/vid/avc1/576x1088/hFeBpZQk2WSksnRj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048633571229958144/pu/pl/CfjFbFkH1uSflVQj.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1274,
+          "like_count": 13049,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 567
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

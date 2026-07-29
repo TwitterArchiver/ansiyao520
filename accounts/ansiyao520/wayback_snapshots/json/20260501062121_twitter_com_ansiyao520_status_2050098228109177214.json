@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2050098228109177214",
+    "created_at": "2026-05-01T06:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050098228109177214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050098228109177214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "打开地图。这么大的中国。一个个个体。很渺小，很微弱。\n一个大型城市有几百万人。可是对我来说整个城市只有我一个人。\n中国有十几亿人，可是对我来说只有我一个人。\n世界如此宽广，人们却不团结，世界对我来说充满不确定性，缺少联结。\neven if 去和药娘朋友面基，也不过是茫茫城市中两个人的短暂接触。\n仍然需要和渴望一种深刻而广泛的联结，希望四海皆兄弟，希望到处都是朋友。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打开地图。这么大的中国。一个个个体。很渺小，很微弱。\n一个大型城市有几百万人。可是对我来说整个城市只有我一个人。\n中国有十几亿人，可是对我来说只有我一个人。\n世界如此宽广，人们却不团结，世界对我来说充满不确定性，缺少联结。\neven if"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2050098228109177214",
+        "created_at": "2026-05-01T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050098228109177214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050098228109177214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "打开地图。这么大的中国。一个个个体。很渺小，很微弱。\n一个大型城市有几百万人。可是对我来说整个城市只有我一个人。\n中国有十几亿人，可是对我来说只有我一个人。\n世界如此宽广，人们却不团结，世界对我来说充满不确定性，缺少联结。\neven if 去和药娘朋友面基，也不过是茫茫城市中两个人的短暂接触。\n仍然需要和渴望一种深刻而广泛的联结，希望四海皆兄弟，希望到处都是朋友。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开地图。这么大的中国。一个个个体。很渺小，很微弱。\n一个大型城市有几百万人。可是对我来说整个城市只有我一个人。\n中国有十几亿人，可是对我来说只有我一个人。\n世界如此宽广，人们却不团结，世界对我来说充满不确定性，缺少联结。\neven if"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1336,
+          "like_count": 14984,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 719
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

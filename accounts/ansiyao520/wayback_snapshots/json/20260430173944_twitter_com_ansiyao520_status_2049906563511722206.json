@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049906563511722206",
+    "created_at": "2026-04-30T17:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049906563511722206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049906563511722206",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "《我遇到了好朋友》\n今天是我值得为之开心的一天。我第一次交到了可以谈心的好朋友。\n她是一个支持和践行男女平权的人。对世界充满好奇心。对我讲的那些分析也充满兴趣。和她交流我感到无比的开心和喜悦。以及非常深刻的共鸣。虽然在一些事上我们的意见不同。但我们都能相互理解对方的选择而不起冲突，理解这些选择的不同仅仅是因为我们文化因素不同所造就的偶然，但我们的思考方式或者说所谓三观却是完全一致的。在生活的很多方面我们都有很好的共鸣。我对此感到异常开心。\n比如我们做事都经常出于好玩。这是我第一次遇到和我有相同行事逻辑的人。而且还和她交了朋友！我真的太开心了。\n总之。我会无比激动和感激地度过这一天。今天对我来说是个值得纪念的日子。我交到了朋友。而且是这么好，这么让我觉得人生值得的朋友。之前二十多天的恋爱痛苦也挥之一空。倘若我之前就有这样的好朋友，分手后我怎么可能还会抑郁呢？！\n我将无比欣喜和感激地度过这一天。感谢上天赐予我这么好的朋友。今天是四月三十日。我将永远铭记这一天。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《我遇到了好朋友》\n今天是我值得为之开心的一天。我第一次交到了可以谈心的好朋友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049906563511722206",
+        "created_at": "2026-04-30T17:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049906563511722206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049906563511722206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "《我遇到了好朋友》\n今天是我值得为之开心的一天。我第一次交到了可以谈心的好朋友。\n她是一个支持和践行男女平权的人。对世界充满好奇心。对我讲的那些分析也充满兴趣。和她交流我感到无比的开心和喜悦。以及非常深刻的共鸣。虽然在一些事上我们的意见不同。但我们都能相互理解对方的选择而不起冲突，理解这些选择的不同仅仅是因为我们文化因素不同所造就的偶然，但我们的思考方式或者说所谓三观却是完全一致的。在生活的很多方面我们都有很好的共鸣。我对此感到异常开心。\n比如我们做事都经常出于好玩。这是我第一次遇到和我有相同行事逻辑的人。而且还和她交了朋友！我真的太开心了。\n总之。我会无比激动和感激地度过这一天。今天对我来说是个值得纪念的日子。我交到了朋友。而且是这么好，这么让我觉得人生值得的朋友。之前二十多天的恋爱痛苦也挥之一空。倘若我之前就有这样的好朋友，分手后我怎么可能还会抑郁呢？！\n我将无比欣喜和感激地度过这一天。感谢上天赐予我这么好的朋友。今天是四月三十日。我将永远铭记这一天。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《我遇到了好朋友》\n今天是我值得为之开心的一天。我第一次交到了可以谈心的好朋友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1336,
+          "like_count": 14771,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 710
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

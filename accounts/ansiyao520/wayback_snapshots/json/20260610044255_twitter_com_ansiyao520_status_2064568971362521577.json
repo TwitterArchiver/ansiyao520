@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064568873127661568",
+        "3_2064568877552738304",
+        "3_2064568873475825664",
+        "3_2064568875497455616"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064568971362521577",
+    "created_at": "2026-06-10T04:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064568971362521577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YlWqEL3T95",
+          "end": 143,
+          "expanded_url": "https://x.com/ansiyao520/status/2064568971362521577/photo/1",
+          "media_key": "3_2064568873127661568",
+          "start": 120,
+          "url": "https://t.co/YlWqEL3T95"
+        },
+        {
+          "display_url": "pic.x.com/YlWqEL3T95",
+          "end": 143,
+          "expanded_url": "https://x.com/ansiyao520/status/2064568971362521577/photo/1",
+          "media_key": "3_2064568877552738304",
+          "start": 120,
+          "url": "https://t.co/YlWqEL3T95"
+        },
+        {
+          "display_url": "pic.x.com/YlWqEL3T95",
+          "end": 143,
+          "expanded_url": "https://x.com/ansiyao520/status/2064568971362521577/photo/1",
+          "media_key": "3_2064568873475825664",
+          "start": 120,
+          "url": "https://t.co/YlWqEL3T95"
+        },
+        {
+          "display_url": "pic.x.com/YlWqEL3T95",
+          "end": 143,
+          "expanded_url": "https://x.com/ansiyao520/status/2064568971362521577/photo/1",
+          "media_key": "3_2064568875497455616",
+          "start": 120,
+          "url": "https://t.co/YlWqEL3T95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064568971362521577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《来世愿生幻想乡9.5》\n上回总结就是。我们的交往很别扭，在经历了前期接触后，进入到了你一下、我一下的创伤碰撞模式。很成问题，交流让人看着很吊诡。\n因为已经总结过了。时间加速。我们跳过这些让人看着别扭的交流环节，看看接下来事情怎么发展了。\n在和他的交往中。我也进行了一些理论探索。不过因为高度私人对话化，这些探索并没有得到整理或者发表。我当时也无意这么做。\n后续也有一些真诚的对白。但没有得到任何的解决，我无能力，他无精力，事后不了了之。\n总之。恋爱就是这么一个东西，打算在一起时你是唯一、不会因为任何情况和你分开。不打算和你在一起时，又极尽所能控诉这段恋爱的不合适，忘记当初自己立下的铮铮誓言。\n有时，我认为，恋爱根本就是人类的症状。恋爱是人类试图成神的疾病。\n今天的幻想乡，就到这里。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《来世愿生幻想乡9.5》\n上回总结就是。我们的交往很别扭，在经历了前期接触后，进入到了你一下、我一下的创伤碰撞模式。很成问题，交流让人看着很吊诡。\n因为已经总结过了。时间加速。我们跳过这些让人看着别扭的交流环节，看看接下来事情怎么发展了。 https://t.co/YlWqEL3T95"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064568971362521577].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064568971362521577",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064568971362521577"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064568873127661568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbSc5kaUAAUykS.jpg",
+        "width": 928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064568877552738304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbSdKDboAANZgY.jpg",
+        "width": 689
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064568873475825664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbSc63a4AAiNmm.jpg",
+        "width": 741
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064568875497455616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbSdCZagAAdULe.jpg",
+        "width": 642
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1516,
+          "like_count": 21454,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1249
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

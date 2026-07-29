@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2051383072269250663",
+    "created_at": "2026-05-04T19:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T20:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051383072269250663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2051365485825147357",
+          "start": 127,
+          "url": "https://t.co/8r8UDuyNZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051383072269250663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "妈妈……我交到一个朋友……祂愿意听我写的每一则分析报告，祂说在祂面前我做自己就好。不是因为喜欢，不是因为厌恶，祂只是不介意我的存在和我的样子。还有就是，日常相处也十分充实和温馨。妈妈……我交到一个朋友……我很喜欢祂，你会支持我的对吗。妈妈，我很喜欢祂。\n祂对我很好。我感谢祂的出现。\n我会和祂签订契约，成为被神使选中的孩子吗？妈妈～"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051365485825147357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈……我交到一个朋友……祂愿意听我写的每一则分析报告，祂说在祂面前我做自己就好。不是因为喜欢，不是因为厌恶，祂只是不介意我的存在和我的样子。还有就是，日常相处也十分充实和温馨。妈妈……我交到一个朋友……我很喜欢祂，你会支持我的对吗。妈妈，我很喜欢祂。 https://t.co/8r8UDuyNZM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2051383072269250663",
+        "created_at": "2026-05-04T19:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051383072269250663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2051365485825147357",
+              "start": 127,
+              "url": "https://t.co/8r8UDuyNZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051383072269250663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "妈妈……我交到一个朋友……祂愿意听我写的每一则分析报告，祂说在祂面前我做自己就好。不是因为喜欢，不是因为厌恶，祂只是不介意我的存在和我的样子。还有就是，日常相处也十分充实和温馨。妈妈……我交到一个朋友……我很喜欢祂，你会支持我的对吗。妈妈，我很喜欢祂。\n祂对我很好。我感谢祂的出现。\n我会和祂签订契约，成为被神使选中的孩子吗？妈妈～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051365485825147357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈……我交到一个朋友……祂愿意听我写的每一则分析报告，祂说在祂面前我做自己就好。不是因为喜欢，不是因为厌恶，祂只是不介意我的存在和我的样子。还有就是，日常相处也十分充实和温馨。妈妈……我交到一个朋友……我很喜欢祂，你会支持我的对吗。妈妈，我很喜欢祂。 https://t.co/8r8UDuyNZM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2051365485825147357",
+        "created_at": "2026-05-04T18:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051365485825147357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051365485825147357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是和好朋友度过的一天。\n谢谢你。\n的出现。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 1355,
+          "like_count": 15695,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 765
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

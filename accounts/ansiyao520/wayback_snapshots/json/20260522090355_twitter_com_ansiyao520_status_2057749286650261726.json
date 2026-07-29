@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2057525908186247445",
+    "created_at": "2026-05-22T09:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057749286650261726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899705473882030080",
+          "start": 0,
+          "username": "xiaomajiaXMJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057749286650261726",
+    "in_reply_to_user_id": "1899705473882030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057693928741327195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomajiaXMJ 👉🏻👈🏻我瞎说的。其实当时根本就没怎么相信他会死，只是和他说了一些赌气话什么的。想看的话可以在我的亮点里往下翻一下（）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2057525908186247445",
+        "created_at": "2026-05-22T09:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057749286650261726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899705473882030080",
+              "start": 0,
+              "username": "xiaomajiaXMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057749286650261726",
+        "in_reply_to_user_id": "1899705473882030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057693928741327195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomajiaXMJ 👉🏻👈🏻我瞎说的。其实当时根本就没怎么相信他会死，只是和他说了一些赌气话什么的。想看的话可以在我的亮点里往下翻一下（）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899705473882030080",
+        "conversation_id": "2057525908186247445",
+        "created_at": "2026-05-22T05:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057693928741327195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057693928741327195",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057525908186247445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 所以你当时对那个小遥的激进方式是？能具体说说吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 1388,
+          "like_count": 17533,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 867
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T06:16:17.000Z",
+        "description": "Mtf，可爱的女孩子。历史政治经济投资爱好者，也喜欢唱歌、做饭~ 军团战争玩家    精神障碍，找对象",
+        "id": "1899705473882030080",
+        "location": "常州",
+        "name": "中暑之小马甲",
+        "pinned_tweet_id": "2053785496904732914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047924901156376576/nEXBVKHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 36,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 297
+        },
+        "username": "xiaomajiaXMJ",
+        "verified": false
+      }
+    ]
+  }
+}

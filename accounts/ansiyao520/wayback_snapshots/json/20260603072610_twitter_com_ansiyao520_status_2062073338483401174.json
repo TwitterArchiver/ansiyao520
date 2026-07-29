@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062073293960830976",
+        "3_2062073297454702592",
+        "3_2062073327053922305",
+        "3_2062073293977636864"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062073338483401174",
+    "created_at": "2026-06-03T07:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062073338483401174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Qp3kQvyZq",
+          "end": 100,
+          "expanded_url": "https://x.com/ansiyao520/status/2062073338483401174/photo/1",
+          "media_key": "3_2062073293960830976",
+          "start": 77,
+          "url": "https://t.co/0Qp3kQvyZq"
+        },
+        {
+          "display_url": "pic.x.com/0Qp3kQvyZq",
+          "end": 100,
+          "expanded_url": "https://x.com/ansiyao520/status/2062073338483401174/photo/1",
+          "media_key": "3_2062073297454702592",
+          "start": 77,
+          "url": "https://t.co/0Qp3kQvyZq"
+        },
+        {
+          "display_url": "pic.x.com/0Qp3kQvyZq",
+          "end": 100,
+          "expanded_url": "https://x.com/ansiyao520/status/2062073338483401174/photo/1",
+          "media_key": "3_2062073327053922305",
+          "start": 77,
+          "url": "https://t.co/0Qp3kQvyZq"
+        },
+        {
+          "display_url": "pic.x.com/0Qp3kQvyZq",
+          "end": 100,
+          "expanded_url": "https://x.com/ansiyao520/status/2062073338483401174/photo/1",
+          "media_key": "3_2062073293977636864",
+          "start": 77,
+          "url": "https://t.co/0Qp3kQvyZq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062073338483401174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《来世愿生幻想乡7》\nhow to talk about？\ninfact，我们的不合是方方面面的。他对性格的要求比较高，我对思维模式的要求又何尝不高呢。\n而且十分不好的是。我们之间既没有人有正常生活、能够构建起正常生活交流——导致我们之间的对话始终充满神秘话语和哲思碰撞；又没有走向彻底的包容和接纳，这实际上也是不可能的，我们之间，没有一方认为自己完全属于对方、应要完全听对方的，而是都坚持己见——导致了严重的沟通问题。\n于是。我们的交流，忽而转向文椛的话语模式，我来扮演一个柔弱的女生，但立刻我又对自己被照顾感到不服气，走向一个强大的智者幻象，责斥对方把自己看的太弱。\n就这样在你难受or我难受的选择中摆动。我们之间并没有一个舒服的沟通模式。这是当时的问题。\n我当时试图用说理或“恋爱里老婆就是可以任性”的方式说服他。但很不巧他非常不吃这一套。而他则希望我完全袒露自己的创伤，完全依附他，做被他安慰的对象。我当时不能接受。我凭什么要在世界面前做娇弱的需要被保护的对象？如果我任人摆弄，我早就被这个世界操死了。\n而我的任性。因为他不吃这套，加上他话语体系也有一些自己吊诡、固执和固着的创伤模式。导致他直接把我带刺的关心强行抹平成了完美的关心——他还是抹去了我话里的个性和活力，把我当做了一个他幻想的客体。\n总之，我们都没有能力爱一个活着的、会反抗的、不听话的对方。我们爱的都是自己幻想中的那个版本——他幻想一个需要被安慰的受伤者，我幻想一个能接受你任性而不逃跑的容器。两个幻想在现实中碰撞，痛苦如火花般四溢。\n今天就聊到这里。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《来世愿生幻想乡7》\nhow to talk about？\ninfact，我们的不合是方方面面的。他对性格的要求比较高，我对思维模式的要求又何尝不高呢。 https://t.co/0Qp3kQvyZq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062073338483401174].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062073338483401174",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062073338483401174"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1801,
+        "media_key": "3_2062073293960830976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ30vEta4AA5suH.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2062073297454702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ30vRubIAAz2PR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1743,
+        "media_key": "3_2062073327053922305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ30w__bYAEU0za.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2062073293977636864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ30vExbUAA229t.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1458,
+          "like_count": 19466,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 1041
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

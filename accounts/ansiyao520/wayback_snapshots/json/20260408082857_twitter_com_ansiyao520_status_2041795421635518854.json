@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041795418091352066",
+        "3_2041795418632417281"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2041795421635518854",
+    "created_at": "2026-04-08T08:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041795421635518854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSvkh657Uv",
+          "end": 77,
+          "expanded_url": "https://x.com/ansiyao520/status/2041795421635518854/photo/1",
+          "media_key": "3_2041795418091352066",
+          "start": 54,
+          "url": "https://t.co/JSvkh657Uv"
+        },
+        {
+          "display_url": "pic.x.com/JSvkh657Uv",
+          "end": 77,
+          "expanded_url": "https://x.com/ansiyao520/status/2041795421635518854/photo/1",
+          "media_key": "3_2041795418632417281",
+          "start": 54,
+          "url": "https://t.co/JSvkh657Uv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041795421635518854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坚决抵制私德问题滥用公共话语。坚决反对断章取义。\n感兴趣的友友，欢迎跟踪两方话语，我也会做一些必要的澄清。 https://t.co/JSvkh657Uv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041795418091352066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXqHWda8AIWzn-.jpg",
+        "width": 585
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041795418632417281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXqHYea8AEINpl.jpg",
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041795418091352066",
+            "3_2041795418632417281"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2041795421635518854",
+        "created_at": "2026-04-08T08:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041795421635518854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSvkh657Uv",
+              "end": 77,
+              "expanded_url": "https://x.com/ansiyao520/status/2041795421635518854/photo/1",
+              "media_key": "3_2041795418091352066",
+              "start": 54,
+              "url": "https://t.co/JSvkh657Uv"
+            },
+            {
+              "display_url": "pic.x.com/JSvkh657Uv",
+              "end": 77,
+              "expanded_url": "https://x.com/ansiyao520/status/2041795421635518854/photo/1",
+              "media_key": "3_2041795418632417281",
+              "start": 54,
+              "url": "https://t.co/JSvkh657Uv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041795421635518854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坚决抵制私德问题滥用公共话语。坚决反对断章取义。\n感兴趣的友友，欢迎跟踪两方话语，我也会做一些必要的澄清。 https://t.co/JSvkh657Uv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 787,
+          "like_count": 4127,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 156
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

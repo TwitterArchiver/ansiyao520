@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065027132900925793",
+    "created_at": "2026-06-11T11:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065038362432401680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065038362432401680",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065027132900925793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 按辈晋三还是已经毕业？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065027120045432832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhzOYXbIAA__vs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065027119537954816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhzOWeboAAP7M6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065027119533740032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhzOWdbUAAEVC-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065027119525376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhzOWbbsAAyJo4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065027132900925793",
+        "created_at": "2026-06-11T11:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065038362432401680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065038362432401680",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065027132900925793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 按辈晋三还是已经毕业？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065027120045432832",
+            "3_2065027119537954816",
+            "3_2065027119533740032",
+            "3_2065027119525376000"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2065027132900925793",
+        "created_at": "2026-06-11T11:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065027132900925793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9H8VyKG6T",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065027132900925793/photo/1",
+              "media_key": "3_2065027120045432832",
+              "start": 16,
+              "url": "https://t.co/d9H8VyKG6T"
+            },
+            {
+              "display_url": "pic.x.com/d9H8VyKG6T",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065027132900925793/photo/1",
+              "media_key": "3_2065027119537954816",
+              "start": 16,
+              "url": "https://t.co/d9H8VyKG6T"
+            },
+            {
+              "display_url": "pic.x.com/d9H8VyKG6T",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065027132900925793/photo/1",
+              "media_key": "3_2065027119533740032",
+              "start": 16,
+              "url": "https://t.co/d9H8VyKG6T"
+            },
+            {
+              "display_url": "pic.x.com/d9H8VyKG6T",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2065027132900925793/photo/1",
+              "media_key": "3_2065027119525376000",
+              "start": 16,
+              "url": "https://t.co/d9H8VyKG6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065027132900925793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是当上高三生了\n参加结业典礼 https://t.co/d9H8VyKG6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 1546,
+          "like_count": 22341,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1303
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4067,
+          "following_count": 1288,
+          "like_count": 6896,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044656244397617208",
+    "created_at": "2026-04-16T05:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044656244397617208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Erber42620269/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Erber42620269/status/2044614741327503657",
+          "start": 50,
+          "url": "https://t.co/WjBERLrAxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044656244397617208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044614741327503657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右下倒二。故意抹去哲学的存在是吧。有些事没有哲学真的解释不了。我劝大家多读点书。少受各种迷思的骗。 https://t.co/WjBERLrAxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2044614733932990464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_uRIabEAAQFr_.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044656244397617208",
+        "created_at": "2026-04-16T05:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044656244397617208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Erber42620269/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Erber42620269/status/2044614741327503657",
+              "start": 50,
+              "url": "https://t.co/WjBERLrAxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044656244397617208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044614741327503657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右下倒二。故意抹去哲学的存在是吧。有些事没有哲学真的解释不了。我劝大家多读点书。少受各种迷思的骗。 https://t.co/WjBERLrAxl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044614733932990464"
+          ]
+        },
+        "author_id": "1607023699877847040",
+        "conversation_id": "2044614741327503657",
+        "created_at": "2026-04-16T03:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044614741327503657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0aGrSpot7",
+              "end": 32,
+              "expanded_url": "https://x.com/Erber42620269/status/2044614741327503657/photo/1",
+              "media_key": "3_2044614733932990464",
+              "start": 9,
+              "url": "https://t.co/t0aGrSpot7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044614741327503657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选择你服用的药物 https://t.co/t0aGrSpot7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 1132,
+          "like_count": 8162,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 413
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-25T14:41:29.000Z",
+        "description": "含糖mtf｜hrt 2026.3.11｜infp｜这个号分享生活和穿搭｜喜欢看轻百合｜我真的很软很乖不信你可以rua一下｜欢迎互fo｜都快来和我聊天，私聊我或者加我tg都可以｜小号@Lumos634587",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "Lumos634587"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/justdrowren",
+                "end": 23,
+                "expanded_url": "http://t.me/justdrowren",
+                "start": 0,
+                "url": "https://t.co/1PvSFTNDj9"
+              }
+            ]
+          }
+        },
+        "id": "1607023699877847040",
+        "name": "Wren🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986475417218523138/8O9RN2Xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 470,
+          "like_count": 295,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/1PvSFTNDj9",
+        "username": "Erber42620269",
+        "verified": true
+      }
+    ]
+  }
+}

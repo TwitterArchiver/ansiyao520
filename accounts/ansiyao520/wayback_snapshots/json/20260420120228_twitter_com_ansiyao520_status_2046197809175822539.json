@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046181607275724800",
+        "3_2046181607258935296"
+      ],
+      "media_source_tweet_id": [
+        "2046181617958605160",
+        "2046181617958605160"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046197809175822539",
+    "created_at": "2026-04-20T12:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046197809175822539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802704441961017344",
+          "start": 3,
+          "username": "misumikaede3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QgGsZCCvm",
+          "end": 55,
+          "expanded_url": "https://x.com/misumikaede3/status/2046181617958605160/photo/1",
+          "media_key": "3_2046181607275724800",
+          "start": 32,
+          "url": "https://t.co/4QgGsZCCvm"
+        },
+        {
+          "display_url": "pic.x.com/4QgGsZCCvm",
+          "end": 55,
+          "expanded_url": "https://x.com/misumikaede3/status/2046181617958605160/photo/1",
+          "media_key": "3_2046181607258935296",
+          "start": 32,
+          "url": "https://t.co/4QgGsZCCvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046197809175822539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046181617958605160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misumikaede3: 再见了普瑞 再见了愈美👋🥹 https://t.co/4QgGsZCCvm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046197809175822539].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046197809175822539",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046197809175822539"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2046181607275724800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV_VKebgAAFxHh.jpg",
+        "width": 868
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046181607258935296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV_VKabUAALjoZ.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046181607275724800",
+            "3_2046181607258935296"
+          ]
+        },
+        "author_id": "1802704441961017344",
+        "conversation_id": "2046181617958605160",
+        "created_at": "2026-04-20T10:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046181617958605160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QgGsZCCvm",
+              "end": 37,
+              "expanded_url": "https://x.com/misumikaede3/status/2046181617958605160/photo/1",
+              "media_key": "3_2046181607275724800",
+              "start": 14,
+              "url": "https://t.co/4QgGsZCCvm"
+            },
+            {
+              "display_url": "pic.x.com/4QgGsZCCvm",
+              "end": 37,
+              "expanded_url": "https://x.com/misumikaede3/status/2046181617958605160/photo/1",
+              "media_key": "3_2046181607258935296",
+              "start": 14,
+              "url": "https://t.co/4QgGsZCCvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046181617958605160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 181,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再见了普瑞 再见了愈美👋🥹 https://t.co/4QgGsZCCvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1236,
+          "like_count": 11041,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 462
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（大嘘）！enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#尾宿八",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1033,
+          "like_count": 29071,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8773
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

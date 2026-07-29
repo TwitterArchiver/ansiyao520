@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063184598436376576",
+        "3_2063184599082225664",
+        "3_2063184599833014272",
+        "3_2063184600206299136"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063184603234574562",
+    "created_at": "2026-06-06T09:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063184603234574562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZ9ofkKqhZ",
+          "end": 138,
+          "expanded_url": "https://x.com/ansiyao520/status/2063184603234574562/photo/1",
+          "media_key": "3_2063184598436376576",
+          "start": 115,
+          "url": "https://t.co/SZ9ofkKqhZ"
+        },
+        {
+          "display_url": "pic.x.com/SZ9ofkKqhZ",
+          "end": 138,
+          "expanded_url": "https://x.com/ansiyao520/status/2063184603234574562/photo/1",
+          "media_key": "3_2063184599082225664",
+          "start": 115,
+          "url": "https://t.co/SZ9ofkKqhZ"
+        },
+        {
+          "display_url": "pic.x.com/SZ9ofkKqhZ",
+          "end": 138,
+          "expanded_url": "https://x.com/ansiyao520/status/2063184603234574562/photo/1",
+          "media_key": "3_2063184599833014272",
+          "start": 115,
+          "url": "https://t.co/SZ9ofkKqhZ"
+        },
+        {
+          "display_url": "pic.x.com/SZ9ofkKqhZ",
+          "end": 138,
+          "expanded_url": "https://x.com/ansiyao520/status/2063184603234574562/photo/1",
+          "media_key": "3_2063184600206299136",
+          "start": 115,
+          "url": "https://t.co/SZ9ofkKqhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063184603234574562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "时代的盛会（谐音生活），欢迎大家关注。\n介绍：1.每个嘉宾起步都是50万粉。主办方都是150万粉的大v。up希望通过扩大影响力的方式拉到资方赞助。然后扩张到全国每个城市都办这样的讨论赛——想法是扩展讨论空间。\n2.见最后一张图。 https://t.co/SZ9ofkKqhZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063184603234574562].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063184603234574562",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063184603234574562"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2063184598436376576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHndgfbcAAB5Ka.jpg",
+        "width": 819
+      },
+      {
+        "height": 1396,
+        "media_key": "3_2063184599082225664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHndi5aUAAvO-T.jpg",
+        "width": 976
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2063184599833014272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHndlsacAA-8QL.jpg",
+        "width": 1050
+      },
+      {
+        "height": 945,
+        "media_key": "3_2063184600206299136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHndnFaUAAcSsy.jpg",
+        "width": 403
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1481,
+          "like_count": 20277,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 1123
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

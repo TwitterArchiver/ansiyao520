@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049437561450615264",
+    "created_at": "2026-04-29T10:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049437561450615264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049434377306951700",
+          "start": 123,
+          "url": "https://t.co/06qR0s7pfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049437561450615264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "大家喜欢看这种男同。无非因为这里面有很多恋爱技巧。幻想自己也会被别人这么对待。被动地就可以谈上恋爱。至于恋爱后怎么办。他们没谈上恋爱之前是不会考虑这些的。觉得恋爱后的生活是自然而然就一帆风顺的事。\n恋爱后不满意。或者受不了对方了。就分手换一个。\n如果抱着这种心态看这部电影。那自然是极甜的。但是我看的时候只能想到自己恋爱后的各种不好的行为。\n所以他们越利用技巧和偶然而不是长期的理解而在一起。我就越感觉痛苦。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049434377306951700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家喜欢看这种男同。无非因为这里面有很多恋爱技巧。幻想自己也会被别人这么对待。被动地就可以谈上恋爱。至于恋爱后怎么办。他们没谈上恋爱之前是不会考虑这些的。觉得恋爱后的生活是自然而然就一帆风顺的事。\n恋爱后不满意。或者受不了对方了。就分手换一个。 https://t.co/06qR0s7pfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049432502511828992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEMAK9bgAAIJWO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049437561450615264",
+        "created_at": "2026-04-29T10:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049437561450615264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049434377306951700",
+              "start": 123,
+              "url": "https://t.co/06qR0s7pfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049437561450615264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家喜欢看这种男同。无非因为这里面有很多恋爱技巧。幻想自己也会被别人这么对待。被动地就可以谈上恋爱。至于恋爱后怎么办。他们没谈上恋爱之前是不会考虑这些的。觉得恋爱后的生活是自然而然就一帆风顺的事。\n恋爱后不满意。或者受不了对方了。就分手换一个。\n如果抱着这种心态看这部电影。那自然是极甜的。但是我看的时候只能想到自己恋爱后的各种不好的行为。\n所以他们越利用技巧和偶然而不是长期的理解而在一起。我就越感觉痛苦。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049434377306951700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家喜欢看这种男同。无非因为这里面有很多恋爱技巧。幻想自己也会被别人这么对待。被动地就可以谈上恋爱。至于恋爱后怎么办。他们没谈上恋爱之前是不会考虑这些的。觉得恋爱后的生活是自然而然就一帆风顺的事。\n恋爱后不满意。或者受不了对方了。就分手换一个。 https://t.co/06qR0s7pfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049432502511828992"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049434377306951700",
+        "created_at": "2026-04-29T10:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049434377306951700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhTawVrMho",
+              "end": 130,
+              "expanded_url": "https://x.com/ansiyao520/status/2049434377306951700/photo/1",
+              "media_key": "3_2049432502511828992",
+              "start": 107,
+              "url": "https://t.co/hhTawVrMho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049434377306951700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻孩子。他讨厌你是因为你没有迎合他呀。你这么想，然后去迎合他，不是着了他的道了吗。\n到时候“被”恋爱。不都是可以预见的。\n也许我的错不是懂很多恋爱技巧。而是没有给爱情一个完美的句号——结婚。反而不断给它增加裂痕。 https://t.co/hhTawVrMho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1306,
+          "like_count": 14079,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 643
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

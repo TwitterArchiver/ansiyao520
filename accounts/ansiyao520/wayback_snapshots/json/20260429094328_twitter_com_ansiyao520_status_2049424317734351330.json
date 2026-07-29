@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049424315159060480"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049424317734351330",
+    "created_at": "2026-04-29T09:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049424317734351330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ioyf5NcVhm",
+          "end": 65,
+          "expanded_url": "https://x.com/ansiyao520/status/2049424317734351330/photo/1",
+          "media_key": "3_2049424315159060480",
+          "start": 42,
+          "url": "https://t.co/Ioyf5NcVhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049424317734351330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这弹幕都是傻逼。\n到目前为止没有一个亲密是小男孩主动想的。弹幕一直说什么男同男同。 https://t.co/Ioyf5NcVhm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049424317734351330].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049424317734351330",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049424317734351330"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2049424315159060480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEEjmsaoAAzfjB.jpg",
+        "width": 2056
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1305,
+          "like_count": 14053,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 629
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

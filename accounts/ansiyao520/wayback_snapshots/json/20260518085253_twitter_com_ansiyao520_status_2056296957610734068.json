@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056296954968358912"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2056296957610734068",
+    "created_at": "2026-05-18T08:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056296957610734068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ACJdl0uMO",
+          "end": 148,
+          "expanded_url": "https://x.com/ansiyao520/status/2056296957610734068/photo/1",
+          "media_key": "3_2056296954968358912",
+          "start": 125,
+          "url": "https://t.co/3ACJdl0uMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056296957610734068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "应该注意到。所谓“爱情，自由，公开自己的身份”是一种普世价值观。要警惕把普世价值观特化到特定群体的言行。\n同性恋者用这样的话语，只会让大众觉得同性恋反对异性恋。只会减少大众朋友的数量。\n根本就没有谁比谁更纯粹、没有目的性、有知、聪明、有原则这回事。 https://t.co/3ACJdl0uMO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056296957610734068].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056296957610734068",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056296957610734068"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2056296954968358912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlvL5GbQAA5DeN.jpg",
+        "width": 918
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 1363,
+          "like_count": 16855,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 831
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

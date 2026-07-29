@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065790847069913088"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065790852199510426",
+    "created_at": "2026-06-13T13:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065790852199510426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kWrCiUfMZs",
+          "end": 62,
+          "expanded_url": "https://x.com/ansiyao520/status/2065790852199510426/photo/1",
+          "media_key": "3_2065790847069913088",
+          "start": 39,
+          "url": "https://t.co/kWrCiUfMZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065790852199510426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心烦意乱。\n正所谓有所求就会有所不得。\n几乎跟别的女孩子表白了，我心好乱啊。 https://t.co/kWrCiUfMZs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065790852199510426].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065790852199510426",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065790852199510426"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065790847069913088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsp1JPbAAAh9si.jpg",
+        "width": 772
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1574,
+          "like_count": 23133,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1359
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

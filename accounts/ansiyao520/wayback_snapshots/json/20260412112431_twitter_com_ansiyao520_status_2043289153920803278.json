@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043289153920803278",
+    "created_at": "2026-04-12T11:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043289153920803278"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043289153920803278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然有点抽象。但是被文椛一挂，好多眼里容不下沙子的人都把我屏蔽了。反而帮我完成了一次筛选也说不定。希望能遇见和咱一样精神有问题的人一起贴贴喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043289153920803278",
+        "created_at": "2026-04-12T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043289153920803278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043289153920803278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然有点抽象。但是被文椛一挂，好多眼里容不下沙子的人都把我屏蔽了。反而帮我完成了一次筛选也说不定。希望能遇见和咱一样精神有问题的人一起贴贴喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 894,
+          "like_count": 4720,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 274
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

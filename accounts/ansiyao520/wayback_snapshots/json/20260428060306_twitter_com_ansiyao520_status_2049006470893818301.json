@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049006448831832064"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049006470893818301",
+    "created_at": "2026-04-28T06:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049006470893818301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0KNvxhXmz",
+          "end": 160,
+          "expanded_url": "https://x.com/ansiyao520/status/2049006470893818301/photo/1",
+          "media_key": "3_2049006448831832064",
+          "start": 137,
+          "url": "https://t.co/l0KNvxhXmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049006470893818301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "捏麻麻的，添了衣服，又有点热，不穿又冷。\n昨天熬夜，把b站“稍后再看”清理了一下，不一会就晚上3点了。今天上完早八，从10点睡到下午1点，没吃饭，饿饿的，买了一个面包。\n现在上课，会继续整理幻想乡。环的廓清是没有止境的。幻想乡4已经打好了基础。以后可能会是一些细节的补充。 https://t.co/l0KNvxhXmz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049006470893818301].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049006470893818301",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049006470893818301"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049006448831832064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-IglUbIAA1ylW.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1311,
+          "like_count": 13592,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 577
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063204284226015232"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063204317373595745",
+    "created_at": "2026-06-06T10:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063204317373595745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cg8OuJbFUC",
+          "end": 34,
+          "expanded_url": "https://x.com/ansiyao520/status/2063204317373595745/photo/1",
+          "media_key": "3_2063204284226015232",
+          "start": 11,
+          "url": "https://t.co/Cg8OuJbFUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063204317373595745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天你有好好吃饭吗？ https://t.co/Cg8OuJbFUC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063204317373595745].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063204317373595745",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063204317373595745"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063204284226015232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH5XXxbEAAh1MK.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 1485,
+          "like_count": 20363,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1140
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

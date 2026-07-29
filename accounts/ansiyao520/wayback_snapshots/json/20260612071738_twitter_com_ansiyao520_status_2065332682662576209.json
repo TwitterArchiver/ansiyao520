@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065332682662576209",
+    "created_at": "2026-06-12T07:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065332682662576209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1570479564463407104",
+          "start": 3,
+          "username": "Indigo_iamlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065332682662576209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065140744650989600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Indigo_iamlove: 如果你打算在411进行SRS，请务必：\n在术前进行脱毛！\n直到会阴部毛囊萎缩再进行手术！\n如果你没有做脱毛且时间来不及，请一定：\n  1.和医生仔细沟通，构造阴道使用的皮瓣位置。\n  2.询问是否可以采取电针或其他彻底去除毛囊。\n如果该位…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065332682662576209",
+        "created_at": "2026-06-12T07:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065332682662576209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1570479564463407104",
+              "start": 3,
+              "username": "Indigo_iamlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065332682662576209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065140744650989600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Indigo_iamlove: 如果你打算在411进行SRS，请务必：\n在术前进行脱毛！\n直到会阴部毛囊萎缩再进行手术！\n如果你没有做脱毛且时间来不及，请一定：\n  1.和医生仔细沟通，构造阴道使用的皮瓣位置。\n  2.询问是否可以采取电针或其他彻底去除毛囊。\n如果该位…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570479564463407104",
+        "conversation_id": "2065140744650989600",
+        "created_at": "2026-06-11T18:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065140744650989600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065140744650989600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你打算在411进行SRS，请务必：\n在术前进行脱毛！\n直到会阴部毛囊萎缩再进行手术！\n如果你没有做脱毛且时间来不及，请一定：\n  1.和医生仔细沟通，构造阴道使用的皮瓣位置。\n  2.询问是否可以采取电针或其他彻底去除毛囊。\n如果该位置有毛囊，可能会出现：\n  1.毛发会生长在阴道壁深处无法由激光脱除的部位。（大概为原本会阴缝附近皮瓣）\n  2.插入式性交可能偶有因勾住扯毛发造成不适感。\n  3.鸭嘴钳或内窥镜观察可见毛发，几乎无法通过指检发现。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 15236,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你打算在411进行SRS，请务必：\n在术前进行脱毛！\n直到会阴部毛囊萎缩再进行手术！\n如果你没有做脱毛且时间来不及，请一定：\n  1.和医生仔细沟通，构造阴道使用的皮瓣位置。\n  2.询问是否可以采取电针或其他彻底去除毛囊。\n如果该位置有毛囊，可能会出现："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1548,
+          "like_count": 22573,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 1326
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-15T18:28:19.000Z",
+        "description": "# 但是是靛篮 from NDG🛬 妈的跟你爆了！山路鬼火组(不会倒车 ; 非典型精神病患base杭州 但永远抓不到_有概率线上出现 (退网ing;  爱人：@Pulipuli_z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Pulipuli_z"
+              }
+            ]
+          }
+        },
+        "id": "1570479564463407104",
+        "location": "Requiem For A Train Of Life",
+        "name": "Indigo & I _靛蓝没有蓝",
+        "pinned_tweet_id": "2033201773515804743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699477717270552580/_J7OjUNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 237,
+          "like_count": 7704,
+          "listed_count": 5,
+          "media_count": 628,
+          "tweet_count": 2964
+        },
+        "username": "Indigo_iamlove",
+        "verified": true
+      }
+    ]
+  }
+}

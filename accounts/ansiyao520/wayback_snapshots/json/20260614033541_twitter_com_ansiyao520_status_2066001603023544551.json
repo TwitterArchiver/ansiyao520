@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2054240711344886113",
+    "created_at": "2026-06-14T03:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066001603023544551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025069042693013506",
+          "start": 0,
+          "username": "jiu_a46199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066001603023544551",
+    "in_reply_to_user_id": "2025069042693013506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054240711344886113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_a46199 没有腿毛的腿怎么拍都好看。想怎么拍就怎么拍。你的美无需指导，肆意横生，怎么拍都很美。这边建议你多拍点。（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054240697830756359",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhB-VaUAcDY1m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2054240711344886113",
+        "created_at": "2026-06-14T03:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066001603023544551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025069042693013506",
+              "start": 0,
+              "username": "jiu_a46199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066001603023544551",
+        "in_reply_to_user_id": "2025069042693013506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054240711344886113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_a46199 没有腿毛的腿怎么拍都好看。想怎么拍就怎么拍。你的美无需指导，肆意横生，怎么拍都很美。这边建议你多拍点。（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054240697830756359"
+          ]
+        },
+        "author_id": "2025069042693013506",
+        "conversation_id": "2054240711344886113",
+        "created_at": "2026-05-12T16:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054240711344886113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "xnn"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/freXDrEDRe",
+              "end": 57,
+              "expanded_url": "https://x.com/jiu_a46199/status/2054240711344886113/photo/1",
+              "media_key": "3_2054240697830756359",
+              "start": 34,
+              "url": "https://t.co/freXDrEDRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054240711344886113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得好看吗，我怎么觉得一般般，求指导怎么拍照😘#xnn😜#男娘 https://t.co/freXDrEDRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 1594,
+          "like_count": 23492,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1372
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T04:44:30.000Z",
+        "description": "生产日期2010年，男/高敏感/社恐/抑郁焦虑状态/178cm（好想长矮点😭）/105斤",
+        "id": "2025069042693013506",
+        "name": "阿九",
+        "pinned_tweet_id": "2054235015480017069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054235496289816579/Vyd9d6n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 120,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "username": "jiu_a46199",
+        "verified": false
+      }
+    ]
+  }
+}

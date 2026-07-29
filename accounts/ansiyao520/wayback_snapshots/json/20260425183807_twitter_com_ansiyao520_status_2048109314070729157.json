@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048109311512162304"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048109314070729157",
+    "created_at": "2026-04-25T18:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048109314070729157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKaFnbOyXe",
+          "end": 160,
+          "expanded_url": "https://x.com/ansiyao520/status/2048109314070729157/photo/1",
+          "media_key": "3_2048109311512162304",
+          "start": 137,
+          "url": "https://t.co/GKaFnbOyXe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048109314070729157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "精神分析和哲学不是我的爱好，它们是我被迫使用的工具。因为我的情感模式本身已经太绕了——我的痛苦不是直接的痛，而是痛的同时还在分析自己为什么痛；我的焦虑不是单纯的焦虑，而是对焦虑本身的焦虑。我要理解自己，就不得不站到自己的外面，用一个更冷的语言来描述自己里面正在进行的东西。\n从来没有觉得学精神分析开心过。\n自反性是我的精神病。\n之一。\n我终于解锁对“自己到底是什么样的精神病”这件事的第一块拼图了。\n就是自反性。我自反性太严重了。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神分析和哲学不是我的爱好，它们是我被迫使用的工具。因为我的情感模式本身已经太绕了——我的痛苦不是直接的痛，而是痛的同时还在分析自己为什么痛；我的焦虑不是单纯的焦虑，而是对焦虑本身的焦虑。我要理解自己，就不得不站到自己的外面，用一个更冷的语言来描述自己里面正在进行的东西。 https://t.co/GKaFnbOyXe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048109314070729157].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048109314070729157",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048109314070729157"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2115,
+        "media_key": "3_2048109311512162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxYkUXaMAAa5nc.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1270,
+          "like_count": 12976,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 557
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

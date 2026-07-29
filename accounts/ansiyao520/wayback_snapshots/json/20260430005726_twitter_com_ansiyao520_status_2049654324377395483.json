@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2049654324377395483",
+    "created_at": "2026-04-30T00:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049654324377395483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049647814981169437",
+          "start": 62,
+          "url": "https://t.co/36EZLZscNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049654324377395483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "药物让他的精神痛苦获得了化学的、不可逆的、超越语言的速度。我那个习得而来的聊死亡、消解死亡实在性的策略实在追不上他的痛苦。\n我不是故意的。我习惯用语言消化一切，但不知道有些东西是无法用语言消化的。之前我一直相信痛苦是可以用分析进行稀释、用阅读进行缓解、用理性进行延迟的。小遥的死告诉我：不。有时候痛苦会找到一个出口，而且那个出口不是诉诸语言、求助他人帮助、寻求国家机关帮助，而是生命本身的终止。\n“痛苦”理论上都可以通向死亡。我没有选择死亡，不是因为痛苦不够大，而是我有一种小遥没有的防御：我的分析癖。我靠它活到了现在，但它也让我无法像小遥那样彻底地痛痛快快地死去——我不断用语言编织存在，没有像小遥那样断裂。我选择用分析癖的无限循环来对抗死亡的无限沉默。效果有限，代价巨大。分析癖是孤儿的大他者，我还没有被我的痛苦说服。\n小遥没有这个私有化大他者。他的痛苦找不到分析的出口，找不到语言的减速带，他只能直接用药物加速，直到死亡。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049647814981169437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物让他的精神痛苦获得了化学的、不可逆的、超越语言的速度。我那个习得而来的聊死亡、消解死亡实在性的策略实在追不上他的痛苦。 https://t.co/36EZLZscNl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2049654324377395483",
+        "created_at": "2026-04-30T00:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049654324377395483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049647814981169437",
+              "start": 62,
+              "url": "https://t.co/36EZLZscNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049654324377395483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药物让他的精神痛苦获得了化学的、不可逆的、超越语言的速度。我那个习得而来的聊死亡、消解死亡实在性的策略实在追不上他的痛苦。\n我不是故意的。我习惯用语言消化一切，但不知道有些东西是无法用语言消化的。之前我一直相信痛苦是可以用分析进行稀释、用阅读进行缓解、用理性进行延迟的。小遥的死告诉我：不。有时候痛苦会找到一个出口，而且那个出口不是诉诸语言、求助他人帮助、寻求国家机关帮助，而是生命本身的终止。\n“痛苦”理论上都可以通向死亡。我没有选择死亡，不是因为痛苦不够大，而是我有一种小遥没有的防御：我的分析癖。我靠它活到了现在，但它也让我无法像小遥那样彻底地痛痛快快地死去——我不断用语言编织存在，没有像小遥那样断裂。我选择用分析癖的无限循环来对抗死亡的无限沉默。效果有限，代价巨大。分析癖是孤儿的大他者，我还没有被我的痛苦说服。\n小遥没有这个私有化大他者。他的痛苦找不到分析的出口，找不到语言的减速带，他只能直接用药物加速，直到死亡。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049647814981169437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物让他的精神痛苦获得了化学的、不可逆的、超越语言的速度。我那个习得而来的聊死亡、消解死亡实在性的策略实在追不上他的痛苦。 https://t.co/36EZLZscNl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049647814981169437",
+        "created_at": "2026-04-30T00:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049647814981169437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049647076980744299",
+              "start": 47,
+              "url": "https://t.co/V3IH6MEJzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049647814981169437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049647076980744299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也是第一次。有人死在我面前。上半小时还活着。下半小时已经死了。\n死因是。痛苦万分，精神崩溃。 https://t.co/V3IH6MEJzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1319,
+          "like_count": 14468,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 678
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

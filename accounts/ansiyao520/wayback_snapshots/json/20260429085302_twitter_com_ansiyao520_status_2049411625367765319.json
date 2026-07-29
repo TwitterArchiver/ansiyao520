@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049411620343042048",
+        "3_2049411620464730112",
+        "3_2049411622809309184"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049411625367765319",
+    "created_at": "2026-04-29T08:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049411625367765319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0sktFF0nPE",
+          "end": 109,
+          "expanded_url": "https://x.com/ansiyao520/status/2049411625367765319/photo/1",
+          "media_key": "3_2049411620343042048",
+          "start": 86,
+          "url": "https://t.co/0sktFF0nPE"
+        },
+        {
+          "display_url": "pic.x.com/0sktFF0nPE",
+          "end": 109,
+          "expanded_url": "https://x.com/ansiyao520/status/2049411625367765319/photo/1",
+          "media_key": "3_2049411620464730112",
+          "start": 86,
+          "url": "https://t.co/0sktFF0nPE"
+        },
+        {
+          "display_url": "pic.x.com/0sktFF0nPE",
+          "end": 109,
+          "expanded_url": "https://x.com/ansiyao520/status/2049411625367765319/photo/1",
+          "media_key": "3_2049411622809309184",
+          "start": 86,
+          "url": "https://t.co/0sktFF0nPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049411625367765319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉这个我也太熟了。\n问你的兴趣。表现得成熟。拉近距离。谈恋爱。这不就是我运用了千百次的小技巧吗。有点恶心喵。也许他们真的能谈。就靠这段对话我就找到恋爱的感觉了。不要演我。 https://t.co/0sktFF0nPE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049411625367765319].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049411625367765319",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049411625367765319"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049411620343042048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD5Aq0a0AARby5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049411620464730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD5ArRboAAoolo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049411622809309184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD5A0AbEAAXBgG.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1307,
+          "like_count": 13976,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 615
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

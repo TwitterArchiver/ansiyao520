@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055642551642882049"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2055642555161985125",
+    "created_at": "2026-05-16T13:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055642555161985125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1DkpwIVnTq",
+          "end": 23,
+          "expanded_url": "https://x.com/ansiyao520/status/2055642555161985125/photo/1",
+          "media_key": "3_2055642551642882049",
+          "start": 0,
+          "url": "https://t.co/1DkpwIVnTq"
+        },
+        {
+          "display_url": "x.com/Nargiti/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Nargiti/status/2055641667043197171",
+          "start": 24,
+          "url": "https://t.co/tYBDSdb5gL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055642555161985125",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055641667043197171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/1DkpwIVnTq https://t.co/tYBDSdb5gL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055642555161985125].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055642555161985125",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055642555161985125"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055642551642882049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIccAmvaAAE2YV5.jpg",
+        "width": 1036
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2055641647904636928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcbMADawAA4zFk.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055641647904636928"
+          ]
+        },
+        "author_id": "1726808702387449856",
+        "conversation_id": "2055641667043197171",
+        "created_at": "2026-05-16T13:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055641667043197171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAwvZaE1Qx",
+              "end": 31,
+              "expanded_url": "https://x.com/Nargiti/status/2055641667043197171/photo/1",
+              "media_key": "3_2055641647904636928",
+              "start": 8,
+              "url": "https://t.co/EAwvZaE1Qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055641667043197171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们快来玩这个 https://t.co/EAwvZaE1Qx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 1356,
+          "like_count": 16545,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 816
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允。人随身死，精神永存\n\n我的私信好像一直有问题，老是刷不出来新消息，如果给我发了私信我一直没回的话可以随便在某个帖子底下告诉我一声。\n🚪52，听说加了门会有更多人来玩所以试试\n纯绿。（其实大概率不用门，找我玩直接私就行）",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "pinned_tweet_id": "2053310793404588270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 16,
+          "like_count": 6620,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 253
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

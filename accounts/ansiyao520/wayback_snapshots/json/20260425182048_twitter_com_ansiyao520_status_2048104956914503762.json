@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2048104956914503762",
+    "created_at": "2026-04-25T18:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048104956914503762"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048104956914503762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于哀悼\n\n我哀悼的锚点一直迟迟不肯落下。\n就是因为我希望看到他可以否定自己，回到我身边。\n我就是希望他可以否定自己分手以来全部的存在方式。\n可是。我不能把这个可能性作为我哀悼的最终锚点。因为这意味着我的情感自由完全系于他的自我否定。我还没这么赌狗。\n所以我迟迟无法完成哀悼。\n所以。我迟迟无法完成哀悼。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于哀悼\n\n我哀悼的锚点一直迟迟不肯落下。\n就是因为我希望看到他可以否定自己，回到我身边。\n我就是希望他可以否定自己分手以来全部的存在方式。\n可是。我不能把这个可能性作为我哀悼的最终锚点。因为这意味着我的情感自由完全系于他的自我否定。我还没这么赌狗。\n所以我迟迟无法完成哀悼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2048104956914503762",
+        "created_at": "2026-04-25T18:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048104956914503762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048104956914503762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于哀悼\n\n我哀悼的锚点一直迟迟不肯落下。\n就是因为我希望看到他可以否定自己，回到我身边。\n我就是希望他可以否定自己分手以来全部的存在方式。\n可是。我不能把这个可能性作为我哀悼的最终锚点。因为这意味着我的情感自由完全系于他的自我否定。我还没这么赌狗。\n所以我迟迟无法完成哀悼。\n所以。我迟迟无法完成哀悼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于哀悼\n\n我哀悼的锚点一直迟迟不肯落下。\n就是因为我希望看到他可以否定自己，回到我身边。\n我就是希望他可以否定自己分手以来全部的存在方式。\n可是。我不能把这个可能性作为我哀悼的最终锚点。因为这意味着我的情感自由完全系于他的自我否定。我还没这么赌狗。\n所以我迟迟无法完成哀悼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1270,
+          "like_count": 12973,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 556
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

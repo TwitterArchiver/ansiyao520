@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044805265531559936"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044805270438867223",
+    "created_at": "2026-04-16T15:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044805270438867223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yIhlgFApNY",
+          "end": 149,
+          "expanded_url": "https://x.com/ansiyao520/status/2044805270438867223/photo/1",
+          "media_key": "3_2044805265531559936",
+          "start": 126,
+          "url": "https://t.co/yIhlgFApNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044805270438867223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁说中国没有文艺复兴的。\n我看现在的小青年积极反抗父母，对不合理的封建文化深恶痛绝。就是一种温和的反对封建主义的文艺复兴呀。\n此外实际上近代以来的五四运动，新文化运动已经把封建主义挫骨扬灰。现在的青年只需要在代际价值观冲突情景里给封建渣渣扫个尾罢了。 https://t.co/yIhlgFApNY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2044805270438867223].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2044805270438867223",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2044805270438867223"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044805265531559936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCbjh7bYAAypv3.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 1158,
+          "like_count": 8982,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 426
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

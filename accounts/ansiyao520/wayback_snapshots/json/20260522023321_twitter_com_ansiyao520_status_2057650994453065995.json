@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2055311299660468723",
+    "created_at": "2026-05-22T02:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057650994453065995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883062625812217856",
+          "start": 0,
+          "username": "BZena31198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057650994453065995",
+    "in_reply_to_user_id": "1883062625812217856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055311299660468723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZena31198 不是每个人都会非挖不可。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2055311296812498945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXuvCVbQAE96xb.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2055311299660468723",
+        "created_at": "2026-05-22T02:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057650994453065995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883062625812217856",
+              "start": 0,
+              "username": "BZena31198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057650994453065995",
+        "in_reply_to_user_id": "1883062625812217856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055311299660468723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZena31198 不是每个人都会非挖不可。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055311296812498945"
+          ]
+        },
+        "author_id": "1883062625812217856",
+        "conversation_id": "2055311299660468723",
+        "created_at": "2026-05-15T15:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055311299660468723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "高中生"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "反差"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "学霸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU68UJ46YI",
+              "end": 102,
+              "expanded_url": "https://x.com/BZena31198/status/2055311299660468723/photo/1",
+              "media_key": "3_2055311296812498945",
+              "start": 79,
+              "url": "https://t.co/nU68UJ46YI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055311299660468723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17310,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我们宿舍有个学习超级好的学霸，比我们五个人乖多了，她恋爱也不谈，文文静静的每天学习到很晚，我非常好奇这种学霸会有挖矿的坏习惯吗？\n＃高中生 ＃反差 ＃学霸 https://t.co/nU68UJ46YI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 1387,
+          "like_count": 17488,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 865
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T08:01:42.000Z",
+        "description": "高冷话痨王/只关注帅哥/158的小土豆/\n话搭子我会互fo，我还是学生我不线下望尊重！白天在上课放学会回消息，无聊可以找我唠嗑，其他就不多介绍了，以免喜欢上我～",
+        "id": "1883062625812217856",
+        "name": "小欣怡",
+        "pinned_tweet_id": "2057368468702580803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055067479396040704/PjB3G-Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 3,
+          "like_count": 33,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 58
+        },
+        "username": "BZena31198",
+        "verified": false
+      }
+    ]
+  }
+}

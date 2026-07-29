@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049156673248575579",
+    "created_at": "2026-04-28T15:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049156673248575579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2049156143805870510",
+          "start": 5,
+          "url": "https://t.co/menvWc4cEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049156673248575579",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049156143805870510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "痛痛痛！ https://t.co/menvWc4cEW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049156673248575579",
+        "created_at": "2026-04-28T15:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049156673248575579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2049156143805870510",
+              "start": 5,
+              "url": "https://t.co/menvWc4cEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049156673248575579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049156143805870510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痛痛痛！ https://t.co/menvWc4cEW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2049156143805870510",
+        "created_at": "2026-04-28T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:57:25.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049156035550777505",
+          "2049156105570484298",
+          "2049156143805870510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049156143805870510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诗：\n                 《感怀文椛喵》\n                          安思瑶\n灵台自析无人解，絮语千章待汝听。\n嗔言每向柔声化，病骨偏从冷眼明。\n已负前缘如电抹，空留残忆共愁生。\n人间最是回眸晚，一霎春波万古冰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "只是私人而已🍥。",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202945608073216/Z_kxB27Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1307,
+          "like_count": 13717,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 590
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

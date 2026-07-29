@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049647069208727552"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2049647076980744299",
+    "created_at": "2026-04-30T00:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049647076980744299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGPeyV8rk6",
+          "end": 117,
+          "expanded_url": "https://x.com/ansiyao520/status/2049647076980744299/photo/1",
+          "media_key": "3_2049647069208727552",
+          "start": 94,
+          "url": "https://t.co/xGPeyV8rk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049647076980744299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这开锁1000多是让开锁公司敲了一笔吗。\n其实在我很小的时候，差不过小学的年纪，也报过一次警，电话接通后，我说，我想报警，我有一个网友要自杀了。警察叔叔告诉我管不了这些，就把电话挂掉了。\n初中时又因为在网上看到同学转发的校园霸凌视频，通过网络警情平台反映了一下。但那是视频呀，我也不知道地点，同学也不肯给我视频来源，警察叔叔就一直加微信问我视频里的内容是怎么回事。还给我打电话。我只好承认自己的幼稚我说，警察叔叔我们这个案子非破不可吗，可以不要再打扰我了吗。他就再也没找过我了。\n然而我又担心这样算不算报假警，担心了一两天。\n因为两次不愉快的相关经历，所以后来我就没报过警了。即使是在网上目睹他人主动放弃生命，我也不会再去触动“我们管不了”、“可以不要再打扰我了吗”这个创伤。\n除此之外，还有一个关于死亡的事是，我初中时期想自杀时。我的年龄比我大的好朋友、先生，就用的是激将法，我当时一直跟他说自己好想死。但是割手好疼，割腕我也不敢，我说到这里。他就说，那你可以用机械装置呀，只需要学一点大学物理，往门上弄一个，嘎巴一下就死了。我被他整无语了，说这个好难我怎么可能学会大学物理。然后他又说那你可以用……etc.，跟他讨论了好多自杀方法，我反而不想死了。因为这样的经历，所以小遥想死时，我很自然地用了这样的方法，就是跟他聊死亡。也没有报警，事实上也没觉得聊完之后他会真的死掉。小遥是第一个我和药娘以及嗑药深交的人，我对药娘和嗑药这个群体还是太低估了，那有老鼠药是真吃啊，直到他选择死亡之前我都以为他不会真的去死，就像我以前一样。不过我错估了。\n这是当时更具体的心理侧写。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这开锁1000多是让开锁公司敲了一笔吗。\n其实在我很小的时候，差不过小学的年纪，也报过一次警，电话接通后，我说，我想报警，我有一个网友要自杀了。警察叔叔告诉我管不了这些，就把电话挂掉了。 https://t.co/xGPeyV8rk6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049647076980744299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049647076980744299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049647076980744299"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2049647069208727552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHPJmMbUAAYvJO.jpg",
+        "width": 940
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1319,
+          "like_count": 14463,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 676
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

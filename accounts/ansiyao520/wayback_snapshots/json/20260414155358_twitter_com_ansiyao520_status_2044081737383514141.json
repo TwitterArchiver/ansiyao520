@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044081383606497282"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044081737383514141",
+    "created_at": "2026-04-14T15:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044081737383514141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMFRWrjf0j",
+          "end": 97,
+          "expanded_url": "https://x.com/ansiyao520/status/2044081737383514141/video/1",
+          "media_key": "7_2044081383606497282",
+          "start": 74,
+          "url": "https://t.co/dMFRWrjf0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044081737383514141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果感到烦躁或者沉闷，可以来姐姐主页和姐姐一起听歌。音乐可以陶冶情操，所谓陶冶，就是把不好的情绪发泄掉。\n当然。如果实在感觉躁郁难耐，该吃药吃药。 https://t.co/dMFRWrjf0j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 205372,
+        "height": 1088,
+        "media_key": "7_2044081383606497282",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044081383606497282/pu/img/ffVyQWtactvBD5-t.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044081383606497282/pu/vid/avc1/320x604/59NI80uxk9M1RnkE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044081383606497282/pu/vid/avc1/480x906/jjTozVvl4r3ADahh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044081383606497282/pu/vid/avc1/576x1088/-L71hVleX_fEFHs5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044081383606497282/pu/pl/0otRyuJET-MqLgW-.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044081383606497282"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044081737383514141",
+        "created_at": "2026-04-14T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044081737383514141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMFRWrjf0j",
+              "end": 97,
+              "expanded_url": "https://x.com/ansiyao520/status/2044081737383514141/video/1",
+              "media_key": "7_2044081383606497282",
+              "start": 74,
+              "url": "https://t.co/dMFRWrjf0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081737383514141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果感到烦躁或者沉闷，可以来姐姐主页和姐姐一起听歌。音乐可以陶冶情操，所谓陶冶，就是把不好的情绪发泄掉。\n当然。如果实在感觉躁郁难耐，该吃药吃药。 https://t.co/dMFRWrjf0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1073,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 391
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

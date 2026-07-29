@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044793701147517095",
+    "created_at": "2026-04-16T15:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044800324876267948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044800324876267948",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "请不要为此焦虑。我从高中开始，就因为跑来跑去吃饭赶时间学习，导致经常上厕所时肌肉紧张尿不出来，尿不尽，收回小鸟后就开始漏尿。一直到了大学到现在也是如此，我每次尿尿都会尽量放松自己，不想尿了也站立一会，再收鸟一会，最后才彻底收回。如果你曾经有过焦虑史，可能是因为长期心理因素导致的肌肉习惯。如果你长期服药，也不必过于担心，只是尿的时候要多花点时间，不会有太大问题。当然，如果你发现情况有变化，及时就医。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044793701147517095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 请不要为此焦虑。我从高中开始，就因为跑来跑去吃饭赶时间学习，导致经常上厕所时肌肉紧张尿不出来，尿不尽，收回小鸟后就开始漏尿。一直到了大学到现在也是如此，我每次尿尿都会尽量放松自己，不想尿了也站立一会，再收鸟一会，最后才彻底收回。如果你曾经有过焦虑史，可能是因为长期心理因素导致的肌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044793701147517095",
+        "created_at": "2026-04-16T15:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044800324876267948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044800324876267948",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "请不要为此焦虑。我从高中开始，就因为跑来跑去吃饭赶时间学习，导致经常上厕所时肌肉紧张尿不出来，尿不尽，收回小鸟后就开始漏尿。一直到了大学到现在也是如此，我每次尿尿都会尽量放松自己，不想尿了也站立一会，再收鸟一会，最后才彻底收回。如果你曾经有过焦虑史，可能是因为长期心理因素导致的肌肉习惯。如果你长期服药，也不必过于担心，只是尿的时候要多花点时间，不会有太大问题。当然，如果你发现情况有变化，及时就医。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044793701147517095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 请不要为此焦虑。我从高中开始，就因为跑来跑去吃饭赶时间学习，导致经常上厕所时肌肉紧张尿不出来，尿不尽，收回小鸟后就开始漏尿。一直到了大学到现在也是如此，我每次尿尿都会尽量放松自己，不想尿了也站立一会，再收鸟一会，最后才彻底收回。如果你曾经有过焦虑史，可能是因为长期心理因素导致的肌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2044793701147517095",
+        "created_at": "2026-04-16T15:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044793701147517095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044793701147517095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在严重怀疑我前列腺有问题😨之前就经常尿完坐下之后还有几滴出来搞到内裤上，导致我经常垫纸。最近好像更严重了，尿完坐在座位上很长一段时间都觉得不舒服😰，好像尿道深处还有尿要出来一样，仔细感觉有感觉好像是大肠某个位置好像被什么东西硌着一样，但是那里的不适感扩散开就好像整个下面都不舒服"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在严重怀疑我前列腺有问题😨之前就经常尿完坐下之后还有几滴出来搞到内裤上，导致我经常垫纸。最近好像更严重了，尿完坐在座位上很长一段时间都觉得不舒服😰，好像尿道深处还有尿要出来一样，仔细感觉有感觉好像是大肠某个位置好像被什么东西硌着一样，但是那里的不适感扩散开就好像整个下面都不舒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1158,
+          "like_count": 8967,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 424
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜choose life?！",
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2044790887289635116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 400,
+          "like_count": 1277,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 807
+        },
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

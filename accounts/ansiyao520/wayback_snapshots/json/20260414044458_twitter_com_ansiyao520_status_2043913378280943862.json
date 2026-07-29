@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043913378280943862",
+    "created_at": "2026-04-14T04:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043913378280943862"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043913378280943862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/x5Di70lVbbkY…",
+            "end": 248,
+            "expanded_url": "https://mp.weixin.qq.com/s/x5Di70lVbbkYIJqwmesR5w",
+            "start": 225,
+            "url": "https://t.co/R9tPpjoGVF"
+          }
+        ]
+      },
+      "text": "综合上述结果可以发现，亚文化圈层与恋爱意愿和行为结果层面之间的关系基本保持一致，不存在提升（降低）了恋爱意愿的同时却与负面（正面）恋爱行动结果相关的圈层。这在一定程度上回应了“动机—意愿—计划—行为”的连续体中所遵循的决策序列（Miller & Pasta，1995），即个体需先具备较强的恋爱意愿，才能进一步利用圈层的社交属性寻找亲密关系伴侣，并最终将意愿转化为成功的恋爱行动。尤其是追星和参与网文圈，在意愿和行动两个维度都阻碍了亲密关系的缔结。\nhttps://t.co/R9tPpjoGVF"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "综合上述结果可以发现，亚文化圈层与恋爱意愿和行为结果层面之间的关系基本保持一致，不存在提升（降低）了恋爱意愿的同时却与负面（正面）恋爱行动结果相关的圈层。这在一定程度上回应了“动机—意愿—计划—行为”的连续体中所遵循的决策序列（Miller &amp;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043913378280943862",
+        "created_at": "2026-04-14T04:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043913378280943862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043913378280943862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mp.weixin.qq.com/s/x5Di70lVbbkY…",
+                "end": 248,
+                "expanded_url": "https://mp.weixin.qq.com/s/x5Di70lVbbkYIJqwmesR5w",
+                "start": 225,
+                "url": "https://t.co/R9tPpjoGVF"
+              }
+            ]
+          },
+          "text": "综合上述结果可以发现，亚文化圈层与恋爱意愿和行为结果层面之间的关系基本保持一致，不存在提升（降低）了恋爱意愿的同时却与负面（正面）恋爱行动结果相关的圈层。这在一定程度上回应了“动机—意愿—计划—行为”的连续体中所遵循的决策序列（Miller & Pasta，1995），即个体需先具备较强的恋爱意愿，才能进一步利用圈层的社交属性寻找亲密关系伴侣，并最终将意愿转化为成功的恋爱行动。尤其是追星和参与网文圈，在意愿和行动两个维度都阻碍了亲密关系的缔结。\nhttps://t.co/R9tPpjoGVF"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "综合上述结果可以发现，亚文化圈层与恋爱意愿和行为结果层面之间的关系基本保持一致，不存在提升（降低）了恋爱意愿的同时却与负面（正面）恋爱行动结果相关的圈层。这在一定程度上回应了“动机—意愿—计划—行为”的连续体中所遵循的决策序列（Miller &amp;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655391058546688/Ijn83VaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1015,
+          "like_count": 5601,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 353
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

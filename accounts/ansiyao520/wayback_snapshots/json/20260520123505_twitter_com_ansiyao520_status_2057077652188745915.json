@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057077649034645504"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057077652188745915",
+    "created_at": "2026-05-20T12:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057077652188745915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JokOMTMc9X",
+          "end": 36,
+          "expanded_url": "https://x.com/ansiyao520/status/2057077652188745915/photo/1",
+          "media_key": "3_2057077649034645504",
+          "start": 13,
+          "url": "https://t.co/JokOMTMc9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057077652188745915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们一起来吃小石片吧♡～ https://t.co/JokOMTMc9X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057077652188745915].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057077652188745915",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057077652188745915"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057077649034645504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIw1ORIbEAAcMJa.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1369,
+          "like_count": 17158,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 851
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

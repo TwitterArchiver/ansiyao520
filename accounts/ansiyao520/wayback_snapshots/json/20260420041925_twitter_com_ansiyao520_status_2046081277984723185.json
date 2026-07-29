@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046081274931257344"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046081277984723185",
+    "created_at": "2026-04-20T04:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046081277984723185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCx4A6jg5U",
+          "end": 133,
+          "expanded_url": "https://x.com/ansiyao520/status/2046081277984723185/photo/1",
+          "media_key": "3_2046081274931257344",
+          "start": 110,
+          "url": "https://t.co/lCx4A6jg5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046081277984723185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近我阅读了大量雷锋同志的事迹。一方面，我被他毫不利己、一心奉献革命的精神所折服。另一方面，雷锋在日记里总是强调自己是被共产党拯救的，要为党的事业奉献一生——他对革命事业更多的是一种感恩之情——这也引起了我深深的思考。\n他做好事，更多的是出于自己极大的开心和满足感。因此，他总是对任何好事都产生极大的兴趣，投入其中，还经常只有自己一个人在做好事。我认为这都值得深思。\n道德毒品这个东西……\n雷锋是一个时代塑造出来的人物。我们不仅要学习他，还要反思他。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近我阅读了大量雷锋同志的事迹。一方面，我被他毫不利己、一心奉献革命的精神所折服。另一方面，雷锋在日记里总是强调自己是被共产党拯救的，要为党的事业奉献一生——他对革命事业更多的是一种感恩之情——这也引起了我深深的思考。 https://t.co/lCx4A6jg5U"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046081277984723185].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046081277984723185",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046081277984723185"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2046081274931257344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUkFDXbIAAzeQ4.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 1235,
+          "like_count": 10812,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 455
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

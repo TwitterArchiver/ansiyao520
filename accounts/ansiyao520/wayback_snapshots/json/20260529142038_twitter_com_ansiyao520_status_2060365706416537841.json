@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2060365706416537841",
+    "created_at": "2026-05-29T14:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060365706416537841"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060365706416537841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国家能不能给我分配一个对象🤔毕竟我也不挑，反而十分喜欢慢慢了解一个属于自己的人。而且因为是分配，一开始没有情欲投射，会像陌生人一样不敢靠近但又坚定地靠近完成任务。感觉会很有趣。\n当然，不要太难看的，不要bmi＞健康值的。（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060365706416537841",
+        "created_at": "2026-05-29T14:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060365706416537841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060365706416537841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国家能不能给我分配一个对象🤔毕竟我也不挑，反而十分喜欢慢慢了解一个属于自己的人。而且因为是分配，一开始没有情欲投射，会像陌生人一样不敢靠近但又坚定地靠近完成任务。感觉会很有趣。\n当然，不要太难看的，不要bmi＞健康值的。（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 1431,
+          "like_count": 18715,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 957
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

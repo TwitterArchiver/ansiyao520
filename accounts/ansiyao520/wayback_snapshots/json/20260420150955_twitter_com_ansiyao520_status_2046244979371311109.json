@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2046244979371311109",
+    "created_at": "2026-04-20T15:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046244979371311109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2046236006475821431",
+          "start": 17,
+          "url": "https://t.co/IG948Ky8jD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046244979371311109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046236006475821431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽刀断水水更流。举杯消愁愁更愁。 https://t.co/IG948Ky8jD"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "我的理想女友。",
+        "height": 1152,
+        "media_key": "3_2046236002461868034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWwzYVa4AIIRs3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2046244979371311109",
+        "created_at": "2026-04-20T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046244979371311109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2046236006475821431",
+              "start": 17,
+              "url": "https://t.co/IG948Ky8jD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046244979371311109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046236006475821431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽刀断水水更流。举杯消愁愁更愁。 https://t.co/IG948Ky8jD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046236002461868034"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046236006475821431",
+        "created_at": "2026-04-20T14:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046236006475821431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hlpB5zBlF",
+              "end": 135,
+              "expanded_url": "https://x.com/ansiyao520/status/2046236006475821431/photo/1",
+              "media_key": "3_2046236002461868034",
+              "start": 112,
+              "url": "https://t.co/5hlpB5zBlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046236006475821431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉老难受了。没有恋人喵。没有人可以和我交心喵。我好想把最恶毒的话最情绪化的语言告诉她，我不想理性而有边界感地照顾别人。我好难受。我没有恋人了。我没有可以说话的地方了。我好孤独。\n我好想玩恋恋的心跳大冒险。\n我好想要姐姐。 https://t.co/5hlpB5zBlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "恋恋喜欢心跳大冒险🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045794570290749440/7kSCZLHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1242,
+          "like_count": 11251,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 473
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057516809100902400",
+        "3_2057516809558147072",
+        "3_2057516810334056448",
+        "3_2057516811521073152"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057516814016598207",
+    "created_at": "2026-05-21T17:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057516814016598207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K9mfftL8QR",
+          "end": 146,
+          "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+          "media_key": "3_2057516809100902400",
+          "start": 123,
+          "url": "https://t.co/K9mfftL8QR"
+        },
+        {
+          "display_url": "pic.x.com/K9mfftL8QR",
+          "end": 146,
+          "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+          "media_key": "3_2057516809558147072",
+          "start": 123,
+          "url": "https://t.co/K9mfftL8QR"
+        },
+        {
+          "display_url": "pic.x.com/K9mfftL8QR",
+          "end": 146,
+          "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+          "media_key": "3_2057516810334056448",
+          "start": 123,
+          "url": "https://t.co/K9mfftL8QR"
+        },
+        {
+          "display_url": "pic.x.com/K9mfftL8QR",
+          "end": 146,
+          "expanded_url": "https://x.com/ansiyao520/status/2057516814016598207/photo/1",
+          "media_key": "3_2057516811521073152",
+          "start": 123,
+          "url": "https://t.co/K9mfftL8QR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057516814016598207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "没有人知道。我也是这样的……\n在我上高中的时候。想死了想离家出走想骑到自己死去。我骑着电动车在自己熟悉的购物街。因为我知道一旦走向陌生的街道，就无法回头了。我一直犹豫，要不要走向自己的死亡。我万念俱灰地鼓起嘴又松开逗自己玩。可是当我的目光汇聚。\n一个可爱的小女孩。学着我鼓嘴的样子。对着我笑。\n她母亲电动车的速度与我差不多，所以距离我不远不近。兴许是因为无聊，她被我的举动逗乐，模仿了我。她的笑容和动作让我情不自禁地笑起来。于是我就回家了。\n也许区别就是。atri让男主对个人欠下了无法还完的生命债务。而那个小女孩是所有人民的化身。我根本无法再次认出她。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有人知道。我也是这样的……\n在我上高中的时候。想死了想离家出走想骑到自己死去。我骑着电动车在自己熟悉的购物街。因为我知道一旦走向陌生的街道，就无法回头了。我一直犹豫，要不要走向自己的死亡。我万念俱灰地鼓起嘴又松开逗自己玩。可是当我的目光汇聚。 https://t.co/K9mfftL8QR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057516814016598207].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057516814016598207",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057516814016598207"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057516809100902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Eov3awAAv3of.jpg",
+        "width": 1497
+      },
+      {
+        "height": 1059,
+        "media_key": "3_2057516809558147072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3EoxkbwAA7z2Z.jpg",
+        "width": 1481
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2057516810334056448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Eo0dbMAAutfm.jpg",
+        "width": 1786
+      },
+      {
+        "height": 1143,
+        "media_key": "3_2057516811521073152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3Eo44boAAgiQ5.jpg",
+        "width": 1681
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 1383,
+          "like_count": 17366,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 860
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

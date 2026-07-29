@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2073772083843408039",
+    "created_at": "2026-07-05T18:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073835083895890242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047679401400373248",
+          "start": 0,
+          "username": "Hysteriadie0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073835083895890242",
+    "in_reply_to_user_id": "2047679401400373248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073772083843408039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hysteriadie0331 因为封建父母不想给你隐私权和经济独立权呗。生下你你就是欠他们的，他们咋处置你都有理。努力活下去记住这一切。我们以后别这样就行了。人活这么大谁没个创伤呀。抱抱你咯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2073772083843408039",
+        "created_at": "2026-07-05T18:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073835083895890242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047679401400373248",
+              "start": 0,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073835083895890242",
+        "in_reply_to_user_id": "2047679401400373248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073772083843408039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hysteriadie0331 因为封建父母不想给你隐私权和经济独立权呗。生下你你就是欠他们的，他们咋处置你都有理。努力活下去记住这一切。我们以后别这样就行了。人活这么大谁没个创伤呀。抱抱你咯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047679401400373248",
+        "conversation_id": "2073772083843408039",
+        "created_at": "2026-07-05T14:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073772083843408039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073772083843408039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我没有钱，没有零花钱，没有自己的房间，没有自己的隐私。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1788,
+          "like_count": 28572,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1747
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "2009｜mtf｜中度GD🏳️‍⚧️｜间断含糖25.05.01🍥｜易性症病历｜家长反对党｜天残党｜INFP-T｜BPD｜一个坏孩子｜温柔体贴善良｜社交回避-自闭倾向｜疑似精神病友｜同类fo｜请和咱交朋友嘛~｜咱不喜欢屏蔽人，被屏蔽会特别难过...｜一只小透明｜恋人@ting_xia91591",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "ting_xia91591"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet",
+        "name": "白汐雪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072266123056443763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073753981130870784/bPIsphE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 389,
+          "like_count": 99,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

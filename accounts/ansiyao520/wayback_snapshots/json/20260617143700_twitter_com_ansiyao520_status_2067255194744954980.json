@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2067245880927998416",
+    "created_at": "2026-06-17T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067255194744954980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013776155166539776",
+          "start": 0,
+          "username": "l3010045822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067255194744954980",
+    "in_reply_to_user_id": "2013776155166539776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067245880927998416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3010045822 那你真是冰雪聪明了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_2066938087654256640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89PVdbcAAQwRQ.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2067245880927998416",
+        "created_at": "2026-06-17T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067255194744954980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013776155166539776",
+              "start": 0,
+              "username": "l3010045822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067255194744954980",
+        "in_reply_to_user_id": "2013776155166539776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067245880927998416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3010045822 那你真是冰雪聪明了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066938087654256640"
+          ]
+        },
+        "author_id": "2013776155166539776",
+        "conversation_id": "2067245880927998416",
+        "created_at": "2026-06-17T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067245880927998416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0I3hWv3bw",
+              "end": 88,
+              "expanded_url": "https://x.com/l3010045822/status/2067245880927998416/photo/1",
+              "media_key": "3_2066938087654256640",
+              "start": 65,
+              "url": "https://t.co/Z0I3hWv3bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067245880927998416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "分享点郊狼使用技巧\n前列腺卵塞进去以后，再插一根假阳具抵住，可以定向电流位置，自己用肌肉调整电流方向，全汇聚到前列腺-唧唧方向。\n\n如果经验不够射不出来，用一根手指按摩冠状沟下方，不要撸，按摩即可，你会得到一个非常剧烈且满足的高潮，电流顺着射出来的液体，流到小腹上，酥酥麻麻的，懒洋洋的不想动弹，感觉像被人格排泄了一样。\n\n更多经验分享窝会放在个人亮点里，感觉大家对这个比较感兴趣啊...要是流量好，窝多写点，欢迎收藏转发喵（到时候可能有的经验会是搬运）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享点郊狼使用技巧\n前列腺卵塞进去以后，再插一根假阳具抵住，可以定向电流位置，自己用肌肉调整电流方向，全汇聚到前列腺-唧唧方向。 https://t.co/Z0I3hWv3bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1642,
+          "like_count": 24427,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 1432
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "琪露诺🍥（冰雪聪明版）",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 413,
+          "like_count": 1517,
+          "listed_count": 2,
+          "media_count": 470,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "l3010045822",
+        "verified": true
+      }
+    ]
+  }
+}

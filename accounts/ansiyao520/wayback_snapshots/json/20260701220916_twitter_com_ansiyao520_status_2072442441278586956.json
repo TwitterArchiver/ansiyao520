@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2072346406371942515",
+    "created_at": "2026-07-01T22:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072442441278586956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsksyrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072442441278586956",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "很正常。现在高中只要不是开放的就是封建的，要是你遇到了我那个思想近乎衡水模式，相信孩子就是要被严格管理以供高考的年级主任，可能你现在的学习心情会更糟糕。事实上我曾经在高中陪带了一个挂在衣领上的小兔子怀表。可惜那天年级主任喝多了，又是晚上，他一把抓住发现是个怀表，说什么是表啊就没管我，第一次没管后面也就没因为这个为难过我了。学生在学校想表现出个性还是比较困难的。现在的教育模式不支持不鼓励学生表现个性。表现地不努力不刻苦、爱搞学习之外的事或装饰很容易会招来打压。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072346406371942515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsksyrx 很正常。现在高中只要不是开放的就是封建的，要是你遇到了我那个思想近乎衡水模式，相信孩子就是要被严格管理以供高考的年级主任，可能你现在的学习心情会更糟糕。事实上我曾经在高中陪带了一个挂在衣领上的小兔子怀表。可惜那天年级主任喝多了，又是晚上，他一把抓住发现是个怀表，说什么是表啊就没管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2072346406371942515",
+        "created_at": "2026-07-01T22:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072442441278586956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsksyrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072442441278586956",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很正常。现在高中只要不是开放的就是封建的，要是你遇到了我那个思想近乎衡水模式，相信孩子就是要被严格管理以供高考的年级主任，可能你现在的学习心情会更糟糕。事实上我曾经在高中陪带了一个挂在衣领上的小兔子怀表。可惜那天年级主任喝多了，又是晚上，他一把抓住发现是个怀表，说什么是表啊就没管我，第一次没管后面也就没因为这个为难过我了。学生在学校想表现出个性还是比较困难的。现在的教育模式不支持不鼓励学生表现个性。表现地不努力不刻苦、爱搞学习之外的事或装饰很容易会招来打压。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072346406371942515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsksyrx 很正常。现在高中只要不是开放的就是封建的，要是你遇到了我那个思想近乎衡水模式，相信孩子就是要被严格管理以供高考的年级主任，可能你现在的学习心情会更糟糕。事实上我曾经在高中陪带了一个挂在衣领上的小兔子怀表。可惜那天年级主任喝多了，又是晚上，他一把抓住发现是个怀表，说什么是表啊就没管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2072346406371942515",
+        "created_at": "2026-07-01T15:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:42:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072345230305878344",
+          "2072346406371942515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mrsksyrx/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/mrsksyrx/status/2071245760155492691",
+              "start": 27,
+              "url": "https://t.co/CwmMpQoZgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072346406371942515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 598,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245760155492691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发卡被年级主任看到顺手收了\n明明其他老师都不管的（） https://t.co/CwmMpQoZgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 1760,
+          "like_count": 27704,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 1684
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证？｜家长党？  \n生日2009.10.10｜高一｜175/61｜She/Her  \n重庆&苏州｜很丑qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 651,
+          "like_count": 5059,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx",
+        "verified": true
+      }
+    ]
+  }
+}

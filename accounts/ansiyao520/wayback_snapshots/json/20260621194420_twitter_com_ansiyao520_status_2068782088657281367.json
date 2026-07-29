@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2068751683002532091",
+    "created_at": "2026-06-21T19:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068782088657281367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883245404881633280",
+          "start": 0,
+          "username": "YangYi21649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068782088657281367",
+    "in_reply_to_user_id": "1883245404881633280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068751683002532091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangYi21649 没事我也跟我爸爸打了个招呼。没办法现在还吃着用着家里呢。以后为了维护所谓的亲情和养育义务大概也会在这一天打个招呼吧。人在屋檐下不得不低头啊😂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2068751683002532091",
+        "created_at": "2026-06-21T19:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068782088657281367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883245404881633280",
+              "start": 0,
+              "username": "YangYi21649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068782088657281367",
+        "in_reply_to_user_id": "1883245404881633280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068751683002532091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangYi21649 没事我也跟我爸爸打了个招呼。没办法现在还吃着用着家里呢。以后为了维护所谓的亲情和养育义务大概也会在这一天打个招呼吧。人在屋檐下不得不低头啊😂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883245404881633280",
+        "conversation_id": "2068751683002532091",
+        "created_at": "2026-06-21T17:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068751683002532091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068751683002532091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天还是祝他父亲节快乐了，但我恨他，永远恨他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1662,
+          "like_count": 25334,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 1483
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T20:08:08.000Z",
+        "description": "可能是mtf 大号@h2o2333 三代目@1novah2o vrc私信加",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "h2o2333"
+              },
+              {
+                "end": 30,
+                "start": 21,
+                "username": "1novah2o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/gr3urFeY1G"
+              }
+            ]
+          }
+        },
+        "id": "1883245404881633280",
+        "name": "一氧化二氢/pr80在售💊",
+        "pinned_tweet_id": "2065370356022669701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055624783837196288/vQoUDe_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 379,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/gr3urFeY1G",
+        "username": "YangYi21649",
+        "verified": true
+      }
+    ]
+  }
+}

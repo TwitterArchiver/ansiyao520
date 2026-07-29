@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2072307542899019784",
+    "created_at": "2026-07-01T13:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072307542899019784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072307542899019784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我现在才上大二。等我有工作经验和积蓄的时候大概已经四五年过去了。你们也就长大了到大学了，到了大学的地步你们其实也就不需要我帮助了。所以其实我们是无法互帮互助的。一切只能靠你们自己，你们明白不。\n我们唯一合作的机会只有八九年后一起工作时可以构建新的工作社交。或者十几二十年后我们成为了社会中坚力量，我说白了，四十岁正是人的权势能够最盛极一时的年龄，我们就可以凝聚社会合力了。前提是你们能够身居要位，掌握物质力量。\n否则的话你们要把若干年后统治社会的权力交给谁？\n舍我其谁？\n要努力啊，各位满怀理想的小朋友。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在才上大二。等我有工作经验和积蓄的时候大概已经四五年过去了。你们也就长大了到大学了，到了大学的地步你们其实也就不需要我帮助了。所以其实我们是无法互帮互助的。一切只能靠你们自己，你们明白不。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2072307542899019784",
+        "created_at": "2026-07-01T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072307542899019784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072307542899019784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在才上大二。等我有工作经验和积蓄的时候大概已经四五年过去了。你们也就长大了到大学了，到了大学的地步你们其实也就不需要我帮助了。所以其实我们是无法互帮互助的。一切只能靠你们自己，你们明白不。\n我们唯一合作的机会只有八九年后一起工作时可以构建新的工作社交。或者十几二十年后我们成为了社会中坚力量，我说白了，四十岁正是人的权势能够最盛极一时的年龄，我们就可以凝聚社会合力了。前提是你们能够身居要位，掌握物质力量。\n否则的话你们要把若干年后统治社会的权力交给谁？\n舍我其谁？\n要努力啊，各位满怀理想的小朋友。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在才上大二。等我有工作经验和积蓄的时候大概已经四五年过去了。你们也就长大了到大学了，到了大学的地步你们其实也就不需要我帮助了。所以其实我们是无法互帮互助的。一切只能靠你们自己，你们明白不。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1759,
+          "like_count": 27666,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 1676
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059285777906024448"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2059285780355571966",
+    "created_at": "2026-05-26T14:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059285780355571966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRCWaVdnWl",
+          "end": 93,
+          "expanded_url": "https://x.com/ansiyao520/status/2059285780355571966/photo/1",
+          "media_key": "3_2059285777906024448",
+          "start": 70,
+          "url": "https://t.co/XRCWaVdnWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059285780355571966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《论小朋友的自戮》\n——经历分享\n死亡不是凉爽的夏夜，也不是值得的取消。小朋友要克制自己、学会生活、成长为一个温和而有力的人。我们在等你。\n我经历过的想不开分两种。一种是短暂的情绪作用，几个小时左右，常见于傍晚，睡一觉后会消散很多。另一种是长期事件的情绪作用，但这里也要进行两种区分。一是，我经历过转学而不得的事件，在这个事件中，我确实承受了比较大的精神压力，但更多的是想完成自己的目标，哪怕忍不住地泪流满面也要要求自己坚强地执行目标。另一种我没经过，但就推测和设想来说应该是被打击后长期的绝望，长期的求死。\n我认为第一种情绪作用和第二种情绪作用的带激励和目标的情况还是个人可以处理的。\n第二种的前一个，应该自己不会死。然后得到解决、或者得到无法解决的打击、转变，最后变成第二个绝望的情况或者事情最终被解决。\n第一种则需要个人进行一个情绪上的克制。我认为现在的自残文化是不好的，因为它放纵了小孩子的求死欲，放弃了练习控制自己情绪的机会，最终一定会导向自戮。而且它对人价值感、获得感的打击也很强，因为你一旦做了那样的事，就更笃定自己毫无价值、应该一死了之了。小遥被我鼓励和要求建立自己的配得感时就是这样拒绝了我。\n我年轻时也想过求死，也曾拿着刀在手腕上比划着，期待可以血流如注，顷刻死去。可我总是在比划；在外面转悠；想尽一切办法安慰自己多活几秒，就是不死，不断进行着思想斗争。这些心理训练还是比较重要的吧。\n总而言之。不要把死亡浪漫化为一切的解脱。应该清醒地意识到，死亡只是一个人生事件。\n自残文化不仅是个人选择，也是资本社会在青年身体上刻下的伤痕。当现实出路匮乏、未来被取消、亲密关系商品化，身体就成了最后的、唯一可控的领土。在土地上刻字，是在宣告我至少还能对自己做些什么。尽管它是绝望中仅剩的能动性。但这是虚假的主体性。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《论小朋友的自戮》\n——经历分享\n死亡不是凉爽的夏夜，也不是值得的取消。小朋友要克制自己、学会生活、成长为一个温和而有力的人。我们在等你。 https://t.co/XRCWaVdnWl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059285780355571966].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059285780355571966",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059285780355571966"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_2059285777906024448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQNgSMaQAACgf0.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1422,
+          "like_count": 18340,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 923
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

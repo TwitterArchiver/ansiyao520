@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077038492501368833"
+      ],
+      "media_source_tweet_id": [
+        "2077039176458105226"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079099062868119627",
+    "created_at": "2026-07-20T07:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079099062868119627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2022909605307912198",
+          "start": 3,
+          "username": "justin052018450"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Q6SnCOs9b",
+          "end": 44,
+          "expanded_url": "https://x.com/xixikawaii/status/2077039176458105226/video/1",
+          "media_key": "13_2077038492501368833",
+          "start": 21,
+          "url": "https://t.co/0Q6SnCOs9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079099062868119627",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078207221553340478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justin052018450: https://t.co/0Q6SnCOs9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110566,
+        "height": 624,
+        "media_key": "13_2077038492501368833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077038492501368833/img/2Fuh1W4OJL5xsR86.jpg",
+        "public_metrics": {
+          "view_count": 2032918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077038492501368833/vid/avc1/320x480/RqlDmNhASkYB6tHz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077038492501368833/vid/avc1/416x624/y34Q5RC_6mN9rSLw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077038492501368833/pl/F5sOIcMNS8lolLcA.m3u8?v=f69"
+          }
+        ],
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077038492501368833"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2077039176458105226",
+        "created_at": "2026-07-14T14:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077039176458105226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Y4e9lxuj8",
+              "end": 40,
+              "expanded_url": "https://x.com/xixikawaii/status/2077039176458105226/video/1",
+              "media_key": "13_2077038492501368833",
+              "start": 17,
+              "url": "https://t.co/4Y4e9lxuj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077039176458105226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1707,
+          "impression_count": 1160028,
+          "like_count": 4753,
+          "quote_count": 19,
+          "reply_count": 716,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "币圈合约最佳戒赌素材🫪经典咏流传 https://t.co/4Y4e9lxuj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077038492501368833"
+          ],
+          "media_source_tweet_id": [
+            "2077039176458105226"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079099062868119627",
+        "created_at": "2026-07-20T07:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079099062868119627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2022909605307912198",
+              "start": 3,
+              "username": "justin052018450"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Q6SnCOs9b",
+              "end": 44,
+              "expanded_url": "https://x.com/xixikawaii/status/2077039176458105226/video/1",
+              "media_key": "13_2077038492501368833",
+              "start": 21,
+              "url": "https://t.co/0Q6SnCOs9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079099062868119627",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078207221553340478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justin052018450: https://t.co/0Q6SnCOs9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077038492501368833"
+          ],
+          "media_source_tweet_id": [
+            "2077039176458105226"
+          ]
+        },
+        "author_id": "2022909605307912198",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078207221553340478",
+        "created_at": "2026-07-17T19:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078207221553340478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Q6SnCOs9b",
+              "end": 23,
+              "expanded_url": "https://x.com/xixikawaii/status/2077039176458105226/video/1",
+              "media_key": "13_2077038492501368833",
+              "start": 0,
+              "url": "https://t.co/0Q6SnCOs9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078207221553340478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 203048,
+          "like_count": 611,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0Q6SnCOs9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1842,
+          "like_count": 30003,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1893
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-15T05:43:40.000Z",
+        "description": "cantar",
+        "id": "2022909605307912198",
+        "name": "con",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023824581145096199/zEYSgux__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 15,
+          "like_count": 6956,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "justin052018450",
+        "verified": false
+      }
+    ]
+  }
+}

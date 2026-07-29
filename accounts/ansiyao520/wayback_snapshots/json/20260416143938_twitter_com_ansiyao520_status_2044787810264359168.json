@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2044787810264359168",
+    "created_at": "2026-04-16T14:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044787810264359168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775833048493240320",
+          "start": 3,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044787810264359168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044432619790889015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwfn: 止泻药 可能是洛哌丁胺（易蒙停）\n轻度40-70mg\n中度70-150mg\n重度150mg以上\n哌丁胺高剂量od会有欣快感、暖暖的镇静、身体重重的舒服、心情超松、轻微止痛、时间变慢、嗜睡、瞳孔缩小\n\n缺点： 便秘 头晕 嗜睡 心跳乱 口干 .."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2044787810264359168",
+        "created_at": "2026-04-16T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044787810264359168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775833048493240320",
+              "start": 3,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044787810264359168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044432619790889015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuukiwfn: 止泻药 可能是洛哌丁胺（易蒙停）\n轻度40-70mg\n中度70-150mg\n重度150mg以上\n哌丁胺高剂量od会有欣快感、暖暖的镇静、身体重重的舒服、心情超松、轻微止痛、时间变慢、嗜睡、瞳孔缩小\n\n缺点： 便秘 头晕 嗜睡 心跳乱 口干 .."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2044432619790889015",
+        "created_at": "2026-04-15T15:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044432619790889015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0___qwq___0/st…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/0___qwq___0/status/2043980020738339313",
+              "start": 123,
+              "url": "https://t.co/VMy6AX3GT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044432619790889015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4841,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043980020738339313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "止泻药 可能是洛哌丁胺（易蒙停）\n轻度40-70mg\n中度70-150mg\n重度150mg以上\n哌丁胺高剂量od会有欣快感、暖暖的镇静、身体重重的舒服、心情超松、轻微止痛、时间变慢、嗜睡、瞳孔缩小\n\n缺点： 便秘 头晕 嗜睡 心跳乱 口干 .. https://t.co/VMy6AX3GT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "爱吃鱼鱼的小安🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044076574153289730/YXN-CqDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1158,
+          "like_count": 8945,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 422
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 777,
+          "like_count": 34536,
+          "listed_count": 0,
+          "media_count": 760,
+          "tweet_count": 2860
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

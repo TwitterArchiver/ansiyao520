@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2073810903657800107",
+    "created_at": "2026-07-05T18:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073831760253816948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053139274128621569",
+          "start": 0,
+          "username": "zhaomingxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073831760253816948",
+    "in_reply_to_user_id": "2053139274128621569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073822390862385224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaomingxh 你入呗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2073810903657800107",
+        "created_at": "2026-07-05T18:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073831760253816948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053139274128621569",
+              "start": 0,
+              "username": "zhaomingxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073831760253816948",
+        "in_reply_to_user_id": "2053139274128621569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073822390862385224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaomingxh 你入呗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053139274128621569",
+        "conversation_id": "2073810903657800107",
+        "created_at": "2026-07-05T17:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073822390862385224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073822390862385224",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073810903657800107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 老大想入你小窗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1787,
+          "like_count": 28527,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1740
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T15:45:42.000Z",
+        "description": "经常左右脑互搏，偶尔大小头互换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaoming25411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaoming25411",
+                "start": 0,
+                "url": "https://t.co/zqZT9eDK55"
+              }
+            ]
+          }
+        },
+        "id": "2053139274128621569",
+        "location": "黄泉路上",
+        "name": "昭明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053859381259669504/6lezcukz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 11823,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/zqZT9eDK55",
+        "username": "zhaomingxh",
+        "verified": false
+      }
+    ]
+  }
+}

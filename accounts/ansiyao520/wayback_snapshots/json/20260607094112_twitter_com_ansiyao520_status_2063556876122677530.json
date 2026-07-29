@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063556872289087488",
+        "3_2063556872729489409",
+        "3_2063556872255520768"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2063556876122677530",
+    "created_at": "2026-06-07T09:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063556876122677530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tfv7GR1BSL",
+          "end": 156,
+          "expanded_url": "https://x.com/ansiyao520/status/2063556876122677530/photo/1",
+          "media_key": "3_2063556872289087488",
+          "start": 133,
+          "url": "https://t.co/tfv7GR1BSL"
+        },
+        {
+          "display_url": "pic.x.com/tfv7GR1BSL",
+          "end": 156,
+          "expanded_url": "https://x.com/ansiyao520/status/2063556876122677530/photo/1",
+          "media_key": "3_2063556872729489409",
+          "start": 133,
+          "url": "https://t.co/tfv7GR1BSL"
+        },
+        {
+          "display_url": "pic.x.com/tfv7GR1BSL",
+          "end": 156,
+          "expanded_url": "https://x.com/ansiyao520/status/2063556876122677530/photo/1",
+          "media_key": "3_2063556872255520768",
+          "start": 133,
+          "url": "https://t.co/tfv7GR1BSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063556876122677530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "西西弗斯。坦塔罗斯。\n而第三个俄狄浦斯的故事，告诉我们，面对诸神主宰之下，人类难以预料的困厄和多舛的命运时，人类既不必反抗，也不必放弃，而应该勇敢的担当。领受命运的亲临，而不放弃人的尊严和重任。在坚定和强韧的行动中，成就人之所事。\n如何在即有的时代，过上好的生活？\n希腊人给的答案，非常简单，他们认为，人只要直面自己必死的命运，面对命运的偶然性和必然性带来的挑战，划清人和神之间的界限，运用智慧而不是诡计，谦卑而不是骄傲，不妄图超越人之为人的界限，就能成就人本身。过上人该过的生活。\n人是有自身的限度的。\n这就是本章——时间迷局与人的命运。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西西弗斯。坦塔罗斯。\n而第三个俄狄浦斯的故事，告诉我们，面对诸神主宰之下，人类难以预料的困厄和多舛的命运时，人类既不必反抗，也不必放弃，而应该勇敢的担当。领受命运的亲临，而不放弃人的尊严和重任。在坚定和强韧的行动中，成就人之所事。\n如何在即有的时代，过上好的生活？ https://t.co/tfv7GR1BSL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063556876122677530].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063556876122677530",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063556876122677530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2063556872289087488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM6CsqbcAA4I_v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2063556872729489409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM6CuTbcAErCTj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2063556872255520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM6CsibQAAKZd2.png",
+        "width": 633
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1495,
+          "like_count": 20659,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1165
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

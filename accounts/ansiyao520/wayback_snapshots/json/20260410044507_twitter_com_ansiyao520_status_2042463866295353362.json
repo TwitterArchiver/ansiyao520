@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042463859227967489",
+        "3_2042463860725305344",
+        "3_2042463861065023488",
+        "3_2042463862751182849"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042463866295353362",
+    "created_at": "2026-04-10T04:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042463866295353362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ed2lGSnr5z",
+          "end": 111,
+          "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+          "media_key": "3_2042463859227967489",
+          "start": 88,
+          "url": "https://t.co/Ed2lGSnr5z"
+        },
+        {
+          "display_url": "pic.x.com/Ed2lGSnr5z",
+          "end": 111,
+          "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+          "media_key": "3_2042463860725305344",
+          "start": 88,
+          "url": "https://t.co/Ed2lGSnr5z"
+        },
+        {
+          "display_url": "pic.x.com/Ed2lGSnr5z",
+          "end": 111,
+          "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+          "media_key": "3_2042463861065023488",
+          "start": 88,
+          "url": "https://t.co/Ed2lGSnr5z"
+        },
+        {
+          "display_url": "pic.x.com/Ed2lGSnr5z",
+          "end": 111,
+          "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+          "media_key": "3_2042463862751182849",
+          "start": 88,
+          "url": "https://t.co/Ed2lGSnr5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042463866295353362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "首先我们应该注意到，官方是写了他们的思考，表达了关注与警示的。并不是乱扣帽子、不思考根源。在情绪对立前，不妨先完整理解官方说了什么，再理性审视各方立场。具体的分析，稍后再发。 https://t.co/Ed2lGSnr5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2042463859227967489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhKDvvbQAEtnA3.jpg",
+        "width": 929
+      },
+      {
+        "height": 816,
+        "media_key": "3_2042463860725305344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhKD1Ua0AAp1ik.jpg",
+        "width": 1080
+      },
+      {
+        "height": 819,
+        "media_key": "3_2042463861065023488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhKD2lagAA0dwL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2042463862751182849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhKD83bQAEMmZ_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042463859227967489",
+            "3_2042463860725305344",
+            "3_2042463861065023488",
+            "3_2042463862751182849"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042463866295353362",
+        "created_at": "2026-04-10T04:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042463866295353362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ed2lGSnr5z",
+              "end": 111,
+              "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+              "media_key": "3_2042463859227967489",
+              "start": 88,
+              "url": "https://t.co/Ed2lGSnr5z"
+            },
+            {
+              "display_url": "pic.x.com/Ed2lGSnr5z",
+              "end": 111,
+              "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+              "media_key": "3_2042463860725305344",
+              "start": 88,
+              "url": "https://t.co/Ed2lGSnr5z"
+            },
+            {
+              "display_url": "pic.x.com/Ed2lGSnr5z",
+              "end": 111,
+              "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+              "media_key": "3_2042463861065023488",
+              "start": 88,
+              "url": "https://t.co/Ed2lGSnr5z"
+            },
+            {
+              "display_url": "pic.x.com/Ed2lGSnr5z",
+              "end": 111,
+              "expanded_url": "https://x.com/ansiyao520/status/2042463866295353362/photo/1",
+              "media_key": "3_2042463862751182849",
+              "start": 88,
+              "url": "https://t.co/Ed2lGSnr5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042463866295353362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先我们应该注意到，官方是写了他们的思考，表达了关注与警示的。并不是乱扣帽子、不思考根源。在情绪对立前，不妨先完整理解官方说了什么，再理性审视各方立场。具体的分析，稍后再发。 https://t.co/Ed2lGSnr5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4265,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 202
+        },
+        "username": "ansiyao520",
+        "verified": false
+      }
+    ]
+  }
+}

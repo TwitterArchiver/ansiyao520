@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2043651163736977611",
+    "created_at": "2026-04-13T11:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043651163736977611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043651163736977611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "经营推特账号的空虚——每天盯着通知看fo看点赞——和因为自己原因失去恋人的痛苦让我意识到，人应该把精力更多地用在提高自己的能力上。只有掌握多多的知识，更有能力。对世界更有看法。才能摆脱孤身一人的无力感。才能处理人和世界之间永恒的焦虑。\n我为什么没有性别焦虑。不就是因为我的塑造观念能力很强，掌握了必要的知识吗。而且我的阿谀奉承、油嘴滑舌技能很强，让我和父母等交往时没有感到压力和焦虑。也没有被退学。\n人和世界之间的焦虑，只能由提高自己的能力解决。我要把精力多多地放在学习上。努力提高自己的本领。我决定以后减少看推特的频率。把时间和精力更多地放在学习上。\n积蓄力量，等待历史的变动。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经营推特账号的空虚——每天盯着通知看fo看点赞——和因为自己原因失去恋人的痛苦让我意识到，人应该把精力更多地用在提高自己的能力上。只有掌握多多的知识，更有能力。对世界更有看法。才能摆脱孤身一人的无力感。才能处理人和世界之间永恒的焦虑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2043651163736977611",
+        "created_at": "2026-04-13T11:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043651163736977611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043651163736977611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经营推特账号的空虚——每天盯着通知看fo看点赞——和因为自己原因失去恋人的痛苦让我意识到，人应该把精力更多地用在提高自己的能力上。只有掌握多多的知识，更有能力。对世界更有看法。才能摆脱孤身一人的无力感。才能处理人和世界之间永恒的焦虑。\n我为什么没有性别焦虑。不就是因为我的塑造观念能力很强，掌握了必要的知识吗。而且我的阿谀奉承、油嘴滑舌技能很强，让我和父母等交往时没有感到压力和焦虑。也没有被退学。\n人和世界之间的焦虑，只能由提高自己的能力解决。我要把精力多多地放在学习上。努力提高自己的本领。我决定以后减少看推特的频率。把时间和精力更多地放在学习上。\n积蓄力量，等待历史的变动。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经营推特账号的空虚——每天盯着通知看fo看点赞——和因为自己原因失去恋人的痛苦让我意识到，人应该把精力更多地用在提高自己的能力上。只有掌握多多的知识，更有能力。对世界更有看法。才能摆脱孤身一人的无力感。才能处理人和世界之间永恒的焦虑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。                                                      禁止键政、网左、海外人士关注我。                               想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "一切美好的都没有了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043234912518684672/brFPAmrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 983,
+          "like_count": 5304,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 315
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2042456590448812435",
+    "created_at": "2026-04-10T04:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042456590448812435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750034536166313984",
+          "start": 3,
+          "username": "bigenaiwang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3zDdPZ",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/3zDdPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042456590448812435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042399165905584279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigenaiwang: 《睡了一觉怎么賺了一万多的女主播？》\n\n她是一位27岁的单亲妈妈，她是一名女主播，她每天晚上等孩子睡着了，就打开直播间开始直播，因为长时间低声与观众交流，她显得非常疲惫，意外的是这次直播她不小心睡着了。… https://t.co/3zDdPZ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2042399158234202112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgPNpwbQAAQdt8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2042456590448812435",
+        "created_at": "2026-04-10T04:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042456590448812435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750034536166313984",
+              "start": 3,
+              "username": "bigenaiwang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/3zDdPZ",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/3zDdPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042456590448812435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042399165905584279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigenaiwang: 《睡了一觉怎么賺了一万多的女主播？》\n\n她是一位27岁的单亲妈妈，她是一名女主播，她每天晚上等孩子睡着了，就打开直播间开始直播，因为长时间低声与观众交流，她显得非常疲惫，意外的是这次直播她不小心睡着了。… https://t.co/3zDdPZ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042399158234202112"
+          ]
+        },
+        "author_id": "1750034536166313984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042399165905584279",
+        "created_at": "2026-04-10T00:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042399165905584279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zDdPZORLj",
+              "end": 125,
+              "expanded_url": "https://x.com/bigenaiwang/status/2042399165905584279/photo/1",
+              "media_key": "3_2042399158234202112",
+              "start": 102,
+              "url": "https://t.co/3zDdPZORLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042399165905584279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《睡了一觉怎么賺了一万多的女主播？》\n\n她是一位27岁的单亲妈妈，她是一名女主播，她每天晚上等孩子睡着了，就打开直播间开始直播，因为长时间低声与观众交流，她显得非常疲惫，意外的是这次直播她不小心睡着了。\n​​\n凌晨两点四十七分，浙江金华的一间狭窄出租屋内，光线昏暗，只有一盏廉价的补光灯在微微震颤。\n​​\n镜头里，一个年轻的女人趴在破旧的写字台上，呼吸沉重且均匀。她手里还死死攥着一支过期的润喉糖，头歪在一侧，散乱的发丝遮住了半张脸，眼底那圈浓重的乌青在冷白色的灯光下显得触目惊心。\n​​\n这不是什么精心编排的“沉睡挑战”，也不是为了博眼球的剧本。此刻，直播间的右上角，在线人数正呈几何倍数疯狂跳动：1万、5万、10万……\n​​\n弹幕区并没有想象中的嘲讽和喧闹，反而出现了一幕足以载入自媒体史册的奇观。满屏滚动的不是“退钱”，而是整齐划一的：“嘘，大家别说话，让她睡会儿。”\n​​\n这个睡着的女人，今年27岁，是一个3岁孩子的单亲妈妈，也是生活这台绞肉机里，正被生吞活剥的普通人。\n​​\n谁能想到，这短短两小时的“事故”，竟然在随后两天内冲上了千万播放量。人们在好奇：她凭什么？她到底经历了什么，能让十几万陌生人在深夜屏息守候？\n​​故事的底色，其实是一片狼藉。\n​​\n两年前，这个女人的生活还是完整的。但随着前夫因豪赌欠下几十万外债销声匿迹，她的世界像被推倒的骨牌，瞬间崩塌。不仅没有一分钱抚养费，还要面对日夜上门的讨债电话。\n​​\n她带着孩子躲进这间月租1800块的毛坯房，唯一值钱的家具，是给孩子买的卡通小床。为了糊口，她白天在小区超市做理货员，月薪3000块，但这活儿她干得如履薄冰。孩子生病要请假，孩子放学要早走，她跑了十几家公司，面试官一听是“独带娃的单亲妈妈”，眼神里那种“你可能会随时耽误工作”的嫌弃，比刀子还利索。\n​​\n即便如此，3000块钱在房租、奶粉、尿不湿和债务面前，无异于杯水车薪。\n​​\n于是，她选了直播。不是为了当网红，是因为这份工“听话”——等孩子晚上十一点睡熟了，她打开手机，就能在床边开工。为了不吵醒孩子，她必须压着嗓子，用近乎耳语的声音跟网友聊天。长期这种“气声”说话，让她的嗓子始终处于干涩充血状态。\n​​\n意外发生的那天，生活对她露出了最狰狞的一面。\n​​\n孩子突发高烧，她抱着几十斤重的娃，在深夜的急诊科排队、化验、拿药。整整一个通宵，她眼皮都没合一下。第二天清晨，她把孩子托付给邻居大妈照看一个小时，自己又跌跌撞撞跑去超市站岗理货，一站就是八个小时。\n​​\n那天晚上，当她再次安顿好退烧的孩子，强撑着坐到补光灯前时，身体其实已经在发出“熔断”警告。\n\n​​她想多播一会儿，哪怕多赚几十块钱，给孩子买点营养品也好。于是，她把原本四小时的直播，硬生生拉到了七个小时。在播到第五个小时的时候，她正在介绍一款平价育儿经，声音越来越小，头越来越沉。\n​​\n终于，身体强行按下了暂停键。\n​​\n她在10万人的注视下，坠入了那个名为“疲惫”的深渊。这一觉，她睡了两个多小时。\n​​\n在那个寂静的深夜，互联网展现出了难得的温柔。\n\n​​一位被称为“榜一大哥”的观众，在那两个小时里没有离开，他连续刷了几个嘉年华，然后打下一行字：“别吵她，这钱是给孩子买奶粉的。”更多的普通网友，则是几十、几百地刷着小额礼物。\n\n​​当她被清晨的一声鸟鸣惊醒，迷糊中看向屏幕时，她吓坏了。\n​​\n十万人的在线，累计一万两千多的打赏——这抵得上她在超市理货四个月的工资。她第一反应不是狂喜，而是手足无措，甚至连水杯都没拿稳，水洒了一桌。\n​​她对着镜头不断地鞠躬，道歉，然后做了一个让所有人意外的决定：她拒绝了所有随后找上门来的MCN机构，拒绝了所谓的“卖惨变现”路线。\n\n​​她把那些打赏网友的ID一个一个记在笔记本上。她说：“我只是为了赚奶粉钱，这笔钱救了我的急。等我把债还清了，我会把这份善意传下去。”\n​​\n其实，这种“无声的崩溃”在当下的直播间里并不罕见。\n​​\n就在不久前，浙江另一位29岁的全职妈妈，也经历了类似的时刻。她的丈夫跑快递，家里还有卧病在床的婆婆。为了贴补家用，她连续熬夜五天，在直播间仅开播20分钟后，就靠在椅背上沉沉睡去。\n​​\n这些女性的身份惊人地相似：她们是母亲，是妻子，是女儿，但唯独不是她们自己。她们在深夜里透支生命，只为了在白天能给家人换回一点生存的空间。\n​​生活从来不会对谁格外温柔。\n​​\n这个27岁的姑娘，没有用眼泪换取流量，而是用那场不小心的“熟睡”，撕开了普通人生活最真实的一角。\n​​\n正如一位网友所言：“我们心疼她，其实是在心疼那个同样在深夜里，咬碎牙齿往肚里咽的自己。”\n​​\n在这个充满滤镜的时代，最动人的，永远是那份不加粉饰、拼尽全力的坚韧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 64260,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "《睡了一觉怎么賺了一万多的女主播？》\n\n她是一位27岁的单亲妈妈，她是一名女主播，她每天晚上等孩子睡着了，就打开直播间开始直播，因为长时间低声与观众交流，她显得非常疲惫，意外的是这次直播她不小心睡着了。 https://t.co/3zDdPZORLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "私人账号，非请勿扰。",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶",
+        "pinned_tweet_id": "2039186811713642939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029796636361379840/u7HwLYrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 790,
+          "like_count": 4253,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 196
+        },
+        "username": "ansiyao520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T05:55:40.000Z",
+        "description": "WLFI大户持有者，相信美债背书的USD1。crypto 爱好者，探索 meme 文化与 DeFi 趋势。AI领域先行者，AI Token基础设施服务者！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UClyZz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UClyZzX2HbKibC26Xo4PZPZA?si=NODLwAzE7--YtwI9",
+                "start": 0,
+                "url": "https://t.co/4gsvb2ytU2"
+              }
+            ]
+          }
+        },
+        "id": "1750034536166313984",
+        "name": "龙翔九天",
+        "pinned_tweet_id": "2038147935452664273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953834455761879040/-CBWyxbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14950,
+          "following_count": 3125,
+          "like_count": 77501,
+          "listed_count": 47,
+          "media_count": 227,
+          "tweet_count": 62502
+        },
+        "url": "https://t.co/4gsvb2ytU2",
+        "username": "bigenaiwang",
+        "verified": true
+      }
+    ]
+  }
+}

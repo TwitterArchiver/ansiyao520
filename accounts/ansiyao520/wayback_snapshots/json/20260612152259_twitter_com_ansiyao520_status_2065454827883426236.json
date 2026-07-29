@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2065454827883426236",
+    "created_at": "2026-06-12T15:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065454827883426236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/xiey57828/status/2065385845255815429",
+          "start": 133,
+          "url": "https://t.co/gLIBtwHxVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065454827883426236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065385845255815429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想知道大家对称呼的接受程度\n我是这样的\n🟩喜欢\n🟨勉强接受\n🟥不喜欢\n称呼   自指 他指\n男的     🟩    🟨\n男娘     🟩    🟥\n药娘     🟩    🟥\n跨女     🟩    🟥\n女的     🟩    🟩\nmtf       🟩    🟥 https://t.co/gLIBtwHxVm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065454827883426236",
+        "created_at": "2026-06-12T15:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065454827883426236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/xiey57828/status/2065385845255815429",
+              "start": 133,
+              "url": "https://t.co/gLIBtwHxVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065454827883426236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385845255815429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想知道大家对称呼的接受程度\n我是这样的\n🟩喜欢\n🟨勉强接受\n🟥不喜欢\n称呼   自指 他指\n男的     🟩    🟨\n男娘     🟩    🟥\n药娘     🟩    🟥\n跨女     🟩    🟥\n女的     🟩    🟩\nmtf       🟩    🟥 https://t.co/gLIBtwHxVm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2065385845255815429",
+        "created_at": "2026-06-12T10:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065385845255815429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ABC13067637/st…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/ABC13067637/status/2065385054285770992",
+              "start": 118,
+              "url": "https://t.co/Tn1mItQcNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065385845255815429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385054285770992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想知道大家对称呼的接受程度\n我是这样的\n称呼   自指 他指\n男的     🟩    🟩\n男娘     🟥    🟩\n药娘     🟩    🟩\n跨女     🟩    🟩\n女的     🟨    🟨\nmtf       🟩    🟩 https://t.co/Tn1mItQcNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1563,
+          "like_count": 22778,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1337
+        },
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "🍑大证含糖反跨顺男神人\n出生08.02.16缺爱b，臭郭楠\n喹硫平单推人，我爱喹硫平，我要吃一辈子喹硫平！！！\n精神状态超好！？😉\n双相，视力残疾\n谁要人喜欢了？\n登神之路总是孤独的！\n语言逻辑混乱",
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 423,
+          "like_count": 8576,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 3181
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

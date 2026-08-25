@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2085571618924040550",
+    "created_at": "2026-08-07T03:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085571618924040550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2085241276539228504",
+          "start": 15,
+          "url": "https://t.co/StBQ5twXcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085571618924040550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085241276539228504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "曾经以为殉情只是古老的传说。 https://t.co/StBQ5twXcK"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "和Unk的聊天记录\n我是unk，在消失的这一个月，我被送去扭转了，我头发被剪了，现在估计上不了推\n现在我被限制上网了\n现在父母知道我还和你们聊天了\n我有第2次进扭转的风险\n而且风险很大很大\n看到回复一下到的\n我现在逃了出来 想什么时候找个商场跳楼紫\n砂吧\n而且在扭转我已经有一次紫砂未遂了",
+        "height": 2048,
+        "media_key": "3_2085241245522345984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBD3V5aQAAmw78.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2085571618924040550",
+        "created_at": "2026-08-07T03:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085571618924040550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2085241276539228504",
+              "start": 15,
+              "url": "https://t.co/StBQ5twXcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085571618924040550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085241276539228504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曾经以为殉情只是古老的传说。 https://t.co/StBQ5twXcK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085241245522345984"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085241276539228504",
+        "created_at": "2026-08-06T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085241276539228504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFfGIeeJd3",
+              "end": 169,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2085241276539228504/photo/1",
+              "media_key": "3_2085241245522345984",
+              "start": 146,
+              "url": "https://t.co/jFfGIeeJd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085241276539228504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Unk复活了 她给我带来了一些……看起来并不是很好的消息\n我和你牢U还是比较熟的 可能摸到手机第一个想起的就是我吧\n现在和她对象Lvmao一样了 双双被限制上网 大家的担心是正确的 经过本人证实 出院之后就被送进扭转了 甚至在里面尝试了一次自杀\n看消息估计是逃出来了 但是还有极高的自杀风险\n受她本人委托 我在推特上公布此信息\n望周知"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7816,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 14
+        },
+        "reply_settings": "other",
+        "text": "Unk复活了 她给我带来了一些……看起来并不是很好的消息\n我和你牢U还是比较熟的 可能摸到手机第一个想起的就是我吧\n现在和她对象Lvmao一样了 双双被限制上网 大家的担心是正确的 经过本人证实 出院之后就被送进扭转了 甚至在里面尝试了一次自杀\n看消息估计是逃出来了 但是还有极高的自杀风险 https://t.co/jFfGIeeJd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1892,
+          "like_count": 30371,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1940
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信\n这个号极少负面情绪 请放心观看～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 434,
+          "like_count": 1951,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 3345
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

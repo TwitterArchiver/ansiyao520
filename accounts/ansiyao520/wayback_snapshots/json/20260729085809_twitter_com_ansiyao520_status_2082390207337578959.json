@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2082389694177058816"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2082390207337578959",
+    "created_at": "2026-07-29T08:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082390207337578959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMLmVn6XUv",
+          "end": 245,
+          "expanded_url": "https://x.com/ansiyao520/status/2082390207337578959/video/1",
+          "media_key": "7_2082389694177058816",
+          "start": 222,
+          "url": "https://t.co/cMLmVn6XUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082390207337578959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "I'm a mad man for your touch girl I've lost control，\n我如坠云雾 犹如脱缰之马 只为得到你的爱抚，\nI'm gonna make this last forever don't tell me it's impossible，\n我要将这份爱持续到永远 不要对我说不可能，\n'Cause I love you for infinity，\n因为我对你的爱无穷无尽，\nI love you for infinity，\n我爱你无穷无尽，\n'Cause I love you for infinity，\n因为我爱你无穷无尽，\nI love you for infinity，\n我爱你无穷无尽。\n\nCause you're the reason I'believe in fate，\n你就是让我相信命运女神之人，\nYou're my paradise，\n你就是我的神迹，\nAnd I'll do anything to be your love or be your sacrifice，\n我甘愿倾尽所有 做你的另一半，或是为你牺牲，\n'Cause I love you for infinity，\n就像我对你的爱那样无穷无尽，\nI love you for infinity，\n我爱你无穷无尽，\n'Cause I love you for infinity，\n因为我爱你无穷无尽，\nI love you for infinity，\n我爱你无穷无尽。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I'm a mad man for your touch girl I've lost control，\n我如坠云雾 犹如脱缰之马 只为得到你的爱抚，\nI'm gonna make this last forever don't tell me it's impossible，\n我要将这份爱持续到永远 不要对我说不可能，\n'Cause I love you for infinity，\n因为我对你的爱无穷无尽，\nI love you for https://t.co/cMLmVn6XUv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 239177,
+        "height": 1088,
+        "media_key": "7_2082389694177058816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2082389694177058816/pu/img/GGVu5qo_o3K2ImAQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082389694177058816/pu/vid/avc1/320x604/OsLDjVVxVNIeiVQK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082389694177058816/pu/vid/avc1/480x906/2L9CwPHLlr8e1sPP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082389694177058816/pu/vid/avc1/576x1088/ANpao1nSudn9vUMp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2082389694177058816/pu/pl/HZPuW-Y70_ueHX_l.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2082389694177058816"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2082390207337578959",
+        "created_at": "2026-07-29T08:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082390207337578959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMLmVn6XUv",
+              "end": 245,
+              "expanded_url": "https://x.com/ansiyao520/status/2082390207337578959/video/1",
+              "media_key": "7_2082389694177058816",
+              "start": 222,
+              "url": "https://t.co/cMLmVn6XUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082390207337578959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "I'm a mad man for your touch girl I've lost control，\n我如坠云雾 犹如脱缰之马 只为得到你的爱抚，\nI'm gonna make this last forever don't tell me it's impossible，\n我要将这份爱持续到永远 不要对我说不可能，\n'Cause I love you for infinity，\n因为我对你的爱无穷无尽，\nI love you for infinity，\n我爱你无穷无尽，\n'Cause I love you for infinity，\n因为我爱你无穷无尽，\nI love you for infinity，\n我爱你无穷无尽。\n\nCause you're the reason I'believe in fate，\n你就是让我相信命运女神之人，\nYou're my paradise，\n你就是我的神迹，\nAnd I'll do anything to be your love or be your sacrifice，\n我甘愿倾尽所有 做你的另一半，或是为你牺牲，\n'Cause I love you for infinity，\n就像我对你的爱那样无穷无尽，\nI love you for infinity，\n我爱你无穷无尽，\n'Cause I love you for infinity，\n因为我爱你无穷无尽，\nI love you for infinity，\n我爱你无穷无尽。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'm a mad man for your touch girl I've lost control，\n我如坠云雾 犹如脱缰之马 只为得到你的爱抚，\nI'm gonna make this last forever don't tell me it's impossible，\n我要将这份爱持续到永远 不要对我说不可能，\n'Cause I love you for infinity，\n因为我对你的爱无穷无尽，\nI love you for https://t.co/cMLmVn6XUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1874,
+          "like_count": 30244,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 1950
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

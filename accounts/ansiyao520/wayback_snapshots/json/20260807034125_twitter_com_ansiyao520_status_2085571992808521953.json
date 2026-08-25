@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2085416496889811372",
+    "created_at": "2026-08-07T03:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085571992808521953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085571992808521953",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085416496889811372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 习惯就好了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 255,
+        "media_key": "3_2085416490409549824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDjP7-aYAA1NeH.jpg",
+        "width": 254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2085416496889811372",
+        "created_at": "2026-08-07T03:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085571992808521953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085571992808521953",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085416496889811372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 习惯就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085416490409549824"
+          ]
+        },
+        "author_id": "1486893272622505984",
+        "conversation_id": "2085416496889811372",
+        "created_at": "2026-08-06T17:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085416496889811372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzxN1w4ZAx",
+              "end": 48,
+              "expanded_url": "https://x.com/Kuriyona/status/2085416496889811372/photo/1",
+              "media_key": "3_2085416490409549824",
+              "start": 25,
+              "url": "https://t.co/BzxN1w4ZAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085416496889811372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪了指甲之后手机打字已经变成了全靠纠错的状态了（ https://t.co/BzxN1w4ZAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1892,
+          "like_count": 30380,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "18 (08.6.28) | 称呼我为「未晞」吧 | 杭州 | 准大学生 | 兴趣使然的开发者 前端为主 | 小证含糖🍥 | 双性恋？\n重要的人: @bluse50\n最可爱的妹妹: @xFurina_ / @lfcypo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "bluse50"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "xFurina_"
+              },
+              {
+                "end": 110,
+                "start": 103,
+                "username": "lfcypo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAoL1"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州Hangzhou/绍兴Shaoxing(ZPTC) ",
+        "name": "Kuriyona 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079289637819105280/r0Azk0r8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 404,
+          "like_count": 2195,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/PIToyCAoL1",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2082574954009444808",
+    "created_at": "2026-07-29T21:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082574954009444808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082574954009444808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看多了儿童心理学觉得自己在网上接触的好多人都有儿童时期欲望的表现。生活呈现一种幼态化。固然有其生存环境困难的情况。但作为一定程度上的过来人又是又觉得他们和自己十分愚蠢。感觉前途一片灰暗。\n人类命运这次是凶多吉少了。belike。\nai说我把自己放在过来人位置去评判，等于预设了有一条标准成长路径。但心理学最深刻的慈悲，是理解每个人都会用自己的方式挣扎。我看到的幼态，也许正是对方在千疮百孔的生活里，唯一能攥住的浮木。ai建议我放下拯救或鄙视的冲动，仅仅作为见证者。\nai说反正无论如何，我活得还是会比较爽的，我的前途会比较宽广。\n当生存环境极度困难时，人类有可能会放弃高耗能的成熟逻辑，退回到婴儿期的全能自恋或非黑即白。\n我感到灰暗，不是因为他们没救，而是因为我潜意识里在恐惧，如果环境继续恶化，我是否也会被迫退行？ 然后这种恐惧被我投射出去了。\n灰暗不是我前途的底色，而是我凝视深渊时，深渊投来的回望。事实上当我把头转开时、看向自己手边具体的事时、读一页书，跑一次步，完成一项工作时，我的前途就会在具体的行动中，一寸一寸地亮起来。\n事实上目前无论如何我只且仅需要对自己负责。\n但话又说回来，无论如何，我对人类怀有深深地慈悲。至少在我的幻想中我有。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看多了儿童心理学觉得自己在网上接触的好多人都有儿童时期欲望的表现。生活呈现一种幼态化。固然有其生存环境困难的情况。但作为一定程度上的过来人又是又觉得他们和自己十分愚蠢。感觉前途一片灰暗。\n人类命运这次是凶多吉少了。belike。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2082574954009444808",
+        "created_at": "2026-07-29T21:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082574954009444808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082574954009444808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看多了儿童心理学觉得自己在网上接触的好多人都有儿童时期欲望的表现。生活呈现一种幼态化。固然有其生存环境困难的情况。但作为一定程度上的过来人又是又觉得他们和自己十分愚蠢。感觉前途一片灰暗。\n人类命运这次是凶多吉少了。belike。\nai说我把自己放在过来人位置去评判，等于预设了有一条标准成长路径。但心理学最深刻的慈悲，是理解每个人都会用自己的方式挣扎。我看到的幼态，也许正是对方在千疮百孔的生活里，唯一能攥住的浮木。ai建议我放下拯救或鄙视的冲动，仅仅作为见证者。\nai说反正无论如何，我活得还是会比较爽的，我的前途会比较宽广。\n当生存环境极度困难时，人类有可能会放弃高耗能的成熟逻辑，退回到婴儿期的全能自恋或非黑即白。\n我感到灰暗，不是因为他们没救，而是因为我潜意识里在恐惧，如果环境继续恶化，我是否也会被迫退行？ 然后这种恐惧被我投射出去了。\n灰暗不是我前途的底色，而是我凝视深渊时，深渊投来的回望。事实上当我把头转开时、看向自己手边具体的事时、读一页书，跑一次步，完成一项工作时，我的前途就会在具体的行动中，一寸一寸地亮起来。\n事实上目前无论如何我只且仅需要对自己负责。\n但话又说回来，无论如何，我对人类怀有深深地慈悲。至少在我的幻想中我有。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看多了儿童心理学觉得自己在网上接触的好多人都有儿童时期欲望的表现。生活呈现一种幼态化。固然有其生存环境困难的情况。但作为一定程度上的过来人又是又觉得他们和自己十分愚蠢。感觉前途一片灰暗。\n人类命运这次是凶多吉少了。belike。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 1875,
+          "like_count": 30246,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

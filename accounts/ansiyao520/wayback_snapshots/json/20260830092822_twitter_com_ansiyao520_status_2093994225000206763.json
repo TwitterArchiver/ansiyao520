@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2093994225000206763",
+    "created_at": "2026-08-30T09:28:22.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093994225000206763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093994225000206763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《夜雨阑珊》\nasy\n故人忽加复忽删，旧恨新伤一夕间。\n我亦知非终不改，心如枯井懒回澜。\n忍见春风重入梦，空闻夜雨独凭栏。\n浮生歧路多如此，明日阴晴且自宽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2093994225000206763",
+        "created_at": "2026-08-30T09:28:22.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093994225000206763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093994225000206763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《夜雨阑珊》\nasy\n故人忽加复忽删，旧恨新伤一夕间。\n我亦知非终不改，心如枯井懒回澜。\n忍见春风重入梦，空闻夜雨独凭栏。\n浮生歧路多如此，明日阴晴且自宽。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2093994225000206763",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1977,
+          "like_count": 30575,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

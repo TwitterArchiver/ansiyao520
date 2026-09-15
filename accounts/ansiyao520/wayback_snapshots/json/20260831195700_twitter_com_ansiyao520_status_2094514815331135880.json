@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094514806581813248"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094510521349542095",
+    "created_at": "2026-08-31T19:57:00.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094514815331135880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908894436169502720",
+          "start": 0,
+          "username": "Magkyusejinki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1WI5zQQRO",
+          "end": 59,
+          "expanded_url": "https://x.com/ansiyao520/status/2094514815331135880/photo/1",
+          "media_key": "3_2094514806581813248",
+          "start": 36,
+          "url": "https://t.co/T1WI5zQQRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094514815331135880",
+    "in_reply_to_user_id": "1908894436169502720",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094514806581813248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094510521349542095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magkyusejinki 你给别人的话都这么温柔。也要学会爱自己。 https://t.co/T1WI5zQQRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2094514806581813248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRE2Ho8a4AA5thh.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094514806581813248"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094510521349542095",
+        "created_at": "2026-08-31T19:57:00.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094514815331135880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908894436169502720",
+              "start": 0,
+              "username": "Magkyusejinki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1WI5zQQRO",
+              "end": 59,
+              "expanded_url": "https://x.com/ansiyao520/status/2094514815331135880/photo/1",
+              "media_key": "3_2094514806581813248",
+              "start": 36,
+              "url": "https://t.co/T1WI5zQQRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094514815331135880",
+        "in_reply_to_user_id": "1908894436169502720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094514806581813248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094510521349542095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkyusejinki 你给别人的话都这么温柔。也要学会爱自己。 https://t.co/T1WI5zQQRO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908894436169502720",
+        "conversation_id": "2094510521349542095",
+        "created_at": "2026-08-31T19:39:57.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094510521349542095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094510521349542095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊，已经这么晚了呀，咱要睡觉了喵，大家晚安安哦。希望大家，包括咱，都能有个甜蜜的梦。以及睡醒后精力充沛、可以为自己的梦想做出努力的身体呦。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2094514815331135880",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 2043,
+          "like_count": 30835,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 1988
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生日期:2009.04.16｜HRT：2026.05.09(已中断)｜无证含糖｜喜欢听音乐，喜欢养植物，喜欢Undertale及其AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜QQ：3783134292｜咱有时候会发一些莫名其妙的东西，如果不感兴趣的话，无视掉就好了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "ansiyao520"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2094514672317906971",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 412,
+          "like_count": 6046,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

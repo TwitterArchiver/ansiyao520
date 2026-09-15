@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2094174595251359916",
+    "created_at": "2026-08-30T21:25:06.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094174595251359916"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094174595251359916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《夜雨》\n   asy\n夜雨寒窗独倚楼，故交零落似江流。\n曾将肝胆酬知己，始信人情未易谋。\n旧事回看皆自误，新交淡处亦清幽。\n声消夜雨风渐收，朝霞一抹映碧流。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2094174595251359916",
+        "created_at": "2026-08-30T21:25:06.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094174595251359916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094174595251359916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《夜雨》\n   asy\n夜雨寒窗独倚楼，故交零落似江流。\n曾将肝胆酬知己，始信人情未易谋。\n旧事回看皆自误，新交淡处亦清幽。\n声消夜雨风渐收，朝霞一抹映碧流。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2094174595251359916",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1988,
+          "like_count": 30624,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 1973
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

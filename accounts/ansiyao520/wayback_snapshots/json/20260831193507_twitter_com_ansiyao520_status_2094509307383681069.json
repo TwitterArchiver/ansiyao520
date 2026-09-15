@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2094473008673108064",
+    "created_at": "2026-08-31T19:35:07.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094509307383681069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1881307287769509888",
+          "start": 0,
+          "username": "Fwyuwusjehsioow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094509307383681069",
+    "in_reply_to_user_id": "1881307287769509888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094473008673108064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fwyuwusjehsioow 恭喜捏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2094473008673108064",
+        "created_at": "2026-08-31T19:35:07.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094509307383681069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881307287769509888",
+              "start": 0,
+              "username": "Fwyuwusjehsioow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094509307383681069",
+        "in_reply_to_user_id": "1881307287769509888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094473008673108064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fwyuwusjehsioow 恭喜捏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881307287769509888",
+        "conversation_id": "2094473008673108064",
+        "created_at": "2026-08-31T17:10:53.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094473008673108064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094473008673108064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊我操 我这算谈了吗，我有点小兴奋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2094509307383681069",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 2041,
+          "like_count": 30786,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 1980
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-20T11:46:36.000Z",
+        "description": "‼️爱吐黑泥请自行避雷‼️\n关注就是喜欢你 仅回关同类人\n女/OD / 自残/重度抑郁症/不登校/泛性恋/#shedtwt（只是看看帖子偶尔发一些东西\n我的英文很烂\n我人很好来找我交朋友呀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1881307287769509888",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094481590093320649",
+        "name": "三木",
+        "pinned_tweet_id": "1991893332273045660",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881307287769509888/1763520969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083588479511117824/NfazwcyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 1795,
+          "like_count": 40372,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 3416
+        },
+        "url": "",
+        "username": "Fwyuwusjehsioow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

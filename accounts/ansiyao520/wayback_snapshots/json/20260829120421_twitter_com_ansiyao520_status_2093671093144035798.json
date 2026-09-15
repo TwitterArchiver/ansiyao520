@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2093668631318086114",
+    "created_at": "2026-08-29T12:04:21.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093671093144035798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813188041793761280",
+          "start": 0,
+          "username": "lightboat111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093671093144035798",
+    "in_reply_to_user_id": "1813188041793761280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093668631318086114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lightboat111 谁说的。我们聊一辈子色色吧。嘻嘻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2093668631318086114",
+        "created_at": "2026-08-29T12:04:21.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093671093144035798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813188041793761280",
+              "start": 0,
+              "username": "lightboat111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093671093144035798",
+        "in_reply_to_user_id": "1813188041793761280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093668631318086114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightboat111 谁说的。我们聊一辈子色色吧。嘻嘻。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813188041793761280",
+        "conversation_id": "2093668631318086114",
+        "created_at": "2026-08-29T11:54:34.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093668631318086114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093668631318086114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不会因为和别人某一方面有共同点就去交朋友了，不管是游戏的同好还是同类\n这样永远只能找到搭子，离开了那个话题根本就无话可说。\n真正的朋友是可以换不同的话题而一直聊下去聊几个小时也不会厌倦的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2093671093144035798",
+        "name": "安。",
+        "pinned_tweet_id": "2093543744587153648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1959,
+          "like_count": 30480,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 1970
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T12:25:01.000Z",
+        "description": "05/176/60，infp/天秤/🍥2025.10.5/喜欢涩涩、文学、网文、音乐/王者、洛克王国页游和手游、鸣潮、音游。\n一个尝试@lightship111\n跟风一个匿名信箱https://t.co/4cfDhoA5GZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "lightship111"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lightboat111",
+                "end": 112,
+                "expanded_url": "https://ngl.link/lightboat111",
+                "start": 89,
+                "url": "https://t.co/4cfDhoA5GZ"
+              }
+            ]
+          }
+        },
+        "id": "1813188041793761280",
+        "is_identity_verified": false,
+        "location": "月亮之上",
+        "most_recent_tweet_id": "2093668631318086114",
+        "name": "轻舟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994693420875493416",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931226453334712320/c0pIs-rI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1093,
+          "like_count": 1726,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "lightboat111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

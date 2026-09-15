@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2093725553224499371",
+    "created_at": "2026-08-29T15:40:46.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093725553224499371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ansiyao520/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/ansiyao520/status/2093543744587153648",
+          "start": 63,
+          "url": "https://t.co/5yN1na0rQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093725553224499371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093543744587153648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我是心理女所以我喜欢心理上4i让我爽。然后因为肯定是1i我生理上会爽。所以我现在就是想找一个心理4i生理1i的恋人（）。 https://t.co/5yN1na0rQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093543735359594496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3C72vaYAAcAC5.jpg",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2093725553224499371",
+        "created_at": "2026-08-29T15:40:46.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093725553224499371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ansiyao520/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/ansiyao520/status/2093543744587153648",
+              "start": 63,
+              "url": "https://t.co/5yN1na0rQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093725553224499371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093543744587153648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我是心理女所以我喜欢心理上4i让我爽。然后因为肯定是1i我生理上会爽。所以我现在就是想找一个心理4i生理1i的恋人（）。 https://t.co/5yN1na0rQE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093543735359594496"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2093543744587153648",
+        "created_at": "2026-08-29T03:38:19.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093543744587153648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3KTZ8G6zw",
+              "end": 29,
+              "expanded_url": "https://x.com/ansiyao520/status/2093543744587153648/photo/1",
+              "media_key": "3_2093543735359594496",
+              "start": 6,
+              "url": "https://t.co/a3KTZ8G6zw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093543744587153648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093543735359594496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人简介。 https://t.co/a3KTZ8G6zw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2093725553224499371",
+        "name": "安。",
+        "pinned_tweet_id": "2093543744587153648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1970,
+          "like_count": 30497,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097993821116329984",
+        "13_2097993821124788225"
+      ],
+      "media_source_tweet_id": [
+        "2097994017090982053",
+        "2097994017090982053"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098822902116438030",
+    "created_at": "2026-09-12T17:15:48.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098822902116438030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1766407744536420352",
+          "start": 3,
+          "username": "ScarsTowel616"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zShVFnaUjd",
+          "end": 52,
+          "expanded_url": "https://x.com/ScarsTowel616/status/2097994017090982053/video/1",
+          "media_key": "13_2097993821116329984",
+          "start": 29,
+          "url": "https://t.co/zShVFnaUjd"
+        },
+        {
+          "display_url": "pic.x.com/zShVFnaUjd",
+          "end": 52,
+          "expanded_url": "https://x.com/ScarsTowel616/status/2097994017090982053/video/1",
+          "media_key": "13_2097993821124788225",
+          "start": 29,
+          "url": "https://t.co/zShVFnaUjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098822902116438030",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097993821116329984"
+      },
+      {
+        "media_key": "13_2097993821124788225"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097994017090982053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScarsTowel616: 夸夸我夸夸我owo https://t.co/zShVFnaUjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17733,
+        "height": 1080,
+        "media_key": "13_2097993821116329984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097993821116329984/img/b1jPdJ_4i52aeoci.jpg",
+        "public_metrics": {
+          "view_count": 677
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097993821116329984/vid/avc1/480x270/RUeiv62EtF3iRpAA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097993821116329984/vid/avc1/640x360/EtB36SjlJFyY2RV-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097993821116329984/vid/avc1/1280x720/hAy8b76UbWzYrLHd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097993821116329984/pl/ebZD8rRsvYTCf8cv.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 23533,
+        "height": 1080,
+        "media_key": "13_2097993821124788225",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097993821124788225/img/T-tld1zUG4Ud1Ht7.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097993821124788225/vid/avc1/480x270/cReYerjNpUJyZDA8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097993821124788225/vid/avc1/640x360/yOZhJ94oPOCuIn6M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097993821124788225/vid/avc1/1280x720/evNKUdWtMrPW2CWM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097993821124788225/pl/Qe_eo2BP9dlWVQjR.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097993821116329984",
+            "13_2097993821124788225"
+          ],
+          "media_source_tweet_id": [
+            "2097994017090982053",
+            "2097994017090982053"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098822902116438030",
+        "created_at": "2026-09-12T17:15:48.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098822902116438030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1766407744536420352",
+              "start": 3,
+              "username": "ScarsTowel616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zShVFnaUjd",
+              "end": 52,
+              "expanded_url": "https://x.com/ScarsTowel616/status/2097994017090982053/video/1",
+              "media_key": "13_2097993821116329984",
+              "start": 29,
+              "url": "https://t.co/zShVFnaUjd"
+            },
+            {
+              "display_url": "pic.x.com/zShVFnaUjd",
+              "end": 52,
+              "expanded_url": "https://x.com/ScarsTowel616/status/2097994017090982053/video/1",
+              "media_key": "13_2097993821124788225",
+              "start": 29,
+              "url": "https://t.co/zShVFnaUjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098822902116438030",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097993821116329984"
+          },
+          {
+            "media_key": "13_2097993821124788225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097994017090982053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScarsTowel616: 夸夸我夸夸我owo https://t.co/zShVFnaUjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097993821116329984",
+            "13_2097993821124788225"
+          ]
+        },
+        "author_id": "1766407744536420352",
+        "conversation_id": "2097994017090982053",
+        "created_at": "2026-09-10T10:22:07.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097994017090982053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zShVFnaUjd",
+              "end": 33,
+              "expanded_url": "https://x.com/ScarsTowel616/status/2097994017090982053/video/1",
+              "media_key": "13_2097993821116329984",
+              "start": 10,
+              "url": "https://t.co/zShVFnaUjd"
+            },
+            {
+              "display_url": "pic.x.com/zShVFnaUjd",
+              "end": 33,
+              "expanded_url": "https://x.com/ScarsTowel616/status/2097994017090982053/video/1",
+              "media_key": "13_2097993821124788225",
+              "start": 10,
+              "url": "https://t.co/zShVFnaUjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097994017090982053",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097993821116329984"
+          },
+          {
+            "media_key": "13_2097993821124788225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1392,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夸夸我夸夸我owo https://t.co/zShVFnaUjd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2098822902116438030",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 2115,
+          "like_count": 30830,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 1993
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋超大只疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|好闺蜜/好姐姐:@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "is_identity_verified": false,
+        "location": "site 02",
+        "most_recent_tweet_id": "2098604948518998148",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2094409261166248295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766407744536420352/1779854337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 746,
+          "like_count": 2387,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

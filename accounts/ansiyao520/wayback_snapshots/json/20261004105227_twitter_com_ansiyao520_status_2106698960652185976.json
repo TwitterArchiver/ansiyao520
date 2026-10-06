@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468883359090630657",
+    "conversation_id": "2106698960652185976",
+    "created_at": "2026-10-04T10:52:27.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106698960652185976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2102773633202458624",
+          "start": 3,
+          "username": "uuoya2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106698960652185976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106402893859598692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuoya2: 女生就是比男生好解决生理需求啊，女孩子随便发点东西一堆男生就找上来了，而男生呢，面对一堆人机和骗子也不一定找到一个真实的女生。。男孩子真的太难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2106698960652185976",
+        "created_at": "2026-10-04T10:52:27.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106698960652185976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2102773633202458624",
+              "start": 3,
+              "username": "uuoya2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106698960652185976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106402893859598692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuoya2: 女生就是比男生好解决生理需求啊，女孩子随便发点东西一堆男生就找上来了，而男生呢，面对一堆人机和骗子也不一定找到一个真实的女生。。男孩子真的太难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102773633202458624",
+        "conversation_id": "2106402893859598692",
+        "created_at": "2026-10-03T15:15:59.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106402893859598692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106402893859598692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8306,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "女生就是比男生好解决生理需求啊，女孩子随便发点东西一堆男生就找上来了，而男生呢，面对一堆人机和骗子也不一定找到一个真实的女生。。男孩子真的太难了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2106698960652185976",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 2230,
+          "like_count": 30971,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-23T14:54:36.000Z",
+        "description": "唯一 @ckyoa7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "ckyoa7"
+              }
+            ]
+          }
+        },
+        "id": "2102773633202458624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106487578556018812",
+        "name": "oi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105628650926460928/Lb9CD321_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "uuoya2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

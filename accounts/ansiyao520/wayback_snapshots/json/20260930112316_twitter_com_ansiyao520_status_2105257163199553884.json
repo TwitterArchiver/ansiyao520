@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105257147168944129",
+        "3_2105257155540705280"
+      ]
+    },
+    "author_id": "1468883359090630657",
+    "conversation_id": "2105257163199553884",
+    "created_at": "2026-09-30T11:23:16.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105257163199553884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BHh8u1l2z3",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2105257163199553884/photo/1",
+          "media_key": "3_2105257147168944129",
+          "start": 72,
+          "url": "https://t.co/BHh8u1l2z3"
+        },
+        {
+          "display_url": "pic.x.com/BHh8u1l2z3",
+          "end": 95,
+          "expanded_url": "https://x.com/ansiyao520/status/2105257163199553884/photo/1",
+          "media_key": "3_2105257155540705280",
+          "start": 72,
+          "url": "https://t.co/BHh8u1l2z3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105257163199553884",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105257147168944129"
+      },
+      {
+        "media_key": "3_2105257155540705280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想经营推特了。每月要缴50多元才能发长文，根本不适合分享文字文章。图片仅作跟踪性分享。不会再给推特充钱了。\n文章：《二三次分号的现实意义》 https://t.co/BHh8u1l2z3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2113,
+        "media_key": "3_2105257147168944129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdgOKHbcAExsGE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2105257155540705280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdgOpTaYAAhm_a.jpg",
+        "width": 1306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105257147168944129",
+            "3_2105257155540705280"
+          ]
+        },
+        "author_id": "1468883359090630657",
+        "conversation_id": "2105257163199553884",
+        "created_at": "2026-09-30T11:23:16.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105257163199553884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHh8u1l2z3",
+              "end": 95,
+              "expanded_url": "https://x.com/ansiyao520/status/2105257163199553884/photo/1",
+              "media_key": "3_2105257147168944129",
+              "start": 72,
+              "url": "https://t.co/BHh8u1l2z3"
+            },
+            {
+              "display_url": "pic.x.com/BHh8u1l2z3",
+              "end": 95,
+              "expanded_url": "https://x.com/ansiyao520/status/2105257163199553884/photo/1",
+              "media_key": "3_2105257155540705280",
+              "start": 72,
+              "url": "https://t.co/BHh8u1l2z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105257163199553884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105257147168944129"
+          },
+          {
+            "media_key": "3_2105257155540705280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想经营推特了。每月要缴50多元才能发长文，根本不适合分享文字文章。图片仅作跟踪性分享。不会再给推特充钱了。\n文章：《二三次分号的现实意义》 https://t.co/BHh8u1l2z3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki/老婆@s00053233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "s00053233"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "is_identity_verified": false,
+        "location": "Stadtverband Saarbrücken, Saar",
+        "most_recent_tweet_id": "2105257163199553884",
+        "name": "安。",
+        "pinned_tweet_id": "2093966848358564277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468883359090630657/1646122098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093969952533536768/3JPhcmKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 2156,
+          "like_count": 30883,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2002
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
